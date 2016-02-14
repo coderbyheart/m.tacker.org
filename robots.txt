@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+# BEGIN XML-SITEMAP-PLUGIN
+Sitemap: https://m.tacker.org/sitemap.xml.gz
+# END XML-SITEMAP-PLUGIN

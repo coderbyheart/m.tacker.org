@@ -1,0 +1,579 @@
+# This is an POT file!
+# You can translate the messages below into your language
+# and send this file to webmaster@webmaster-eye.de.
+# I will publish your language file with the next version
+# of this plugin.
+# ----------------------------------
+# Plugin-Author: Tobias Koelligan
+# Copyright by Tobias Koelligan
+# Blog: http://www.sjmp.de
+msgid ""
+msgstr ""
+"Project-Id-Version: 2.6\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/subscribe-to-double-opt-in-"
+"comments\n"
+"POT-Creation-Date: 2013-11-16 16:24:13+00:00\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Tobias Koelligan <mail@sjmp.de>\n"
+"Language-Team: sjmp.de <mail@sjmp.de>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+
+#: subscribe-to-doi-comments.php:142
+msgid "<strong>Error: </strong>"
+msgstr "<strong>Fehler: </strong>"
+
+#: subscribe-to-doi-comments.php:173
+msgid "E-Mail:"
+msgstr "E-Mail:"
+
+#: subscribe-to-doi-comments.php:179
+msgid "Subscribe"
+msgstr "Abonnieren"
+
+#: subscribe-to-doi-comments.php:224
+msgid "Subscribe to Comments Options"
+msgstr "Subscribe to Comments Einstellungen"
+
+#: subscribe-to-doi-comments.php:227
+msgid "\"From\" name for notifications:"
+msgstr "\"Von\" Feld für Benachrichtigung"
+
+#: subscribe-to-doi-comments.php:228
+msgid "\"From\" e-mail addresss for notifications:"
+msgstr "\"Von\" E-Mail Adresse für Benachrichtigung"
+
+#: subscribe-to-doi-comments.php:229
+msgid ""
+"Do a CSS \"clear\" on the subscription checkbox/message (uncheck this if the "
+"checkbox/message appears in a strange location in your theme)"
+msgstr ""
+"Setze einen CSS \"clear\" auf die Checkbox für die Abonnierung der "
+"Kommentare. (keinen Haken wenn die Box an einer seltsamen Stelle "
+"erscheint...)"
+
+#: subscribe-to-doi-comments.php:232
+msgid "Comment Form Text"
+msgstr "Texte für das Kommentar-Formular"
+
+#: subscribe-to-doi-comments.php:234
+msgid ""
+"Customize the messages shown to different people.  Use <code>[manager_link]</"
+"code> to insert the URI to the Subscription Manager."
+msgstr ""
+"Benutze <code>[manager_link]</code> um die URL zum Subscription Manager "
+"anzuzeigen."
+
+#: subscribe-to-doi-comments.php:238
+msgid "Not subscribed"
+msgstr "Kommentare nicht abonniert"
+
+#: subscribe-to-doi-comments.php:240
+msgid "Subscribed"
+msgstr "Kommentare abonniert"
+
+#: subscribe-to-doi-comments.php:242
+msgid "Entry Author"
+msgstr "Verfasser des Blog-Posts"
+
+#: subscribe-to-doi-comments.php:244
+msgid "\"Subscribe without Commenting\" Text"
+msgstr ""
+"Text der erscheinen soll, falls Sie die Option \"Subscribe without Commenting"
+"\" nutzen"
+
+#: subscribe-to-doi-comments.php:246
+msgid ""
+"Confirmation Text (will be shown after user has clicked on the confirmation "
+"link)"
+msgstr ""
+"Bestätigungstext, wird angezeigt wenn der User auf den Bestätigungslink "
+"geklickt hat"
+
+#: subscribe-to-doi-comments.php:248
+msgid "Headline for Double-Opt-In"
+msgstr "Überschrift für Double-OptIn E-Mail"
+
+#: subscribe-to-doi-comments.php:250
+msgid ""
+"Mail Text for Double-Opt-In ([verify_url] will be replaced with URL to "
+"subscribe finally, no HTML!)"
+msgstr ""
+"Text der E-Mail (<code>[verify_url]</code> wird mit der entsprechenden URL "
+"ersetzt, kein HTML möglich)"
+
+#: subscribe-to-doi-comments.php:255
+msgid "Use custom style for Subscription Manager"
+msgstr "Verwende einen eigenen Style für den Subscription Manager"
+
+#: subscribe-to-doi-comments.php:257
+msgid ""
+"These settings only matter if you are using a custom style.  <code>"
+"[theme_path]</code> will be replaced with the path to your current theme."
+msgstr ""
+"Die folgenden Einstellungen betreffen dich nur, wenn du einen eigenen Style "
+"verwenden möchtest. <code>[theme_path]</code> wird mit dem korrekten Pfad "
+"zum Theme ersetzt."
+
+#: subscribe-to-doi-comments.php:260
+msgid "Path to header:"
+msgstr "Pfad zum Header"
+
+#: subscribe-to-doi-comments.php:261
+msgid "Path to sidebar:"
+msgstr "Pfad zur Sidebar"
+
+#: subscribe-to-doi-comments.php:262
+msgid "Path to footer:"
+msgstr "Pfad zum Footer"
+
+#: subscribe-to-doi-comments.php:265
+msgid "HTML for before the subscription manager:"
+msgstr "HTML Code der vor dem Subscription Manager angezeigt werden soll"
+
+#: subscribe-to-doi-comments.php:266
+msgid "HTML for after the subscription manager:"
+msgstr "HTML Code der nach dem Subscription Manager angezeigt werden soll"
+
+#: subscribe-to-doi-comments.php:271
+msgid "Hide copyright notice (please consider a donation via PayPal!)"
+msgstr ""
+"Copyrightvermerk verstecken (bitte spenden Sie einen kleinen Betrag wenn Sie "
+"dies tun)"
+
+#: subscribe-to-doi-comments.php:273
+msgid ""
+"You can hide the copyright notice published on the subscription manager "
+"page. This is optional. Please consider a donation via PayPal if you hide "
+"the copyright notice!"
+msgstr ""
+"Sie können den Copyrighthinweis im Abo-Manager verstecken. Das ist optional "
+"und sollte nur erfolgen, wenn Sie dies unbedingt wünschen. Bitte ziehen Sie "
+"dann ggf. eine Spende in Betracht!"
+
+#: subscribe-to-doi-comments.php:274
+msgid ""
+"Lots of work was and is put into this plugin, so be fair and donate if you "
+"hide the copyright notice!"
+msgstr ""
+"Dieses Plugin erfordert viel Arbeit für Wartung und Pflege. Bitte spenden "
+"Sie einen Geldbetrag wenn Sie den Copyrighthinweis ausblenden, danke!"
+
+#: subscribe-to-doi-comments.php:275
+msgid " <a href=\"%s\" target=\"_blank\">Donate here!</a></p>"
+msgstr " <a href=\"%s\" target=\"_blank\">Spenden!</a></p>"
+
+#: subscribe-to-doi-comments.php:278
+msgid "Hide the copyright notice from the subscription manager."
+msgstr "Den Copyrighthinweis verstecken."
+
+#: subscribe-to-doi-comments.php:305
+msgid "Options saved."
+msgstr "Einstellungen gespeichert."
+
+#: subscribe-to-doi-comments.php:312
+msgid "Update Options &raquo;"
+msgstr "Einstellungen speichern &raquo;"
+
+#: subscribe-to-doi-comments.php:374 subscribe-to-doi-comments.php:864
+msgid "Notify me of followup comments via e-mail"
+msgstr "Benachrichtige mich über nachfolgende Kommentare per E-Mail."
+
+#: subscribe-to-doi-comments.php:375 subscribe-to-doi-comments.php:864
+msgid ""
+"You are subscribed to this entry.  <a href=\"[manager_link]\">Manage your "
+"subscriptions</a>."
+msgstr ""
+"Du hast diesen Post abonniert. <a href=\"[manager_link]\">Verwalte</a> deine "
+"Abonnements."
+
+#: subscribe-to-doi-comments.php:376 subscribe-to-doi-comments.php:864
+msgid ""
+"You are the author of this entry.  <a href=\"[manager_link]\">Manage "
+"subscriptions</a>."
+msgstr ""
+"Du bist der Autor dieses Beitrags. <a href=\"[manager_link]\">Zur "
+"Verwaltung</a>."
+
+#: subscribe-to-doi-comments.php:377 subscribe-to-doi-comments.php:864
+msgid ""
+"Hello,\n"
+"\n"
+"please click on the following link:\n"
+"[verify_url]\n"
+"to confirm your subscription."
+msgstr ""
+"Hallo,\n"
+"\n"
+"bitte klicke auf den folgenden Link, um die Benachrichtigungen zu "
+"aktivieren: [verify_url]\n"
+"\n"
+"Viele Grüße,\n"
+"das Blog-Team"
+
+#: subscribe-to-doi-comments.php:378 subscribe-to-doi-comments.php:864
+msgid "Double Opt In"
+msgstr "Double-Opt-In"
+
+#: subscribe-to-doi-comments.php:380 subscribe-to-doi-comments.php:892
+msgid "You will now get an e-mail, if a new comment is posted."
+msgstr ""
+"Sie bekommen ab jetzt eine E-Mail wenn neue Kommentare geschrieben wurden."
+
+#: subscribe-to-doi-comments.php:497
+msgid "Please provide a valid e-mail address."
+msgstr "Bitte geben Sie eine E-Mail Adresse an!"
+
+#: subscribe-to-doi-comments.php:501
+msgid "This e-mail address may not be subscribed"
+msgstr "Diese E-Mail Adresse hat keine Abonnements."
+
+#: subscribe-to-doi-comments.php:507 subscribe-to-doi-comments.php:523
+msgid "You appear to be already subscribed to this entry."
+msgstr "Du scheinst für diesen Post schon ein Abo zu haben."
+
+#: subscribe-to-doi-comments.php:513
+msgid "Comments are not allowed on this entry."
+msgstr "Kommentare sind für diesen Post nicht erlaubt."
+
+#: subscribe-to-doi-comments.php:755
+msgid "There is a new comment on the post \"%s\""
+msgstr "Es gibt einen neuen Kommentar bei \"%s\""
+
+#: subscribe-to-doi-comments.php:756
+msgid "Author: %s\n"
+msgstr "Autor: %s\n"
+
+#: subscribe-to-doi-comments.php:757
+msgid "Comment:\n"
+msgstr "Kommentar:\n"
+
+#: subscribe-to-doi-comments.php:758
+msgid "See the comment on this post here:\n"
+msgstr "Schau dir den Kommentar zu diesem Post an:\n"
+
+#: subscribe-to-doi-comments.php:761
+msgid ""
+"To manage your subscriptions or to block all notifications from this site, "
+"click the link below:\n"
+msgstr ""
+"Klicke auf den folgenden Link, um deine Abonnements zu verwalten oder "
+"einzelne zu blockieren:\n"
+
+#: subscribe-to-doi-comments.php:764
+msgid "New Comment On: %s"
+msgstr "Neuer Kommentar bei: %s"
+
+#: subscribe-to-doi-comments.php:784
+msgid "E-mail change confirmation"
+msgstr "E-Mail Adresse erfolgreich geändert"
+
+#: subscribe-to-doi-comments.php:785
+msgid ""
+"You are receiving this message to confirm a change of e-mail address for "
+"your subscriptions at \"%s\"\n"
+"\n"
+msgstr ""
+"Du bekommst diese E-Mail um die Änderung deiner E-Mail Adresse zu "
+"bestätigen.\n"
+"\n"
+
+#: subscribe-to-doi-comments.php:786
+msgid ""
+"To change your e-mail address to %s, click this link:\n"
+"\n"
+msgstr ""
+"Um deine Adresse auf \"%s\" zu ändern, musst du auf den folgenden Link "
+"klicken:\n"
+"\n"
+
+#: subscribe-to-doi-comments.php:788 subscribe-to-doi-comments.php:800
+msgid "If you did not request this action, please disregard this message."
+msgstr ""
+"Wenn du diese Änderung nicht beantragt hast, kannst du diese E-Mail einfach "
+"ignorieren."
+
+#: subscribe-to-doi-comments.php:796
+msgid "E-mail block confirmation"
+msgstr "Bestätigung der E-Mail-Blockierung"
+
+#: subscribe-to-doi-comments.php:797
+msgid ""
+"You are receiving this message to confirm that you no longer wish to receive "
+"e-mail comment notifications from \"%s\"\n"
+"\n"
+msgstr ""
+"Mit dieser E-Mail kannst du bestätigen, dass du keine weiteren Mails mehr "
+"für \"%s\" bekommen möchtest.\n"
+"\n"
+
+#: subscribe-to-doi-comments.php:798
+msgid ""
+"To cancel all future notifications for this address, click this link:\n"
+"\n"
+msgstr ""
+"Um jede weitere Benachrichtigung zu blockieren, musst du auf den folgenden "
+"Link klicken:\n"
+"\n"
+
+#: subscribe-to-doi-comments.php:838
+msgid "click here"
+msgstr "Klicke hier"
+
+#: subscribe-to-doi-comments.php:987
+msgid "Comment Subscription Manager"
+msgstr "Subscription Manager"
+
+#: subscribe-to-doi-comments.php:987 subscribe-to-doi-comments.php:1496
+msgid "Subscriptions"
+msgstr "Abonnements"
+
+#: subscribe-to-doi-comments.php:989
+msgid "Subscribe to DOI Comments"
+msgstr "Subscribe to DOI Comments"
+
+#: subscribe-to-doi-comments.php:1064
+msgid "You may not access this page without a valid key."
+msgstr "Du kannst diese Seite nur mit einem validen Key betreten."
+
+#: subscribe-to-doi-comments.php:1071
+msgid ""
+"All notifications that were formerly sent to <strong>%1$s</strong> will now "
+"be sent to <strong>%2$s</strong>!"
+msgstr ""
+"Alle Benachrichtigungen die vorher an <strong>%1$s</strong> gingen, gehen "
+"jetzt an <strong>%2$s</strong>!"
+
+#: subscribe-to-doi-comments.php:1083
+msgid "<strong>%1$s</strong> %2$s removed successfully."
+msgstr "<strong>%1$s</strong> %2$s wurde erfolgreich entfernt."
+
+#: subscribe-to-doi-comments.php:1083
+msgid "subscriptions"
+msgstr "Abonnements"
+
+#: subscribe-to-doi-comments.php:1083
+msgid "subscription"
+msgstr "Abonnement"
+
+#: subscribe-to-doi-comments.php:1088
+msgid "The block on <strong>%s</strong> has been successfully removed."
+msgstr "<strong>%s</strong> wird nun nicht mehr geblockt."
+
+#: subscribe-to-doi-comments.php:1090
+msgid "<strong>%s</strong> isn't blocked!"
+msgstr "<strong>%s</strong> wird nicht geblockt."
+
+#: subscribe-to-doi-comments.php:1095
+msgid ""
+"<strong>%s</strong> has been blocked from receiving notifications.  You will "
+"have to have the administrator remove the block before you will be able to "
+"change your notification address."
+msgstr ""
+"<strong>%s</strong> wird ab jetzt geblockt. Du erhälst keine "
+"Benachrichtigungen mehr."
+
+#: subscribe-to-doi-comments.php:1097
+msgid ""
+"Your change of e-mail request was successfully received.  Please check your "
+"old account (<strong>%s</strong>) in order to confirm the change."
+msgstr ""
+"Deine E-Mail Adresse wird geändert, sobald du auf den Link in der dir "
+"zugesandten E-Mail klickst."
+
+#: subscribe-to-doi-comments.php:1102
+msgid ""
+"Your request to block <strong>%s</strong> from receiving any further "
+"notifications has been received.  In order for you to complete the block, "
+"please check your e-mail and click on the link in the message that has been "
+"sent to you."
+msgstr ""
+"Deine Anfrage <strong>%s</strong> zu blocken wurde gespeichert. Um dies zu "
+"Bestätigen musst du auf den Link in der dir zugesandten E-Mail klicken."
+
+#: subscribe-to-doi-comments.php:1106
+msgid "<strong>%1$s</strong> has been successfully subscribed to %2$s"
+msgstr "<strong>%1$s</strong> hat erfolgreich %2$s abonniert."
+
+#: subscribe-to-doi-comments.php:1111
+msgid ""
+"<strong>%1$s</strong> has been added to the \"do not mail\" list. You will "
+"no longer receive any notifications from this site. If this was done in "
+"error, please contact the <a href=\"mailto:%2$s\">site administrator</a> to "
+"remove this block."
+msgstr ""
+"<strong>%1$s</strong> wurde auf die Sperrliste gesetzt, du wirst keine "
+"weiteren E-Mail mehr erhalten. Wenn dies ein Versehen war, melde dich bitte "
+"beim <a href=\"mailto:%2$s\">Administrator</a>."
+
+#: subscribe-to-doi-comments.php:1113
+msgid "<strong>%s</strong> has already been blocked!"
+msgstr "<strong>%s</strong> wurde schon geblockt."
+
+#: subscribe-to-doi-comments.php:1131 subscribe-to-doi-comments.php:1152
+msgid "%s Comment Subscription Manager"
+msgstr "%s Subscription Manager"
+
+#: subscribe-to-doi-comments.php:1167
+msgid "Return to the page you were viewing: %s"
+msgstr "Zurück zu %s"
+
+#: subscribe-to-doi-comments.php:1178
+msgid ""
+"You will get an e-mail to verify your subscription. Please follow the steps "
+"described within this e-mail."
+msgstr ""
+"Sie bekommen jetzt eine E-Mail, in der Sie einen Bestätigungslink finden. "
+"Bitte klicken Sie auf diesen."
+
+#: subscribe-to-doi-comments.php:1192
+msgid "Error! Comment does not exist anymore!"
+msgstr "Fehler! Der Kommentar existiert nicht mehr!"
+
+#: subscribe-to-doi-comments.php:1212
+msgid ""
+"Error! Wrong security token submitted, please use the same browser and allow "
+"cookies!"
+msgstr ""
+"Fehler! Es wurde ein falscher Sicherheitstoken übergeben. Stellen Sie "
+"sicher, dass Cookies erlaubt sind."
+
+#: subscribe-to-doi-comments.php:1237
+msgid "Remove Block"
+msgstr "Entferne Block"
+
+#: subscribe-to-doi-comments.php:1242
+msgid ""
+"Click the button below to remove the block on <strong>%s</strong>.  This "
+"should only be done if the user has specifically requested it."
+msgstr "Klicke auf den unteren Button um die Blockierung aufzuheben."
+
+#: subscribe-to-doi-comments.php:1256
+msgid "Remove Block &raquo;"
+msgstr "Entferne Block &raquo;"
+
+#: subscribe-to-doi-comments.php:1269
+msgid "Blocked"
+msgstr "Gesperrt"
+
+#: subscribe-to-doi-comments.php:1274
+msgid ""
+"You have indicated that you do not wish to receive any notifications at "
+"<strong>%1$s</strong> from this site. If this is incorrect, or if you wish "
+"to have the block removed, please contact the <a href=\"mailto:%2$s\">site "
+"administrator</a>."
+msgstr ""
+"Du hast angegeben, dass du keine weiteren Benachrichtigungen an <strong>"
+"%1$s</strong> wünschst. Falls dies nicht stimmt oder die Blockierung "
+"entfernt werden soll, wende dich bitte an den <a href=\"mailto:%2$s"
+"\">Administrator</a>."
+
+#: subscribe-to-doi-comments.php:1297
+msgid "<strong>%s</strong> is not subscribed to any posts on this site."
+msgstr "<strong>%s</strong> hat keinerlei Abonnements auf dieser Seite."
+
+#: subscribe-to-doi-comments.php:1299
+msgid "<strong>%s</strong> is not a valid e-mail address."
+msgstr "<strong>%s</strong> ist keine gültige E-Mail Adresse"
+
+#: subscribe-to-doi-comments.php:1322
+msgid "&laquo; Back"
+msgstr "&laquo; Zurück"
+
+#: subscribe-to-doi-comments.php:1329
+msgid "Find Subscriptions"
+msgstr "Suche Abonnements"
+
+#: subscribe-to-doi-comments.php:1334
+msgid "Enter an e-mail address to view its subscriptions or undo a block."
+msgstr ""
+"Gib eine E-Mail Adresse ein, um die entsprechenden Abonnements zu sehen."
+
+#: subscribe-to-doi-comments.php:1348
+msgid "Search &raquo;"
+msgstr "Suchen &raquo;"
+
+#: subscribe-to-doi-comments.php:1364
+msgid "Top Subscriber List"
+msgstr "Top Abonnenten Liste"
+
+#: subscribe-to-doi-comments.php:1371
+msgid "Subscriber List"
+msgstr "Abonnenten Liste"
+
+#: subscribe-to-doi-comments.php:1398
+msgid "Show all subscribers"
+msgstr "Zeige alle Abonnenten an"
+
+#: subscribe-to-doi-comments.php:1407
+msgid ""
+"Show list of subscribers in <code>CC:</code>-field format (for bulk e-"
+"mailing)"
+msgstr "Zeige eine Liste aller Abonnenten im <code>CC:</code>-Feld Format"
+
+#: subscribe-to-doi-comments.php:1416
+msgid "&laquo; Back to regular view"
+msgstr "&laquo; Zurück"
+
+#: subscribe-to-doi-comments.php:1436
+msgid "Top Subscribed Posts"
+msgstr "Top Posts"
+
+#: subscribe-to-doi-comments.php:1501
+msgid ""
+"<strong>%s</strong> is subscribed to the posts listed below. To unsubscribe "
+"to one or more posts, click the checkbox next to the title, then click "
+"\"Remove Selected Subscription(s)\" at the bottom of the list."
+msgstr "<strong>%s</strong> hat ein Abo für die folgenden Posts:"
+
+#: subscribe-to-doi-comments.php:1533
+msgid "Invert Checkbox Selection"
+msgstr "Drehe die Checkbox-Selektion um"
+
+#: subscribe-to-doi-comments.php:1539
+msgid "Remove Selected Subscription(s) &raquo;"
+msgstr "Entferne selektierte Abonnements &raquo;"
+
+#: subscribe-to-doi-comments.php:1548
+msgid "Advanced Options"
+msgstr "Erweiterte Einstellungen"
+
+#: subscribe-to-doi-comments.php:1553
+msgid "Block All Notifications"
+msgstr "Blockiere alle Benachrichtigungen"
+
+#: subscribe-to-doi-comments.php:1566
+msgid ""
+"If you would like <strong>%s</strong> to be blocked from receiving any "
+"notifications from this site, click the button below.  This should be "
+"reserved for cases where someone is signing you up for notifications without "
+"your consent."
+msgstr "Blockiere <strong>%s</strong> für alle Benachrichtigungen!"
+
+#: subscribe-to-doi-comments.php:1572
+msgid "Block Notifications &raquo;"
+msgstr "Blockiere Benachrichtigungen &raquo;"
+
+#: subscribe-to-doi-comments.php:1580
+msgid "Change E-mail Address"
+msgstr "Ändere die E-Mail Adresse"
+
+#: subscribe-to-doi-comments.php:1593
+msgid ""
+"If you would like to change the e-mail address for your subscriptions, enter "
+"the new address below.  You will be required to verify this request by "
+"clicking a special link sent to your current address (<strong>%s</strong>)."
+msgstr ""
+"Wenn du die E-Mail Adresse für deine Benachrichtigungen ändern willst, dann "
+"füge die neue Adresse in das folgende Feld ein."
+
+#: subscribe-to-doi-comments.php:1599
+msgid "New E-mail Address:"
+msgstr "Neue E-Mail Adresse:"
+
+#: subscribe-to-doi-comments.php:1606
+msgid "Change E-mail Address &raquo;"
+msgstr "Ändere die E-Mail Adresse"

@@ -1,0 +1,50 @@
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	RewriteRule ^dachbodenausbau(.*) senefelder63$1 [R=permanent,L]
+	RewriteRule ^impressum(.*) kontakt$1 [R=permanent,L]
+
+	# Alte Qype-Beiträge
+	RewriteRule ^857.welusa-von-markus-tacker.html https://m.tacker.org/930.welusa.html [R=permanent,L]
+	RewriteRule ^512.anzeige-ir-informer.html https://m.tacker.org/1041.anzeige-ir-informer-2.html [R=permanent,L]
+
+	# Geänderter Seiten
+	RewriteRule ^kontakt(.*) markus-tacker$1 [R=permanent,L]
+	RewriteRule ^category/digitales/referenzen category/portfolio$1 [R=permanent,L]
+	RewriteRule ^projects/pear-file_bittorrent 940.pear-file_bittorrent.html [R=permanent,L]
+	RewriteRule ^projects/raubkopierer-t-shirt 941.raubkopierer-t-shirt.html [R=permanent,L]
+	RewriteRule ^443.weise-tasse-auf-holzbank.html 1047.cup-on-wood.html [R=permanent,L]
+
+	RewriteRule ^443.weise-tasse-auf-holzbank.html 1047.cup-on-wood.html [R=permanent,L]
+	RewriteRule ^spezielle-permalinks-fur-einzelne-beitrage 1872.spezielle-permalinks-fur-einzelne-beitrage.html [R=permanent,L]
+
+	# Redirect feeds to search
+	RewriteCond %{HTTP_REFERER} ^http:\/\/www\.google\.[a-z]{2,3}\/search(.*)$ [OR]
+	RewriteCond %{HTTP_REFERER} ^http:\/\/brisbane\.t-online\.(.*)$ [OR]
+	RewriteCond %{HTTP_REFERER} ^http:\/\/suche\.t-online\.(.*)$
+	RewriteRule ^(.*\/)feed\/(feed|rdf|rss|rss2|atom){0,1}\/?$ /blog/from-feed.php [L,R=307]
+
+    # static.tacker.org
+	RewriteCond %{HTTP_HOST} ^static.tacker.org$
+	RewriteRule ^uploads/(.*) https://m.tacker.org/wp-content/uploads/$1 [R=permanent,L]
+
+	# cto.hiv
+	RewriteRule ^markus-tacker(.*) https://cto.hiv/ [R=permanent,L]
+
+ 	# Hide Author Pages
+	RewriteRule ^author/.* - [F]
+
+	# remove /blog
+    RewriteRule ^blog/(.*) https://m.tacker.org/$1 [R=permanent,L]
+</IfModule>
+
+DirectoryIndex index.html index.php
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !wp-content/themes/tacker2008/i/dynamic/
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>

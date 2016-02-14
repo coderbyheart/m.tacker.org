@@ -1,0 +1,297 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: $Id: tacker2008.po 421 2008-09-07 09:42:06Z m $\n"
+"Report-Msgid-Bugs-To: m@tacker.org\n"
+"POT-Creation-Date: 2008-07-20 20:36+0200\n"
+"PO-Revision-Date: 2008-07-20 20:36+0200\n"
+"Last-Translator: Markus Tacker <m@tacker.org>\n"
+"Language-Team: n/a\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: category-44.php:3 index.php:71 index.php:72 index.php:69
+msgid "Photos"
+msgstr "Fotos"
+
+#: category-44.php:8
+msgid "All Fotos &copy; Markus Tacker. All rights reserved."
+msgstr "Alle Fotos &copy; Markus Tacker. Alle Rechte vorbehalten."
+
+#: comments.php:6 comments.php:5
+msgid "Your comment"
+msgstr "Dein Kommentar"
+
+#: comments.php:12 comments.php:10
+#, php-format
+msgid ""
+"You must be <a href=\"%s/wp-login.php?redirect_to=%s\">logged in</a> to post "
+"a comment."
+msgstr ""
+"Du must <a href=\"%s/wp-login.php?redirect_to=%s\">angemeldet sein</a>, "
+"umeinen Kommentar zu hinterlassen."
+
+#: comments.php:19 comments.php:17
+#, php-format
+msgid ""
+"Logged in as <a href=\"%s/wp-admin/profile.php\">%s</a>. <a href=\"%s/wp-"
+"login.php?action=logout\" title=\"Log out of this account\">Logout &raquo;</"
+"a>"
+msgstr ""
+"Angemeldet als <a href=\"%s/wp-admin/profile.php\">%s</a>. <a href=\"%s/wp-"
+"login.php?action=logout\" title=\"Von diesem Konto abmelden\">Abmelden "
+"&raquo;</a>"
+
+#: comments.php:24 comments.php:22
+msgid "Name"
+msgstr "Name"
+
+#: comments.php:24 comments.php:29 comments.php:22 comments.php:27
+msgid "required"
+msgstr "erforderlich"
+
+#: comments.php:29 comments.php:27
+msgid "Email address"
+msgstr "E-Mail-Adresse"
+
+#: comments.php:29 comments.php:27
+msgid "will not be published"
+msgstr "wird nicht veröffentlicht"
+
+#: comments.php:34 comments.php:32
+msgid "Website"
+msgstr "Internetseite"
+
+#: comments.php:41 comments.php:74 comments.php:78 comments.php:39
+msgid "Comment"
+msgstr "Kommentar"
+
+#: comments.php:46 comments.php:44
+msgid "submit"
+msgstr "absenden"
+
+#: comments.php:65 fotolist-li.php:27 single.php:129 single.php:156
+#: comments.php:62 single.php:148
+msgid "Comments"
+msgstr "Kommentare"
+
+#: comments.php:74 comments.php:78
+msgid "Trackback by"
+msgstr "Trackback von"
+
+#: comments.php:74 comments.php:78
+msgid "Comment by"
+msgstr "Kommentar von"
+
+#: comments.php:74 comments.php:78
+msgid "Trackback"
+msgstr "Trackback"
+
+#: footer.php:7 index.php:58 index.php:59 footer.php:6
+msgid "Navigation"
+msgstr "Navigation"
+
+#: footer.php:17 index.php:82 single.php:141 single.php:168 index.php:83
+#: footer.php:14 index.php:78 single.php:160
+msgid "Tags"
+msgstr "Tags"
+
+#: footer.php:27 footer.php:22
+msgid "Search"
+msgstr "Suche"
+
+#: footer.php:31 footer.php:25
+msgid "search"
+msgstr "suchen"
+
+#: footer.php:38 footer.php:31
+msgid "Meta"
+msgstr "Meta"
+
+#: footer.php:69 single.php:138 footer.php:71 single.php:165 footer.php:62
+#: single.php:157
+msgid "Categories"
+msgstr "Kategorien"
+
+#: footer.php:82 footer.php:84 footer.php:73
+msgid "Other Blogs"
+msgstr "Andere Blogs"
+
+#: footer.php:91 footer.php:93 footer.php:80
+msgid "Links"
+msgstr "Links"
+
+#: footer.php:105 footer.php:107 footer.php:93
+msgid "About"
+msgstr "Über"
+
+#: footer.php:118 index.php:64 footer.php:120 index.php:65 footer.php:105
+#: index.php:63
+msgid "Contact"
+msgstr "Kontakt"
+
+#: fotolist-li.php:27 single.php:128 single.php:129 single.php:155
+#: single.php:156 single.php:147 single.php:148
+msgid "Add a comment"
+msgstr "Ein Kommentar hinzufügen"
+
+#: fotolist-li.php:30 single.php:133 single.php:160 single.php:152
+msgid "Permalink"
+msgstr "Permalink"
+
+#: fotolist-li.php:31 single.php:134 single.php:161 single.php:153
+msgid "Edit post"
+msgstr "Beitrag bearbeiten"
+
+#: functions.php:24 functions.php:27 functions.php:26
+#, php-format
+msgid "last year"
+msgid_plural "%d years ago"
+msgstr[0] "letztes Jahr"
+msgstr[1] "vor %d Jahren"
+
+#: functions.php:25 functions.php:28 functions.php:27
+#, php-format
+msgid "last month"
+msgid_plural "%d months ago"
+msgstr[0] "letzer Monat"
+msgstr[1] "vor %d Monaten"
+
+#: functions.php:26 functions.php:30 functions.php:29 functions.php:33
+#: functions.php:28 functions.php:32
+#, php-format
+msgid "last week"
+msgid_plural "%d weeks ago"
+msgstr[0] "letzte Woche"
+msgstr[1] "vor %d Wochen"
+
+#: functions.php:31 functions.php:34 functions.php:33
+msgid "yesterday"
+msgstr "gestern"
+
+#: functions.php:32 functions.php:35 functions.php:34
+msgid "today"
+msgstr "heute"
+
+#: functions.php:33 functions.php:36 functions.php:35
+#, php-format
+msgid "%d day ago"
+msgid_plural "%d days ago"
+msgstr[0] "vor %d Tag"
+msgstr[1] "vor %d Tagen"
+
+#: index.php:6
+#, php-format
+msgid "Entries in the category %s"
+msgstr "Einträge in der Kategorie %s"
+
+#: index.php:8
+#, php-format
+msgid "Entries tagged %s"
+msgstr "Einträge mit dem Tag %s"
+
+#: index.php:10
+msgid "Search results"
+msgstr "Suchergebnisse"
+
+#: index.php:12
+msgid "Blog"
+msgstr "Blog"
+
+#: index.php:17
+msgid "newer posts"
+msgstr "neuere Einträge"
+
+#: index.php:41 index.php:42
+msgid "Go home."
+msgstr "Zurück nach Hause."
+
+#: index.php:42 index.php:43
+msgid "WTF dude?! No posts in my database match your criteria. Dismissed."
+msgstr ""
+"Was geht?! Ich habe keine Eintrag in meiner Datenbank gefunden,der deinen "
+"Suchbegriffen entspricht. Und tschüss."
+
+#: index.php:49 index.php:50
+msgid "older posts"
+msgstr "ältere Einträge"
+
+#: index.php:62 index.php:63 index.php:61
+msgid "Home"
+msgstr "Startseite"
+
+#: index.php:63 index.php:64 index.php:62
+msgid "Guestbook"
+msgstr "Gästebuch"
+
+#: index.php:74 index.php:75 index.php:71
+msgid "I shoot photos, too. These are the latest."
+msgstr "Ich mache auch Fotos. Das sind die neuesten."
+
+#: index.php:74 index.php:75 index.php:71
+msgid "More photos?"
+msgstr "Mehr Fotos?"
+
+#: kontakt.php:21 single.php:72 single.php:75 kontakt.php:19 single.php:68
+#: single.php:71
+msgid "more ..."
+msgstr "mehr ..."
+
+#: single.php:69 single.php:65
+msgid "click for full view"
+msgstr "klicken für große Version"
+
+#: single.php:100 single.php:127 single.php:120
+msgid "Map"
+msgstr "Karte"
+
+#: single.php:105 single.php:132 single.php:124
+msgid "Coordinates for this post"
+msgstr "Koordinaten für diesen Eintrag"
+
+#: single.php:144 single.php:171 single.php:163
+msgid "Bookmarks"
+msgstr "Lesezeichen"
+
+#: single.php:145 single.php:146 single.php:147 single.php:148 single.php:172
+#: single.php:173 single.php:174 single.php:175 single.php:164 single.php:165
+#: single.php:166 single.php:167
+#, php-format
+msgid "Save bookmark at %s"
+msgstr "Als Lesezeichen bei %s abspeichern"
+
+#: single.php:152 single.php:179 single.php:171
+msgid "next"
+msgstr "nächster"
+
+#: single.php:153 single.php:180 single.php:172
+msgid "previous"
+msgstr "voriger"
+
+#: single.php:198 single.php:225 single.php:216
+msgid "more photos from this series"
+msgstr "mehr Fotos aus dieser Serie"
+
+#: single.php:219 single.php:246 single.php:235
+msgid "more photos"
+msgstr "mehr Fotos"
+
+#: comments.php:68 comments.php:64
+msgid "Subscribe to comments by RSS feed"
+msgstr "Kommentare als RSS-Feed abonnieren"
+
+#: comments.php:68 comments.php:64
+msgid "Comments RSS"
+msgstr "Kommentare als RSS"
+
+#: comments.php:78 comments.php:74
+msgid "Edit comment"
+msgstr "Kommentar berarbeiten"
+
+#: single.php:87 single.php:82
+msgid "Rating"
+msgstr "Bewertung"
+
+msgid "Privacy"
+msgstr "Datenschutz"

@@ -1,0 +1,2 @@
+xgettext -D ./ -L php --from-code UTF-8 -d tacker2008 -o locale/de/LC_MESSAGES/tacker2008.po -j --omit-header *.php
+msgfmt locale/de/LC_MESSAGES/tacker2008.po -o locale/de/LC_MESSAGES/tacker2008.mo

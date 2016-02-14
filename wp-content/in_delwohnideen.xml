@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/tacker/wohnideen">
+<title>del.icio.us/tacker/wohnideen</title>
+<link>http://del.icio.us/tacker/wohnideen</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.klangundkleid.de/" />
+  <rdf:li rdf:resource="http://www.hotelfox.dk/rooms.html" />
+  <rdf:li rdf:resource="http://www.material-raum-form.com/mrf/pmwiki.php/Products/WaveWeiss1" />
+  <rdf:li rdf:resource="http://www.durat.com/" />
+  <rdf:li rdf:resource="http://www.tapetenagentur.de/" />
+  <rdf:li rdf:resource="http://www.floxxan.de/4_vorteile/index.html" />
+  <rdf:li rdf:resource="http://www.varistyle.de/" />
+  <rdf:li rdf:resource="http://www.designlines.de/sixcms_4/sixcms/detail.php?object_id=26&#x26;area_id=2638&#x26;id=186137&#x26;source=rss" />
+  <rdf:li rdf:resource="http://replicata.de/" />
+  <rdf:li rdf:resource="http://www.stencil-library.com/docs/info.htm" />
+  <rdf:li rdf:resource="http://www.massivholz-manufaktur.de/esstische-monaco-rkb.htm" />
+  <rdf:li rdf:resource="http://www.masstisch.de/index.php" />
+  <rdf:li rdf:resource="http://www.modum.biz/" />
+  <rdf:li rdf:resource="http://www.gauss-essraumkonzepte.de/start.asp?browser=ns&#x26;version=5&#x26;platform=mac" />
+  <rdf:li rdf:resource="http://www.blue-wall-design.de/tische.0.html" />
+  <rdf:li rdf:resource="http://natureandstyle.de/shop/page/1?shop_param=" />
+  <rdf:li rdf:resource="http://www.design-3000.de/index.php?osCsid=2ace620e0629566debca46e9bba191e1" />
+  <rdf:li rdf:resource="http://www.posterhanger.com/howitworks.html" />
+  <rdf:li rdf:resource="http://www.hock-schaumstoff.de/produkte/privatverkauf.htm" />
+  <rdf:li rdf:resource="http://www.vitra.com/" />
+  <rdf:li rdf:resource="http://www.gnr8.biz/index.html" />
+  <rdf:li rdf:resource="http://www.edra.com/" />
+  <rdf:li rdf:resource="http://www.pitt-lounge.de/" />
+  <rdf:li rdf:resource="http://www.slidedesign.it/" />
+  <rdf:li rdf:resource="http://www.uncrate.com/men/home/art-decor/four-seasons-mirror-002913.php" />
+  <rdf:li rdf:resource="http://www.laserpod.com/" />
+  <rdf:li rdf:resource="http://www.uncrate.com/men/gear/toys/segatoys-homestar-planetarium-002905.php" />
+  <rdf:li rdf:resource="http://www.pkolino.com/index.php?main_page=products&#x26;zenid=6b9582d50fddb0eb034c24afae9ccdad" />
+  <rdf:li rdf:resource="http://www.inhabitat.com/entry_1125.php" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.klangundkleid.de/">
+<title>Welcome to K'n'K! - www.klangundkleid.de</title>
+<link>http://www.klangundkleid.de/</link>
+<description></description>
+<dc:creator>tacker</dc:creator>
+<dc:date>2007-03-14T11:41:15Z</dc:date>
+<dc:subject>shops wohnideen</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wohnideen" />
+    <rdf:li resource="http://del.icio.us/tag/shops" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hotelfox.dk/rooms.html">
+<title>HOTEL FOX: Rooms</title>
+<link>http://www.hotelfox.dk/rooms.html</link>
+<description></description>
+<dc:creator>tacker</dc:creator>
+<dc:date>2007-02-04T18:54:36Z</dc:date>
+<dc:subject>interior wohnideen</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wohnideen" />
+    <rdf:li resource="http://del.icio.us/tag/interior" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.material-raum-form.com/mrf/pmwiki.php/Products/WaveWeiss1">
+<title>: : : material raum form : : : | Waschbecken Serie 'Wave' in Wei&#xDF; aus Terrazzo browse</title>
+<link>http://www.material-raum-form.com/mrf/pmwiki.php/Products/WaveWeiss1</link>
+<description>Die unterschiedlichsten Farben und Formen lassen sich zu individuellen M&#xF6;belst&#xFC;cken gestalten. Der hier aus norddeutschem Sand gefertigte Waschtisch der G&#xE4;stetoilette, wirkt trotz massiver Bauweise leicht.</description>
+<dc:creator>tacker</dc:creator>
+<dc:date>2007-01-22T14:35:00Z</dc:date>
+<dc:subject>bad wohnideen</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wohnideen" />
+    <rdf:li resource="http://del.icio.us/tag/bad" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.durat.com/">
+<title>DURAT &#xAE; - RECYCLED TO LAST</title>
+<link>http://www.durat.com/</link>
+<description>DURAT is a solid polyester based material used for custom made surfaces in public and private interiors. It contains recycled plastics and is itself 100% recyclable.
+
+The sophistication of the DURAT material lies in its silky warm feeling and the intere</description>
+<dc:creator>tacker</dc:creator>
+<dc:date>2007-01-22T14:30:25Z</dc:date>
+<dc:subject>bad kueche wohnideen</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wohnideen" />
+    <rdf:li resource="http://del.icio.us/tag/bad" />
+    <rdf:li resource="http://del.icio.us/tag/kueche" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tapetenagentur.de/">
+<title>TapetenAgentur home</title>
+<link>http://www.tapetenagentur.de/</link>
+<description>In unserem Sortiment finden Sie Tapeten verschiedener nationaler und internationaler Hersteller. Wir f&#xFC;hren die beliebten Fototapeten, die wieder zu neuem Leben erwacht sind sowie Retro Tapeten, Vintage Tapeten aus verschiedenen Jahrzehnten bishin zur ei</description>
+<dc:creator>tacker</dc:creator>
+<dc:date>2006-12-13T13:13:28Z</dc:date>
+<dc:subject>tapeten wohnideen</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tapeten" />
+    <rdf:li resource="http://del.icio.us/tag/wohnideen" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.floxxan.de/4_vorteile/index.html">
+<title>www.floxxan.de</title>
+<link>http://www.floxxan.de/4_vorteile/index.html</link>
+<description>FLOXXAN gl&#xE4;nzt durch die Summe seiner guten Eigenschaften. Kein anderes Material zur Wandgestaltung &#xFC;berzeugt mit so vielen guten Wohn- eigenschaften. FLOXXAN besticht durch seine traumhafte Optik ebenso wie durch die einfache Verarbeitung. FLOXXAN ist</description>
+<dc:creator>tacker</dc:creator>
+<dc:date>2006-12-13T13:08:00Z</dc:date>
+<dc:subject>wandbelag wohnideen</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wohnideen" />
+    <rdf:li resource="http://del.icio.us/tag/wandbelag" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.varistyle.de/">
+<title>varistyle - individuelle tapeten, fototapete und mehr</title>
+<link>http://www.varistyle.de/</link>
+<description>varistyle hat sich auf die Herstellung individueller Tapeten mit hohem Qualit&#xE4;tsanspruch spezialisiert.</description>
+<dc:creator>tacker</dc:creator>
+<dc:date>2006-12-13T13:01:01Z</dc:date>
+<dc:subject>tapeten wohnideen</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tapeten" />
+    <rdf:li resource="http://del.icio.us/tag/wohnideen" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.designlines.de/sixcms_4/sixcms/detail.php?object_id=26&#x26;area_id=2638&#x26;id=186137&#x26;source=rss">
+<title>Designlines - Licht / Online-Magazin f&#xFC;r Produkt- und Interiordesign</title>
+<link>http://www.designlines.de/sixcms_4/sixcms/detail.php?object_id=26&#x26;area_id=2638&#x26;id=186137&#x26;source=rss</link>
+<description></description>
+<dc:creator>tacker</dc:creator>
+<dc:date>2006-12-12T17:17:43Z</dc:date>
+<dc:subject>licht wohnideen</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/licht" />
+    <rdf:li resource="http://del.icio.us/tag/wohnideen" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://replicata.de/">
+<title>Replicata: Formsch&#xF6;ne Reproduktionen rund ums Bauen und Wohnen, Replika, Replikate</title>
+<link>http://replicata.de/</link>
+<description></description>
+<dc:creator>tacker</dc:creator>
+<dc:date>2006-11-27T17:59:44Z</dc:date>
+<dc:subject>bad fliesen wohnideen zementfliese</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fliesen" />
+    <rdf:li resource="http://del.icio.us/tag/bad" />
+    <rdf:li resource="http://del.icio.us/tag/wohnideen" />
+    <rdf:li resource="http://del.icio.us/tag/zementfliese" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.stencil-library.com/docs/info.htm">
+<title>Stencils from The Stencil Library - Over 3500 stenciling designs available - Information</title>
+<link>http://www.stencil-library.com/docs/info.htm</link>
+<description>The Stencil Library is generally accepted as being the world's leading stencil design company and our web site reflects the quality of the vast range of stencils and associated products we have to offer. If you would like to browse through our range off-l</description>
+<dc:creator>tacker</dc:creator>
+<dc:date>2006-11-08T20:42:17Z</dc:date>
+<dc:subject>wohnideen</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wohnideen" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.massivholz-manufaktur.de/esstische-monaco-rkb.htm">
+<title>massivholz manufaktur - esstisch modell MONACO</title>
+<link>http://www.massivholz-manufaktur.de/esstische-monaco-rkb.htm</link>
+<description></description>
+<dc:creator>tacker</dc:creator>
+<dc:date>2006-11-08T12:40:09Z</dc:date>
+<dc:subject>ausbau esstisch wohnideen</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wohnideen" />
+    <rdf:li resource="http://del.icio.us/tag/esstisch" />
+    <rdf:li resource="http://del.icio.us/tag/ausbau" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.masstisch.de/index.php">
+<title>masstisch.de | Tische, Esstische, Esszimmertische, Schreibtische, St&#xFC;hle, B&#xE4;nke, Hocker konfigurieren</title>
+<link>http://www.masstisch.de/index.php</link>
+<description>Wir setzen Ihren Tisch-Wunsch um. Bei uns bekommen Sie Ihren Massivholztisch in beinahe jeder beliebigen Konfiguration, Farbe, Gr&#xF6;&#xDF;e und Form. Wir garantieren Ihnen eine sehr gute Qualit&#xE4;t, erstklassigen Service und das zu sensationellen Preisen. Besuc</description>
+<dc:creator>tacker</dc:creator>
+<dc:date>2006-11-08T12:35:50Z</dc:date>
+<dc:subject>ausbau esstisch wohnideen</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/esstisch" />
+    <rdf:li resource="http://del.icio.us/tag/ausbau" />
+    <rdf:li resource="http://del.icio.us/tag/wohnideen" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.modum.biz/">
+<title>modum bruehl moebel design ambiente geschenkartikel hamburg elbmeile</title>
+<link>http://www.modum.biz/</link>
+<description></description>
+<dc:creator>tacker</dc:creator>
+<dc:date>2006-11-08T12:07:57Z</dc:date>
+<dc:subject>ausbau esstisch wohnideen</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ausbau" />
+    <rdf:li resource="http://del.icio.us/tag/wohnideen" />
+    <rdf:li resource="http://del.icio.us/tag/esstisch" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gauss-essraumkonzepte.de/start.asp?browser=ns&#x26;version=5&#x26;platform=mac">
+<title>gauss-essraumkonzepte.de - esstische und esszimmer von ihrer design-schreinerei - eckbank, esszimmer, esstische von gauss</title>
+<link>http://www.gauss-essraumkonzepte.de/start.asp?browser=ns&#x26;version=5&#x26;platform=mac</link>
+<description></description>
+<dc:creator>tacker</dc:creator>
+<dc:date>2006-11-08T12:07:42Z</dc:date>
+<dc:subject>ausbau esstisch wohnideen</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ausbau" />
+    <rdf:li resource="http://del.icio.us/tag/wohnideen" />
+    <rdf:li resource="http://del.icio.us/tag/esstisch" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.blue-wall-design.de/tische.0.html">
+<title>BLUE WALL - Tische</title>
+<link>http://www.blue-wall-design.de/tische.0.html</link>
+<description>Designer-Tische, auf Ma&#xDF; gefertigt. Deutschlands Tisch-Spezialist. Jede L&#xE4;nge, Breite, H&#xF6;he. Verl&#xE4;ngerbar: unsichtbares Stecksystem! Sonderanfertigungen. Handarbeit aus deutschen Werkst&#xE4;tten. Vertrauen Sie auf 15 Jahre Erfahrung.</description>
+<dc:creator>tacker</dc:creator>
+<dc:date>2006-11-08T12:02:18Z</dc:date>
+<dc:subject>ausbau esstisch wohnideen</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ausbau" />
+    <rdf:li resource="http://del.icio.us/tag/esstisch" />
+    <rdf:li resource="http://del.icio.us/tag/wohnideen" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://natureandstyle.de/shop/page/1?shop_param=">
+<title>Nature and Style Online-Shop - Home</title>
+<link>http://natureandstyle.de/shop/page/1?shop_param=</link>
+<description>Nature and Style ist ein famili&#xE4;r gef&#xFC;hrtes Unternehmen, das sich auf den Import exotischer Wohnkulturen spezialisiert hat</description>
+<dc:creator>tacker</dc:creator>
+<dc:date>2006-10-13T20:00:58Z</dc:date>
+<dc:subject>gie&#xDF;en wohnideen</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wohnideen" />
+    <rdf:li resource="http://del.icio.us/tag/gie%C3%9Fen" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.design-3000.de/index.php?osCsid=2ace620e0629566debca46e9bba191e1">
+<title>Design 3000</title>
+<link>http://www.design-3000.de/index.php?osCsid=2ace620e0629566debca46e9bba191e1</link>
+<description></description>
+<dc:creator>tacker</dc:creator>
+<dc:date>2006-08-07T20:03:29Z</dc:date>
+<dc:subject>shops wohnideen</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/shops" />
+    <rdf:li resource="http://del.icio.us/tag/wohnideen" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.posterhanger.com/howitworks.html">
+<title>How It Works</title>
+<link>http://www.posterhanger.com/howitworks.html</link>
+<description></description>
+<dc:creator>tacker</dc:creator>
+<dc:date>2006-05-11T20:05:03Z</dc:date>
+<dc:subject>wohnideen</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wohnideen" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hock-schaumstoff.de/produkte/privatverkauf.htm">
+<title>Hock Title</title>
+<link>http://www.hock-schaumstoff.de/produkte/privatverkauf.htm</link>
+<description>Schaumstoffe / Kissen nach Wunsch</description>
+<dc:creator>tacker</dc:creator>
+<dc:date>2006-05-04T10:58:51Z</dc:date>
+<dc:subject>dekoration wohnideen</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wohnideen" />
+    <rdf:li resource="http://del.icio.us/tag/dekoration" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.vitra.com/">
+<title>vitra.com</title>
+<link>http://www.vitra.com/</link>
+<description></description>
+<dc:creator>tacker</dc:creator>
+<dc:date>2006-04-24T15:20:43Z</dc:date>
+<dc:subject>Furniture design interior wohnideen</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/Furniture" />
+    <rdf:li resource="http://del.icio.us/tag/interior" />
+    <rdf:li resource="http://del.icio.us/tag/wohnideen" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gnr8.biz/index.html">
+<title>Contemporary lighting, modern lighting, modern lamps, modern lights, contemporary lamps</title>
+<link>http://www.gnr8.biz/index.html</link>
+<description>Cooler Designer-Shop rund um Beleuchtete Objekte</description>
+<dc:creator>tacker</dc:creator>
+<dc:date>2006-04-05T20:28:11Z</dc:date>
+<dc:subject>wohnideen</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wohnideen" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.edra.com/">
+<title>edra</title>
+<link>http://www.edra.com/</link>
+<description>italienische m&#xF6;bel vom feinsten</description>
+<dc:creator>tacker</dc:creator>
+<dc:date>2006-03-15T15:44:30Z</dc:date>
+<dc:subject>wohnideen</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wohnideen" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pitt-lounge.de/">
+<title>Shop f&#xFC;r Coole Plakate und Bilder</title>
+<link>http://www.pitt-lounge.de/</link>
+<description></description>
+<dc:creator>tacker</dc:creator>
+<dc:date>2006-02-20T17:52:04Z</dc:date>
+<dc:subject>wohnideen</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wohnideen" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.slidedesign.it/">
+<title>Italian Interior Design</title>
+<link>http://www.slidedesign.it/</link>
+<description>These battery-operated lights by Slide design of Italy, called PZL Module Lamps, are easily taken apart and put together, so you can have a different lighting scheme every day. Some are U-shaped, some are square&#x2014;each lamp is shaped differently, and they</description>
+<dc:creator>tacker</dc:creator>
+<dc:date>2006-02-16T19:39:42Z</dc:date>
+<dc:subject>wohnideen</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wohnideen" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.uncrate.com/men/home/art-decor/four-seasons-mirror-002913.php">
+<title>Four Seasons Mirror | Uncrate</title>
+<link>http://www.uncrate.com/men/home/art-decor/four-seasons-mirror-002913.php</link>
+<description>The mirror &#x2014; essential to personal hygiene, a functional decoration, and flat. Until now, that is. The Four Seasons Rectangular Mirror ($850) breaks this convention by setting its main mirror back into a nearly five-inch deep box frame, and then coverin</description>
+<dc:creator>tacker</dc:creator>
+<dc:date>2006-02-14T15:18:19Z</dc:date>
+<dc:subject>wohnideen</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wohnideen" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.laserpod.com/">
+<title>Laserpod is one of the most innovative lighting products since the lavalamp in the sixties</title>
+<link>http://www.laserpod.com/</link>
+<description>Laserpod is one of the most innovative lighting products since the lavalamp in the sixties, now an icon of that era. Laserpod is equally as resonant with this modern age and is a classic in the making. It was born out the cultures of music, fashion and ar</description>
+<dc:creator>tacker</dc:creator>
+<dc:date>2006-02-13T18:56:19Z</dc:date>
+<dc:subject>wohnideen</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wohnideen" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.uncrate.com/men/gear/toys/segatoys-homestar-planetarium-002905.php">
+<title>Segatoys HomeStar Planetarium</title>
+<link>http://www.uncrate.com/men/gear/toys/segatoys-homestar-planetarium-002905.php</link>
+<description>If you happen to be trapped in a city with bright lights all around and a little added &#x201C;atmosphere&#x201D; &#x2014; or smog, as some like to call it &#x2014; you should love this little guy. Instead of destroying small planets like the mini Death Star that it looks li</description>
+<dc:creator>tacker</dc:creator>
+<dc:date>2006-02-13T18:55:36Z</dc:date>
+<dc:subject>wohnideen</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wohnideen" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pkolino.com/index.php?main_page=products&#x26;zenid=6b9582d50fddb0eb034c24afae9ccdad">
+<title>P&#x2019;kolino, Playfully Smart Products</title>
+<link>http://www.pkolino.com/index.php?main_page=products&#x26;zenid=6b9582d50fddb0eb034c24afae9ccdad</link>
+<description>Derived from the Italian word Piccolino meaning &#x26;quot;Little One&#x26;quot;, the creators of P'kolino's Play Table and Play Tower have created innovative furniture for children that encourages them to learn and grow through play. Creators J.B. Schneider and Antonio Turc</description>
+<dc:creator>tacker</dc:creator>
+<dc:date>2006-02-10T10:01:46Z</dc:date>
+<dc:subject>wohnideen</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wohnideen" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.inhabitat.com/entry_1125.php">
+<title>VENTO DOOR</title>
+<link>http://www.inhabitat.com/entry_1125.php</link>
+<description>The Vento Door by Akira Yoshimura combines the functionality of magazine rack with the utility of a door, creating something stylish out of the mundane. The inspiration for the Vento door started with the simple desire to create a door that allows a light</description>
+<dc:creator>tacker</dc:creator>
+<dc:date>2006-02-07T10:15:39Z</dc:date>
+<dc:subject>wohnideen</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wohnideen" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

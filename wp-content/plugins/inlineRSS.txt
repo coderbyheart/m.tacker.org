@@ -1,0 +1,29 @@
+# This is the configuration file for inlineRSS.php, the WordPress Plugin
+#
+# This file contains one line per different feed entry, containing the
+# following comma-separated parameters:
+#
+# casualname:  What you will call your feed, such as "myfeed"
+# url: The complete path, including http:// to the feed
+# cache time: The minimum number of minutes between fetching the
+#    feed.  This is optional and defaults to 30
+# xslt file: The alternate xslt file to use, instead of inlineRSS.xslt.
+#    This is optional and defaults to inlineRSS.xslt.  Additionally,
+#    you can use the following keywords in place of an xslt file:
+#
+#    skipxslt - This will pull the file in without attempting to
+#               translate it, so any source can be inserted.
+#    eval - This will evaluate the file as a PHP script, and use
+#           whatever is returned using "return" as what is to be
+#           inserted.  It does not support <?php ?> - those are
+#           HTML exclusion tags used by the web server.
+#
+# A sample feed to read from www.iconophobia.com is below.  It can be
+# called from a WordPress post or page using !inlineRSS:iconophobia
+# or from a template (.php) as inlineRSS('iconophobia');
+#
+delwohnideen,http://del.icio.us/rss/tacker/wohnideen,1440
+categoryausbau,https://m.tacker.org/category/analoges/wohnen/ausbau/feed/,60
+delarchitekt,http://del.icio.us/rss/tacker/architekt,1440
+picasaembedchangelog,http://versions.tacker.org/trac/smallprojects/log/picasaembed?limit=100&mode=stop_on_copy&format=rss
+categoryserver,https://m.tacker.org/category/projekte/server/feed/

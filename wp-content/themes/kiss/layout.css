@@ -1,0 +1,431 @@
+/* ---------------------------------------------------
+			global settings
+------------------------------------------------------ */
+* {
+margin: 0;
+padding: 0;
+}
+body {
+background: #fff;
+font: 100%/1.4em "lucida sans unicode", "lucida grande", verdana, 'trebuchet ms', sans-serif;
+color: #666;
+text-align: center;
+}
+
+/* links */
+
+a:link {
+text-decoration: none;
+color: #c30;
+}
+a:visited {
+text-decoration: none;
+color: #c30;
+}
+a:hover {
+text-decoration: none;
+color: #930;
+}
+a:active {
+text-decoration: none;
+color: #c30;
+}
+a img {
+border: 0;
+}
+
+/* hn */
+
+h1, h2, h3, h4, h5, h6 {
+font-weight: normal;
+color: #333;
+}
+h1, h2, h3, h4, h5, h6, p {
+margin: 10px 0;
+}
+h1 {
+font-size: 1.3em;
+}
+h2 {
+font-size: 1.1em;
+}
+h3 {
+font-size: 1em;
+}
+h4 {
+font-size: 0.9em;
+}
+
+/* misc */
+
+abbr, acronym {
+font-style: normal;
+border-bottom: 1px dotted #666;
+cursor: help;
+}
+code, pre {
+margin: 10px 0;
+font: 110% "Courier New", Courier, Monospace;
+color: #666;
+}
+
+/* defination lists */
+
+dl {
+margin: 20px 0;
+}
+dt {
+font-size: 0.9em;
+text-transform: uppercase;
+}
+dd {
+margin: 0 0 20px;
+}
+
+/* list styles */
+
+ul {
+margin: 10px 0;
+}
+ul li {
+height: 1%;
+list-style-type: none;
+margin: 0 0 5px 0;
+padding: 0 0 0 15px;
+background: url(i/icon-arrow.gif) no-repeat 0 0;
+line-height: 20px;
+}
+ol {
+margin: 10px 0 10px 25px;
+}
+ol li {
+margin: 0 0 5px 0;
+}
+
+/* blockquote */
+
+blockquote {
+margin: 10px 0;
+padding: 5px 10px;
+border-top: 1px solid #eee;
+border-bottom: 1px solid #eee;
+font: 0.9em/1.5em georgia, "lucida sans unicode", "trebuchet ms", sans-serif;
+color: #666;
+}
+/* ---------------------------------------------------
+			layout
+------------------------------------------------------ */
+#wrap {
+width: 855px;
+margin: 0 auto;
+text-align: left;
+}
+#container {
+height: 1%;
+margin: 15px 0;
+background: url(i/main-628.gif) 0 100% repeat-y;
+}
+#container-top {
+height: 30px;
+background: url(i/main-top-628.gif) 0 0 no-repeat;
+}
+#container-bottom {
+clear: both;
+height: 30px;
+background: url(i/main-bottom-628.gif) 0 0 no-repeat;
+}
+/* ---------------------------------------------------
+			header
+------------------------------------------------------ */
+#header {
+width: 628px;
+height: 68px;
+background: #696969 url(i/header.gif) no-repeat;
+text-align: center;
+}
+#header div {
+padding: 10px 20px;
+}
+#header h1 {
+margin: 0;
+font-size: 0.9em;
+letter-spacing: 0.2em;
+text-transform: uppercase;
+}
+#header h1 a {
+color: #eee;
+}
+#header h1 a:hover {
+color: #fff;
+}
+h2.description {
+margin: 0;
+font-size: 0.75em;
+color: #b2b2b2;
+line-height: 1.4em;
+}
+/* ---------------------------------------------------
+			main column
+------------------------------------------------------ */
+#main {
+width: 628px;
+display: inline;
+float: left;
+font-size: 0.75em;
+}
+#main-1 {
+margin: 20px 35px;
+}
+/* post */
+
+div.post {
+margin: 0 0 20px;
+padding: 0 0 40px;
+background: url(i/line.gif) no-repeat 0 100%;
+}
+h2.post-title {
+margin: 0;
+font: 0.9em georgia, "lucida sans unicode", "trebuchet ms", sans-serif;
+color: #333;
+text-transform: uppercase;
+letter-spacing: 0.5em;
+text-align: center;
+}
+h3.post-date {
+margin: 0;
+font-size: 0.85em;
+color: #999;
+text-align: center;
+}
+div.post-body {
+margin: 20px 0 0;
+}
+p.postmetadata {
+margin: 20px 0 0;
+padding: 0 0 0 20px;
+background: url(i/icon-meta.gif) no-repeat;
+line-height: 19px;
+font-size: 0.85em;
+color: #999;
+}
+p.prev-next {
+height: 1%;
+margin: 0 0 20px;
+padding: 0 0 20px;
+background: url(i/dot.gif) 0 100% repeat-x;
+text-align: center;
+}
+
+/* Search results page */
+
+div.search-result {
+height: 1%;
+margin: 40px 0 0px;
+padding: 0 0 20px;
+background: url(i/dot.gif) 0 100% repeat-x;
+}
+div.search-result h3 {
+margin: 0;
+font-size: 1.1em;
+}
+div.search-result p.postmetadata {
+margin: 0;
+}
+
+#search-main {
+margin: 0 0 20px;
+padding: 0 0 40px;
+background: url(i/line.gif) no-repeat 0 100%;
+text-align: left;
+}
+
+/* Comments */
+
+#comments {
+margin: 20px 0;
+padding: 0 0 40px;
+background: url(i/line.gif) no-repeat 0 100%;
+}
+#comments h2 {
+margin: 0;
+font: 0.9em georgia, "lucida sans unicode", "trebuchet ms", sans-serif;
+color: #333;
+text-transform: uppercase;
+letter-spacing: 0.5em;
+text-align: center;
+}
+#comments ol {
+
+}
+#comments li {
+height: 1%;
+margin: 0 0 20px;
+padding: 0 0 20px;
+background: url(i/dot.gif) 0 100% repeat-x;
+font-size: 0.9em;
+}
+#comments li span {
+font-size: 0.95em;
+text-transform: uppercase;
+}
+#commentform label {
+display: block;
+font-size: 0.85em;
+text-transform: uppercase;
+}
+#author,
+#email,
+#url,
+#comment {
+width: 90%;
+margin: 0 0 10px;
+padding: 2px;
+border: 1px solid #ccc;
+}
+#searchsubmit, #submit {
+padding: 2px;
+background: #eee;
+border: 3px double #666;
+border-top-color: #ccc;
+border-left-color: #ccc;
+font-size: 85%;
+color: #333;
+text-transform: uppercase;
+text-align: center;
+letter-spacing: 0.1em;
+}
+
+/* ---------------------------------------------------
+			side
+------------------------------------------------------ */
+#sidebar {
+display: inline;
+float: left;
+width: 180px;
+margin: 10px 0;
+font-size: 0.7em;
+}
+div.side-sec {
+height: 1%;
+margin: 0 0 10px 15px;
+padding: 0 0 10px;
+background: url(i/dot.gif) 0 100% repeat-x;
+}
+div.side-sec h3 {
+font-size: 1em;
+text-transform: uppercase;
+}
+div.side-sec li {
+list-style-type: none;
+padding: 0 0 0 15px;
+background: url(i/icon-arrow.gif) no-repeat;
+line-height: 20px;
+}
+div.side-sec search {
+padding: 0 0 20px;
+}
+#sidebar #searchsubmit {
+padding: 2px;
+background: #eee;
+border: 3px double #666;
+border-top-color: #ccc;
+border-left-color: #ccc;
+font-size: 85%;
+color: #333;
+text-transform: uppercase;
+text-align: center;
+letter-spacing: 0.1em;
+}
+#sidebar #searchform #s {
+width: 90%;
+margin: 0 0 10px;
+padding: 4px;
+border: 1px solid #ccc;
+}
+
+/* Calendar */
+
+#wp-calendar #prev a {
+font-size: 9pt;
+}
+#wp-calendar a {
+text-decoration: none;
+}
+#wp-calendar caption {
+font: bold 1.3em 'Lucida Grande', Verdana, Arial, Sans-Serif;
+text-align: center;
+}
+#wp-calendar th {
+font-style: normal;
+text-transform: capitalize;
+}
+#wp-calendar {
+empty-cells: show;
+margin: 10px auto 0;
+width: 155px;
+}
+#wp-calendar #next a {
+padding-right: 10px;
+text-align: right;
+}
+#wp-calendar #prev a {
+padding-left: 10px;
+text-align: left;
+}
+#wp-calendar a {
+display: block;
+}
+#wp-calendar caption {
+text-align: center;
+width: 100%;
+}
+#wp-calendar caption {
+text-decoration: none;
+}
+#wp-calendar td {
+padding: 3px 0;
+text-align: center;
+}
+
+/* footer */
+
+#footer {
+padding: 0 0 0 1px;
+margin: 0 auto;
+width: 960px;
+clear: both;
+}
+#footer p {
+margin: 0;
+padding: 20px 0;
+text-align: center;
+}
+
+/* Images */
+
+p img {
+padding: 0;
+max-width: 100%;
+}
+img.centered {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+img.alignright {
+padding: 4px;
+margin: 0 0 2px 7px;
+display: inline;
+}
+img.alignleft {
+padding: 4px;
+margin: 0 7px 2px 0;
+display: inline;
+}
+.alignright, .right {
+float: right;
+padding-left: 5px;
+}
+.alignleft {
+float: left
+}

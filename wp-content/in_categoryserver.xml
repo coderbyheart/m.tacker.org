@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="wordpress/2.3.3" -->
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	>
+
+<channel>
+	<title>[&#124;] m.tacker.org &#187; Server</title>
+	<link>https://m.tacker.org</link>
+	<description>Aus meinem Alltag.</description>
+	<pubDate>Mon, 24 Mar 2008 11:44:47 +0000</pubDate>
+	<generator>http://wordpress.org/?v=2.3.3</generator>
+	<language>en</language>
+			<item>
+		<title>Server jetzt mit fast 1 Terabyte</title>
+		<link>https://m.tacker.org/775.server-jetzt-mit-fast-1-terabyte.html</link>
+		<comments>https://m.tacker.org/775.server-jetzt-mit-fast-1-terabyte.html#comments</comments>
+		<pubDate>Wed, 05 Sep 2007 10:08:39 +0000</pubDate>
+		<dc:creator>Markus Tacker</dc:creator>
+		
+		<category><![CDATA[Server]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/775.server-jetzt-mit-fast-1-terabyte.html</guid>
+		<description><![CDATA[Seit gestern laufen die 6 Festplatten in meinem Server wieder stabil. Eine ganze Weile hatte ich das Problem, dass sich das System nach einem 
+ata5: exception Emask 0x10 SAct 0x0 SErr 0x1990000 action 0x2 frozen ata5: hard resetting port
+immer wieder aufhing, bzw. beim Booten schon stehen blieb.
+In diversen Foren findet man den Hinweis, dass dies [...]]]></description>
+			<content:encoded><![CDATA[<p><img src='https://m.tacker.org/wp-content/uploads/2007/09/372514_1445.jpg' alt='Festplatte' class="right" />Seit gestern laufen die 6 Festplatten in meinem Server wieder stabil. Eine ganze Weile hatte ich das Problem, dass sich das System nach einem </p>
+<p><code>ata5: exception Emask 0x10 SAct 0x0 SErr 0x1990000 action 0x2 frozen ata5: hard resetting port</code></p>
+<p>immer wieder aufhing, bzw. beim Booten schon stehen blieb.</p>
+<p>In diversen Foren findet man den Hinweis, dass dies oft an gelockerten SATA-Steckern läge &mdash; bei mir hat das Kontrollieren der Stecker keinen Erfolg gebracht. Auch die Strom-Stecker an den Platten waren in Ordnung.</p>
+<p>Gestern habe ich dann gemerkt, dass ich an einem Strom-Strang 5 der 6 Platten hängen hatte. Seit ich sie gleichmäßig auf zwei Stränge verteilt habe läuft die Kiste wieder ohne Hänger.</p>
+<p>Insgesamt bin ich jetzt knapp am Terabyte vorbei geschliddert. Genau genommen sind es 912 Gigabyte, was in der <a href="http://de.wikipedia.org/wiki/Festplatte#Speicherkapazit.C3.A4t">Notation von Festplattenherstellern</a> immerhin 979,25<br />
+ GiBiByte.</p>
+<small>Copyright © 2002-2008 Markus Tacker<br/>
+Dieser Feed ist nur für den persönlichen, nicht gewerblichen Gebrauch bestimmt. Eine Verwendung dieses Feeds auf anderen Webseiten verstößt gegen das Urheberrecht. Wenn Sie diesen Inhalt nicht in Ihrem News-Reader lesen, so macht sich die Site, die Sie betrachten, der Urheberrechtsverletzung schuldig. Mit einer Veröffentlichung akzeptiert der Beitreiber ein Nutzungsgebühr i.H.v. 50 EUR pro Beitrag und angefangenem Monat. (digitalfingerprint: 5ad2eae7e9494dddd893a07769d9422e (192.168.1.100) )</small>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/775.server-jetzt-mit-fast-1-terabyte.html/feed</wfw:commentRss>
+		</item>
+		<item>
+		<title>Serverausfall wegen Western Digital</title>
+		<link>https://m.tacker.org/659.serverausfall-wegen-western-digital.html</link>
+		<comments>https://m.tacker.org/659.serverausfall-wegen-western-digital.html#comments</comments>
+		<pubDate>Wed, 14 Feb 2007 13:31:43 +0000</pubDate>
+		<dc:creator>Markus Tacker</dc:creator>
+		
+		<category><![CDATA[Projekte]]></category>
+
+		<category><![CDATA[Server]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/659.serverausfall-wegen-western-digital.html</guid>
+		<description><![CDATA[Es ist echt zum Kotzen. Da hat man mal einen freien Tag und dann passiert das&#8230; 
+Heute morgen habe ich die Hälfte meines Software-Raids &#8212; das seit zwei Wochen schon nicht mehr läuft &#8212; ausgebaut und mit der Diagnose-Software von Western Digital getestet. Die hat dann auch direkt vermeldet, dass ich mich mit dem Support [...]]]></description>
+			<content:encoded><![CDATA[<p>Es ist echt zum Kotzen. Da hat man mal einen freien Tag und dann passiert das&#8230; </p>
+<p>Heute morgen habe ich die Hälfte meines Software-Raids &mdash; das seit zwei Wochen schon nicht mehr läuft &mdash; ausgebaut und mit der Diagnose-Software von Western Digital getestet. Die hat dann auch direkt vermeldet, dass ich mich mit dem Support in Verbindung setzen soll, da der S.M.A.R.T.-Wert 5 (<a href="http://www.ariolic.com/activesmart/smart-attributes/reallocated-sectors-count.html">Reallocated Sectors Count</a>) zu hoch wäre. Das bedeutet, dass es jede Menge Schreibfehler auf der Platte gab. Also habe ich schön die RMA vorbereitet und die Platte, übrigens eine <a href="http://www.westerndigital.com/de/products/Products.asp?DriveID=83&#038;Language=de">WDC WD800JD-55MU</a>, verpackt.</p>
+<p>Das gibt mir natürlich zu denken, da die andere Hälfte des Software-Raids <strong>genau die gleiche</strong> Platte ist. Als könnte sie Gedanken lesen, hat sie dann auch gegen 11:40 Uhr den Dienst quittiert in dem sich das System aufhing. Glücklicherweise konnte ich dann aber mit einem</p>
+<blockquote><p><code># dd if=/dev/hda of=/dev/sda conv=noerror,sync bs=4k</code></p></blockquote>
+<p>alle Daten auf eine IDE-Platte kopieren und das System mit dieser dann wieder zum Leben erwecken.</p>
+<p>Jetzt ist IDE-Platte der Master und die angeblich defekte SATA-Platte der Slave im Raid. <strike>Bis jetzt läuft die Wiederherstellung des Spiegels ohne Probleme.</strike> Nach 20 Minuten hat die dann auch ihren Geist aufgegeben.</p>
+<blockquote><p>ata2: translated ATA stat/err 0&#215;61/04 to SCSI SK/ASC/ASCQ 0xb/00/00<br />
+ata2: status=0&#215;61 { DriveReady DeviceFault Error }<br />
+ata2: error=0&#215;04 { DriveStatusError }</p></blockquote>
+<p>Mit <em>der</em> RMA warte ich erstmal &#8230;</p>
+<h3>Update 28.03.2007</h3>
+<p>Western Digital hat beide Festplatten kommentarlos umgetauscht. Kosten auf meiner Seite waren dafür gut 12 €.</p>
+<small>Copyright © 2002-2008 Markus Tacker<br/>
+Dieser Feed ist nur für den persönlichen, nicht gewerblichen Gebrauch bestimmt. Eine Verwendung dieses Feeds auf anderen Webseiten verstößt gegen das Urheberrecht. Wenn Sie diesen Inhalt nicht in Ihrem News-Reader lesen, so macht sich die Site, die Sie betrachten, der Urheberrechtsverletzung schuldig. Mit einer Veröffentlichung akzeptiert der Beitreiber ein Nutzungsgebühr i.H.v. 50 EUR pro Beitrag und angefangenem Monat. (digitalfingerprint: 5ad2eae7e9494dddd893a07769d9422e (192.168.1.100) )</small>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/659.serverausfall-wegen-western-digital.html/feed</wfw:commentRss>
+		</item>
+		<item>
+		<title>Ich bin ein Radio</title>
+		<link>https://m.tacker.org/656.ich-bin-ein-radio.html</link>
+		<comments>https://m.tacker.org/656.ich-bin-ein-radio.html#comments</comments>
+		<pubDate>Mon, 12 Feb 2007 17:07:04 +0000</pubDate>
+		<dc:creator>Markus Tacker</dc:creator>
+		
+		<category><![CDATA[Projekte]]></category>
+
+		<category><![CDATA[Server]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/656.ich-bin-ein-radio.html</guid>
+		<description><![CDATA[Für Mario vom Rekwi-Festival habe ich auf meinem Test-Server einen Shoutcast-Server aufgesetzt. Und der gibt uns mächtig Metal auf die Ohren.
+Zu hören unter hosted-by.m.tacker.org:6500 und zu finden auch in Shoutcast.
+Airtime ist vorläufig nur am Wochenende.
+Copyright © 2002-2008 Markus Tacker
+Dieser Feed ist nur für den persönlichen, nicht gewerblichen Gebrauch bestimmt. Eine Verwendung dieses Feeds auf anderen [...]]]></description>
+			<content:encoded><![CDATA[<p><img src='https://m.tacker.org/wp-content/uploads/2007/02/rekwi_banner.gif' alt='Rekwi-Festival' class="right" />Für Mario vom <a href="http://www.rekwi-festival.de/">Rekwi-Festival</a> habe ich auf meinem <a href="https://m.tacker.org/609.kostenloses-hosting-auf-testserver.html">Test-Server</a> einen Shoutcast-Server aufgesetzt. Und der gibt uns mächtig Metal auf die Ohren.</p>
+<p>Zu hören unter <a href="http://hosted-by.m.tacker.org:6500">hosted-by.m.tacker.org:6500</a> und zu finden auch in <a href="http://www.shoutcast.com/directory/?s=rekwi-festival">Shoutcast</a>.</p>
+<p>Airtime ist vorläufig nur am Wochenende.</p>
+<small>Copyright © 2002-2008 Markus Tacker<br/>
+Dieser Feed ist nur für den persönlichen, nicht gewerblichen Gebrauch bestimmt. Eine Verwendung dieses Feeds auf anderen Webseiten verstößt gegen das Urheberrecht. Wenn Sie diesen Inhalt nicht in Ihrem News-Reader lesen, so macht sich die Site, die Sie betrachten, der Urheberrechtsverletzung schuldig. Mit einer Veröffentlichung akzeptiert der Beitreiber ein Nutzungsgebühr i.H.v. 50 EUR pro Beitrag und angefangenem Monat. (digitalfingerprint: 5ad2eae7e9494dddd893a07769d9422e (192.168.1.100) )</small>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/656.ich-bin-ein-radio.html/feed</wfw:commentRss>
+		</item>
+		<item>
+		<title>Serverausfall wegen defekter On-Board-Netzwerkkarte</title>
+		<link>https://m.tacker.org/647.serverausfall-wegen-defekter-on-board-netzwerkkarte.html</link>
+		<comments>https://m.tacker.org/647.serverausfall-wegen-defekter-on-board-netzwerkkarte.html#comments</comments>
+		<pubDate>Wed, 31 Jan 2007 10:09:30 +0000</pubDate>
+		<dc:creator>Markus Tacker</dc:creator>
+		
+		<category><![CDATA[Projekte]]></category>
+
+		<category><![CDATA[Server]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/647.serverausfall-wegen-defekter-on-board-netzwerkkarte.html</guid>
+		<description><![CDATA[Gestern Abend um 22:34 (da war ich noch im Kino Babel schauen), hat sich die On-Board-Netzwerkkarte des nForce2-Motherboards, mit dem mein Server läuft, entschlossen den Geist aufzugeben.
+Zum Glück habe ich noch einen Stapel 3com 3c905er da, so war flugs ein Ersatz da und um 23:20 war die Kiste dann auch wieder «drin».
+Interessant ist, dass ich [...]]]></description>
+			<content:encoded><![CDATA[<p>Gestern Abend um 22:34 (da war ich noch im Kino <a href="http://www.imdb.com/title/tt0449467/">Babel</a> schauen), hat sich die On-Board-Netzwerkkarte des nForce2-Motherboards, mit dem <a href="https://m.tacker.org/projects/server/#Heimserver">mein Server</a> läuft, entschlossen den Geist aufzugeben.</p>
+<p>Zum Glück habe ich noch einen Stapel 3com 3c905er da, so war flugs ein Ersatz da und um 23:20 war die Kiste dann auch wieder «drin».</p>
+<p>Interessant ist, dass ich mir immer Gedanken um die Absicherung eines Festplatten-Ausfalles mache, obwohl das noch nie passiert ist. Eine defekte Netzwerkkarte hatte ich aber jetzt <a href="https://m.tacker.org/215.nic-explodiert.html">schon zum zweiten Mal</a>.</p>
+<small>Copyright © 2002-2008 Markus Tacker<br/>
+Dieser Feed ist nur für den persönlichen, nicht gewerblichen Gebrauch bestimmt. Eine Verwendung dieses Feeds auf anderen Webseiten verstößt gegen das Urheberrecht. Wenn Sie diesen Inhalt nicht in Ihrem News-Reader lesen, so macht sich die Site, die Sie betrachten, der Urheberrechtsverletzung schuldig. Mit einer Veröffentlichung akzeptiert der Beitreiber ein Nutzungsgebühr i.H.v. 50 EUR pro Beitrag und angefangenem Monat. (digitalfingerprint: 5ad2eae7e9494dddd893a07769d9422e (192.168.1.100) )</small>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/647.serverausfall-wegen-defekter-on-board-netzwerkkarte.html/feed</wfw:commentRss>
+		</item>
+		<item>
+		<title>Scheisstag</title>
+		<link>https://m.tacker.org/531.scheisstag.html</link>
+		<comments>https://m.tacker.org/531.scheisstag.html#comments</comments>
+		<pubDate>Wed, 04 Oct 2006 17:48:36 +0000</pubDate>
+		<dc:creator>Markus Tacker</dc:creator>
+		
+		<category><![CDATA[Analoges]]></category>
+
+		<category><![CDATA[Digitales]]></category>
+
+		<category><![CDATA[Server]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/531.scheisstag.html</guid>
+		<description><![CDATA[Jaha, heute war ein Scheisstag. Erste ist heute morgen der Server ausgefallen &#8212; wohl wegen einem defekten Sektor. Wie Du siehst geht er wieder. Einfach wieder einschalten, fsck drüber laufen lassen und fertig.
+Dann hatte ich mein Fahrrad gestern aufgrund des Regens auf der Arbeit stehen gelassen. Als ich heute abend nach Hause fahren wollte, habe [...]]]></description>
+			<content:encoded><![CDATA[<p><img id="image530" src="https://m.tacker.org/wp-content/uploads/2006/10/toilet_paper_01.jpg" alt="Toilettenpapier" class="right" />Jaha, heute war ein Scheisstag. Erste ist heute morgen der Server ausgefallen &mdash; wohl wegen einem defekten Sektor. Wie Du siehst geht er wieder. Einfach wieder einschalten, fsck drüber laufen lassen und fertig.</p>
+<p>Dann hatte ich mein Fahrrad gestern aufgrund des Regens auf der Arbeit stehen gelassen. Als ich heute abend nach Hause fahren wollte, habe ich kurz vor dem Losfahren gemerkt, dass man mir beide <a href="http://de.wikipedia.org/wiki/Umwerfer">Umwerfer</a> inklusive Kette geklaut hat &mdash; das Teil ist 10 Jahre alt! </p>
+<p>Naja, dafür dann gleich mal den <a href="http://www.allianz.de/service/online_verwalten/index.html">Allianz Online-Service</a> bemüht &mdash; das Fahrrad ist immerhin versichert. Mal sehen wie die das regeln.</p>
+<p><strong>Update 6. November</strong></p>
+<p>Die <a href="http://www.allianz.de">Allianz</a> hat es geregelt. Und bezahlt den ganzen Schaden. Vielen Dank!</p>
+<small>Copyright © 2002-2008 Markus Tacker<br/>
+Dieser Feed ist nur für den persönlichen, nicht gewerblichen Gebrauch bestimmt. Eine Verwendung dieses Feeds auf anderen Webseiten verstößt gegen das Urheberrecht. Wenn Sie diesen Inhalt nicht in Ihrem News-Reader lesen, so macht sich die Site, die Sie betrachten, der Urheberrechtsverletzung schuldig. Mit einer Veröffentlichung akzeptiert der Beitreiber ein Nutzungsgebühr i.H.v. 50 EUR pro Beitrag und angefangenem Monat. (digitalfingerprint: 5ad2eae7e9494dddd893a07769d9422e (192.168.1.100) )</small>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/531.scheisstag.html/feed</wfw:commentRss>
+		</item>
+	</channel>
+</rss>
