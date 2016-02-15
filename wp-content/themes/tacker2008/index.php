@@ -90,11 +90,6 @@
 			<a href="http://www.flickr.com/photos/tacker/sets/72157623232431871/"><?php echo _('Photos'); ?></a>
         </h2>
         <p><?php echo _('I shoot photos, too. These are the latest.'); ?><br /><a href="http://www.flickr.com/photos/tacker/sets/72157623232431871/"><?php echo _('More photos?'); ?></a></p>
-
-
-        <?php
-        	printFlickrPhotoList('72157623232431871', false, 9);
-		?>
 		<?php endif; ?>
 
         <!-- Tags -->

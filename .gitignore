@@ -3,3 +3,5 @@
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
 sitemap.xml*
+/wp-content/cache/*
+!/wp-content/cache/.gitkeep

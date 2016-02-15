@@ -5,15 +5,16 @@
 
 	if (preg_match('/<img[^>]+>/', $content, $match)) {
 		$img = $match[0];
-		if (!preg_match('/src=["\']([^"\']+)["\']/', $img, $src_match)) continue;
-		$src = str_ireplace('.jpg', '.png', $src_match[1]);
-		if ( strstr( $src_match[1], FOTO_URL ) ) {
-			$foto_path = str_replace( FOTO_URL, '', $src_match[1] );
-			$target = $src_match[1];
-			$src = FOTO_URL . dirname( $foto_path ) . '/polaroid.' . basename( $src );
-		} else {
-			$target = FOTO_URL . basename( $src_match[1] );
-			$src = FOTO_URL . 'polaroid.' . basename( $src );
+		if (preg_match('/src=["\']([^"\']+)["\']/', $img, $src_match)) {
+            $src = str_ireplace('.jpg', '.png', $src_match[1]);
+            if ( strstr( $src_match[1], FOTO_URL ) ) {
+                $foto_path = str_replace( FOTO_URL, '', $src_match[1] );
+                $target = $src_match[1];
+                $src = FOTO_URL . dirname( $foto_path ) . '/polaroid.' . basename( $src );
+            } else {
+                $target = FOTO_URL . basename( $src_match[1] );
+                $src = FOTO_URL . 'polaroid.' . basename( $src );
+            }
 		}
 	}
 	

@@ -65,16 +65,19 @@
 			$content = get_the_content();
 			$content = apply_filters('the_content', $content);
 			if ($isFlickr) {
-				printFlickrMainPhoto($flickrPhotos[0]);
+				// printFlickrMainPhoto($flickrPhotos[0]);
 				the_content(_('more ...'));
 			} else if ($flickr_set) {
+				/*
 				$set = getFlickrPhotoset($flickr_set);
-				if ($flickrSetLargeFirst) printFlickrMainPhoto($set->primary);
-				if ($flickrSetUseDescription) {
-					?><p><?php echo nl2br($set->description->_content); ?></p><?php
-				} else {
-					the_content(_('more ...'));
-				}
+                				if ($flickrSetLargeFirst) printFlickrMainPhoto($set->primary);
+                				if ($flickrSetUseDescription) {
+                					?><p><?php echo nl2br($set->description->_content); ?></p><?php
+                				} else {
+                					
+                				}
+                            */
+				the_content(_('more ...'));
 			} else if ($isPhoto || $isPhotoByCat) {
 				if (preg_match('/<img[^>]+>/', $content, $match)) {
 					$img = $match[0];
@@ -129,7 +132,7 @@
 		   if(!$hide_map && class_exists('GeoMashup')) {
 				$coordinates = GeoMashup::post_coordinates();
 				if (!$coordinates) {
-					if ($isFlickrSet) {
+					if ($isFlickrSet && is_array($set->photo)) {
 						foreach($set->photo as $photo) {
 							if ($photo->id !== $set->primary) continue;
 							if (property_exists($photo, 'latitude')) {
@@ -187,9 +190,6 @@
 
         <?php the_tags( '<p><small>' . _('Tags') . ' &gt; </small>', ' ', '</p>'); ?>
         
-        <p>&nbsp;</p>
-        <?php the_flattr_permalink() ?>
-
         <p>&nbsp;</p>
         <?php next_post_link('<p><small>'. _('next') . ' &gt;</small> %link</p>') ?>
         <?php previous_post_link('<p><small>'. _('previous') . ' &gt;</small> %link</p>') ?>
@@ -272,7 +272,7 @@
         </ul>
         <?php
 		endif;
-		if ($isFlickrSet) printFlickrPhotoList($flickr_set, $flickrSetLargeFirst);
+		// if ($isFlickrSet) printFlickrPhotoList($flickr_set, $flickrSetLargeFirst);
 		?>
     </div>
 </div>
