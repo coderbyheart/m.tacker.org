@@ -1,1 +1,3 @@
 local-config.php
+local-server-router.php
+local-server.sh

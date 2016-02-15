@@ -44,6 +44,11 @@ if ( ! class_exists( 'WMobilePack' ) ) {
                 $WMP_Uploads = new WMobilePack_Uploads();
                 $WMP_Uploads->define_uploads_dir();
             }
+
+            // we only need notices for admins
+            if ( is_admin() ) {
+                $this->setup_hooks();
+            }
         }
 
 
@@ -94,24 +99,74 @@ if ( ! class_exists( 'WMobilePack' ) ) {
 
 
         /**
+         * Init admin notices hook
+         */
+        public function setup_hooks(){
+            add_action( 'admin_notices', array( $this, 'display_admin_notices' ) );
+        }
+
+        /**
+         *
+         * Show admin notice if license is not active
+         *
+         */
+        public function display_admin_notices(){
+
+            if ( ! current_user_can( 'manage_options' ) ) {
+                return;
+            }
+
+            if (version_compare(PHP_VERSION, '5.3') < 0) {
+                echo '<div class="error"><p><b>Warning!</b> The ' . WMP_PLUGIN_NAME . ' plugin requires at least PHP 5.3.0!</p></div>';
+                return;
+            }
+
+            // display upgrade to pro notice
+            $this->display_pro_release_notice();
+        }
+
+        /**
+         *
+         * Display a dismissible admin notice when a new version of the PRO plugin is released
+         *
+         */
+        public function display_pro_release_notice(){
+
+            if (WMobilePack_Options::get_setting('upgrade_notice_updated') == 1) {
+
+                $whats_new_updates = WMobilePack_Admin::whatsnew_updates();
+
+                if (is_array($whats_new_updates) && !empty($whats_new_updates)) {
+
+                    if (array_key_exists('pro_release', $whats_new_updates) && is_array($whats_new_updates['pro_release'])) {
+
+                        if (array_key_exists('text', $whats_new_updates['pro_release'])) {
+                            echo '<div class="notice is-dismissible '.WMobilePack_Cookie::$prefix.'upgrade_notice">' . $whats_new_updates['pro_release']['text'] . '</div>';
+                        }
+                    }
+                }
+            }
+        }
+
+        /**
          *
          * Transform settings to fit the new plugin structure
          *
          */
         public function backwards_compatibility(){
 
-            if ( ! class_exists( 'WMobilePack_Themes' ) && version_compare(PHP_VERSION, '5.3') >= 0) {
-                require_once(WMP_PLUGIN_PATH.'inc/class-wmp-themes.php');
+            if ( ! class_exists( 'WMobilePack_Themes_Config' )) {
+                require_once(WMP_PLUGIN_PATH.'inc/class-wmp-themes-config.php');
             }
             
-            if (class_exists('WMobilePack_Themes')){
+            if (class_exists('WMobilePack_Themes_Config')){
 
                 foreach (array('headlines', 'subtitles', 'paragraphs') as $font_type) {
     
                     $font_option = WMobilePack_Options::get_setting('font_'.$font_type);
     
                     if (!is_numeric($font_option)){
-                        $new_font_option = array_search($font_option, WMobilePack_Themes::$allowed_fonts) + 1;
+                        $new_font_option = array_search($font_option, WMobilePack_Themes_Config::$allowed_fonts) + 1;
                         WMobilePack_Options::update_settings('font_'.$font_type, $new_font_option);
                     }
                 }
