@@ -1,11 +1,10 @@
 <?php
+
 /** Enable W3 Total Cache Edge Mode */
 define('W3TC_EDGE_MODE', true); // Added by W3 Total Cache
 
-
-if ( file_exists( dirname( __FILE__ ) . '/local-config.php' ) ) {
-    include( dirname( __FILE__ ) . '/local-config.php' );
-}
+define('WP_HOME', getenv('HTTP_HOST'));
+define('WP_SITEURL', getenv('HTTP_HOST') . '/');
 
 // ** MySQL settings ** //
 define('DB_NAME', getenv('RDS_DB_NAME'));    // The name of the database
