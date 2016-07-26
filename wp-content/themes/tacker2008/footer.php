@@ -10,7 +10,7 @@
                         <li><a href="http://markusstudiert.de/" rel="me" class="block">Markus studiert!</a></li>
                         <li><a href="https://m.tacker.org/datenschutz" class="block">Datenschutz</a></li>
                         <li><a href="https://m.tacker.org/hinweise" class="block">Hinweise</a></li>
-                        <li><a href="https://cto.hiv/" class="block" rel="author">Kontakt</a></li>
+                        <li><a href="https://coderbyheart.com/" class="block" rel="author">Kontakt</a></li>
                     </ul>
                     <!-- Tasg -->
                     <h3><?php echo _('Tags'); ?></h3>

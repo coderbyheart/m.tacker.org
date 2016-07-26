@@ -80,7 +80,7 @@
             <li><a class="block" href="https://m.tacker.org/datenschutz">Datenschutz</a></li>
             <li><a class="block" href="https://m.tacker.org/hinweise">Hinweise</a></li>
             <?php endif; ?>
-            <li><a class="block" href="https://cto.hiv/" rel="author"><?php echo _('Contact'); ?></a></li>
+            <li><a class="block" href="https://coderbyheart.com/" rel="author"><?php echo _('Contact'); ?></a></li>
         </ul>
 
         <?php if (D_MTACKERORG): ?>

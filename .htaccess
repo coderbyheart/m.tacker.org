@@ -27,8 +27,8 @@
 	RewriteCond %{HTTP_HOST} ^static.tacker.org$
 	RewriteRule ^uploads/(.*) https://m.tacker.org/wp-content/uploads/$1 [R=permanent,L]
 
-	# cto.hiv
-	RewriteRule ^markus-tacker(.*) https://cto.hiv/ [R=permanent,L]
+	# coderbyheart.com
+	RewriteRule ^markus-tacker(.*) https://coderbyheart.com/ [R=permanent,L]
 
  	# Hide Author Pages
 	RewriteRule ^author/.* - [F]
