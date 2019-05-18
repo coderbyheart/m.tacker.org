@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>DSL &#8211; [|] m.tacker.org</title>
+	<atom:link href="https://m.tacker.org/tag/dsl/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Tue, 12 Jan 2016 11:45:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>Ab jetzt online mit O2</title>
+		<link>https://m.tacker.org/2469.ab-jetzt-online-mit-o2.html</link>
+		<comments>https://m.tacker.org/2469.ab-jetzt-online-mit-o2.html#respond</comments>
+		<pubDate>Fri, 30 Jul 2010 09:18:15 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[DSL]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=2469</guid>
+		<description><![CDATA[Inzwischen bin ich wieder online — nach dem angekündigten Providerwechsel von Arcor zu O2 glühen die Leitungen nach einer etwas längeren Umbauphase wieder. Die erste Überraschung war, dass auch O2 nur Voice-Over-IP-Telefonanschlüsse vertreibt — deswegen lassen sich an den O2-DSL-Router auch keine ISDN-Anlagen anschließen. Deswegen musste ich meine Installation, die sich zwischen einem Anbau im [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Inzwischen bin ich wieder online — nach dem angekündigten <a href="https://m.tacker.org/2419.tschus-arcor-aber-was-kommt-nach-dann.html">Providerwechsel </a>von Arcor zu O2 glühen die Leitungen nach einer etwas längeren Umbauphase wieder.</p>
+<p>Die erste Überraschung war, dass auch O2 nur Voice-Over-IP-Telefonanschlüsse vertreibt — deswegen lassen sich an den O2-DSL-Router auch keine ISDN-Anlagen anschließen. Deswegen musste ich meine Installation, die sich zwischen einem Anbau im Hof und der Wohnung im 5. Stock verteilt etwas umkonfigurieren, da ich aber in den letzten Jahren genug vollgepatchte Kabel verlegt habe, war das kein Problem.</p>
+<p>Zweite Überraschung war dann, dass die kostenlosen Gespräche durch die O2 Family&amp;Office Option nur zwischen den Verträgen der selben Kundennummer möglich sind, weitere Rufnummern kann man nicht dazu konfigurieren.</p>
+<p>Aber der Ärger hält sich in Grenzen, ich kann ja schon nächsten Monat kündigen.</p>
+<p>Positiv überrascht war ich vom Router, der neben Portforwarding und konfigurierbarem DHCP-Server auch DynDNS unterstützt.</p>
+<p>Hier ist noch der Speedtest via <a href="http://www.speedmeter.de/">speedmeter.de</a>.</p>
+<p><img src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2010/05/33682813.png" alt="" title="33682813" width="341" height="150" class="aligncenter size-full wp-image-2471" /></p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/2469.ab-jetzt-online-mit-o2.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Tschüß Arcor, aber was kommt nach dann?</title>
+		<link>https://m.tacker.org/2419.tschus-arcor-aber-was-kommt-nach-dann.html</link>
+		<comments>https://m.tacker.org/2419.tschus-arcor-aber-was-kommt-nach-dann.html#comments</comments>
+		<pubDate>Sun, 30 May 2010 15:23:25 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[DSL]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=2419</guid>
+		<description><![CDATA[Nachdem Arcor im letzten Jahr von Vodafone übernommen wurde, und mein DSL-Anschluss inzwischen auch umgetauft wurde, nehme ich in ein paar Wochen auch Abschied von Arcor — Vodafone konnte mich mit seinen Paketen einfach nicht überzeugen. Eine Vertragslaufzeit von 12 oder 24 Monaten ist inzwischen auch überholt. Auf der Suche nach Alternativen würde ich dann [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Nachdem Arcor im letzten Jahr von Vodafone übernommen wurde, und mein DSL-Anschluss inzwischen auch umgetauft wurde, nehme ich in ein paar Wochen auch Abschied von Arcor — Vodafone konnte mich mit seinen Paketen einfach nicht überzeugen. Eine Vertragslaufzeit von 12 oder 24 Monaten ist inzwischen auch überholt.</p>
+<p>Auf der Suche nach Alternativen würde ich dann aber herb enttäuscht: Konnte man sich vor Jahren noch alle zwei Jahr über tolle neue Internetanbindungen freuen (Modem → ISDN → DSL 1 mit 768 KBit/s → DSL 2 mit bis zu 16 MBit/s) ist inzwischen Ruhe eingekehrt. Sicher: Platzhirsche wie VDSL und Internet über Kabel bieten Geschwindigkeiten bis zu 100 MBit/s, aber nur in Verbindung mit teuren Telefon- und TV-Paketen, die ich einfach nicht brauchen. Ich will nacktes Glasfaser, telefonieren geht auch mit dem Handy.</p>
+<p>Um mich also nicht lange an einen Anbieter binden zu müssen, begab ich mich auf die Suche nach einem DSL-Anbieter ohne Mindestvertragslaufzeit. Neben den Pionieren auf dem Gebiet Hansenet mit ihrem Produkt Alice sind inzwischen viele weitere Unternehmen auf den Trichter gekommen, dass Knebelveträge out sind. Nach einigem Suchen habe ich mich dann für O2 entschieden, aktuell in der <a href="http://9tr.de/RJZ0D2">6-MBit-Variante DSL Komplett Plus</a> für 30 € im Monat zu haben — und zwar mit vollwertigem ISDN-Anschluss — sogar die Einrichtungsgebühr entfällt.</p>
+<p>Und das Tolle ist, zu dem noch die O2 Family&amp;Office Option, die im Preis enthalten ist: Damit telefoniert man vom Festnetz kostenlos ins Mobilfunknetz von O2. <del datetime="2010-07-30T09:08:43+00:00">und, da wir beiden inzwischen auch unsere Mobilfunkverträge bei O2 haben auch kostenlos zwischen den Handys und von den Handys auf den heimischen Telefonanschluss</del>. <em>Update 30. Juli 2010</em>: Die O2 Family&amp;Office Option ermöglicht kostenlose Gespräche nur zwischen den Verträge der selben Kundennummer.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/2419.tschus-arcor-aber-was-kommt-nach-dann.html/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

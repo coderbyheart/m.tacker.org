@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>PEAR File_Bittorrent &#8211; [|] m.tacker.org</title>
+	<atom:link href="https://m.tacker.org/category/projekte/pear-file_bittorrent/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Tue, 12 Jan 2016 11:45:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>File_Bittorrent 2.1.0 release</title>
+		<link>https://m.tacker.org/862.file_bittorrent-210-release.html</link>
+		<comments>https://m.tacker.org/862.file_bittorrent-210-release.html#respond</comments>
+		<pubDate>Sat, 12 Jan 2008 10:56:41 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PEAR File_Bittorrent]]></category>
+		<category><![CDATA[Projekte]]></category>
+		<category><![CDATA[Bittorrent]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[PEAR]]></category>
+		<category><![CDATA[PHP]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/862.file_bittorrent-210-release.html</guid>
+		<description><![CDATA[I&#8217;ve just released File_Bittorrent 2.1.0. This is the stable release of the PHP5 only version of File_Bittorrent. New features include the ability to add a specific list of files while making a torrent. This feature has been implemented by Barry Hunter.]]></description>
+				<content:encoded><![CDATA[<p><img src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/07/file_bittorrent.gif" alt="PEAR::File_Bittorrent" class="right" />I&#8217;ve just released <a href="http://pear.php.net/package/File_Bittorrent2/">File_Bittorrent 2.1.0</a>. This is the stable release of the PHP5 only version of <a href="http://pear.php.net/package/File_Bittorrent/">File_Bittorrent</a>. New features include the ability to add a specific list of files while making a torrent. This feature has been implemented by <a href="http://barryhunter.co.uk">Barry Hunter</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/862.file_bittorrent-210-release.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>File_Bittorrent2 released</title>
+		<link>https://m.tacker.org/773.file_bittorrent2-released.html</link>
+		<comments>https://m.tacker.org/773.file_bittorrent2-released.html#respond</comments>
+		<pubDate>Sun, 26 Aug 2007 11:11:23 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PEAR File_Bittorrent]]></category>
+		<category><![CDATA[Projekte]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[PEAR]]></category>
+		<category><![CDATA[PHP]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/773.file_bittorrent2-released.html</guid>
+		<description><![CDATA[I&#8217;ve just released File_Bittorrent2. This is the PHP5 only version of File_Bittorrent &#8212; no new features were added, even the API is the same. Only the error handling has been changed according to PEAR&#8217;s new error handling guidelines «Error Signaling in PHP 5 PEAR packages».]]></description>
+				<content:encoded><![CDATA[<p><img src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/07/file_bittorrent.gif" alt="PEAR::File_Bittorrent" class="right" />I&#8217;ve just released <a href="http://pear.php.net/package/File_Bittorrent2/">File_Bittorrent2</a>. This is the PHP5 only version of <a href="http://pear.php.net/package/File_Bittorrent/">File_Bittorrent</a> &mdash; no new features were added, even the API is the same.</p>
+<p>Only the error handling has been changed according to <a href="http://www.go-pear.org/manual/en/standards.errors.php">PEAR&#8217;s new error handling guidelines</a> «Error Signaling in PHP 5 PEAR packages».</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/773.file_bittorrent2-released.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>File_Bittorrent 1.0.1 released</title>
+		<link>https://m.tacker.org/383.file_bittorrent-101-released.html</link>
+		<comments>https://m.tacker.org/383.file_bittorrent-101-released.html#comments</comments>
+		<pubDate>Mon, 03 Jul 2006 08:20:31 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PEAR File_Bittorrent]]></category>
+		<category><![CDATA[Projekte]]></category>
+		<category><![CDATA[Bittorrent]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[PEAR]]></category>
+		<category><![CDATA[PHP]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/383.file_bittorrent-101-released.html</guid>
+		<description><![CDATA[Yesterday I have released File_Bittorrent 1.0.1 with some minor bug fixes and enhancements. The complete changelog can be found here. There are currently two open bugs. Bug #5836 (Support for files &#62; 2GB) is a pain in the ass to test, so no progress there. I appreciate every help here. Bug #5880 (Support UTF-8 encoding) [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/07/file_bittorrent.gif" id="image381" alt="PEAR File_Bittorrent" class="right" />Yesterday I have released File_Bittorrent 1.0.1 with some minor bug fixes and enhancements. The complete changelog can be found <a href="http://versions.tacker.org/trac/File_Bittorrent/log/trunk?action=stop_on_copy&amp;rev=61&amp;stop_rev=55&amp;mode=stop_on_copy">here</a>.</p>
+<p>There are currently two open bugs. <a href="http://pear.php.net/bugs/5836">Bug #5836</a> (Support for files &gt; 2GB) is a pain in the ass to test, so no progress there. I appreciate every help here. <a href="http://pear.php.net/bugs/5880">Bug #5880</a> (Support UTF-8 encoding) is a two sided sword. Of course, UTF-8 is the only future proof way to go but unless the original bittorrent programs do not work with UTF-8, File_Bittorrent won&#8217;t either. Even if other clients do the original bittorrent programs are the reference implementation.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/383.file_bittorrent-101-released.html/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>File_Bittorrent stable</title>
+		<link>https://m.tacker.org/42.file_bittorrent-stable.html</link>
+		<comments>https://m.tacker.org/42.file_bittorrent-stable.html#respond</comments>
+		<pubDate>Wed, 19 Oct 2005 20:45:57 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PEAR File_Bittorrent]]></category>
+		<category><![CDATA[Projekte]]></category>
+		<category><![CDATA[Bittorrent]]></category>
+		<category><![CDATA[PEAR]]></category>
+		<category><![CDATA[PHP]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/42.file_bittorrent-stable.html</guid>
+		<description><![CDATA[Just released]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;ve just released File_Bittorrent 1.0.0.<br />
+Thanks to all who helped me during the last weeks.</p>
+<p>Please check out the project page [1] for the progress.<br />
+If you have any comments or questions don&#8217;t hesitate to ask. You may even file a bug here [2].</p>
+<ul>
+<li>[1] <a href="http://versions.tacker.org/trac/File_Bittorrent/">project page</a></li>
+<li>[2] <a href="http://versions.tacker.org/trac/File_Bittorrent/newticket">file a bug</a></li>
+</ul>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/42.file_bittorrent-stable.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>File_Bittorrent license changed</title>
+		<link>https://m.tacker.org/36.file_bittorrent-license-changed-to-lgpl.html</link>
+		<comments>https://m.tacker.org/36.file_bittorrent-license-changed-to-lgpl.html#respond</comments>
+		<pubDate>Fri, 26 Aug 2005 09:25:49 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PEAR File_Bittorrent]]></category>
+		<category><![CDATA[Projekte]]></category>
+		<category><![CDATA[Bittorrent]]></category>
+		<category><![CDATA[PEAR]]></category>
+		<category><![CDATA[PHP]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/36.file_bittorrent-license-changed-to-lgpl.html</guid>
+		<description><![CDATA[License changed from PHP to LGPL]]></description>
+				<content:encoded><![CDATA[<p>Due to the ongoing disussions about the PHP license beeing in conflict with major opensource licenses [1] I change File_Bittorrent&#8217;s license to LGPL in [2].<br />
+I hope this adresses most concerns also I see that most developers prefer the BSD license.</p>
+<ul>
+<li>[1] <a href="http://versions.tacker.org/trac/File_Bittorrent/ticket/8">Ticket explaining the problem</a></li>
+<li>[2] <a href="http://versions.tacker.org/trac/File_Bittorrent/changeset/42">Changeset</a></li>
+</ul>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/36.file_bittorrent-license-changed-to-lgpl.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>File_Bittorrent 1.0 Release Candidate 1</title>
+		<link>https://m.tacker.org/35.file_bittorrent-10-release-candidate-1.html</link>
+		<comments>https://m.tacker.org/35.file_bittorrent-10-release-candidate-1.html#respond</comments>
+		<pubDate>Wed, 20 Jul 2005 21:54:07 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PEAR File_Bittorrent]]></category>
+		<category><![CDATA[Projekte]]></category>
+		<category><![CDATA[Bittorrent]]></category>
+		<category><![CDATA[PEAR]]></category>
+		<category><![CDATA[PHP]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/35.file_bittorrent-10-release-candidate-1.html</guid>
+		<description><![CDATA[File_Bittorrent 1.0.0RC1 released]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;ve just release RC1 of File_Bittorrent [1].<br />
+After fixing the info_hash issue [2] I&#8217;ve cleaned up Justin&#8217;s MakeTorrent.php [3] which adds the ability to create .torrent files to the package.<br />
+I am planning the stable release for August 20. After that I will create the File_Bittorrent2 which will be the PHP 5 version of the package.</p>
+<ul>
+<li>[1] <a href="http://pear.php.net/package/File_Bittorrent">Package homepage</a></li>
+<li>[2] <a href="http://versions.tacker.org/trac/File_Bittorrent/ticket/1">info_hash ticket</a></li>
+<li>[3] <a href="http://versions.tacker.org/trac/File_Bittorrent/browser/branches/1.0.0RC1/File/Bittorrent/MakeTorrent.php">MakeTorrent.php</a></li>
+</ul>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/35.file_bittorrent-10-release-candidate-1.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>File_Bittorrent 0.1.7 + 0.1.8</title>
+		<link>https://m.tacker.org/33.file_bittorrent-017.html</link>
+		<comments>https://m.tacker.org/33.file_bittorrent-017.html#respond</comments>
+		<pubDate>Mon, 20 Jun 2005 20:45:04 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PEAR File_Bittorrent]]></category>
+		<category><![CDATA[Projekte]]></category>
+		<category><![CDATA[Bittorrent]]></category>
+		<category><![CDATA[PEAR]]></category>
+		<category><![CDATA[PHP]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=33</guid>
+		<description><![CDATA[Bugfix release]]></description>
+				<content:encoded><![CDATA[<p>Ein neues Bugfix-Release habe ich heute veröffentlicht [1].<br />
+Vielen Dank an gaggge und Justin &#8220;nagash&#8221; Jones für das Aufspüren und Mithelfen.</p>
+<p>Beide haben mich auch etwas weiter bei der fehlenden Info_Hash-Unterstützung gebracht. Hier konnte ich bisher noch keinen wirklich funktionierenden Hash produzieren. Siehe hierzu [2]. Ich habe zwei Ansätze die beide andere Hashes liefern als btshowmetainfo.py.</p>
+<p>Nervig.</p>
+<ul>
+<li>[1] <a href="http://pear.php.net/package/File_Bittorrent">PEAR File_Bittorrent</a></li>
+<li>[2] <a href="https://m.tacker.org/projects/File_Bittorrent/trunk/infohash.phps">infohash Test</a></li>
+</ul>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/33.file_bittorrent-017.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>File_Bittorrent 0.1.4</title>
+		<link>https://m.tacker.org/20.file_bittorrent-014.html</link>
+		<comments>https://m.tacker.org/20.file_bittorrent-014.html#respond</comments>
+		<pubDate>Fri, 04 Feb 2005 12:30:51 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PEAR File_Bittorrent]]></category>
+		<category><![CDATA[Projekte]]></category>
+		<category><![CDATA[Bittorrent]]></category>
+		<category><![CDATA[PEAR]]></category>
+		<category><![CDATA[PHP]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/20.file_bittorrent-014.html</guid>
+		<description><![CDATA[Bugfix release]]></description>
+				<content:encoded><![CDATA[<p>Bei einigen Torrents kommt es vor dass die Dictionaries nicht mit einem &#8216;e&#8217; beendet werden. Dies bewirkte eine unendliche Schleife.<br />
+Release 0.1.4 behebt dieses Problem.</p>
+<p>Ein Update erfolgt per<br />
+<code>pear upgrade File_Bittorrent-beta</code></p>
+<p>Eine Installation per<br />
+<code>pear install File_Bittorrent-beta</code></p>
+<p>Vor der Installation des Beta-Stadiums muss eine evtl. installiertes Alpha-Release aber erst deinstalliert werden<br />
+<code>pear uninstall File_Bittorrent-alpha</code></p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/20.file_bittorrent-014.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>File_Bittorrent 0.1.3</title>
+		<link>https://m.tacker.org/19.file_bittorrent-013.html</link>
+		<comments>https://m.tacker.org/19.file_bittorrent-013.html#respond</comments>
+		<pubDate>Mon, 31 Jan 2005 12:56:21 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PEAR File_Bittorrent]]></category>
+		<category><![CDATA[Projekte]]></category>
+		<category><![CDATA[Bittorrent]]></category>
+		<category><![CDATA[PEAR]]></category>
+		<category><![CDATA[PHP]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/19.file_bittorrent-013.html</guid>
+		<description><![CDATA[Kleines Bugfix-Release]]></description>
+				<content:encoded><![CDATA[<p>Ich habe eine neue Version von <a href="http://pear.php.net/package/File_Bittorrent/">PEARs File_Bittorrent</a> veröffentlicht.<br />
+Diese Release fixt den <a href="http://pear.php.net/bugs/3222">Bug #3222</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/19.file_bittorrent-013.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>PEAR File_Bittorrent</title>
+		<link>https://m.tacker.org/940.pear-file_bittorrent.html</link>
+		<comments>https://m.tacker.org/940.pear-file_bittorrent.html#respond</comments>
+		<pubDate>Tue, 20 Jul 2004 11:39:31 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PEAR File_Bittorrent]]></category>
+		<category><![CDATA[Projekte]]></category>
+		<category><![CDATA[Bittorrent]]></category>
+		<category><![CDATA[PEAR]]></category>
+		<category><![CDATA[PHP]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/940.pear-file_bittorrent.html</guid>
+		<description><![CDATA[PEAR File_Bittorrent is the PHP implementation of the Bittorrent protocol]]></description>
+				<content:encoded><![CDATA[<p><img src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/07/file_bittorrent.gif" id="image381" alt="PEAR File_Bittorrent" class="right" />PEAR File_Bittorrent is the PHP implementation of the <a href="http://www.bittorrent.com/">Bittorrent protocol</a>. It is based on the original Python implementation by Petru Paler, the PHP translation by Gerard Krijgsman and additional changes by Carl Ritson.</p>
+<p>It consists of three classes which handles the encoding and decoding of data in Bittorrent format. You can also extract useful informations from .torrent files, create .torrent files and query the torrent&#39;s scrape page to get its statistics.</p>
+<p>Starting in July 2004, PEAR File_Bittorrent hast been stabilised in October 2005.</p>
+<p>Visit the <a href="http://pear.php.net/package/File_Bittorrent">official package homepage on pear.php.net</a> for downloads. The development is managed via <a href="http://versions.tacker.org/trac/File_Bittorrent">trac</a> and the complete source is avaliable through <a href="http://versions.tacker.org/svn/File_Bittorrent/trunk">svn</a>.</p>
+<p>Usage examples can be found <a href="https://m.tacker.org/wp-admin/" title="http://versions.tacker.org/trac/File_Bittorrent/wiki/Documentation">here</a>.&nbsp;</p>
+<p>Please <a href="http://pear.php.net/bugs/report.php?package=File_Bittorrent">file bug reports or enhancement requests</a> on pear.php.net.&nbsp;</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/940.pear-file_bittorrent.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

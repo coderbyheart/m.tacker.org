@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:georss="http://www.georss.org/georss" 
+	>
+<channel>
+	<title>Comments on: Tetris-Regal</title>
+	<atom:link href="https://m.tacker.org/822.tetris-regal.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org/822.tetris-regal.html</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Mon, 23 Nov 2015 21:43:02 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: Anonymous</title>
+		<link>https://m.tacker.org/822.tetris-regal.html/comment-page-1#comment-38191</link>
+		<dc:creator><![CDATA[Anonymous]]></dc:creator>
+		<pubDate>Tue, 28 Jun 2011 20:33:43 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/822.tetris-regal.html#comment-38191</guid>
+		<description><![CDATA[da ist ein hakenkreuz.]]></description>
+		<content:encoded><![CDATA[<p>da ist ein hakenkreuz.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Flower sammelt Tetris &#171; Wildflowers Blog</title>
+		<link>https://m.tacker.org/822.tetris-regal.html/comment-page-1#comment-36374</link>
+		<dc:creator><![CDATA[Flower sammelt Tetris &#171; Wildflowers Blog]]></dc:creator>
+		<pubDate>Sun, 01 Nov 2009 12:32:55 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/822.tetris-regal.html#comment-36374</guid>
+		<description><![CDATA[[...] Ein Tetris-Regal &#8211; Leider ist es ziemlich teuer&#8230; [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Ein Tetris-Regal &#8211; Leider ist es ziemlich teuer&#8230; [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

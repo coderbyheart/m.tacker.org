@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>php flickr &#8211; [|] m.tacker.org</title>
+	<atom:link href="https://m.tacker.org/tag/php-flickr/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Tue, 12 Jan 2016 11:45:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>flickr für Fotos im Blog</title>
+		<link>https://m.tacker.org/2353.flickr-fur-fotos-im-blog.html</link>
+		<comments>https://m.tacker.org/2353.flickr-fur-fotos-im-blog.html#respond</comments>
+		<pubDate>Mon, 15 Feb 2010 13:37:17 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Technik]]></category>
+		<category><![CDATA[php flickr]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=2353</guid>
+		<description><![CDATA[Seit ein paar Tagen habe ich ja einen flickr-Pro-Account. Nun habe ich angefangen, meine ganzen Fotos dorthin hoch zu laden um meinen bisher eher komplizierten Workflow zum veröffentlichen von Fotos in meinem Blog zu vereinfachen. Die flickr API liefert eigentlich alles, was man braucht, um eine einfache Integration des flickr-Kontos in ein Blog zu realisieren. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Seit ein paar Tagen habe ich ja einen flickr-Pro-Account. Nun habe ich angefangen, meine ganzen Fotos dorthin hoch zu laden um meinen bisher eher komplizierten Workflow zum veröffentlichen von Fotos in meinem Blog zu vereinfachen.</p>
+<p>Die <a href="http://www.flickr.com/services/api/">flickr API</a> liefert eigentlich alles, was man braucht, um eine einfache Integration des flickr-Kontos in ein Blog zu realisieren.</p>
+<p>Aktuell habe ich flickr schon an diesen Stellen im Blog integriert:</p>
+<h3 class="textimage">Startseite</h3>
+<p>Der Foto-Showcase auf der <a href="https://m.tacker.org/">Startseite</a> wird aus den Fotos des Sets <a class="icon iflickr" href="http://www.flickr.com/photos/tacker/sets/72157623232431871/">„Showcase“</a> gefüttert.</p>
+<h3 class="textimage">Einzelbilder in Beiträgen</h3>
+<p>Einzelne Fotos lassen sich als Artikel-Bild mittels eines custom fields anzeigen. Das sieht dann so aus wie im Beitrag: <a href="https://m.tacker.org/2317.preistaktik.html">Preistaktik’s Umgang mit Kritik</a>.</p>
+<h3 class="textimage">Sets veröffentlichen</h3>
+<p>Ganze Sets lassen sich nach genau dem gleichen Prinzip ebenfalls veröffentlichen. Hier hole ich mir aus der API neben den Fotos eines Sets auch das Hauptbild des Sets und zeige es als Artikel-Bild an. Der Text kommt ebenfalls aus der Beschreibung des Sets.<br />
+Falls vorhanden, werden die Geo-Informationen eines Bildes als Karte angezeigt. Im Beitrag <a href="https://m.tacker.org/2350.hausbooturlaub-marnemoende-marina.html">Hausbooturlaub: Marnemoende Marina</a> kann man sehen wie das ausschaut.<br />
+Zum Vergleich hier ein „herkömmlicher“ Beitrag im gleichen Stil: <a href="https://m.tacker.org/2221.hausbooturlaub-gauda.html">Hausbooturlaub: Gauda</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/2353.flickr-fur-fotos-im-blog.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

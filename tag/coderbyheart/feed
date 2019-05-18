@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>coderbyheart &#8211; [|] m.tacker.org</title>
+	<atom:link href="https://m.tacker.org/tag/coderbyheart/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Tue, 12 Jan 2016 11:45:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>ab 2010 alles mit MwSt.</title>
+		<link>https://m.tacker.org/2312.ab-2010-alles-mit-mwst.html</link>
+		<comments>https://m.tacker.org/2312.ab-2010-alles-mit-mwst.html#respond</comments>
+		<pubDate>Tue, 02 Feb 2010 14:27:24 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[coderbyheart]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=2312</guid>
+		<description><![CDATA[Seit dem 1. Januar bin ich kein Kleinunternehmer nach § 19 UStG mehr. Bisher hatte ich alle meine Rechnung Netto gestellt, ohne Mehrwertsteuer zu berechnen. Dies ist ein Vorteil, wenn man vor allem an Privatpersonen Rechnungen stellt, da diese ja keinen Mehrwertsteuer abführen können. Außerdem spart man sich den Aufwand mit der Umsatzsteuervoranmeldung. Der Nachteil [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Seit dem 1. Januar bin ich kein Kleinunternehmer nach <a href="http://www.gesetze-im-internet.de/ustg_1980/__19.html">§ 19 UStG</a> mehr.</p>
+<p>Bisher hatte ich alle meine Rechnung Netto gestellt, ohne Mehrwertsteuer zu berechnen. Dies ist ein Vorteil, wenn man vor allem an Privatpersonen Rechnungen stellt, da diese ja keinen Mehrwertsteuer abführen können. Außerdem spart man sich den Aufwand mit der Umsatzsteuervoranmeldung.</p>
+<p>Der Nachteil ist aber ganz klar, dass man selber nicht mit der Mehrwertsteuer arbeiten kann&#8230;</p>
+<p>Deswegen habe ich mich entschieden, ab 2010 auf die reguläre Besteuerung um zu stellen. Die Umstellung selber ist ganz einfach und bedarf keiner besonderen Kommunikation mit dem Finanzamt:<br />
+Man stellt ab dem 1. eines Kalenderjahres seine Rechnungen so, dass sie die Mehrwertsteuer ausweisen. Ab dann muss man auch am Ende eines jeden Monats eine Umsatzsteuervoranmeldung abgeben &mdash; das geht inzwischen sehr bequem elektronisch via <a href="https://www.elsteronline.de/eportal/Authentisiere.tax">ElSter</a> &mdash; und spätestens zum 10. des Folgemonats die berechnete Mehrwertsteuer an das Finanzamt überweisen, unabhängig davon, ob der Rechnungsempfänger schon gezahlt hat.</p>
+<p>Aber Achtung: die Art der Besteuerung darf man nur alle 5 Jahre ändern.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/2312.ab-2010-alles-mit-mwst.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

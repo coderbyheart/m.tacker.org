@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>Alverde &#8211; [|] m.tacker.org</title>
+	<atom:link href="https://m.tacker.org/tag/alverde/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Tue, 12 Jan 2016 11:45:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>Im Schnitt: Alverde Men Feuchtigkeitsfluid Verpackung</title>
+		<link>https://m.tacker.org/2804.im-schnitt-alverde-men-feuchtigkeitsfluid-verpackung.html</link>
+		<comments>https://m.tacker.org/2804.im-schnitt-alverde-men-feuchtigkeitsfluid-verpackung.html#respond</comments>
+		<pubDate>Fri, 11 Mar 2011 11:02:29 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[Alverde]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=2804</guid>
+		<description><![CDATA[Heute habe ich mir die Zeit genommen, diese Verpackung mal genauer unter die Lupe zu nehmen — eine Bandsäge war mir dabei eine große Hilfe.]]></description>
+				<content:encoded><![CDATA[<p>Vor einiger Zeit hatte ich ja schon über den krassen Materialaufwand, den Alverde bei seiner Verpackung für das Men Feuchtigkeitsfluid betreibt hingewiesen: <a href="https://m.tacker.org/2654.verpackungsmonster-alverde-men-feuchtigkeitsfluid.html">Verpackungsmonster Alverde Men Feuchtigkeitsfluid</a>.</p>
+<p>Heute habe ich mir die Zeit genommen, diese Verpackung mal genauer unter die Lupe zu nehmen — eine Bandsäge war mir dabei eine große Hilfe.</p>
+<p>Jetzt kann man das ganze Ausmaß dieses Verpackungsirrsinns erkennen: im Inneren verbirgt sich eine große Stahlfeder und einige Plastikteil um die Flüssigkeit mittels Druck auf den Spender aus dem Behälter zu drücken.</p>
+<p>Interessanterweise gibt es aus dem gleichen Haus Lösungen, die genau das gleiche Machen — allerdings mit viel weniger Materialaufwand: <a title="dm-Homepage Deutschland - MEN" href="http://www.dm-drogeriemarkt.de/dmDHomepage/generator/dmD/Homepage/Sortiment/Gesichts-__und__Koerperpflege/alverde__markenbeitrag/men.html">Tuben</a>!</p>
+<p>Ich hoffe, da tut sich noch was — Alverde hatte auf meinen Hinweis hin geantwortet, das prüfen zu wollen &#8230;</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/2804.im-schnitt-alverde-men-feuchtigkeitsfluid-verpackung.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Verpackungsmonster Alverde Men Feuchtigkeitsfluid</title>
+		<link>https://m.tacker.org/2654.verpackungsmonster-alverde-men-feuchtigkeitsfluid.html</link>
+		<comments>https://m.tacker.org/2654.verpackungsmonster-alverde-men-feuchtigkeitsfluid.html#comments</comments>
+		<pubDate>Sun, 17 Oct 2010 11:11:01 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[Alverde]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=2654</guid>
+		<description><![CDATA[Alverde macht ja wirklich gute Produkte, aber die Verpackung des Alverde Men Feuchtigkeitsfluid hinterlässt bei mir nur Kopfschütteln. Die aufwendige Spenderverpackung aus Plastik wiegt satte 49g wenn sie leer ist, voll bringt sie 96g auf die Waage — gut 51% des Produktgewichts kommen also von der Verpackung. Das kann man für ein nachhaltiges Produkt doch [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.dm-drogeriemarkt.de/dmDHomepage/generator/dmD/Homepage/Sortiment/Gesichts-__und__Koerperpflege/alverde__markenbeitrag/alverde.html">Alverde</a> macht ja wirklich gute Produkte, aber die Verpackung des Alverde Men Feuchtigkeitsfluid hinterlässt bei mir nur Kopfschütteln.</p>
+<p>Die aufwendige Spenderverpackung aus Plastik wiegt satte 49g wenn sie leer ist, voll bringt sie 96g auf die Waage — gut 51% des Produktgewichts kommen also von der Verpackung.</p>
+<p>Das kann man für ein nachhaltiges Produkt doch besser machen, oder <a href="http://twitter.com/dm_alverde">@dm_alverde</a>?</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/2654.verpackungsmonster-alverde-men-feuchtigkeitsfluid.html/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

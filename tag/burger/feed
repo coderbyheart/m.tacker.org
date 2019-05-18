@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>Burger &#8211; [|] m.tacker.org</title>
+	<atom:link href="https://m.tacker.org/tag/burger/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Tue, 12 Jan 2016 11:45:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>BurgerME? BurgerNIE!</title>
+		<link>https://m.tacker.org/3251.burgerme-burgernie.html</link>
+		<comments>https://m.tacker.org/3251.burgerme-burgernie.html#respond</comments>
+		<pubDate>Tue, 26 Feb 2013 08:41:22 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Essen]]></category>
+		<category><![CDATA[Burger]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=3251</guid>
+		<description><![CDATA[Ganz klar: Nie wieder.]]></description>
+				<content:encoded><![CDATA[<p>Vor ein paar Tagen haben wir Nachmittags um 13:37 bei <a href="http://www.burgerme.de/" rel="nofollow">BurgerME</a> zum ersten Mal bestellt. Unser Bestellung bestand aus einem Crunchy Chicken Burger (6,30 €) und einen Cheese Burger (5,50 €). Nach gut 45 Minuten waren die Burger da. Beim Auspacken ist man erstmal positiv von der Optik überrascht, nur leider täuscht das fotogene Äußere der Burger über ihre inneren Wert hinweg. Dort findet sich, neben einer eher kümmerlichen Menge an Beilagen wie Salat und Soße, als Herz des Burgers ein widerliches Fleischbrei-Pattie. Auf meinen Fotos kann man gut erkennen, das vor allem das Hähnchen-Pattie fast nur aus einer homogenen Masse besteht, die mit ein paar, ca. 1mm großen Fleischstücken durchzogen ist. Beim Fleisch-Pattie verhält es sich ähnlich.</p>
+<p>Neben der faden Geschmack und der breiigen Textur fand ich vor allem erschreckend, dass das Pattie nie richtig warm gemacht wurde, was man gut am Käse des Cheeseburgers erkennen kann, der praktisch an keiner Stelle geschmolzen war.</p>
+<p>Ganz klar: Nie wieder.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/3251.burgerme-burgernie.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

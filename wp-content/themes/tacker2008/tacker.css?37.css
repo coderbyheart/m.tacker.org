@@ -1,0 +1,63 @@
+/* $Id: tacker.css 520 2010-01-23 08:25:16Z m $ */
+/** Site-specifics **/
+#skyscraper { position: absolute; top: 20px; left: 775px; width: 173px; }
+#skyscraperclose { background: url(i/ad-close.gif); width: 13px; height: 57px; float: right; cursor:pointer; }
+
+div.video { text-align: center; }
+#strompartner-iframe { border: 0; width: 100%; height: 500px; margin: 0 0 10px 0; }
+dl.foto { float: right; width: 300px; background-color: #F5F5F5; border-bottom: 3px solid #ccc; margin: 0 20px 5px 10px; }
+dl.foto dt { padding: 10px; text-align: center; }
+dl.foto dd { font-size: 0.8em; padding: 0 10px 10px 10px; margin: 0; }
+table { margin: 0 20px 0 20px; }
+table.contact td { padding: 5px; text-align: center; }
+thead, tfoot{ font-weight: bold; }
+
+td { padding: 4px; }
+td.right { text-align: right; float: none; }
+
+div.warning { border: 10px solid #E5A4A4; background-color: #FFF8EE; padding: 10px; margin: 0 20px; }
+
+dl { margin: 20px; }
+dt { font-size: 0.9em; text-transform: uppercase; }
+dd { margin: 0 0 0 10px; }
+.nodisplay { display: none; }
+
+#tagcloud { margin: 0 0 40px 15px; }
+#tagcloud a { display: inline; text-decoration: none; }
+#tagcloud-quer { font-size: 0.75em; }
+#tagcloud-quer a { color: #a0a0a0 !important;  text-decoration: none; }
+
+#fotos { float: left; margin: 40px 0 40px 200px; }
+ul.fotolist { list-style: none; padding: 0; margin: 0; max-width: 800px; }
+div.index ul.fotolist { width: 460px; }
+ul.fotolist p { font-size: 0.8125em; }
+ul.fotolist a { color: #3c3c3c; text-decoration: none; }
+ul.fotolist li { padding: 0; margin: 14px 14px 0 0; float: left; font-size: 0.75em; position: relative; }
+ul.fotolist-post { width: 310px; }
+ul.fotolist-post li { margin: 2px 2px 0 0; }
+ul.thumblinks { list-style: none; padding: 2px 2px 0 0; margin: 0; position: absolute; bottom: 10px; right: 5px; display: none; background-color: #fff; }
+ul.thumblinks li { padding: 0; margin: 3px 0 0 3px; }
+a.fotolink { position: relative; display: block; text-decoration: none; }
+span.fotoinfo { position: absolute; top: 80%; right: -15px; display: block; background-color: #fff; color: #3c3c3c; padding: 0 4px; font-size: 0.8125em; }
+ul.relatedfotos { width: 350px; }
+
+/* Hide WP-Stats Smilie */
+img#wpstats{width:0px;height:0px;padding:0px;border:none;overflow:hidden}
+
+/*
+
+.cat-item-8 { background: url(./i/silk_red/page_white.png) no-repeat 100% 50%; }
+.cat-item-15 { background: url(./i/silk_red/brick.png) no-repeat 100% 2px; }
+.cat-item-28 { background: url(./i/silk_red/drink.png) no-repeat 100% 2px; }
+.cat-item-44 { background: url(./i/silk_red/picture.png) no-repeat 100% 2px; }
+.cat-item-31 { background: url(./i/silk_red/folder.png) no-repeat 100% 2px; }
+.cat-item-18 { background: url(./i/silk_red/wrench.png) no-repeat 100% 2px; }
+.cat-item-4 { background: url(./i/silk_red/cake.png) no-repeat 100% 2px; }
+.cat-item-208 { background: url(./i/silk_red/recliner.png) no-repeat 100% 2px; }
+
+*/
+
+/* Trigami Addons */
+#skyscraper { position: absolute; top: 100px; }
+#trigami { width: 728px; height: 90px; position: absolute; top: 4px; left: 205px; }
+body { padding-top: 80px; }

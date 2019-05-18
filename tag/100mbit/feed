@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>100mbit &#8211; [|] m.tacker.org</title>
+	<atom:link href="https://m.tacker.org/tag/100mbit/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Tue, 12 Jan 2016 11:45:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>Auch andere sind erst mit 100 MBit/s zufrieden</title>
+		<link>https://m.tacker.org/1761.auch-andere-sind-erst-mit-100-mbits-zufrieden.html</link>
+		<comments>https://m.tacker.org/1761.auch-andere-sind-erst-mit-100-mbits-zufrieden.html#respond</comments>
+		<pubDate>Mon, 26 Jan 2009 09:50:06 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[100mbit]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=1761</guid>
+		<description><![CDATA[Der Verband der Bürgernetze in Deutschland hat es auch verstanden, dass unsere aktuelle Internetbandbreiten viel zu niedrig sind. Er fordert von der Bundesregierung gleich 100 MBit/s für alle und betitelt unser aktuelle DSL-Technik schlicht als &#8220;Schmalband&#8221;. Das ist genau meine Meinung. Schön dass es noch andere gibt &#8212; leider gibt es in Hessen noch keine [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Der Verband der Bürgernetze in Deutschland hat es auch verstanden, dass unsere aktuelle Internetbandbreiten viel zu niedrig sind. Er fordert von der Bundesregierung gleich <a href="http://blog.buerger.net/archives/57-Buergernetzvereine-wollen-Internet-mit-Glasfaser-statt-Schmalband.html">100 MBit/s für alle</a> und betitelt unser aktuelle DSL-Technik schlicht als &#8220;Schmalband&#8221;. Das ist <a href="https://m.tacker.org/873.bandbreite-100-mbits-reichen-dem-normalen-haushalt.html">genau meine Meinung</a>. Schön dass es noch andere gibt &mdash; leider gibt es in <a href="http://www.buerger.net/einzugsbereich/">Hessen</a> noch keine Verbandsmitglieder &#8230;</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1761.auch-andere-sind-erst-mit-100-mbits-zufrieden.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Bandbreite: 100 MBit/s reichen dem normalen Haushalt</title>
+		<link>https://m.tacker.org/873.bandbreite-100-mbits-reichen-dem-normalen-haushalt.html</link>
+		<comments>https://m.tacker.org/873.bandbreite-100-mbits-reichen-dem-normalen-haushalt.html#comments</comments>
+		<pubDate>Mon, 28 Jan 2008 21:36:09 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[100mbit]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/873.bandbreite-100-mbits-reichen-dem-normalen-haushalt.html</guid>
+		<description><![CDATA[Neulich hatten wir mal über Bandbreite philosophiert. Ich bin dann zu der Auffassung gelangt, dass wir irgendwann ausreichend Bandbreite haben werden &#8212; und zwar wenn wir UHD (8-fach HDTV) in beide Richtungen übertragen können. Die notwendige Bandbreite berechnet sich so: 7.680 x 4.320 Pixel x 0,01 Bit(1) x 60(2) Frames ~= 20 Mbit/s (1) Ein [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Neulich hatten wir mal über Bandbreite philosophiert. Ich bin dann zu der Auffassung gelangt, dass wir irgendwann ausreichend Bandbreite haben werden &mdash; und zwar wenn wir <a href="http://en.wikipedia.org/wiki/Ultra_High_Definition_Video">UHD</a> (8-fach HDTV) in beide Richtungen übertragen können.</p>
+<p>Die notwendige Bandbreite berechnet sich so:</p>
+<h3>7.680 x 4.320 Pixel x 0,01 Bit<sup>(1)</sup> x 60<sup>(2)</sup> Frames ~= 20 Mbit/s</h3>
+<p><small><sup>(1)</sup> Ein bis dahin entwickelter Codec wird vermutlich bis zu <a href="http://de.wikipedia.org/wiki/HDTV#Markteinf.C3.BChrung">zehnmal so gut komprimieren wie H.264</a>.</small><br />
+<small><sup>(2)</sup> 60 Vollbilder pro Sekunden sind vielleicht viel, aber wir wollen ja nicht sparen.</small></p>
+<p>Multipliziert man das noch mit dem Faktor fünf, um den gleichzeitigen Empfang mehrerer Streams im Haushalt zu gewährleisten, sollten für den normalen Haushalt in Zukunft etwa 100 MBit/s im Downstream ausreichen. Da sich die Datenübertragung gerade bei Streams in <a href="http://de.wikipedia.org/wiki/Next_Generation_Network">Next Generation Networks</a> deutlich optimialer gestaltet, als in herkömmlichen IPv4-Netzen, dürfte das &mdash; ich bin selbst ein wenig überrascht &mdash; in den nächsten 10 Jahren durchaus realistisch sein.</p>
+<p><img src='https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2008/01/ap_38864_kommunikation_2.jpg' alt='Foto: aboutpixel.de Rainer Sturm' class='full' /><br />
+<small class="right">Foto: aboutpixel.de Rainer Sturm</small></p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/873.bandbreite-100-mbits-reichen-dem-normalen-haushalt.html/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

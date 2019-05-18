@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>IKEA &#8211; [|] m.tacker.org</title>
+	<atom:link href="https://m.tacker.org/tag/ikea/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Tue, 12 Jan 2016 11:45:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>IKEA KOLON &#8211; eine klebrigen Angelegenheit</title>
+		<link>https://m.tacker.org/2909.ikea-kolon-eine-klebrigen-angelegenheit.html</link>
+		<comments>https://m.tacker.org/2909.ikea-kolon-eine-klebrigen-angelegenheit.html#comments</comments>
+		<pubDate>Sun, 31 Jul 2011 11:00:45 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Wohnen]]></category>
+		<category><![CDATA[IKEA]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=2909</guid>
+		<description><![CDATA[Seit dem Einzug in unsere Wohnung vor gut vier Jahren, haben wir unter den Bürostühlen den Fußbodenschutz IKEA KOLON im Einsatz. Vor einiger Zeit habe ich dann bemerkt, dass sich der Schutz auf den Fußboden richtiggehend festgeklebt hatte. Es hat sich eine milchige, klebrige Schicht gebildet, deren Effekt ich in diesem Video demonstriere. Die Versuche [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Seit dem Einzug in unsere Wohnung vor gut vier Jahren, haben wir unter den Bürostühlen den Fußbodenschutz <a href="http://www.ikea.com/de/de/catalog/products/44881100">IKEA KOLON</a> im Einsatz.</p>
+<p>Vor einiger Zeit habe ich dann bemerkt, dass sich der Schutz auf den Fußboden richtiggehend festgeklebt hatte. Es hat sich eine milchige, klebrige Schicht gebildet, deren Effekt ich in diesem <a href="http://www.youtube.com/watch?v=gIc6_pIZu6I">Video</a> demonstriere.</p>
+<p>Die Versuche demm &#8220;Klebstoff&#8221; mit Waschbenzin bei zu kommen, haben wir schnell wieder aufgegeben, da hat sich kaum was getan &mdash; besonders ärgerlich war das natürlich auf dem Fußboden. Das Parkett wurde erst nach schweißtreibenden Putzarbeiten mit Waschbenzin und anschließend mit einem <a href="http://www.ha-ra.de/index.php?id=593">magischen Allesreiniger aus dem Hause HaRa</a> wieder sauber.</p>
+<p>Auf die Nachfrage bei IKEA bekamen wir diese Antwort:</p>
+<blockquote><p>Wir bedauern die Ihnen entstandenen Unannehmlichkeiten mit Ihrer IKEA Bodenschutzmatte. Die Bodenschutzmatte besteht aus PET-Kunststoff und einer rutschfesten Unterseite aus Polyurethan. Verschiedene Einflüsse können dazu beitragen, dass sich die Unterseite der Bodenschutzmatte auflöst bzw. mit dem Bodenbelag verbindet. In der Regel lassen sich die Rückstände mit einem milden Reiniger, Wasser und einem Mikrofasdertuch sowie Muskelkraft beseitigen. Sollten sich die Rückstände auf diese Weise nicht entfernen lassen, empfehlen wir Ihnen sich an Ihren lokalen Fachhandel (z.B. Baumarkt) zu wenden und sich bei der Auswahl eines für Ihren Bodenbelag geeigneten Reinigers beraten zu lassen. Die Hinzunahme eines Datenbaltts Ihres Bodenbelags wird die Auswahl eines geeigneten Reinigers erleichtern.</p>
+<p><strong>Wenn der Bodenschutz längere Zeit liegt, kann sich ein Vakuum bilden und den Fußboden beschädigen. Daher den Bodenschutz regelmäßig anheben, damit Luft an den Fußboden gelangt.</strong></p></blockquote>
+<p>Eine Gebrauchsanweisung mit <em>diesem</em> Hinweis liegt allerdings nicht bei.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/2909.ikea-kolon-eine-klebrigen-angelegenheit.html/feed</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+	</channel>
+</rss>

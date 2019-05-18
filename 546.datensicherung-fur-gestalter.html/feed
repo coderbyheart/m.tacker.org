@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:georss="http://www.georss.org/georss" 
+	>
+<channel>
+	<title>Comments on: Datensicherung für Gestalter</title>
+	<atom:link href="https://m.tacker.org/546.datensicherung-fur-gestalter.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org/546.datensicherung-fur-gestalter.html</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Mon, 23 Nov 2015 21:43:02 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: Eve</title>
+		<link>https://m.tacker.org/546.datensicherung-fur-gestalter.html/comment-page-1#comment-22885</link>
+		<dc:creator><![CDATA[Eve]]></dc:creator>
+		<pubDate>Mon, 08 Dec 2008 10:12:02 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/546.datensicherung-fur-gestalter.html#comment-22885</guid>
+		<description><![CDATA[@ pkaracho: Datensicherheit und Automatisierung von Versionen geht nicht immer Hand in Hand, gerade im Server-unabhängigen Bereich der Datensicherung.
+Meist liegt die Verantwortung beim Gestalter, eine entsprechende Ordnerstruktur anzulegen.
+
+Hat jmd Erfahrungen mit der MyBook World Edition gemacht?
+
+http://www.westerndigital.com/de/products/products.asp?driveid=340&#038;language=de]]></description>
+		<content:encoded><![CDATA[<p>@ pkaracho: Datensicherheit und Automatisierung von Versionen geht nicht immer Hand in Hand, gerade im Server-unabhängigen Bereich der Datensicherung.<br />
+Meist liegt die Verantwortung beim Gestalter, eine entsprechende Ordnerstruktur anzulegen.</p>
+<p>Hat jmd Erfahrungen mit der MyBook World Edition gemacht?</p>
+<p><a href="http://www.westerndigital.com/de/products/products.asp?driveid=340&#038;language=de" rel="nofollow">http://www.westerndigital.com/de/products/products.asp?driveid=340&#038;language=de</a></p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: pkaracho</title>
+		<link>https://m.tacker.org/546.datensicherung-fur-gestalter.html/comment-page-1#comment-19749</link>
+		<dc:creator><![CDATA[pkaracho]]></dc:creator>
+		<pubDate>Thu, 03 Jul 2008 00:07:57 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/546.datensicherung-fur-gestalter.html#comment-19749</guid>
+		<description><![CDATA[Der Artikel bietet einen guten Ansatz, ist aber noch unvollständig. Es wird darin etwa nicht erläutert, dass es gerade für Gestalter wichtig ist, jederzeit auch wieder auf vorhergehende Versionen der kreativen Dokumente zugreifen zu können.]]></description>
+		<content:encoded><![CDATA[<p>Der Artikel bietet einen guten Ansatz, ist aber noch unvollständig. Es wird darin etwa nicht erläutert, dass es gerade für Gestalter wichtig ist, jederzeit auch wieder auf vorhergehende Versionen der kreativen Dokumente zugreifen zu können.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

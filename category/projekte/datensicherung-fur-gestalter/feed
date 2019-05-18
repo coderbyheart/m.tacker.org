@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>Datensicherung für Gestalter &#8211; [|] m.tacker.org</title>
+	<atom:link href="https://m.tacker.org/category/projekte/datensicherung-fur-gestalter/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Tue, 12 Jan 2016 11:45:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>Datensicherung für Gestalter</title>
+		<link>https://m.tacker.org/546.datensicherung-fur-gestalter.html</link>
+		<comments>https://m.tacker.org/546.datensicherung-fur-gestalter.html#comments</comments>
+		<pubDate>Tue, 14 Nov 2006 00:36:36 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Datensicherung für Gestalter]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/546.datensicherung-fur-gestalter.html</guid>
+		<description><![CDATA[Datensicherung ist ein oft vernachlässigtes Thema. Gerade kleine und kleinste Firmen haben nur begrenztes Wissen darüber, wie man Daten sinnvoll sichert. Doch ist der Datenverlust nicht so unwarscheinlich wie oft gedacht wird. Ein vergessener Windows-Patch für eine alte Version oder eine ausgelaufene Antiviren-Lizenz reißt große Löcher in den Schutz des Betriebsystemes. Schnell nisten sich, auch [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src='https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/11/datensicherung_fuer_gestalt.jpg' alt='Datensicherung für Gestalter' class='full' /></p>
+<p>Datensicherung ist ein oft vernachlässigtes Thema. Gerade kleine und kleinste Firmen haben nur begrenztes Wissen darüber, wie man Daten sinnvoll sichert. Doch ist der Datenverlust nicht so unwarscheinlich wie oft gedacht wird. Ein vergessener Windows-Patch für eine alte Version oder eine ausgelaufene Antiviren-Lizenz reißt große Löcher in den Schutz des Betriebsystemes. Schnell nisten sich, auch ohne Zutun des Anwenders, Viren auf dem Laptop oder Rechner ein und schon sind alle Daten gefährdet. </p>
+<p>In dieser Artikel-Serie möchte ich über das Thema «Datensicherung» sprechen und einen Weg zeigen, wie man die eigenen Daten mit geringem finanziellen und personellen Aufwand sichert und auch wieder her stellt.</p>
+<p>Diese Artikelreihen wird auch im <a href="http://www.mediengestalter-blog.de">Mediengestalter-Blog</a> veröffentlicht. Über Kommentare und Ergänzungen freue ich mich natürlich.</p>
+<p>In der Reihe «Datensicherung für Gestalter» sind folgende Artikel erschienen:</p>
+<ul>
+<li>Wann sind meine Daten sicher?</li>
+<li><a href="https://m.tacker.org/547.e-mail-auch-im-notfall-immer-verfugbar.html">E-Mail &#8211; auch im Notfall immer verfügbar</a>
+<ul>
+<li><a href="https://m.tacker.org/582.gmail-als-standard-e-mail-anwendung-verwenden.html">GMail als standard E-Mail-Anwendung verwenden</a></li>
+</ul>
+</li>
+<li>Updates, Virenschutz und Firewall</li>
+<li>Ein Projektdaten-Server muss her</li>
+<li>Projektdaten automatisch sichern
+<ul>
+<li><a href="https://m.tacker.org/269.daten-von-einer-defekten-festplatte-retten.html">Daten von einer defekten Festplatte retten</a></li>
+</ul>
+</li>
+<li>Projektdaten auf DVD sichern</li>
+<li>Kostenübersicht</li>
+</ul>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/546.datensicherung-fur-gestalter.html/feed</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>E-Mail &#8211; auch im Notfall immer verfügbar</title>
+		<link>https://m.tacker.org/547.e-mail-auch-im-notfall-immer-verfugbar.html</link>
+		<comments>https://m.tacker.org/547.e-mail-auch-im-notfall-immer-verfugbar.html#respond</comments>
+		<pubDate>Tue, 14 Nov 2006 00:31:56 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Datensicherung für Gestalter]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/547.e-mail-auch-im-notfall-immer-verfugbar.html</guid>
+		<description><![CDATA[E-Mails haben inzwischen den gleichen Stellenwert wie Faxe oder Briefe. Gerade im Medienbereich findet ein Großteil der Kommunikation über E-Mail statt. Umso ärgerlicher ist es dann, wenn man für die eigenen Kunden über E-Mail nicht zu erreichen ist. Auch für den Kunden ist es ein Ärgernis, wenn er nach einigen Tagen immer noch keine Antwort [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>E-Mails haben inzwischen den gleichen Stellenwert wie Faxe oder Briefe. Gerade im Medienbereich findet ein Großteil der Kommunikation über E-Mail statt. Umso ärgerlicher ist es dann, wenn man für die eigenen Kunden über E-Mail nicht zu erreichen ist. Auch für den Kunden ist es ein Ärgernis, wenn er nach einigen Tagen immer noch keine Antwort bekommen hat und er auf Nachfrage gebeten wird, die E-Mail nochmal zu schicken.</p>
+<p>Damit E-Mails immer verfügbar sind, sollten diese unabhängig von der eigenen IT-Infrastruktur (Arbeitsplatzrechner, Server und Netzwerk) abrufbar sein.</p>
+<dl class="foto" style="width: 220px;">
+<dt><img src='https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/10/gmail_thumb.png' alt='GMail' /></dt>
+<dd>Können die E-Mails über den Browser abgerufen werden, sind sie immer verfügbar, sofern ein Internetzugang verfügbar ist.</dd>
+</dl>
+<p>Was liegt da näher, als einen E-Mail-Anbieter zu wählen, bei dem man seinem E-Mails über den Browser, und somit von jedem Ort mit Internetzugang, abrufen kann? Diesen Dienst, stellen so genannte Webmail-Anbieter zur Verfügung. Hierbei unterscheidet man zwischen kostenlosen und kostenpflichtigen, Anbietern.</p>
+<h3>Die Qual der Wahl</h3>
+<p>Auf Wikipedia findet sich eine <a href="http://de.wikipedia.org/wiki/Freemail">Übersicht der gängigsten «Freemail»-Anbieter</a>, deren Angebot kostenlos ist.</p>
+<p>Ich persönlich empfehle GMail, im folgenden werde ich auch in meinen Beispielen GMail verwenden &mdash; siehe <a href="https://m.tacker.org/582.gmail-als-standard-e-mail-anwendung-verwenden.html">GMail als standard E-Mail-Anwendung verwenden</a>.</p>
+<p>Natürlich bieten inzwischen auch die meisten Webhoster und Internet-Service-Provider browserbasierte Zugänge für E-Mails an &mdash; eine <a href="http://de.wikipedia.org/wiki/Internetdienstanbieter">Übersicht von Providern findet sich ebenfalls in Wikipedia</a>.</p>
+<h3>Genug Platz?</h3>
+<p>Früher war ein vernichtendes Argument gegen die Anbieter von browserbasierten E-Mail-Diensten der kleine Speicherplatz. Oft hatte man nicht mehr als 50 MB zur Verfügung. Seit aber Google mit seinem Dienst <a href="http://de.wikipedia.org/wiki/GMail">GMail</a> auf den Plan getreten ist, stehen mittlerweile gut 3 GB zur Verfügung. Dies ist für die meisten Anwender vollkommen ausreichen &mdash; wer noch mehr Platz braucht kann sich bei Bedarf ein weiteres Konto registrieren. Andere Anbieter haben inzwischen nachgezogen und so bietet <a href="http://www.gmx.de">GMX</a>, in einer ebenfalls kostenlosen Basisversion, 1 GB Speicherplatz für E-Mails an.</p>
+<h3>Schutz vor Viren und SPAM integriert</h3>
+<p>Ein weiterer Vorteil ist der integrierte Virenschutz, der bei allen Anbietern selbst im kostenlosen Grundpaket enthalten ist. Alle Eingehenden E-Mails werden durch den Anbieter geprüft und schädliche Bestandteile der E-Mail werden entfernt. </p>
+<p>Beim herkömmlichen Empfangen der E-Mails mittels Outlook besteht dieser Schutz nur, wenn die eingesetzte Anti-Viren-Software diesen Schutz anbietet.</p>
+<p>Das gleiche gilt für Spam-Filter. Diese werden ebenfalls von allen Anbietern eingesetzt und sind sehr wirkungsvoll. Der Vorteil liegt auch hier auf der Hand, man muss sich nicht um die Einrichtung kümmern und eine Lizenzgebühr für einen E-Mail-Viren- und Spam-Scanner braucht nicht mehr entrichtet zu werden.</p>
+<h3>Umzug still und heimlich</h3>
+<p>Nachdem man sich bei dem Anbieter seiner Wahl registriert hat, gilt es nun die E-Mails umzuleiten, denn der Kunde soll so wenig wie möglich vom «Umzug» mitbekommen und die Visitenkarten will man auch nicht ändern.</p>
+<p>Wichtig ist zu aller erst, dass die E-Mails, die an die bestehende E-Mail-Adresse gesendet werden, an die neue weitergeleitet werden. Dies muss beim bisherigen Anbieter eingestellt werden, meistens gibt es dazu eine Verwaltungsoberfläche, mit man das erledigen kann.</p>
+<p>Nun sollte beim Webmailer die bishere E-Mail-Adresse als Absender eingetragen werden. Wird diese nicht unterstützt besteht zumindest meistens die Option, die Adresse als sogenannte «Reply-To»-Adresse zu verwenden. Hier ist zwar die Absender-Adresse die des Webmailers, aber sobald der Empfänger auf «Antworten» klickt, wird das E-Mail-Programm die Mail an die «Reply-To»-Adresse schicken.</p>
+<h3>Mobiler Zugang</h3>
+<p>Da nun das Postfach mittels eines Browsers erreicht werden kann, kann man sich von überall einloggen. Mann sollte aber unbedingt darauf achten, sich beim Verlassen eines öffentlich zugänglichen Rechners abzumelden und den Browser zu schließen.</p>
+<p>Einige Angebote stellen zusätzlich eine Version für mobile Endgeräte zur Verfügung, diese ist dann vom Funktionsumfang eingeschränkt, kann aber auch selbst auf kleinen Displays von Handys oder PDAs verwendet werden.</p>
+<p><em>Erschienen in der Artikel-Reihe:</em> <a href="https://m.tacker.org/546.datensicherung-fur-gestalter.html">Datensicherung für Gestalter</a></p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/547.e-mail-auch-im-notfall-immer-verfugbar.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>GMail als standard E-Mail-Anwendung verwenden</title>
+		<link>https://m.tacker.org/582.gmail-als-standard-e-mail-anwendung-verwenden.html</link>
+		<comments>https://m.tacker.org/582.gmail-als-standard-e-mail-anwendung-verwenden.html#comments</comments>
+		<pubDate>Tue, 14 Nov 2006 00:31:31 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Datensicherung für Gestalter]]></category>
+		<category><![CDATA[most visited]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/582.gmail-als-standard-e-mail-anwendung-verwenden.html</guid>
+		<description><![CDATA[GMail bietet einen vollwertigen E-Mail-Client im Browser an. Was liegt da näher, GMail standardmäßig zu verwenden — der Browser ist sowieso meistens offen.]]></description>
+				<content:encoded><![CDATA[<p><img src='https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/11/googlemail.gif' alt='GMail' class="right" /><a href="http://mail.google.com/">GMail</a> bietet einen vollwertigen E-Mail-Client im Browser an. Was liegt da näher, GMail standardmäßig zu verwenden &mdash; der Browser ist sowieso meistens offen.</p>
+<h3>Die bestehende E-Mail-Adresse weiter verwenden</h3>
+<p>Damit man die alte E-Mail-Adresse in GMail verwenden kann, muss man diese freischalten. Dieser Vorgang ist auf dieser Seite in der GMail-Hilfe beschrieben: <a href="http://mail.google.com/support/bin/answer.py?answer=20616&#038;topic=1570">Wie kann ich die &#8220;Von:&#8221;-Adresse für ausgehende Nachrichten anpassen?</a></p>
+<p>Ist dies erledigt, kann man beim beim Senden von E-Mails aus GMail die alte E-Mail-Adresse im Absender verwenden. Wie man die alte E-Mail-Adresse als Standard festlegt ist in <a href="http://mail.google.com/support/bin/answer.py?answer=22375&#038;topic=1570">Wie ändere ich meine standardmäßige &#8220;Von:&#8221;-Adresse?</a> beschrieben.</p>
+<h3>gmail statt googlemail</h3>
+<p>Aufgrund von markenrechtlichen Konflikten wird GMail in Deutschland und einigen anderen Ländern GoogleMail genannt. Deswegen bekommt man bei einer Registrierung in diesen Ländern die Domain <code>googlemail.com</code>. Dies lässt sich jedoch leicht umgehen, indem man eine weitere E-Mail-Adresse hinzufügt. Diesmal ersetzt man einfach <code>googlemail</code> in der neuen E-Mail-Adresse mit <code>gmail</code>.</p>
+<h3>E-Mails nach GMail importieren</h3>
+<p>Nun haben wir eine schöne neue Mailbox. Leider ist diese aber leer. Gerade die Suchfunktion ist bei GMail sehr ausgereift. Damit wir in Zukunft nicht mehr in das Mailprogramm starten müssen, um alte Mails zu suchen, sollten wir diese noch nach GMail importieren.</p>
+<p>Google selbst bietet zur Zeit keine Möglichkeit an, E-Mails aus anderen Anwendungen zu importieren. Es besteht natürlich die Möglichkeit, alle E-Mails an das neue Konto weiter zu leiten &mdash; allerdings ist das nicht besonders komfortabel.</p>
+<p>Wesentlich einfacher geht das Importieren mit dem kostenlose Tool <a href="http://www.marklyon.org/gmail/default.htm">Google GMail Load (GML)</a> von Mark Lyon oder <a href="http://blog.codefront.net/archives/2004/06/23/gexodus-02-some-new-features-for-gmail-mbox-import-tool">gExodus &#8211; a graphical Gmail import tool</a>. Beide setzen allerdings voraus, dass die E-Mails im <a href="http://de.wikipedia.org/wiki/Mbox">mbox-Format</a> vorliegen. Dieses Speicherformat für E-Mails hat seinen Ursprung in Unix und wird nur von Netscape- bzw. Mozilla-Produkten verwendet.</p>
+<p>Hat man seine Mails bisher in Netscape oder Mozilla empfangen kann man das Tool direkt verwenden, ansonsten ist erst eine Konvertierung nötig.</p>
+<h3>Outlook-E-Mails importieren</h3>
+<p>Möchte man seine E-Mails aus Outlook in Gmail verwenden, ist ein etwas größerer Umweg notwendig.</p>
+<p>Zuerst muss Outlook Express die Mails von Outlook importieren. Dies ist auf den Hilfeseiten von Microsoft erläutert: <a href="http://office.microsoft.com/de-de/outlook/HA100799171031.aspx">Importieren Ihrer Nachrichten oder Ihres Kontos aus Outlook in Outlook Express</a>.</p>
+<h3>Outlook-Express-E-Mails importieren</h3>
+<p>Wenn die E-Mails bisher in Outlook Express empfangen worden sind, oder von Outlook importiert wurden, müssen diesen nun in <a href="http://www.mozilla-europe.org/de/products/thunderbird/">Mozilla Thunderbird</a> importiert werden. Dieser Vorgang ist auf den Hilfeseiten von Mozilla erläutert: <a href="http://www.thunderbird-mail.de/hilfe/dokumentation1.5/importieren.php">Importieren von E-Mails und Adressen</a>.</p>
+<h3>Nestcape-, Thunderbird- und Mozilla-E-Mails importieren</h3>
+<p>Sind nun alle E-Mails in <a href="http://www.mozilla-europe.org/de/products/thunderbird/">Thunderbird</a> oder <a href="http://browser.netscape.com/ns8/">Netscape Mail</a> vorhanden, kann man sich endlich um den Import nach GMail kümmern.</p>
+<dl class="foto" style="width: 220px;">
+<dt><a href='https://m.tacker.org/582.gmail-als-standard-e-mail-anwendung-verwenden.html/gexodus-02/' rel='attachment wp-att-584' title='gExodus 0.2'><img src='https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/11/gexodus_200px.gif' alt='gExodus 0.2' /></a></dt>
+<dd>Import von E-Mails aus Mozilla Thunderbird nach GMail mittels gExodus.</dd>
+</dl>
+<h3>Import mit gExodus 0.2</h3>
+<p>Hierzu lädt man sich die aktuelle Version von <a href="http://blog.codefront.net/archives/2004/06/23/gexodus-02-some-new-features-for-gmail-mbox-import-tool">gExodus</a> herunter. Nach dem Entpacken die gexodus.exe ausführen.</p>
+<p>Die Mbox-Dateien finden sich, am Beispiel von Thunderbird, unter </p>
+<blockquote><p>C:\Dokumente und Einstellungen\ [Username]\ Anwendungsdaten\ Thunderbird\ Profiles\ default\ [Profilname]\ Mail\ [Konto-Name]</p></blockquote>
+<p>In diesem Ordner findet sich für jeden Post-Ordner, den man angelegt hat, eine Datei mit gleichem Namen <strong>ohne Dateiendung</strong>. Dies ist die Mbox-Datei. Mann muss nun jeden Ordner einzeln importieren &mdash; dies mag zwar etwas Mühselig erscheinen, hat aber den Vorteil, dass man den Betreffzeilen der zu importierenden E-Mails einen Text voranstellen kann, damit man diese dann in GMail schneller findet.</p>
+<p>Der voreingestellte Mailserver von GMail hat bei mir nicht funktioniert. Ich habe <code>alt1.gmail-smtp-in.l.google.com</code> verwendet.</p>
+<p>Mit einem Klick auf &#8220;Import into Gmail&#8221; beginnt gExodus mit dem Import &mdash; dies dauert ein Weile, denn GMail würde einen schnellen Massen-Import als SPAM-Angriff abwehren.</p>
+<h3>Zugang für Handys und PDAs</h3>
+<p>Unter <a href="http://m.gmail.com/">http://m.gmail.com</a> findet sich eine Version für mobile Endgeräte. Diese ist vom Funktionsumfang etwas eingeschränkt, kann aber auch selbst auf kleinen Displays von Handys oder PDAs verwendet werden.</p>
+<p>Sehr praktisch ist auch, dass die Kontakte eingesehen und durchsucht werden können.</p>
+<p><em>Erschienen in der Artikel-Reihe:</em> <a href="https://m.tacker.org/546.datensicherung-fur-gestalter.html">Datensicherung für Gestalter</a></p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/582.gmail-als-standard-e-mail-anwendung-verwenden.html/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

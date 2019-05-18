@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>English &#8211; [|] m.tacker.org</title>
+	<atom:link href="https://m.tacker.org/tag/english/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Tue, 12 Jan 2016 11:45:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>Hotel d&#8217;Amsterdam</title>
+		<link>https://m.tacker.org/1930.hotel-d-amsterdam.html</link>
+		<comments>https://m.tacker.org/1930.hotel-d-amsterdam.html#respond</comments>
+		<pubDate>Tue, 26 May 2009 11:09:53 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Urlaub]]></category>
+		<category><![CDATA[Amsterdam]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Holland 2009]]></category>
+		<category><![CDATA[qype]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/1930.1930.html</guid>
+		<description><![CDATA[Review of Hotel d'Amsterdam in Amsterdam, Netherlands]]></description>
+				<content:encoded><![CDATA[<p>Small and affordable hotel centrally located near Leidsenplein with clean rooms (some with nicely renovated bathrooms). </p>
+<p>Allways clean with a friendly staff and free WiFi. </p>
+<p>Above-average breakfast with freshly baked rolls.</p>
+<p>Cons: Our room was located facing the front street with a restaurant across the street which was very noisy until late night. And the towels smelled a little awkward.</p>
+<p>Conclusion: I&#8217;d recommend this hotel for short city or business trips. The location is perfect as Leidsenplein (5 min walk) is a central departure for many bus and tram lines.</p>
+<p>Check out my review of <a href="http://www.qype.com/place/400646-Hotel-dAmsterdam-Amsterdam">Hotel d&#8217;Amsterdam</a> &#8211; I am <a href="http://www.qype.com/people/tacker">tacker</a> &#8211; on <a href="http://www.qype.com/">Qype</a></p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1930.hotel-d-amsterdam.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<georss:point>52.3651085 4.8783989</georss:point>	</item>
+		<item>
+		<title>Sama Sushi</title>
+		<link>https://m.tacker.org/1196.sama-sushi-english.html</link>
+		<comments>https://m.tacker.org/1196.sama-sushi-english.html#respond</comments>
+		<pubDate>Sun, 27 Jul 2008 14:20:13 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Essen]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Frankfurt]]></category>
+		<category><![CDATA[qype]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/1196.qype-sama-sushi-in-frankfurt-am-main-2.html</guid>
+		<description><![CDATA[Small sushi restaurant located in Bornheim with simple interiour but nevertheless pleasent atmosphere. We had the miso soup (1,80 €) with tofu and seaweed which was very delicate. Then we choose the Sama Bento (34 sushi for 20 €) which came nicely decoratet on a big plate and could feed two hungry people very well. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Small sushi restaurant located in Bornheim with simple interiour but nevertheless pleasent atmosphere. We had the miso soup (1,80 €) with tofu and seaweed which was very delicate. Then we choose the Sama Bento (34 sushi for 20 €) which came nicely decoratet on a big plate and could feed two hungry people very well. The sushi was fresh and had a great variety and good rice. For drinks we had the Grüner Tea (green jasmin tea, 1,50 €). The staff was very friendly. So in summary I can fully recommend the &quot;Sama Sushi&quot; to every sushi fan.</p>
+<p>Check out my review of <a href="http://www.qype.com/place/84138-Sama-Sushi-Frankfurt-am-Main">Sama Sushi</a> &#8211; I am <a href="http://www.qype.com/people/tacker">tacker</a> &#8211; on <a href="http://www.qype.com/">Qype</a></p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1196.sama-sushi-english.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>File_Bittorrent 2.2.0 release</title>
+		<link>https://m.tacker.org/1168.file_bittorrent-220-release.html</link>
+		<comments>https://m.tacker.org/1168.file_bittorrent-220-release.html#respond</comments>
+		<pubDate>Thu, 12 Jun 2008 18:25:20 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[Bittorrent]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[PEAR]]></category>
+		<category><![CDATA[PHP]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=1168</guid>
+		<description><![CDATA[Today I&#8217;ve release version 2.2 of PEAR&#8217;s File_Bittorrent. Changes include the support for the &#8220;private&#8221; Flag which was requested by William Booth. The flag is used to tell Bittorrent Clients not to consider other trackers besides the ones stated in the torrent file. See the Azureus Wiki for further information on this topic.]]></description>
+				<content:encoded><![CDATA[<p><img src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/07/file_bittorrent.gif" alt="PEAR::File_Bittorrent" class="right" />Today I&#8217;ve release version 2.2 of PEAR&#8217;s <a href="http://pear.php.net/package/File_Bittorrent2/">File_Bittorrent</a>.</p>
+<p>Changes include the support for the &#8220;private&#8221; Flag which was requested by <a href="http://pear.php.net/bugs/bug.php?id=14013">William Booth</a>.</p>
+<p>The flag is used to tell Bittorrent Clients not to consider other trackers besides the ones stated in the torrent file. See the <a href="http://www.azureuswiki.com/index.php/Secure_Torrents">Azureus Wiki</a> for further information on this topic.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1168.file_bittorrent-220-release.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Superbude</title>
+		<link>https://m.tacker.org/1162.superbude-english.html</link>
+		<comments>https://m.tacker.org/1162.superbude-english.html#respond</comments>
+		<pubDate>Thu, 05 Jun 2008 21:08:56 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[qype]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/1162.qype-superbude-hotelhostellounge-in-hamburg-2.html</guid>
+		<description><![CDATA[Fantastic Hotel in Hamburg&#8217;s east. From the the metro station &#34;Berliner Tor&#34; it&#8217;s a five minute walk. The hotel is stylish but not over the top. It has a great and friendly atmosphere were you&#8217;ll feel at home immediately. The rooms are simple but colorful, choose from a dozend colors during check-in. They are quiet [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/fotos/550/Hamburg2008/DSC_1679.NEF.jpg" /></p>
+<p>Fantastic Hotel in Hamburg&#8217;s east. From the the metro station &quot;Berliner Tor&quot; it&#8217;s a five minute walk.</p>
+<p>The hotel is stylish but not over the top. It has a great and friendly atmosphere were you&#8217;ll feel at home immediately.</p>
+<p>The rooms are simple but colorful, choose from a dozend colors during check-in. They are quiet because of the thick walls and doors but get a little warm in the summer due to the lack of a/c. </p>
+<p>Breakfast (7 €) is also great, you&#8217;ll get a great choice, good coffee and the buffet is refilled constantly.</p>
+<p>Two computers provide free internet access, free WiFi is available, too.</p>
+<p>They also rent bikes to their guests (4 € a day) which is a good choice as Hamburg has many bikeways throughout the city.</p>
+<p>The staff is always friendly and helpful.</p>
+<p>Check out my review of <a href="http://www.qype.com/place/114025-Superbude-Hotel-Hostel-Lounge-Hamburg">Superbude Hotel*Hostel*Lounge</a> &#8211; I am <a href="http://www.qype.com/people/tacker">tacker</a> &#8211; on <a href="http://www.qype.com/">Qype</a></p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1162.superbude-english.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>&#8220;La Perdrix Rouge&#8221; in Paris</title>
+		<link>https://m.tacker.org/1158.la-perdrix-rouge-in-paris-english.html</link>
+		<comments>https://m.tacker.org/1158.la-perdrix-rouge-in-paris-english.html#respond</comments>
+		<pubDate>Wed, 28 May 2008 12:02:35 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Paris]]></category>
+		<category><![CDATA[qype]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/1158.qype-la-perdrix-rouge-in-paris.html</guid>
+		<description><![CDATA[Small and affordable hotel located directly at tha &#34;Jourdain&#34; metro station. Rooms are very clean and the staff is very helpfull. The location is good, only 10 minutes to central Paris via metro. The noisy street makes it impossible to leave the windows open by night which makes the rooms very warm in summer nighhts [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Small and affordable hotel located directly at tha &quot;Jourdain&quot; metro station. Rooms are very clean and the staff is very helpfull.</p>
+<p>The location is good, only 10 minutes to central Paris via metro. The noisy street makes it impossible to leave the windows open by night which makes the rooms very warm in summer nighhts due to the lack of a/c.</p>
+<p>Breakfast (7 €) ist good if you&#8217;re in a hurry with no time to look someplace else.</p>
+<p>Free internet access in the lobby.</p>
+<p>Check out my review of <a href="http://www.qype.com/place/138116-La-Perdrix-Rouge-Paris">La Perdrix Rouge</a> &#8211; I am <a href="http://www.qype.com/people/tacker">tacker</a> &#8211; on <a href="http://www.qype.com/">Qype</a></p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1158.la-perdrix-rouge-in-paris-english.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>&#8220;Chez Gladines&#8221; in Paris</title>
+		<link>https://m.tacker.org/1146.chez-gladines-in-paris-english.html</link>
+		<comments>https://m.tacker.org/1146.chez-gladines-in-paris-english.html#respond</comments>
+		<pubDate>Sun, 25 May 2008 11:13:36 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Essen]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Paris]]></category>
+		<category><![CDATA[qype]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/1146.qype-chez-gladines-in-paris-2.html</guid>
+		<description><![CDATA[Small, out-of-the-ordinary restaurant which serves Basque specialties. Gets crowded during lunchtime so come early! The place is small and you will have to share your table with others, mostly young Parisians. We had the “Omelette Basque” (7,5 €) and the “Salad du 5 Diamants” (9 €) with a Corona (4 €) glass of muscatel (4,50 [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/fotos/550/DSC_1248.jpg" alt="Chez Gladines in Paris" /></p>
+<p>Small, out-of-the-ordinary restaurant which serves Basque specialties. Gets crowded during lunchtime so come early! The place is small and you will have to share your table with others, mostly young Parisians. We had the “Omelette Basque” (7,5 €) and the “Salad du 5 Diamants” (9 €) with a Corona (4 €) glass of muscatel (4,50 €). The huge salad is served with feta cheese, liver, potato slices and egg in a metal bowl. The omelet was fantastic, too. The portions may be a little too much for lunch. The prices are affordable-low budget for Paris. The nice quartier with its tiny streets where &quot;Chez Gladines&quot; is located invites for a after-dinner walk.</p>
+<p>Check out my review of <a href="http://www.qype.com/place/110906-Chez-Gladines-Paris">Chez Gladines</a> &#8211; I am <a href="http://www.qype.com/people/tacker">tacker</a> &#8211; on <a href="http://www.qype.com/">Qype</a></p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1146.chez-gladines-in-paris-english.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>&#8220;Café des Deux Moulins&#8221; in Paris</title>
+		<link>https://m.tacker.org/1144.cafe-des-deux-moulins-in-paris-englis.html</link>
+		<comments>https://m.tacker.org/1144.cafe-des-deux-moulins-in-paris-englis.html#respond</comments>
+		<pubDate>Thu, 22 May 2008 18:04:55 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Essen]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Paris]]></category>
+		<category><![CDATA[qype]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/1144.qype-cafe-des-deux-moulins-in-paris-2.html</guid>
+		<description><![CDATA[The coffehouse from the Movie "Amelie of Montmartre"]]></description>
+				<content:encoded><![CDATA[<p>On your to do list for a trip to Paris there is of course the visit of the famous coffeehouse from the movie &quot;Amelie of Montmartre&quot;. But you have to know that it was in that movie as many changes have been made to it for the making of the film.</p>
+<p>Nevertheless the coffeehouse is nicely located and serves the typical Parisian dishes which are great not too expensive. </p>
+<p>Definitely not a tourist trap.</p>
+<p>Check out my review of <a href="http://www.qype.com/place/88998-Cafe-des-Deux-Moulins-Paris">Café des Deux Moulins</a> &#8211; I am <a href="http://www.qype.com/people/tacker">tacker</a> &#8211; on <a href="http://www.qype.com/">Qype</a></p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1144.cafe-des-deux-moulins-in-paris-englis.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>&#8220;Le Select&#8221; in Paris</title>
+		<link>https://m.tacker.org/1142.le-select-in-paris-english.html</link>
+		<comments>https://m.tacker.org/1142.le-select-in-paris-english.html#respond</comments>
+		<pubDate>Thu, 22 May 2008 17:39:08 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Essen]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Paris]]></category>
+		<category><![CDATA[qype]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/1142.qype-le-select-in-paris-2.html</guid>
+		<description><![CDATA[Coffeehouse on a high traffic street with vintage parisien charm but unfriendly waiters. The Cafe Creme (4,50 €) we had was good. Step in if you need a break&#8230; Check out my review of Le Select &#8211; I am tacker &#8211; on Qype]]></description>
+				<content:encoded><![CDATA[<p>Coffeehouse on a high traffic street with vintage parisien charm but unfriendly waiters. The Cafe Creme (4,50 €) we had was good. Step in if you need a break&#8230;</p>
+<p>Check out my review of <a href="http://www.qype.com/place/110889-Le-Select-Paris">Le Select</a> &#8211; I am <a href="http://www.qype.com/people/tacker">tacker</a> &#8211; on <a href="http://www.qype.com/">Qype</a></p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1142.le-select-in-paris-english.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>&#8220;Nakagawa&#8221; in Paris</title>
+		<link>https://m.tacker.org/1140.nakagawa-in-paris-englis.html</link>
+		<comments>https://m.tacker.org/1140.nakagawa-in-paris-englis.html#respond</comments>
+		<pubDate>Thu, 22 May 2008 17:12:20 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Essen]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Paris]]></category>
+		<category><![CDATA[qype]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/1140.qype-nakagawa-in-paris-2.html</guid>
+		<description><![CDATA[Small but nice sushi restaurant located in eastern Paris next to the metro station &#34;Jourdain&#34; (Line 11). Gets crowded in the evening so get there for lunch or arrive early. The kitchen closes at 10pm. Prices are ok, the MATSU (16 pcs. sushi) sets you back 19 €, a miso soup 2,40 €. I recommend [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Small but nice sushi restaurant located in eastern Paris next to the metro station &quot;Jourdain&quot; (Line 11). Gets crowded in the evening so get there for lunch or arrive early. The kitchen closes at 10pm.</p>
+<p>Prices are ok, the MATSU (16 pcs. sushi) sets you back 19 €, a miso soup 2,40 €. I recommend the genmaicha tea (1,20 €) as the pint Asahi is expensive (6 €). Have the sesame ice (4,50 €) for dessert, it&#8217;s fantastic.</p>
+<p>Check out my review of <a href="http://www.qype.com/place/85298-Nakagawa-Paris">Nakagawa</a> &#8211; I am <a href="http://www.qype.com/people/tacker">tacker</a> &#8211; on <a href="http://www.qype.com/">Qype</a></p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1140.nakagawa-in-paris-englis.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>&#8220;City Segway Tours&#8221; in Paris</title>
+		<link>https://m.tacker.org/1147.city-segway-tours-in-paris-englis.html</link>
+		<comments>https://m.tacker.org/1147.city-segway-tours-in-paris-englis.html#respond</comments>
+		<pubDate>Thu, 22 May 2008 11:37:47 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Paris]]></category>
+		<category><![CDATA[qype]]></category>
+		<category><![CDATA[segway]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/1147.qype-city-segway-tours-in-paris.html</guid>
+		<description><![CDATA[Paris by Segway with Fat Tire City Tours.]]></description>
+				<content:encoded><![CDATA[<p><a title="See Paris by Segway ..." rel="lightbox[fotos]"><img longdesc="https://m.tacker.org/1136.qype-city-segway-tours-in-paris.html" alt="Mit dem Segway durch Paris ..." src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/fotos/550/SegwayTour/DSC_1073.NEF.jpg"/></a></p>
+<p>With the &quot;City Segway Tour&quot; by &quot;Fat Tire Bike Tours Paris&quot; you can kill two birds with one stone: Seeing many of Paris&#8217; attractions in a short time and riding the most exciting electronic people transporter of the world.</p>
+<p>Before the tour starts there is the obligatory training on the Segway. Even if the basic operation of the Segway is learned within seconds there are some common pitfalls every beginner will encounter. After 30 minutes thorough introduction by the the well trained staff you are prepared for Paris&#8217; hectic traffic and its crowded places. For additional safety every Participant is equipped with a helmet-which the parallel running Bike Tour participants don&#8217;t get to wear &#8230;</p>
+<p>The tour itself takes you to Paris&#8217; most impressive attractions like the Eiffel tower, the Louvre, the Alexandre III bridge, the Grand and Petit Palais and many more. </p>
+<p>Doing the tour by Segway has many advantages. You can zip from one place to another a lot faster than by feet and you don&#8217;t have to hassle with the &quot;infantry&quot; as they make room by themselves in respect for the Segway. The elevated stand on the Segway makes you oversee them, too. </p>
+<p>To sum up, the Segway Tour is great for every Paris visitor. The 120 $ may sound a lot but are very well invested in a fun way to do a sightseeing tour even if the French Segways are limited to 6 mph with turtle mode being off.</p>
+<p>Check out my review of <a href="http://www.qype.com/place/149552-City-Segway-Tours-Paris">City Segway Tours</a> &#8211; I am <a href="http://www.qype.com/people/tacker">tacker</a> &#8211; on <a href="http://www.qype.com/">Qype</a></p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1147.city-segway-tours-in-paris-englis.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>PEAR Cache_Lite 1.7.3 release</title>
+		<link>https://m.tacker.org/1118.pear-cache_lite-173-release.html</link>
+		<comments>https://m.tacker.org/1118.pear-cache_lite-173-release.html#respond</comments>
+		<pubDate>Mon, 14 Apr 2008 17:58:40 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PEAR Cache_Lite]]></category>
+		<category><![CDATA[PHP]]></category>
+		<category><![CDATA[Projekte]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[PEAR]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=1118</guid>
+		<description><![CDATA[This is my first release for PEAR Cache_Lite. In March I took over the vacant developer position for this package as I am using it for many projects. After some initial hesitation, David nudged me to use cvs. I did &#8212; and 1.7.3 is the result. It&#8217;s just a bugfix release but after nearly two [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2008/04/pear-cache_lite.gif" alt="" title="PEAR Cache_Lite" width="199" height="46" class="alignright size-medium wp-image-1119" />This is my first release for <a href="http://pear.php.net/package/Cache_Lite">PEAR Cache_Lite</a>. In March I took over the vacant developer position for this package as I am using it for many projects. After some initial hesitation, <a href="http://blog.agoraproduction.com/">David</a> nudged me to use cvs. I did &mdash; and <a href="http://pear.php.net/package/Cache_Lite/download/1.7.3">1.7.3</a> is the result. It&#8217;s just a bugfix release but after nearly two years finally something to talk about for Cache_Lite.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1118.pear-cache_lite-173-release.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>starlight bagels</title>
+		<link>https://m.tacker.org/928.en-starlight-bagels.html</link>
+		<comments>https://m.tacker.org/928.en-starlight-bagels.html#respond</comments>
+		<pubDate>Tue, 18 Mar 2008 09:34:23 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Essen]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Offenbach]]></category>
+		<category><![CDATA[qype]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/928.qype-starlight-bagels-in-offenbach.html</guid>
+		<description><![CDATA[Finally bagels in Offenbach. Besides the main attraction which is sold in many variations also crepes, salads, muffins and many other sweets are offered for affordable prices. We had the Turkey Bagel (2,95 €) with turkey, salad, tomato, mayonnaise, curry sauce which was replaced with honey-mustard sauce and cress and the Veggie French Bagel (2,70 [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Finally bagels in Offenbach. Besides the main attraction which is sold in many variations also crepes, salads, muffins and many other sweets are offered for affordable prices.</p>
+<p>We had the Turkey Bagel (2,95 €) with turkey, salad, tomato, mayonnaise, curry sauce which was replaced with honey-mustard sauce and cress and the Veggie French Bagel (2,70 €) with camembert, rocket, cream cheese and honey-mustard sauce. We chose Flavored Shot Water (1,90 € for 1 pint) with raspberry flavor as drink. The Bagels were very fresh and heavily topped.</p>
+<p>Starlight bagels is always worth the visit. Next time we will also check out the various coffee specialties they are offering.</p>
+<p>Check out my review of <a href="http://www.qype.com/place/104069-starlight-bagels-Offenbach">starlight bagels</a> &#8211; I am <a href="http://www.qype.com/people/tacker">tacker</a> &#8211; on <a href="http://www.qype.com/">Qype</a></p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/928.en-starlight-bagels.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>File_Bittorrent 2.1.0 release</title>
+		<link>https://m.tacker.org/862.file_bittorrent-210-release.html</link>
+		<comments>https://m.tacker.org/862.file_bittorrent-210-release.html#respond</comments>
+		<pubDate>Sat, 12 Jan 2008 10:56:41 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PEAR File_Bittorrent]]></category>
+		<category><![CDATA[Projekte]]></category>
+		<category><![CDATA[Bittorrent]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[PEAR]]></category>
+		<category><![CDATA[PHP]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/862.file_bittorrent-210-release.html</guid>
+		<description><![CDATA[I&#8217;ve just released File_Bittorrent 2.1.0. This is the stable release of the PHP5 only version of File_Bittorrent. New features include the ability to add a specific list of files while making a torrent. This feature has been implemented by Barry Hunter.]]></description>
+				<content:encoded><![CDATA[<p><img src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/07/file_bittorrent.gif" alt="PEAR::File_Bittorrent" class="right" />I&#8217;ve just released <a href="http://pear.php.net/package/File_Bittorrent2/">File_Bittorrent 2.1.0</a>. This is the stable release of the PHP5 only version of <a href="http://pear.php.net/package/File_Bittorrent/">File_Bittorrent</a>. New features include the ability to add a specific list of files while making a torrent. This feature has been implemented by <a href="http://barryhunter.co.uk">Barry Hunter</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/862.file_bittorrent-210-release.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>File_Bittorrent2 released</title>
+		<link>https://m.tacker.org/773.file_bittorrent2-released.html</link>
+		<comments>https://m.tacker.org/773.file_bittorrent2-released.html#respond</comments>
+		<pubDate>Sun, 26 Aug 2007 11:11:23 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PEAR File_Bittorrent]]></category>
+		<category><![CDATA[Projekte]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[PEAR]]></category>
+		<category><![CDATA[PHP]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/773.file_bittorrent2-released.html</guid>
+		<description><![CDATA[I&#8217;ve just released File_Bittorrent2. This is the PHP5 only version of File_Bittorrent &#8212; no new features were added, even the API is the same. Only the error handling has been changed according to PEAR&#8217;s new error handling guidelines «Error Signaling in PHP 5 PEAR packages».]]></description>
+				<content:encoded><![CDATA[<p><img src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/07/file_bittorrent.gif" alt="PEAR::File_Bittorrent" class="right" />I&#8217;ve just released <a href="http://pear.php.net/package/File_Bittorrent2/">File_Bittorrent2</a>. This is the PHP5 only version of <a href="http://pear.php.net/package/File_Bittorrent/">File_Bittorrent</a> &mdash; no new features were added, even the API is the same.</p>
+<p>Only the error handling has been changed according to <a href="http://www.go-pear.org/manual/en/standards.errors.php">PEAR&#8217;s new error handling guidelines</a> «Error Signaling in PHP 5 PEAR packages».</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/773.file_bittorrent2-released.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>__autoload vs. require_once</title>
+		<link>https://m.tacker.org/599.__autoload-vs-require_once.html</link>
+		<comments>https://m.tacker.org/599.__autoload-vs-require_once.html#respond</comments>
+		<pubDate>Wed, 06 Dec 2006 15:13:54 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[PHP]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/599.__autoload-vs-require_once.html</guid>
+		<description><![CDATA[Yesterday I read in Lukas Blog that __autoload is bad for bytecode caches. As I am currently in the optimizing phase of a project I gave it try. I used __autoload for everything until now. I then removed __autoload and added the &#8220;old style&#8221; require_once calls. I testet the app by fetching the start page [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Yesterday I read in <a href="http://pooteeweet.org/blog/">Lukas Blog</a> that <a href="http://pooteeweet.org/blog/538"><code>__autoload</code> is bad for bytecode caches</a>. As I am currently in the optimizing phase of a project I gave it try.</p>
+<p>I used <code>__autoload</code> for everything until now. I then removed <code>__autoload</code> and added the &#8220;old style&#8221; <code>require_once</code> calls.</p>
+<p>I testet the app by fetching the start page 100 times on a freshly started apache 2.2 with mod_php 5.2.0 and apc 3.0.12.</p>
+<p><strong>The speed increase was about 4%.</strong></p>
+<p>For me the speed gain does not legitimate the loss in code quality.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/599.__autoload-vs-require_once.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Picasaembed: Embed and browse your Picasa Web Albums</title>
+		<link>https://m.tacker.org/595.picasaembed-embed-and-browse-your-picasa-web-albums.html</link>
+		<comments>https://m.tacker.org/595.picasaembed-embed-and-browse-your-picasa-web-albums.html#comments</comments>
+		<pubDate>Thu, 30 Nov 2006 17:00:02 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Projekte]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[PHP]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/595.picasaembed-embed-and-browse-your-picasa-web-albums.html</guid>
+		<description><![CDATA[Yesterday evening I discovered that Google&#8217;s Picasa Web Albums have RSS feeds. This led me to a script in PHP5, which enables you to embed the thumbnails of a whole album in any site &#8212; you may even browse through them. The browsing is done with Ajax to give a fast experience but there is [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Yesterday evening I discovered that <a href="http://picasaweb.google.com/">Google&#8217;s Picasa Web Albums</a> have RSS feeds. This led me to a script in PHP5, which enables you to embed the thumbnails of a whole album in any site &mdash; you may even browse through them. The browsing is done with Ajax to give a fast experience but there is a fallback solution which works without javascript.</p>
+<p>Multiple embedded albums per page are also supported.</p>
+<p>The usage of Picasaembed is not limited to WordPress &mdash; it&#8217;s designed as a standalone library.</p>
+<h2>Download</h2>
+<ul>
+<li><a href="http://versions.tacker.org/svn/smallprojects/picasaembed">via SVN</a></li>
+<li><a href="http://projects.clyre.net/download/picasaembed.tgz">Tar-Archive</a></li>
+<li><a href="http://projects.clyre.net/download/picasaembed.zip">Zip-Archive</a></li>
+</ul>
+<h2>Example</h2>
+<p>You are just seeing an example. You may also check out the <a href="http://projects.clyre.net/picasaembed/example.php">example</a> (<a href="http://projects.clyre.net/picasaembed/example.phps">source code</a>) which is provided with the script.</p>
+<h2>Installation</h2>
+<p>Let&#8217;s assume that you want Picasaembed in your WordPress blog.</p>
+<p>Copy the files to a new folder named <code>picasaembed</code> in WordPress&#8217; plugins folder and make sure that the webserver has write permission to the <code>cache</code> folder.</p>
+<p>Just make sure that the prototype.js is loaded somewhere. You would add it to your <code>header.php</code> file.</p>
+<blockquote><p><code>&lt;script type=&quot;text/javascript&quot; src=&quot;/blog/wp-content/plugins/picasaembed/prototype-1.4.0.js&quot;&gt;&lt;/script&gt;</code></p></blockquote>
+<p>As Picasaembed requires a RSS-URL to display the album we need set up a <a href="http://codex.wordpress.org/Using_Custom_Fields">custom field</a> for our post. Let&#8217;s assume that we name it <code>picasaembed_rss_url</code>.</p>
+<p>In the theme files <code>index.php</code> and <code>single.php</code> (which display the post) we have to add these lines before the <code>the_content()</code> tag to display the album:</p>
+<blockquote><p><code>&lt;?php<br />
+ $picasaembed = (get_post_meta($post-&gt;ID, 'picasaembed_rss_url', true)) ? get_post_meta($post-&gt;ID, 'picasaembed_rss_url', true) : false;<br />
+ if ($picasaembed) {<br />
+ require_once './wp-content/plugins/picasaembed/Picasaembed.php';<br />
+ Picasaembed::$location = './wp-content/plugins/picasaembed/Picasaembed.php';<br />
+ echo Picasaembed::getContainer($picasaembed);<br />
+ }<br />
+?&gt;</code></p></blockquote>
+<p>That&#8217;s it. Now everytime a post has the custom field <code>picasaembed_rss_url</code> the value will be used as a RSS-URL for Picasaembed. Happy time!</p>
+<h2>Uses</h2>
+<ul>
+<li><a href="http://pear.php.net/package/XML_RSS">PEAR XML_RSS</a> for parsing the rss feed. (not included)</li>
+<li><a href="http://pear.php.net/package/Cache_Lite">PEAR Cache_Lite</a> for caching the parsed rss feed. (not included)</li>
+<li><a href="http://prototype.conio.net/">The prototype JavaScript Framework</a> for the ajax browsing.</li>
+<li><a href="http://pear.php.net/package/HTML_Page2">PEAR HTML_Page2</a> &mdash; optional &mdash; for the <a href="http://projects.clyre.net/picasaembed/example.php">example</a>. (not included)</li>
+</ul>
+<h2>License</h2>
+<p>Released under the <a href="http://www.gnu.org/licenses/lgpl.html">LGPL</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/595.picasaembed-embed-and-browse-your-picasa-web-albums.html/feed</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>Mockup of possible batch edit screen</title>
+		<link>https://m.tacker.org/400.mockup-of-possible-batch-edit-screen.html</link>
+		<comments>https://m.tacker.org/400.mockup-of-possible-batch-edit-screen.html#respond</comments>
+		<pubDate>Thu, 20 Jul 2006 13:37:44 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[trac]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/400.mockup-of-possible-batch-edit-screen.html</guid>
+		<description><![CDATA[I&#8217;ve made a mockup of a possible batch edit screen in trac. Unfortunately I cannot add attachements at the moment as I get an UnicodeDecodeError so you can see it here. The related ticket is #525: Batch Modification Functionality.]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;ve made a mockup of a possible batch edit screen in trac. Unfortunately I cannot add attachements at the moment as I get an <code>UnicodeDecodeError</code> so you can see it here.</p>
+<p><a href="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/07/batchedit.png" class="imagelink" title="Mockup of possible batch edit screen"></a></p>
+<p style="text-align: center"><a href="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/07/batchedit.png" class="imagelink" title="Mockup of possible batch edit screen"><img src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/07/batchedit.thumbnail.png" id="image399" alt="Mockup of possible batch edit screen" /></a></p>
+<p>The related ticket is #525: <a href="http://trac.edgewall.org/ticket/525">Batch Modification Functionality</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/400.mockup-of-possible-batch-edit-screen.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>ViewLevel-Plugin fixed</title>
+		<link>https://m.tacker.org/389.viewlevel-plugin-fixed.html</link>
+		<comments>https://m.tacker.org/389.viewlevel-plugin-fixed.html#respond</comments>
+		<pubDate>Wed, 05 Jul 2006 11:32:33 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PHP]]></category>
+		<category><![CDATA[Wordpress]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/389.viewlevel-plugin-fixed.html</guid>
+		<description><![CDATA[Changeset 3951 of WordPress finally removed the old table variables. This broke the ViewLevel-Plugin I was using. You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near &#8216;WHERE meta_key=&#8217;viewlevel&#8217; AND meta_value &#62; 10&#8242; at line 1 I&#8217;ve fixed the plugin [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://trac.wordpress.org/changeset/3951">Changeset 3951</a> of <a href="http://www.wordpress.org/">WordPress</a> finally removed the old table variables. This broke the <a href="http://blog.firetree.net/2005/08/25/viewlevel-20/">ViewLevel-Plugin</a> I was using.</p>
+<blockquote><p>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near &#8216;WHERE meta_key=&#8217;viewlevel&#8217; AND meta_value &gt; 10&#8242; at line 1</p></blockquote>
+<p>I&#8217;ve fixed the plugin so it&#8217;s now using the right variables.</p>
+<p>You can download it here: <a href="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/07/viewlevel21.zip" id="p388">ViewLevel 2.1</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/389.viewlevel-plugin-fixed.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>File_Bittorrent 1.0.1 released</title>
+		<link>https://m.tacker.org/383.file_bittorrent-101-released.html</link>
+		<comments>https://m.tacker.org/383.file_bittorrent-101-released.html#comments</comments>
+		<pubDate>Mon, 03 Jul 2006 08:20:31 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PEAR File_Bittorrent]]></category>
+		<category><![CDATA[Projekte]]></category>
+		<category><![CDATA[Bittorrent]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[PEAR]]></category>
+		<category><![CDATA[PHP]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/383.file_bittorrent-101-released.html</guid>
+		<description><![CDATA[Yesterday I have released File_Bittorrent 1.0.1 with some minor bug fixes and enhancements. The complete changelog can be found here. There are currently two open bugs. Bug #5836 (Support for files &#62; 2GB) is a pain in the ass to test, so no progress there. I appreciate every help here. Bug #5880 (Support UTF-8 encoding) [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/07/file_bittorrent.gif" id="image381" alt="PEAR File_Bittorrent" class="right" />Yesterday I have released File_Bittorrent 1.0.1 with some minor bug fixes and enhancements. The complete changelog can be found <a href="http://versions.tacker.org/trac/File_Bittorrent/log/trunk?action=stop_on_copy&amp;rev=61&amp;stop_rev=55&amp;mode=stop_on_copy">here</a>.</p>
+<p>There are currently two open bugs. <a href="http://pear.php.net/bugs/5836">Bug #5836</a> (Support for files &gt; 2GB) is a pain in the ass to test, so no progress there. I appreciate every help here. <a href="http://pear.php.net/bugs/5880">Bug #5880</a> (Support UTF-8 encoding) is a two sided sword. Of course, UTF-8 is the only future proof way to go but unless the original bittorrent programs do not work with UTF-8, File_Bittorrent won&#8217;t either. Even if other clients do the original bittorrent programs are the reference implementation.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/383.file_bittorrent-101-released.html/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>PHP Bug #37578</title>
+		<link>https://m.tacker.org/364.php-bug-37578.html</link>
+		<comments>https://m.tacker.org/364.php-bug-37578.html#respond</comments>
+		<pubDate>Wed, 24 May 2006 14:07:05 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[PHP]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/364.php-bug-37578.html</guid>
+		<description><![CDATA[This is the test for PHP Bug #37578: unserialize_callback_func in htaccess has no effect.]]></description>
+				<content:encoded><![CDATA[<p><a href="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/05/bug_37578.tgz" id="p362">This is the test</a> for <a href="http://bugs.php.net/bug.php?id=37578">PHP Bug #37578: unserialize_callback_func in htaccess has no effect</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/364.php-bug-37578.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:georss="http://www.georss.org/georss" 
+	>
+<channel>
+	<title>Comments on: lifeisbetteron. Not, yet!</title>
+	<atom:link href="https://m.tacker.org/2423.lifeisbetteron-not-yet.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org/2423.lifeisbetteron-not-yet.html</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Mon, 23 Nov 2015 21:43:02 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: Life Is Better ON</title>
+		<link>https://m.tacker.org/2423.lifeisbetteron-not-yet.html/comment-page-1#comment-37790</link>
+		<dc:creator><![CDATA[Life Is Better ON]]></dc:creator>
+		<pubDate>Fri, 02 Jul 2010 16:00:28 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=2423#comment-37790</guid>
+		<description><![CDATA[Hallo Markus,
+
+Danke für Deinen Artikel. Unsere Antwort:
+
+Danke für Deine ehrliche Meinung über ON und für die detaillierte Beschreibung der von Dir beobachteten Probleme.
+
+Wie du vielleicht schon auf dem Blog gesehen hast wurde vor einer Woche eine neue Version veröffentlicht: http://bit.ly/ON1-3
+
+Zu den einzelnen von Dir erwähnten Punkten – erst einmal vielen Dank für Dein Feedback! Wir hatten bereits eine längere Betaphase mit diversen Nutzern und ihre Kommentare haben uns bei der Ausgestaltung der App und regelmäßigen Verbesserungen in den vergangenen Monaten geholfen (seit Februar haben wir fast alle 3 Wochen eine neue Version veröffentlicht). Deine Kommentare werden uns sicher dabei helfen, die nächste Version zu verbessern und alle Deine Anmerkungen warten schon darauf, abgearbeitet zu werden.
+
+ON nimmt den Schutz von Passwörtern sehr ernst und speichert nur das Passwort für die Anmeldung bei ON selbst. Alle weiteren Passwörter für die Anmeldung bei anderen Diensten wie Facebook, Twitter oder GMail werden nur für die Identitätsprüfung durchgereicht. Die Dienste antworten mit einem verschlüsselten Token, der ON den Zugriff auf Informationen des Nutzers erlaubt.
+
+Sorry, dass es etwas gedauert hat, um Dir eine Rückmeldung zu dem Verbindungsproblem zu geben. Unser Team hat hart an einer Aktualisierung der App gearbeitet, die erst letzte Woche veröffentlicht wurde und Nutzer mit demselben Problem wurden per SMS benachrichtigt.
+
+Zur weiteren Erklärung (inzwischen ist das Problem aber behoben): Geräte deren Setupsprache nicht Englisch oder Französisch war hatten Probleme bei der Einrichtung ihres Kontos. Die Lösung dafür wurde in diesem Blogartikel vorgestellt: http://bit.ly/ONbug
+
+Hoffentlich konnten wir einige Deiner Fragen beantworten. 
+
+Gib mir bitte Bescheid, wenn Du noch Fragen hast,
+
+Mit freundlichen Grüßen,
+
+Das ON-Team]]></description>
+		<content:encoded><![CDATA[<p>Hallo Markus,</p>
+<p>Danke für Deinen Artikel. Unsere Antwort:</p>
+<p>Danke für Deine ehrliche Meinung über ON und für die detaillierte Beschreibung der von Dir beobachteten Probleme.</p>
+<p>Wie du vielleicht schon auf dem Blog gesehen hast wurde vor einer Woche eine neue Version veröffentlicht: <a href="http://bit.ly/ON1-3" rel="nofollow">http://bit.ly/ON1-3</a></p>
+<p>Zu den einzelnen von Dir erwähnten Punkten – erst einmal vielen Dank für Dein Feedback! Wir hatten bereits eine längere Betaphase mit diversen Nutzern und ihre Kommentare haben uns bei der Ausgestaltung der App und regelmäßigen Verbesserungen in den vergangenen Monaten geholfen (seit Februar haben wir fast alle 3 Wochen eine neue Version veröffentlicht). Deine Kommentare werden uns sicher dabei helfen, die nächste Version zu verbessern und alle Deine Anmerkungen warten schon darauf, abgearbeitet zu werden.</p>
+<p>ON nimmt den Schutz von Passwörtern sehr ernst und speichert nur das Passwort für die Anmeldung bei ON selbst. Alle weiteren Passwörter für die Anmeldung bei anderen Diensten wie Facebook, Twitter oder GMail werden nur für die Identitätsprüfung durchgereicht. Die Dienste antworten mit einem verschlüsselten Token, der ON den Zugriff auf Informationen des Nutzers erlaubt.</p>
+<p>Sorry, dass es etwas gedauert hat, um Dir eine Rückmeldung zu dem Verbindungsproblem zu geben. Unser Team hat hart an einer Aktualisierung der App gearbeitet, die erst letzte Woche veröffentlicht wurde und Nutzer mit demselben Problem wurden per SMS benachrichtigt.</p>
+<p>Zur weiteren Erklärung (inzwischen ist das Problem aber behoben): Geräte deren Setupsprache nicht Englisch oder Französisch war hatten Probleme bei der Einrichtung ihres Kontos. Die Lösung dafür wurde in diesem Blogartikel vorgestellt: <a href="http://bit.ly/ONbug" rel="nofollow">http://bit.ly/ONbug</a></p>
+<p>Hoffentlich konnten wir einige Deiner Fragen beantworten. </p>
+<p>Gib mir bitte Bescheid, wenn Du noch Fragen hast,</p>
+<p>Mit freundlichen Grüßen,</p>
+<p>Das ON-Team</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Bug report: International language problem &#124; Life is better On</title>
+		<link>https://m.tacker.org/2423.lifeisbetteron-not-yet.html/comment-page-1#comment-37765</link>
+		<dc:creator><![CDATA[Bug report: International language problem &#124; Life is better On]]></dc:creator>
+		<pubDate>Mon, 28 Jun 2010 16:56:38 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=2423#comment-37765</guid>
+		<description><![CDATA[[...] please get in touch with us on Twitter, Facebook or in the comments section below! Thanks to Markus Tacker and Karavolt for bringing this issue to our [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] please get in touch with us on Twitter, Facebook or in the comments section below! Thanks to Markus Tacker and Karavolt for bringing this issue to our [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Markus Tacker</title>
+		<link>https://m.tacker.org/2423.lifeisbetteron-not-yet.html/comment-page-1#comment-37728</link>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+		<pubDate>Wed, 23 Jun 2010 21:06:59 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=2423#comment-37728</guid>
+		<description><![CDATA[Ja, das Desire auch.]]></description>
+		<content:encoded><![CDATA[<p>Ja, das Desire auch.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: phihochzwei</title>
+		<link>https://m.tacker.org/2423.lifeisbetteron-not-yet.html/comment-page-1#comment-37727</link>
+		<dc:creator><![CDATA[phihochzwei]]></dc:creator>
+		<pubDate>Wed, 23 Jun 2010 20:53:56 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=2423#comment-37727</guid>
+		<description><![CDATA[Hmmm.... Also irgendwie kann mein Tattoo das alles auch werksseitig...]]></description>
+		<content:encoded><![CDATA[<p>Hmmm&#8230;. Also irgendwie kann mein Tattoo das alles auch werksseitig&#8230;</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

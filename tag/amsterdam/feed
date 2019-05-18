@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>Amsterdam &#8211; [|] m.tacker.org</title>
+	<atom:link href="https://m.tacker.org/tag/amsterdam/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Tue, 12 Jan 2016 11:45:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>Hotel d&#8217;Amsterdam</title>
+		<link>https://m.tacker.org/1930.hotel-d-amsterdam.html</link>
+		<comments>https://m.tacker.org/1930.hotel-d-amsterdam.html#respond</comments>
+		<pubDate>Tue, 26 May 2009 11:09:53 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Urlaub]]></category>
+		<category><![CDATA[Amsterdam]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Holland 2009]]></category>
+		<category><![CDATA[qype]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/1930.1930.html</guid>
+		<description><![CDATA[Review of Hotel d'Amsterdam in Amsterdam, Netherlands]]></description>
+				<content:encoded><![CDATA[<p>Small and affordable hotel centrally located near Leidsenplein with clean rooms (some with nicely renovated bathrooms). </p>
+<p>Allways clean with a friendly staff and free WiFi. </p>
+<p>Above-average breakfast with freshly baked rolls.</p>
+<p>Cons: Our room was located facing the front street with a restaurant across the street which was very noisy until late night. And the towels smelled a little awkward.</p>
+<p>Conclusion: I&#8217;d recommend this hotel for short city or business trips. The location is perfect as Leidsenplein (5 min walk) is a central departure for many bus and tram lines.</p>
+<p>Check out my review of <a href="http://www.qype.com/place/400646-Hotel-dAmsterdam-Amsterdam">Hotel d&#8217;Amsterdam</a> &#8211; I am <a href="http://www.qype.com/people/tacker">tacker</a> &#8211; on <a href="http://www.qype.com/">Qype</a></p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1930.hotel-d-amsterdam.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<georss:point>52.3651085 4.8783989</georss:point>	</item>
+	</channel>
+</rss>

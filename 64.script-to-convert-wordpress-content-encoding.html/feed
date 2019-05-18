@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:georss="http://www.georss.org/georss" 
+	>
+<channel>
+	<title>Comments on: Script to convert WordPress&#8217; content encoding</title>
+	<atom:link href="https://m.tacker.org/64.script-to-convert-wordpress-content-encoding.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org/64.script-to-convert-wordpress-content-encoding.html</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Mon, 23 Nov 2015 21:43:02 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: Como converter a codificação de um blog Wordpress &#124; 100nexos</title>
+		<link>https://m.tacker.org/64.script-to-convert-wordpress-content-encoding.html/comment-page-1#comment-38198</link>
+		<dc:creator><![CDATA[Como converter a codificação de um blog Wordpress &#124; 100nexos]]></dc:creator>
+		<pubDate>Sun, 10 Jul 2011 23:29:00 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=64#comment-38198</guid>
+		<description><![CDATA[[...] Markus Tacker oferece um script que converte automaticamente seu banco de dados de iso-8859 para UTF8: Script to convert WordPress’ content encoding. [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Markus Tacker oferece um script que converte automaticamente seu banco de dados de iso-8859 para UTF8: Script to convert WordPress’ content encoding. [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Apon Treenipäiväkirja &#187; Nyt puhutaan UTF-8:ia</title>
+		<link>https://m.tacker.org/64.script-to-convert-wordpress-content-encoding.html/comment-page-1#comment-38008</link>
+		<dc:creator><![CDATA[Apon Treenipäiväkirja &#187; Nyt puhutaan UTF-8:ia]]></dc:creator>
+		<pubDate>Sat, 09 Oct 2010 10:22:20 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=64#comment-38008</guid>
+		<description><![CDATA[[...] Bingaamalla löytyi monta hyvää neuvoa, joista päätin valita Marcus Tackering kirjoittaman skriptin. [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Bingaamalla löytyi monta hyvää neuvoa, joista päätin valita Marcus Tackering kirjoittaman skriptin. [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Markus Tacker</title>
+		<link>https://m.tacker.org/64.script-to-convert-wordpress-content-encoding.html/comment-page-1#comment-37446</link>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+		<pubDate>Fri, 30 Apr 2010 08:44:53 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=64#comment-37446</guid>
+		<description><![CDATA[Ja, ich bin vor kurzem Umgezogen und habe auch meine SVN-Repositories aufgeräumt.
+Die neue URL lautet: http://code.coderbyheart.de/svn/wordpress/convert-encoding.php]]></description>
+		<content:encoded><![CDATA[<p>Ja, ich bin vor kurzem Umgezogen und habe auch meine SVN-Repositories aufgeräumt.<br />
+Die neue URL lautet: <a href="http://code.coderbyheart.de/svn/wordpress/convert-encoding.php" rel="nofollow">http://code.coderbyheart.de/svn/wordpress/convert-encoding.php</a></p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: jochen</title>
+		<link>https://m.tacker.org/64.script-to-convert-wordpress-content-encoding.html/comment-page-1#comment-37434</link>
+		<dc:creator><![CDATA[jochen]]></dc:creator>
+		<pubDate>Thu, 29 Apr 2010 10:43:58 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=64#comment-37434</guid>
+		<description><![CDATA[Gibts daSs Script noch irgendwo?]]></description>
+		<content:encoded><![CDATA[<p>Gibts daSs Script noch irgendwo?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Jimmy's Blog</title>
+		<link>https://m.tacker.org/64.script-to-convert-wordpress-content-encoding.html/comment-page-1#comment-37142</link>
+		<dc:creator><![CDATA[Jimmy's Blog]]></dc:creator>
+		<pubDate>Fri, 19 Mar 2010 09:13:22 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=64#comment-37142</guid>
+		<description><![CDATA[[...] verwendet, ich bisher aber einen ISO Zeichensatz verwendet hatte. Daf&#252;r habe ich dann aber ein Script gefunden, welches mir meine SQL Tabellen in utf-8 konvertiert. Das hat auch alles wunderbar [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] verwendet, ich bisher aber einen ISO Zeichensatz verwendet hatte. Daf&#252;r habe ich dann aber ein Script gefunden, welches mir meine SQL Tabellen in utf-8 konvertiert. Das hat auch alles wunderbar [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Codificación &#124; lenguao.com</title>
+		<link>https://m.tacker.org/64.script-to-convert-wordpress-content-encoding.html/comment-page-1#comment-22831</link>
+		<dc:creator><![CDATA[Codificación &#124; lenguao.com]]></dc:creator>
+		<pubDate>Tue, 02 Dec 2008 13:05:47 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=64#comment-22831</guid>
+		<description><![CDATA[[...] solución ha pasado por una recodificación de la base de datos (previo respaldo, claro) utilizando un simple pero muy útil script creado por Markus Tacker que encontré rebuscando un [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] solución ha pasado por una recodificación de la base de datos (previo respaldo, claro) utilizando un simple pero muy útil script creado por Markus Tacker que encontré rebuscando un [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Html Metatags</title>
+		<link>https://m.tacker.org/64.script-to-convert-wordpress-content-encoding.html/comment-page-1#comment-22783</link>
+		<dc:creator><![CDATA[Html Metatags]]></dc:creator>
+		<pubDate>Mon, 24 Nov 2008 14:47:14 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=64#comment-22783</guid>
+		<description><![CDATA[interesting script - thanks for sharing]]></description>
+		<content:encoded><![CDATA[<p>interesting script &#8211; thanks for sharing</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: betacontinua » Problemas con los feeds</title>
+		<link>https://m.tacker.org/64.script-to-convert-wordpress-content-encoding.html/comment-page-1#comment-22415</link>
+		<dc:creator><![CDATA[betacontinua » Problemas con los feeds]]></dc:creator>
+		<pubDate>Wed, 15 Oct 2008 07:02:09 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=64#comment-22415</guid>
+		<description><![CDATA[[...] nada hasta que encontré información en este blog donde había un enlace a un script el cual, siguiendo unas instrucciones te pasaba la base de datos a la codificación correcta. Eso si, como bien se indica, hacer una [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] nada hasta que encontré información en este blog donde había un enlace a un script el cual, siguiendo unas instrucciones te pasaba la base de datos a la codificación correcta. Eso si, como bien se indica, hacer una [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Into the Woods &#187; De iso-8859-1 a UTF-8</title>
+		<link>https://m.tacker.org/64.script-to-convert-wordpress-content-encoding.html/comment-page-1#comment-18572</link>
+		<dc:creator><![CDATA[Into the Woods &#187; De iso-8859-1 a UTF-8]]></dc:creator>
+		<pubDate>Sun, 18 May 2008 14:23:09 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=64#comment-18572</guid>
+		<description><![CDATA[[...] El segundo, utilizando un script que hace que autom]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] El segundo, utilizando un script que hace que autom</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: nedzad.eu&#187; Blogarchiv &#187; Mit WordPress umziehen</title>
+		<link>https://m.tacker.org/64.script-to-convert-wordpress-content-encoding.html/comment-page-1#comment-18523</link>
+		<dc:creator><![CDATA[nedzad.eu&#187; Blogarchiv &#187; Mit WordPress umziehen]]></dc:creator>
+		<pubDate>Fri, 16 May 2008 06:37:53 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=64#comment-18523</guid>
+		<description><![CDATA[[...] dem beizukommen, habe ich selbst das Script convert-encoding.php von Markus Tacker eingesetzt, welches im zweiten Durchlauf noch mit dem Wert &#8216;True&#8217;, [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] dem beizukommen, habe ich selbst das Script convert-encoding.php von Markus Tacker eingesetzt, welches im zweiten Durchlauf noch mit dem Wert &#8216;True&#8217;, [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Solaris, SAP und Oracle &#187; Blog Archive &#187; Wordpress auf UTF-8 umstellen</title>
+		<link>https://m.tacker.org/64.script-to-convert-wordpress-content-encoding.html/comment-page-1#comment-18219</link>
+		<dc:creator><![CDATA[Solaris, SAP und Oracle &#187; Blog Archive &#187; Wordpress auf UTF-8 umstellen]]></dc:creator>
+		<pubDate>Thu, 01 May 2008 11:09:58 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=64#comment-18219</guid>
+		<description><![CDATA[[...] ihr keinen Zugriff auf die Shell haben, wäre das hier von M.Tacker.org noch eine interessante Alternative: [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] ihr keinen Zugriff auf die Shell haben, wäre das hier von M.Tacker.org noch eine interessante Alternative: [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Markus Tacker</title>
+		<link>https://m.tacker.org/64.script-to-convert-wordpress-content-encoding.html/comment-page-1#comment-17669</link>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+		<pubDate>Thu, 10 Apr 2008 06:08:55 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=64#comment-17669</guid>
+		<description><![CDATA[&lt;blockquote&gt;Help me!:
+
+Mode is convert
+New encoding is UTF-8
+New encoding for mysql is utf8
+New collation for mysql is utf8_general_ci
+wp_3azkul_comments
+
+Fatal error: Call to undefined function mb_convert_encoding() in /home/jardinei/public_html/blog/wp-content/convert-encoding.php on line 121&lt;/blockquote&gt;
+
+The mbstring extension needs to be installed to use this script on your host.
+
+See &lt;a href=&quot;http://de.php.net/manual/en/ref.mbstring.php#mbstring.installation&quot; rel=&quot;nofollow&quot;&gt;mbstring installation&lt;/a&gt; for further instructions.]]></description>
+		<content:encoded><![CDATA[<blockquote><p>Help me!:</p>
+<p>Mode is convert<br />
+New encoding is UTF-8<br />
+New encoding for mysql is utf8<br />
+New collation for mysql is utf8_general_ci<br />
+wp_3azkul_comments</p>
+<p>Fatal error: Call to undefined function mb_convert_encoding() in /home/jardinei/public_html/blog/wp-content/convert-encoding.php on line 121</p></blockquote>
+<p>The mbstring extension needs to be installed to use this script on your host.</p>
+<p>See <a href="http://de.php.net/manual/en/ref.mbstring.php#mbstring.installation" rel="nofollow">mbstring installation</a> for further instructions.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Raquel</title>
+		<link>https://m.tacker.org/64.script-to-convert-wordpress-content-encoding.html/comment-page-1#comment-17654</link>
+		<dc:creator><![CDATA[Raquel]]></dc:creator>
+		<pubDate>Wed, 09 Apr 2008 19:14:25 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=64#comment-17654</guid>
+		<description><![CDATA[Help me!:
+
+Mode is convert
+New encoding is UTF-8
+New encoding for mysql is utf8
+New collation for mysql is utf8_general_ci
+wp_3azkul_comments 
+
+Fatal error:  Call to undefined function mb_convert_encoding() in /home/jardinei/public_html/blog/wp-content/convert-encoding.php on line 121]]></description>
+		<content:encoded><![CDATA[<p>Help me!:</p>
+<p>Mode is convert<br />
+New encoding is UTF-8<br />
+New encoding for mysql is utf8<br />
+New collation for mysql is utf8_general_ci<br />
+wp_3azkul_comments </p>
+<p>Fatal error: Call to undefined function mb_convert_encoding() in /home/jardinei/public_html/blog/wp-content/convert-encoding.php on line 121</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Der Männerblog &#187; Umlaute im WordPress-Blog umstellen&#160;&#171;</title>
+		<link>https://m.tacker.org/64.script-to-convert-wordpress-content-encoding.html/comment-page-1#comment-17281</link>
+		<dc:creator><![CDATA[Der Männerblog &#187; Umlaute im WordPress-Blog umstellen&#160;&#171;]]></dc:creator>
+		<pubDate>Tue, 25 Mar 2008 15:47:25 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=64#comment-17281</guid>
+		<description><![CDATA[[...] schiebt man die Sache hinaus. Ein Urlaubstag musste jetzt herhalten - und es scheint zu laufen! Ein kleines Script hat die Sache in der Datenbank recht schnell erledigt. Lediglich etliche meiner Widgets gingen [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] schiebt man die Sache hinaus. Ein Urlaubstag musste jetzt herhalten &#8211; und es scheint zu laufen! Ein kleines Script hat die Sache in der Datenbank recht schnell erledigt. Lediglich etliche meiner Widgets gingen [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Von Wordpress nach ExpressionEngine, thomas gigold</title>
+		<link>https://m.tacker.org/64.script-to-convert-wordpress-content-encoding.html/comment-page-1#comment-16729</link>
+		<dc:creator><![CDATA[Von Wordpress nach ExpressionEngine, thomas gigold]]></dc:creator>
+		<pubDate>Sun, 17 Feb 2008 22:16:53 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=64#comment-16729</guid>
+		<description><![CDATA[[...] seit Jahren (noch von Sunlog mitgeschlepptes) ISO-Format in UTF8 gewandelt. Das habe ich mit Hilfe dieses Script bewerkstelligt. Das &#228;ndert zwar nicht das Encoding der neuen internen Tags; macht aber nix, [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] seit Jahren (noch von Sunlog mitgeschlepptes) ISO-Format in UTF8 gewandelt. Das habe ich mit Hilfe dieses Script bewerkstelligt. Das &auml;ndert zwar nicht das Encoding der neuen internen Tags; macht aber nix, [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Alles neu macht die Weihnachtszeit &#187; BloggingTom</title>
+		<link>https://m.tacker.org/64.script-to-convert-wordpress-content-encoding.html/comment-page-1#comment-15773</link>
+		<dc:creator><![CDATA[Alles neu macht die Weihnachtszeit &#187; BloggingTom]]></dc:creator>
+		<pubDate>Sun, 23 Dec 2007 15:30:31 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=64#comment-15773</guid>
+		<description><![CDATA[[...] alten Datenmüll zu befreien und danach die Datenbankeinträge nach UTF-8 zu konvertieren. Das Script von Markus Tacker war mir dabei eine grosse Hilfe, denn damit geht die Konvertierung fast automatisch vonstatten. [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] alten Datenmüll zu befreien und danach die Datenbankeinträge nach UTF-8 zu konvertieren. Das Script von Markus Tacker war mir dabei eine grosse Hilfe, denn damit geht die Konvertierung fast automatisch vonstatten. [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: ManéBlog</title>
+		<link>https://m.tacker.org/64.script-to-convert-wordpress-content-encoding.html/comment-page-1#comment-13608</link>
+		<dc:creator><![CDATA[ManéBlog]]></dc:creator>
+		<pubDate>Wed, 10 Oct 2007 18:21:54 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=64#comment-13608</guid>
+		<description><![CDATA[&lt;strong&gt;Mudanças no Blog...&lt;/strong&gt;
+
+Meus caros,
+Percorri a via crucis de modificar o encoding do blog. Agora estamos em formato UTF-8. Tudo graças a um excelente script que converte o formato iso-8859 para UTF-8. O script pode ser baixado aqui.
+Também agora estou usando o Qumana para p...]]></description>
+		<content:encoded><![CDATA[<p><strong>Mudanças no Blog&#8230;</strong></p>
+<p>Meus caros,<br />
+Percorri a via crucis de modificar o encoding do blog. Agora estamos em formato UTF-8. Tudo graças a um excelente script que converte o formato iso-8859 para UTF-8. O script pode ser baixado aqui.<br />
+Também agora estou usando o Qumana para p&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Markus Tacker</title>
+		<link>https://m.tacker.org/64.script-to-convert-wordpress-content-encoding.html/comment-page-1#comment-13601</link>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+		<pubDate>Wed, 10 Oct 2007 08:05:22 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=64#comment-13601</guid>
+		<description><![CDATA[oculos and roberts problems have been adressed in &lt;a href=&quot;http://projects.tacker.org/trac/smallprojects/changeset/288&quot; rel=&quot;nofollow&quot;&gt;[288]&lt;/a&gt; and &lt;a href=&quot;http://projects.tacker.org/trac/smallprojects/changeset/287&quot; rel=&quot;nofollow&quot;&gt;[287]&lt;/a&gt; respectively.]]></description>
+		<content:encoded><![CDATA[<p>oculos and roberts problems have been adressed in <a href="http://projects.tacker.org/trac/smallprojects/changeset/288" rel="nofollow">[288]</a> and <a href="http://projects.tacker.org/trac/smallprojects/changeset/287" rel="nofollow">[287]</a> respectively.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Robert</title>
+		<link>https://m.tacker.org/64.script-to-convert-wordpress-content-encoding.html/comment-page-1#comment-13593</link>
+		<dc:creator><![CDATA[Robert]]></dc:creator>
+		<pubDate>Tue, 09 Oct 2007 20:05:02 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=64#comment-13593</guid>
+		<description><![CDATA[I think you should update only tables with prefix wp_*. If any  tables in the database does not belong to WordPress, they should be left intact. Change the call for our $result :
+
+   SHOW TABLES FROM  LIKE &#039;wp%&#039; ;
+
+ -&#062; g2_MimeTypeMap belongs to gallery2 :)]]></description>
+		<content:encoded><![CDATA[<p>I think you should update only tables with prefix wp_*. If any tables in the database does not belong to WordPress, they should be left intact. Change the call for our $result :</p>
+<p> SHOW TABLES FROM LIKE &#8216;wp%&#8217; ;</p>
+<p> -&gt; g2_MimeTypeMap belongs to gallery2 <img src="https://m.tacker.org/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Robert</title>
+		<link>https://m.tacker.org/64.script-to-convert-wordpress-content-encoding.html/comment-page-1#comment-13592</link>
+		<dc:creator><![CDATA[Robert]]></dc:creator>
+		<pubDate>Tue, 09 Oct 2007 19:00:31 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=64#comment-13592</guid>
+		<description><![CDATA[OK, I see the problem. You are using only numeric attributes as keys for update. Unfortunately table g2_MimeTypeMap (at least in WordPress 2.0.2) has only 1 non-numeric column, which is not unique ...]]></description>
+		<content:encoded><![CDATA[<p>OK, I see the problem. You are using only numeric attributes as keys for update. Unfortunately table g2_MimeTypeMap (at least in WordPress 2.0.2) has only 1 non-numeric column, which is not unique &#8230;</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

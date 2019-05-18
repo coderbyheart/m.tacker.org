@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:georss="http://www.georss.org/georss" 
+	>
+<channel>
+	<title>Comments on: Ich bin wieder Angesteller</title>
+	<atom:link href="https://m.tacker.org/3281.ich-bin-wieder-angesteller.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org/3281.ich-bin-wieder-angesteller.html</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Mon, 23 Nov 2015 21:43:02 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: Markus Tacker</title>
+		<link>https://m.tacker.org/3281.ich-bin-wieder-angesteller.html/comment-page-1#comment-46257</link>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+		<pubDate>Tue, 01 Apr 2014 07:16:44 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=3281#comment-46257</guid>
+		<description><![CDATA[Danke dafür! Wenn ihr Unterstützung / Feedback braucht, melde dich!]]></description>
+		<content:encoded><![CDATA[<p>Danke dafür! Wenn ihr Unterstützung / Feedback braucht, melde dich!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Jens krahe</title>
+		<link>https://m.tacker.org/3281.ich-bin-wieder-angesteller.html/comment-page-1#comment-46255</link>
+		<dc:creator><![CDATA[Jens krahe]]></dc:creator>
+		<pubDate>Sat, 29 Mar 2014 18:14:48 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=3281#comment-46255</guid>
+		<description><![CDATA[Hab people interactive gefragt, ob sie eine kauft. Finde die Aktion wirklich sehr cool. Du machst das richtige.]]></description>
+		<content:encoded><![CDATA[<p>Hab people interactive gefragt, ob sie eine kauft. Finde die Aktion wirklich sehr cool. Du machst das richtige.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:georss="http://www.georss.org/georss" 
+	>
+<channel>
+	<title>Comments on: Die 30,- € Datensicherung</title>
+	<atom:link href="https://m.tacker.org/2248.die-30-e-datensicherung.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org/2248.die-30-e-datensicherung.html</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Mon, 23 Nov 2015 21:43:02 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: Bodo</title>
+		<link>https://m.tacker.org/2248.die-30-e-datensicherung.html/comment-page-1#comment-36672</link>
+		<dc:creator><![CDATA[Bodo]]></dc:creator>
+		<pubDate>Mon, 28 Dec 2009 01:09:22 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=2248#comment-36672</guid>
+		<description><![CDATA[Hey Markus! Da ich Dich mit dem Thema schon öfters gesehen habe, solltest Du mal den Aspekt von Annual Loss Expectancy (ALE) einarbeiten und Dir zudem auch mal Dropbox, Wuala etc. anschauen .. 
+Zudem kostet eine 1TB USB-Drive im Moment ca. 80 Euro. Die Daten solltest Du aber verschlüsselt aufspielen. z.B. mit TrueCrypt. Und final .. Microsoft bietet kostenlos SyncToy an damit kannst Du dann sehr einfach Deine Daten zwischen den einzelnen Speichern synchronisieren :) ...
+
+Wer da nun kein Backup macht ... ist selber schuld...
+
+Viel Spaß und einen guten Rutsch!]]></description>
+		<content:encoded><![CDATA[<p>Hey Markus! Da ich Dich mit dem Thema schon öfters gesehen habe, solltest Du mal den Aspekt von Annual Loss Expectancy (ALE) einarbeiten und Dir zudem auch mal Dropbox, Wuala etc. anschauen ..<br />
+Zudem kostet eine 1TB USB-Drive im Moment ca. 80 Euro. Die Daten solltest Du aber verschlüsselt aufspielen. z.B. mit TrueCrypt. Und final .. Microsoft bietet kostenlos SyncToy an damit kannst Du dann sehr einfach Deine Daten zwischen den einzelnen Speichern synchronisieren <img src="https://m.tacker.org/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> &#8230;</p>
+<p>Wer da nun kein Backup macht &#8230; ist selber schuld&#8230;</p>
+<p>Viel Spaß und einen guten Rutsch!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

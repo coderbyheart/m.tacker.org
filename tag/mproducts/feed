@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>mproducts &#8211; [|] m.tacker.org</title>
+	<atom:link href="https://m.tacker.org/tag/mproducts/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Tue, 12 Jan 2016 11:45:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>MProducts.de &#8211; Jugendsünden eines Webentwicklers</title>
+		<link>https://m.tacker.org/1838.mproductsde-jugendsunden-eines-webentwicklers.html</link>
+		<comments>https://m.tacker.org/1838.mproductsde-jugendsunden-eines-webentwicklers.html#respond</comments>
+		<pubDate>Sat, 21 Mar 2009 12:35:38 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Jugendsünden]]></category>
+		<category><![CDATA[mproducts]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=1838</guid>
+		<description><![CDATA[Wunderbar skurriles Webdesign: meine erste Homepage.]]></description>
+				<content:encoded><![CDATA[<p><img src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/fotos/550/mproducts/mproducts-1998-01.jpg" alt="" /></p>
+<p>An die 12 Jahre ist es nun her, dass ich meine ersten Gehversuche in HTML gemacht habe — und diese möchte ich euch einfach nicht vorenthalten. Schließlich ist <a href="http://coderbyheart.github.io/mproducts/">meine erste Homepage</a> ein wunderbares Beispiel dafür, wie auch heute noch absolute Anfänger Homepages bauen. Bei meinem Entwurf kommen einige wunderbar beknackte Eigenheiten zusammen:</p>
+<ul>
+<li>1-Seiten-Layout: Es gibt so wenig Inhalt, dass er nur für eine Seite reicht.</li>
+<li>GIFs, GIFs und noch mehr GIFs. Animationen fand ich aber damals schon doof.</li>
+<li>willkürlich Linksammlungen</li>
+<li>Lesbarkeit? Scheiß drauf, es gibt doch so viele tolle Farben!</li>
+<li>und natürlich darf ein großkotziger &#8220;wir&#8221;-Ton nicht fehlen</li>
+</ul>
+<p>Der Name &#8220;MProducts&#8221; ist rührt übrigens aus meiner damaligen Leidenschaft für das Pen&amp;Paper-Rollenspiel Shadowrun — das dem ein oder anderen sicher ein Begriff sein dürfte. Dort bezeichnete ich mit MProducts einen Konzern, der Auftraggeber für diverse Runs war und auch noch Waffen und Ausrüstungsgenstände produzierte.</p>
+<p>Zum Thema Shadowrun habe ich auch noch andere, herrlich skurrile Webseiten in meinen Backups gefunden. Diese werde ich nach und nach veröffentlichen.</p>
+<p>Achja, den Begriff BETA haben nicht irgendwelche hippen Web-2.0-Startups salonfähig gemacht, sondern Ich! Ganz oben stehts: &#8220;<em>BETA 3</em>&#8220;.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1838.mproductsde-jugendsunden-eines-webentwicklers.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

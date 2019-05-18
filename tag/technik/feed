@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>Technik &#8211; [|] m.tacker.org</title>
+	<atom:link href="https://m.tacker.org/tag/technik/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Tue, 12 Jan 2016 11:45:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>TCM Funk-Lautsprecher</title>
+		<link>https://m.tacker.org/1177.tcm-funk-lautsprecher.html</link>
+		<comments>https://m.tacker.org/1177.tcm-funk-lautsprecher.html#comments</comments>
+		<pubDate>Wed, 09 Jul 2008 06:46:30 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[Technik]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=1177</guid>
+		<description><![CDATA[Der Funk-Lautsprecher mit ohne "Sound Intensity" von Tchibo]]></description>
+				<content:encoded><![CDATA[<p><img src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2008/07/tcm-funklautsprecher.jpg" alt="" title="TCM Funk-Lautsprecher \&quot;Sound Intensity\&quot;" width="225" height="447" class="alignright size-full wp-image-1178" srcset="https://m.tacker.org/wp-content/uploads/2008/07/tcm-funklautsprecher-151x300.jpg 151w, https://m.tacker.org/wp-content/uploads/2008/07/tcm-funklautsprecher.jpg 225w" sizes="(max-width: 225px) 100vw, 225px" /></p>
+<p>Am Wochenede habe ich bei Tchibo diesen Funk-Lautsprecher bestellt, da er gut aussieht und weil spritzwassergeschützt auch explizit für den Außeneinsatz vorgesehen &mdash; denn auf unserer Terrasse fehlt noch etwas Musik.</p>
+<p>Von der Verarbeitung her kann man an dem Lautsprecher nichts aussetzen, das gefällige, von Apple inspirierte Design ist in schwerem Plastik mit stabilen Standfüßen ausgeführt.</p>
+<p>Allerdings kann ich das auf der Verpackung unter der Slogan &#8220;Sound Intensity&#8221; beworbene</p>
+<blockquote><p>hervorragende Klangbild</p></blockquote>
+<p>leider nicht hören. Der Ton ist ziemlich dumpf, gerade in den Höhen fehlt die Substanz. Im Verhältnis dazu ist der Bass viel zu stark, was zu einem recht breiigen Ton führt. Für 79 € definitiv zu wenig.</p>
+<p>Deswegen geht der Lautsprecher auch morgen wieder in die Retoure.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1177.tcm-funk-lautsprecher.html/feed</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+	</channel>
+</rss>

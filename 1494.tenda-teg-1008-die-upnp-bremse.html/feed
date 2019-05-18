@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:georss="http://www.georss.org/georss" 
+	>
+<channel>
+	<title>Comments on: Tenda TEG-1008: Die UPnP-Bremse</title>
+	<atom:link href="https://m.tacker.org/1494.tenda-teg-1008-die-upnp-bremse.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org/1494.tenda-teg-1008-die-upnp-bremse.html</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Mon, 23 Nov 2015 21:43:02 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: umd</title>
+		<link>https://m.tacker.org/1494.tenda-teg-1008-die-upnp-bremse.html/comment-page-1#comment-37591</link>
+		<dc:creator><![CDATA[umd]]></dc:creator>
+		<pubDate>Wed, 26 May 2010 20:01:58 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=1494#comment-37591</guid>
+		<description><![CDATA[dito]]></description>
+		<content:encoded><![CDATA[<p>dito</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: BrAiNee</title>
+		<link>https://m.tacker.org/1494.tenda-teg-1008-die-upnp-bremse.html/comment-page-1#comment-37097</link>
+		<dc:creator><![CDATA[BrAiNee]]></dc:creator>
+		<pubDate>Sun, 07 Mar 2010 23:26:34 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=1494#comment-37097</guid>
+		<description><![CDATA[Hallo, das gleiche Problem hatte ich auch, habe stunden lang versucht meinen Samsung LCD via DLNA zu verbinden, nach ein paar Stunden Arbeit stellte ich dann fesst das der Switsch das einfach nicht macht.]]></description>
+		<content:encoded><![CDATA[<p>Hallo, das gleiche Problem hatte ich auch, habe stunden lang versucht meinen Samsung LCD via DLNA zu verbinden, nach ein paar Stunden Arbeit stellte ich dann fesst das der Switsch das einfach nicht macht.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

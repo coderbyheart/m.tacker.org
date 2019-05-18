@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>Flash &#8211; [|] m.tacker.org</title>
+	<atom:link href="https://m.tacker.org/category/portfolio/flash/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Tue, 12 Jan 2016 11:45:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>Anpassung Imagevue</title>
+		<link>https://m.tacker.org/1100.anpassung-imagevue.html</link>
+		<comments>https://m.tacker.org/1100.anpassung-imagevue.html#respond</comments>
+		<pubDate>Tue, 27 Mar 2007 17:49:55 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Flash]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/1100.anpassung-imagevue.html</guid>
+		<description><![CDATA[ImageVue Galerie auf fotopaolo.ch Layout- und Farb-Anpassung der Flash-Galerie ImageVue für fotopaolo.ch.]]></description>
+				<content:encoded><![CDATA[<dl class="foto" style="width: 200px">
+<dt><img src="http://tacker.org/wp-content/uploads/2007/03/resized_2007-03-27_114836.png" alt="ImageVue Galerie auf fotopaolo.ch" /></dt>
+<dd>ImageVue Galerie auf fotopaolo.ch</dd>
+</dl>
+<p>Layout- und Farb-Anpassung der Flash-Galerie <a href="http://www.imagevuex.com/">ImageVue</a> für <a href="http://fotopaolo.ch/">fotopaolo.ch</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1100.anpassung-imagevue.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>FAQs campuszoom</title>
+		<link>https://m.tacker.org/1044.faqs-campuszoom.html</link>
+		<comments>https://m.tacker.org/1044.faqs-campuszoom.html#respond</comments>
+		<pubDate>Sun, 12 Feb 2006 18:12:53 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Flash]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/1044.faqs-campuszoom.html</guid>
+		<description><![CDATA[FAQs campuszoom Programmierung einer FAQ für die Veranstaltung campuszooom der FH Wiesbaden, bei der alle Fragen mit Videos hinterlegt sind. Die Fragen werden aus einer XML-Datei eingelesen. Die werden in der Live-Version vom Flash Media Server gestreamt. Wenn der User keine Aktionen macht, werden verschiedene Füller-Videos per Zufall eingespielt. ansehen Quelldatei]]></description>
+				<content:encoded><![CDATA[<dl class="foto" style="width: 200px">
+<dt><img src="http://tacker.org/wp-content/uploads/2007/02/resized_2007-02-28_192903.png" alt="FAQs campuszoom" /></dt>
+<dd>FAQs campuszoom</dd>
+</dl>
+<p>Programmierung einer FAQ für die Veranstaltung campuszooom der <a href="http://www.fh-wiesbaden.de/">FH Wiesbaden</a>, bei der alle Fragen mit Videos hinterlegt sind. Die Fragen werden aus einer XML-Datei eingelesen. Die werden in der Live-Version vom Flash Media Server gestreamt.</p>
+<p>Wenn der User keine Aktionen macht, werden verschiedene Füller-Videos per Zufall eingespielt.</p>
+<ul>
+<li><a href="https://m.tacker.org/portfolio/2006-02-12-faqs-campuszoom/deploy/faqs.html">ansehen</a></li>
+<li><a href="https://m.tacker.org/portfolio/2006-02-12-faqs-campuszoom/source/faqs_schwarz.fla">Quelldatei</a></li>
+</ul>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1044.faqs-campuszoom.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>KiMU Klangraum</title>
+		<link>https://m.tacker.org/961.kimu-klangraum.html</link>
+		<comments>https://m.tacker.org/961.kimu-klangraum.html#respond</comments>
+		<pubDate>Sun, 22 May 2005 21:08:38 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Flash]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/961.kimu-klangraum.html</guid>
+		<description><![CDATA[KiMU Klangraum Für die Kindermedienuni 2005 habe ich den Klangraum visualisiert. Der Flash-Film lief auf den Terminals vor dem Raum, mit denen sich die Kinder über den Aufbau des Klangraumes informieren konnten. Quellcode Quelldatei]]></description>
+				<content:encoded><![CDATA[<dl class="foto" style="width: 200px">
+<dt><img src="http://tacker.org/wp-content/uploads/2007/02/resized_2007-02-28_221755.png" alt="KiMU Klangraum" /></dt>
+<dd>KiMU Klangraum</dd>
+</dl>
+<p>Für die <a href="http://www.kindermedienuni.de/">Kindermedienuni</a> 2005 habe ich den <em>Klangraum</em> visualisiert. Der <a href="https://m.tacker.org/portfolio/2005-05-22-kimu-klangraum/deploy/klangraum.html">Flash-Film</a> lief auf den Terminals vor dem Raum, mit denen sich die Kinder über den Aufbau des Klangraumes informieren konnten.</p>
+<h3>Quellcode</h3>
+<ul>
+<li><a href="https://m.tacker.org/portfolio/2005-05-22-kimu-klangraum/source/klangraum.fla">Quelldatei</a></li>
+</ul>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/961.kimu-klangraum.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Flash Pseudo-3D</title>
+		<link>https://m.tacker.org/715.flash-pseudo-3d.html</link>
+		<comments>https://m.tacker.org/715.flash-pseudo-3d.html#respond</comments>
+		<pubDate>Tue, 29 Oct 2002 14:27:02 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Flash]]></category>
+		<category><![CDATA[Ausbildung]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/715.flash-pseudo-3d.html</guid>
+		<description><![CDATA[Für ein Weihnachtsspezial von Fraport brauchten wir eine Art Galerie, durch die man sich bewegen kann. Dabei ist dann dieses Teil entstanden. Klicke mit der Maus auf den Film und benutze dann die Pfeiltasten um zu navigieren.]]></description>
+				<content:encoded><![CDATA[<p>Für ein Weihnachtsspezial von Fraport brauchten wir eine Art Galerie, durch die man sich bewegen kann. Dabei ist dann dieses Teil entstanden.</p>
+<div style="text-align: center"><object type="application/x-shockwave-flash" data="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2007/04/2002-10-29_pseudo-3d.swf" width="400" height="300"><param name="movie" value="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2007/04/2002-10-29_pseudo-3d.swf" /></object></div>
+<p>Klicke mit der Maus auf den Film und benutze dann die Pfeiltasten um zu navigieren.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/715.flash-pseudo-3d.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

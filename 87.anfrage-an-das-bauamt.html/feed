@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:georss="http://www.georss.org/georss" 
+	>
+<channel>
+	<title>Comments on: Anfrage an das Bauamt</title>
+	<atom:link href="https://m.tacker.org/87.anfrage-an-das-bauamt.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org/87.anfrage-an-das-bauamt.html</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Mon, 23 Nov 2015 21:43:02 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: [&#124;] m.tacker.org » blog &#187; Blog Archive &#187; Grünes Licht</title>
+		<link>https://m.tacker.org/87.anfrage-an-das-bauamt.html/comment-page-1#comment-864</link>
+		<dc:creator><![CDATA[[&#124;] m.tacker.org » blog &#187; Blog Archive &#187; Grünes Licht]]></dc:creator>
+		<pubDate>Sat, 18 Mar 2006 18:24:37 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/87.anfrage-an-das-bauamt.html#comment-864</guid>
+		<description><![CDATA[[...] Der Termin bei der Bauaufsicht ist viel besser gelaufen als wir erwartet hatten. Im Prinzip können wir alles so umsetzen, wie wir es im ersten Entwurf angedacht hatten. [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Der Termin bei der Bauaufsicht ist viel besser gelaufen als wir erwartet hatten. Im Prinzip können wir alles so umsetzen, wie wir es im ersten Entwurf angedacht hatten. [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

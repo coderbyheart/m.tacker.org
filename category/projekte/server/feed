@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>Server &#8211; [|] m.tacker.org</title>
+	<atom:link href="https://m.tacker.org/category/projekte/server/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Tue, 12 Jan 2016 11:45:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>regfail</title>
+		<link>https://m.tacker.org/2386.regfail.html</link>
+		<comments>https://m.tacker.org/2386.regfail.html#comments</comments>
+		<pubDate>Sat, 20 Mar 2010 14:12:06 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Projekte]]></category>
+		<category><![CDATA[Server]]></category>
+		<category><![CDATA[Technik]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=2386</guid>
+		<description><![CDATA[Ich bereite gerade den Umzug diverser Projekte von meinem Gentoo-Server, der unten im Keller steht und mit meiner Arcor 6-MBit-DSL-Leitung (Upload: 768 KBit/s) im Internet hängt, auf einen VServer bei Greatnet vor. Da dort drei .de-Domains im Preis inbegriffen sind, habe ich bei meinem jetzigen Domain-Provider regfish drei Domains gekündigt, mit der Einstellung, die AuthInfos [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Ich bereite gerade den Umzug diverser Projekte von meinem Gentoo-Server, der unten im Keller steht und mit meiner Arcor 6-MBit-DSL-Leitung (Upload: 768 KBit/s) im Internet hängt, auf einen <a href="http://partners.webmasterplan.com/click.asp?ref=435754&#038;site=2430&#038;type=text&#038;tnb=60">VServer bei Greatnet</a> vor.</p>
+<p>Da dort drei .de-Domains im Preis inbegriffen sind, habe ich bei meinem jetzigen Domain-Provider <a href="http://regfish.de/">regfish</a> drei Domains gekündigt, mit der Einstellung, die AuthInfos zum Wechseln zu erzeugen. </p>
+<p>Bei zwei Domains hat das auch geklappt, aber die Dritte wurde von regfish an die DENIC zurückgegeben &mdash; dadurch kann ich sie jetzt nicht mehr im Admin-Interface bearbeiten, geschweige denn den A-Record bei Wechsel der IP-Adresse aktualisieren. Da hat wohl jemand vom Support den Haken an der falschen Stelle gesetzt. </p>
+<h3 class="textimage" id="update1">Update 22.03.2010</h3>
+<p>Inzwischen hat sich die Sache geklärt.<br />
+<strong>Es war kein Fehler von Regfish &mdash; sondern Service!</strong></p>
+<p>Die Domain lief zum 21.03.2010 aus, der Wechsel wurde am 18.03. beauftragt &#8230; somit hat Regfish alles richtig gemacht, und sogar kulanterweise nicht von ihrer 40-tägigen Kündigungsfrist Gebrauch gemacht.</p>
+<blockquote><p>Die Domain ist natürlich auch weiterhin noch auf Ihren Namen registriert, wird jedoch nicht mehr von uns verwaltet. Sie erhalten in den nächsten Tagen von DENIC Zugang zum DENIC-Transit um die Domain zu einem anderen Provider übertragen zu können.</p></blockquote>
+<p>Jo, mal sehen was daraus wird.<br />
+Praktischerweise ist es keine wichtige Domain.</p>
+<p><img src="http://banners.webmasterplan.com/view.asp?ref=435754&#038;site=2430&#038;type=text&#038;tnb=60&#038;js=1" width="1" height="1" /></p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/2386.regfail.html/feed</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Tenda TEG-1008: Die UPnP-Bremse</title>
+		<link>https://m.tacker.org/1494.tenda-teg-1008-die-upnp-bremse.html</link>
+		<comments>https://m.tacker.org/1494.tenda-teg-1008-die-upnp-bremse.html#comments</comments>
+		<pubDate>Thu, 18 Sep 2008 08:59:30 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Server]]></category>
+		<category><![CDATA[PS3]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=1494</guid>
+		<description><![CDATA[Ich versuche seit Montag meinen Linux-Server als Medienserver via UPnP der Playstation 3 schmackhaft zu machen. Doch alle Versuche scheiterten daran, dass die PS3 einfach keine Medienserver finden kann. Auch eine Freigabe mittels Windows Media Player unter Vista wurde nicht erkannt. Praktischerweise gibt es dieses Utility: Der UPnP Tester von Noël Danjou listet alle aktiven [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Ich versuche seit Montag meinen Linux-Server als Medienserver via <a href="http://de.wikipedia.org/wiki/UPnP">UPnP</a> der Playstation 3 schmackhaft zu machen. Doch alle Versuche scheiterten daran, dass die PS3 einfach keine Medienserver finden kann.</p>
+<p>Auch eine Freigabe mittels Windows Media Player unter Vista wurde nicht erkannt.</p>
+<p>Praktischerweise gibt es dieses Utility: Der <a href="http://www.noeld.com/programs.asp?cat=dstools#upnptest">UPnP Tester</a> von Noël Danjou listet alle aktiven UPnP-Endpunkte im Netz auf. Die Vista-Freigabe war auch nicht auf dem Laptop zu sehen, also habe ich den Switch mal ausgetauscht und siehe da: der <a href="http://www.tenda.cn/product/show.php?productid-221.html">Tenda TEG-1008</a> ist Schuld. Er schluckt einfach die UPnP-Broadcast-Pakete.</p>
+<p>Jetzt muss ich erstmal einen Ersatz organisieren &#8230;</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1494.tenda-teg-1008-die-upnp-bremse.html/feed</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>5.734.400</title>
+		<link>https://m.tacker.org/1181.5734400.html</link>
+		<comments>https://m.tacker.org/1181.5734400.html#respond</comments>
+		<pubDate>Wed, 23 Jul 2008 06:41:37 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Server]]></category>
+		<category><![CDATA[fon]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=1181</guid>
+		<description><![CDATA[Austausch des Allnet 1297 durch La Fonera+ ermöglicht endlich volle DSL-Geschwindigkeit.]]></description>
+				<content:encoded><![CDATA[<p>Bis vor ein paar Tagen hatte ich mich damit abgefunden, dass an meinem 6-MBit-DSL-Zugang von Arcor nur 3.2 MBit (395 KB/s) möglich waren. Schließlich kann eine langsame Leitung viele Gründe haben, oft ist die Leitungsdämpfung zu groß. Möglich wäre auch gewesen, dass ich beim manuellen verkabeln der Arcor-Telefonanlage einen Fehler gemacht hatte.</p>
+<p>Allerdings hat mich <a href="http://www.dawitt.de/" rel="friend met neighbor">Daniel</a> drauf gestoßen, doch mal den <a href="https://m.tacker.org/98.new-router.html" rel="me">Allnet Router</a>, den ich vor zwei Jahren angeschafft hatte durch einen anderen aus zu tauschen, da dieser einfach technisch nicht in der Lage ist mehr als 2 bis 3 MBit am WAN-Port zu verarbeiten.</p>
+<p>Praktischerweise hatte ich noch einen Fonera+ als Access Point bei meiner Schwester im Einsatz, den ich flugs gegen den Fonera im Erdgeschoss getauscht habe. Der Fonera+ verfügt im Gegensatz zum Fonera über einen eingebauten Router. </p>
+<p>Die Installation war natürlich kein Problem, der Fonera+ unterstützt auch Portforwarding das für den Betrieb meines Heimservers unerlässlich ist.</p>
+<p>Im Ergebnis habe ich jetzt endlich die volle Bandbreite (5.7 MBit oder 700 KB/s) an meinem DSL-Anschluss &mdash; und zwei Allnet 1297 zu verschenken.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1181.5734400.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<georss:point>50.0950241 8.7621355</georss:point>	</item>
+		<item>
+		<title>Server jetzt mit fast 1 Terabyte</title>
+		<link>https://m.tacker.org/775.server-jetzt-mit-fast-1-terabyte.html</link>
+		<comments>https://m.tacker.org/775.server-jetzt-mit-fast-1-terabyte.html#respond</comments>
+		<pubDate>Wed, 05 Sep 2007 10:08:39 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Server]]></category>
+		<category><![CDATA[Hardware]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/775.server-jetzt-mit-fast-1-terabyte.html</guid>
+		<description><![CDATA[Seit gestern laufen die 6 Festplatten in meinem Server wieder stabil. Eine ganze Weile hatte ich das Problem, dass sich das System nach einem ata5: exception Emask 0x10 SAct 0x0 SErr 0x1990000 action 0x2 frozen ata5: hard resetting port immer wieder aufhing, bzw. beim Booten schon stehen blieb. In diversen Foren findet man den Hinweis, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src='https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2007/09/372514_1445.jpg' alt='Festplatte' class="right" />Seit gestern laufen die 6 Festplatten in meinem Server wieder stabil. Eine ganze Weile hatte ich das Problem, dass sich das System nach einem </p>
+<p><code>ata5: exception Emask 0x10 SAct 0x0 SErr 0x1990000 action 0x2 frozen ata5: hard resetting port</code></p>
+<p>immer wieder aufhing, bzw. beim Booten schon stehen blieb.</p>
+<p>In diversen Foren findet man den Hinweis, dass dies oft an gelockerten SATA-Steckern läge &mdash; bei mir hat das Kontrollieren der Stecker keinen Erfolg gebracht. Auch die Strom-Stecker an den Platten waren in Ordnung.</p>
+<p>Gestern habe ich dann gemerkt, dass ich an einem Strom-Strang 5 der 6 Platten hängen hatte. Seit ich sie gleichmäßig auf zwei Stränge verteilt habe läuft die Kiste wieder ohne Hänger.</p>
+<p>Insgesamt bin ich jetzt knapp am Terabyte vorbei geschliddert. Genau genommen sind es 912 Gigabyte, was in der <a href="http://de.wikipedia.org/wiki/Festplatte#Speicherkapazit.C3.A4t">Notation von Festplattenherstellern</a> immerhin 979,25<br />
+ GiBiByte.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/775.server-jetzt-mit-fast-1-terabyte.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Serverausfall wegen Western Digital</title>
+		<link>https://m.tacker.org/659.serverausfall-wegen-western-digital.html</link>
+		<comments>https://m.tacker.org/659.serverausfall-wegen-western-digital.html#comments</comments>
+		<pubDate>Wed, 14 Feb 2007 13:31:43 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Projekte]]></category>
+		<category><![CDATA[Server]]></category>
+		<category><![CDATA[Hardware]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/659.serverausfall-wegen-western-digital.html</guid>
+		<description><![CDATA[Es ist echt zum Kotzen. Da hat man mal einen freien Tag und dann passiert das&#8230; Heute morgen habe ich die Hälfte meines Software-Raids &#8212; das seit zwei Wochen schon nicht mehr läuft &#8212; ausgebaut und mit der Diagnose-Software von Western Digital getestet. Die hat dann auch direkt vermeldet, dass ich mich mit dem Support [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Es ist echt zum Kotzen. Da hat man mal einen freien Tag und dann passiert das&#8230; </p>
+<p>Heute morgen habe ich die Hälfte meines Software-Raids &mdash; das seit zwei Wochen schon nicht mehr läuft &mdash; ausgebaut und mit der Diagnose-Software von Western Digital getestet. Die hat dann auch direkt vermeldet, dass ich mich mit dem Support in Verbindung setzen soll, da der S.M.A.R.T.-Wert 5 (<a href="http://www.ariolic.com/activesmart/smart-attributes/reallocated-sectors-count.html">Reallocated Sectors Count</a>) zu hoch wäre. Das bedeutet, dass es jede Menge Schreibfehler auf der Platte gab. Also habe ich schön die RMA vorbereitet und die Platte, übrigens eine <a href="http://www.westerndigital.com/de/products/Products.asp?DriveID=83&#038;Language=de">WDC WD800JD-55MU</a>, verpackt.</p>
+<p>Das gibt mir natürlich zu denken, da die andere Hälfte des Software-Raids <strong>genau die gleiche</strong> Platte ist. Als könnte sie Gedanken lesen, hat sie dann auch gegen 11:40 Uhr den Dienst quittiert in dem sich das System aufhing. Glücklicherweise konnte ich dann aber mit einem</p>
+<blockquote><p><code># dd if=/dev/hda of=/dev/sda conv=noerror,sync bs=4k</code></p></blockquote>
+<p>alle Daten auf eine IDE-Platte kopieren und das System mit dieser dann wieder zum Leben erwecken.</p>
+<p>Jetzt ist IDE-Platte der Master und die angeblich defekte SATA-Platte der Slave im Raid. <strike>Bis jetzt läuft die Wiederherstellung des Spiegels ohne Probleme.</strike> Nach 20 Minuten hat die dann auch ihren Geist aufgegeben.</p>
+<blockquote><p>ata2: translated ATA stat/err 0x61/04 to SCSI SK/ASC/ASCQ 0xb/00/00<br />
+ata2: status=0x61 { DriveReady DeviceFault Error }<br />
+ata2: error=0x04 { DriveStatusError }</p></blockquote>
+<p>Mit <em>der</em> RMA warte ich erstmal &#8230;</p>
+<h3>Update 28.03.2007</h3>
+<p>Western Digital hat beide Festplatten kommentarlos umgetauscht. Kosten auf meiner Seite waren dafür gut 12 €.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/659.serverausfall-wegen-western-digital.html/feed</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Serverausfall wegen defekter On-Board-Netzwerkkarte</title>
+		<link>https://m.tacker.org/647.serverausfall-wegen-defekter-on-board-netzwerkkarte.html</link>
+		<comments>https://m.tacker.org/647.serverausfall-wegen-defekter-on-board-netzwerkkarte.html#respond</comments>
+		<pubDate>Wed, 31 Jan 2007 10:09:30 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Projekte]]></category>
+		<category><![CDATA[Server]]></category>
+		<category><![CDATA[Hardware]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/647.serverausfall-wegen-defekter-on-board-netzwerkkarte.html</guid>
+		<description><![CDATA[Gestern Abend um 22:34 (da war ich noch im Kino Babel schauen), hat sich die On-Board-Netzwerkkarte des nForce2-Motherboards, mit dem mein Server läuft, entschlossen den Geist aufzugeben. Zum Glück habe ich noch einen Stapel 3com 3c905er da, so war flugs ein Ersatz da und um 23:20 war die Kiste dann auch wieder «drin». Interessant ist, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Gestern Abend um 22:34 (da war ich noch im Kino <a href="http://www.imdb.com/title/tt0449467/">Babel</a> schauen), hat sich die On-Board-Netzwerkkarte des nForce2-Motherboards, mit dem <a href="https://m.tacker.org/projects/server/#Heimserver">mein Server</a> läuft, entschlossen den Geist aufzugeben.</p>
+<p>Zum Glück habe ich noch einen Stapel 3com 3c905er da, so war flugs ein Ersatz da und um 23:20 war die Kiste dann auch wieder «drin».</p>
+<p>Interessant ist, dass ich mir immer Gedanken um die Absicherung eines Festplatten-Ausfalles mache, obwohl das noch nie passiert ist. Eine defekte Netzwerkkarte hatte ich aber jetzt <a href="https://m.tacker.org/215.nic-explodiert.html">schon zum zweiten Mal</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/647.serverausfall-wegen-defekter-on-board-netzwerkkarte.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Scheisstag</title>
+		<link>https://m.tacker.org/531.scheisstag.html</link>
+		<comments>https://m.tacker.org/531.scheisstag.html#comments</comments>
+		<pubDate>Wed, 04 Oct 2006 17:48:36 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Server]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/531.scheisstag.html</guid>
+		<description><![CDATA[Jaha, heute war ein Scheisstag. Erste ist heute morgen der Server ausgefallen &#8212; wohl wegen einem defekten Sektor. Wie Du siehst geht er wieder. Einfach wieder einschalten, fsck drüber laufen lassen und fertig. Dann hatte ich mein Fahrrad gestern aufgrund des Regens auf der Arbeit stehen gelassen. Als ich heute abend nach Hause fahren wollte, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img id="image530" src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/10/toilet_paper_01.jpg" alt="Toilettenpapier" class="right" />Jaha, heute war ein Scheisstag. Erste ist heute morgen der Server ausgefallen &mdash; wohl wegen einem defekten Sektor. Wie Du siehst geht er wieder. Einfach wieder einschalten, fsck drüber laufen lassen und fertig.</p>
+<p>Dann hatte ich mein Fahrrad gestern aufgrund des Regens auf der Arbeit stehen gelassen. Als ich heute abend nach Hause fahren wollte, habe ich kurz vor dem Losfahren gemerkt, dass man mir beide <a href="http://de.wikipedia.org/wiki/Umwerfer">Umwerfer</a> inklusive Kette geklaut hat &mdash; das Teil ist 10 Jahre alt! </p>
+<p>Naja, dafür dann gleich mal den <a href="http://www.allianz.de/service/online_verwalten/index.html">Allianz Online-Service</a> bemüht &mdash; das Fahrrad ist immerhin versichert. Mal sehen wie die das regeln.</p>
+<p><strong>Update 6. November</strong></p>
+<p>Die <a href="http://www.allianz.de">Allianz</a> hat es geregelt. Und bezahlt den ganzen Schaden. Vielen Dank!</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/531.scheisstag.html/feed</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

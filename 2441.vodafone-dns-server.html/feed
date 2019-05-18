@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:georss="http://www.georss.org/georss" 
+	>
+<channel>
+	<title>Comments on: Vodafone DNS Server</title>
+	<atom:link href="https://m.tacker.org/2441.vodafone-dns-server.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org/2441.vodafone-dns-server.html</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Mon, 23 Nov 2015 21:43:02 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: mortzu</title>
+		<link>https://m.tacker.org/2441.vodafone-dns-server.html/comment-page-1#comment-109443</link>
+		<dc:creator><![CDATA[mortzu]]></dc:creator>
+		<pubDate>Mon, 23 Nov 2015 21:43:02 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=2441#comment-109443</guid>
+		<description><![CDATA[Also mal zwei Sachen dazu:
+1. Up to MAXNS (currently 3, see ) (http://linux.die.net/man/5/resolv.conf)
+2. Google sollte man nicht empfehlen, finde ich. Eher Zensurfreie Server (https://www.ccc.de/de/censorship/dns-howto)]]></description>
+		<content:encoded><![CDATA[<p>Also mal zwei Sachen dazu:<br />
+1. Up to MAXNS (currently 3, see ) (<a href="http://linux.die.net/man/5/resolv.conf" rel="nofollow">http://linux.die.net/man/5/resolv.conf</a>)<br />
+2. Google sollte man nicht empfehlen, finde ich. Eher Zensurfreie Server (<a href="https://www.ccc.de/de/censorship/dns-howto" rel="nofollow">https://www.ccc.de/de/censorship/dns-howto</a>)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: ToSp.de.vu</title>
+		<link>https://m.tacker.org/2441.vodafone-dns-server.html/comment-page-1#comment-38336</link>
+		<dc:creator><![CDATA[ToSp.de.vu]]></dc:creator>
+		<pubDate>Mon, 19 Mar 2012 00:19:32 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=2441#comment-38336</guid>
+		<description><![CDATA[Hallo,
+
+folgende Server scheinen laut dem Tool &quot;Domain Name Speed Benchmark&quot; von GRC.com aktuell nicht zu funktionieren:
+
+dns1.vodafone.de (139.7.30.125)
+dns2.vodafone.de (139.7.30.126)
+dns9.arcor-ip.de (195.50.140.252)
+
+
+LG ToSp.de.vu]]></description>
+		<content:encoded><![CDATA[<p>Hallo,</p>
+<p>folgende Server scheinen laut dem Tool &#8220;Domain Name Speed Benchmark&#8221; von GRC.com aktuell nicht zu funktionieren:</p>
+<p>dns1.vodafone.de (139.7.30.125)<br />
+dns2.vodafone.de (139.7.30.126)<br />
+dns9.arcor-ip.de (195.50.140.252)</p>
+<p>LG ToSp.de.vu</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Internet lahmt -Seite 3 - Paules-PC-Forum.de</title>
+		<link>https://m.tacker.org/2441.vodafone-dns-server.html/comment-page-1#comment-38022</link>
+		<dc:creator><![CDATA[Internet lahmt -Seite 3 - Paules-PC-Forum.de]]></dc:creator>
+		<pubDate>Sat, 16 Oct 2010 20:19:13 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=2441#comment-38022</guid>
+		<description><![CDATA[[...]  [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

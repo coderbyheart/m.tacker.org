@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:georss="http://www.georss.org/georss" 
+	>
+<channel>
+	<title>Comments on: TV-Programm als XML-Feed</title>
+	<atom:link href="https://m.tacker.org/10.tv-programm-als-xml-feed.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org/10.tv-programm-als-xml-feed.html</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Mon, 23 Nov 2015 21:43:02 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: HC</title>
+		<link>https://m.tacker.org/10.tv-programm-als-xml-feed.html/comment-page-1#comment-22859</link>
+		<dc:creator><![CDATA[HC]]></dc:creator>
+		<pubDate>Fri, 05 Dec 2008 11:20:55 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/10.tv-programm-als-xml-feed.html#comment-22859</guid>
+		<description><![CDATA[Hallo,
+
+man kann bei http://xmltv.info das aktuelle Fernsehprogramm als xmltv Datei herunterladen. 
+
+Gruß,
+HC]]></description>
+		<content:encoded><![CDATA[<p>Hallo,</p>
+<p>man kann bei <a href="http://xmltv.info" rel="nofollow">http://xmltv.info</a> das aktuelle Fernsehprogramm als xmltv Datei herunterladen. </p>
+<p>Gruß,<br />
+HC</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Heiko</title>
+		<link>https://m.tacker.org/10.tv-programm-als-xml-feed.html/comment-page-1#comment-43</link>
+		<dc:creator><![CDATA[Heiko]]></dc:creator>
+		<pubDate>Wed, 22 Dec 2004 12:40:50 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/10.tv-programm-als-xml-feed.html#comment-43</guid>
+		<description><![CDATA[ich bin zu blöd. ich versuch auf membled irgendwo nen fertigen feed zu finden?!]]></description>
+		<content:encoded><![CDATA[<p>ich bin zu blöd. ich versuch auf membled irgendwo nen fertigen feed zu finden?!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

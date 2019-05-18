@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:georss="http://www.georss.org/georss" 
+	>
+<channel>
+	<title>Comments on: Nic explodiert</title>
+	<atom:link href="https://m.tacker.org/215.nic-explodiert.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org/215.nic-explodiert.html</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Mon, 23 Nov 2015 21:43:02 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: Serverausfall wegen defekter On-Board-Netzwerkkarte :: [&#124;] m.tacker.org</title>
+		<link>https://m.tacker.org/215.nic-explodiert.html/comment-page-1#comment-4457</link>
+		<dc:creator><![CDATA[Serverausfall wegen defekter On-Board-Netzwerkkarte :: [&#124;] m.tacker.org]]></dc:creator>
+		<pubDate>Wed, 14 Feb 2007 13:41:12 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/215.nic-explodiert.html#comment-4457</guid>
+		<description><![CDATA[[...] Interessant ist, dass ich mir immer Gedanken um die Absicherung eines Festplatten-Ausfalles mache, obwohl das noch nie passiert ist. Eine defekte Netzwerkkarte hatte ich aber jetzt schon zum zweiten Mal. [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Interessant ist, dass ich mir immer Gedanken um die Absicherung eines Festplatten-Ausfalles mache, obwohl das noch nie passiert ist. Eine defekte Netzwerkkarte hatte ich aber jetzt schon zum zweiten Mal. [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Markus Tacker</title>
+		<link>https://m.tacker.org/215.nic-explodiert.html/comment-page-1#comment-1617</link>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+		<pubDate>Wed, 11 Oct 2006 15:20:44 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/215.nic-explodiert.html#comment-1617</guid>
+		<description><![CDATA[Das erklärt auch, warum sie noch funktioniert. Danke für die Info.]]></description>
+		<content:encoded><![CDATA[<p>Das erklärt auch, warum sie noch funktioniert. Danke für die Info.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: tec</title>
+		<link>https://m.tacker.org/215.nic-explodiert.html/comment-page-1#comment-1615</link>
+		<dc:creator><![CDATA[tec]]></dc:creator>
+		<pubDate>Wed, 11 Oct 2006 13:29:18 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/215.nic-explodiert.html#comment-1615</guid>
+		<description><![CDATA[Das verschmorte Modul auf der Karte ist der DC-DC Wandler für den BNC Anschluss ;)]]></description>
+		<content:encoded><![CDATA[<p>Das verschmorte Modul auf der Karte ist der DC-DC Wandler für den BNC Anschluss 😉</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

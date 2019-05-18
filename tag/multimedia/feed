@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>Multimedia &#8211; [|] m.tacker.org</title>
+	<atom:link href="https://m.tacker.org/tag/multimedia/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Tue, 12 Jan 2016 11:45:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>DRIINN: Mini-Ladestation für Handys</title>
+		<link>https://m.tacker.org/836.driinn-mini-ladestation-fur-handys.html</link>
+		<comments>https://m.tacker.org/836.driinn-mini-ladestation-fur-handys.html#respond</comments>
+		<pubDate>Mon, 21 Aug 2006 09:50:06 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Wohnen]]></category>
+		<category><![CDATA[Multimedia]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/836.driinn-mini-ladestation-fur-handys.html</guid>
+		<description><![CDATA[Aus der Abteilung &#8220;Simpel und genial&#8221; kommt diese Ladestation (4,5 €) für Handys. Sie wird einfach hinter den Stecker des Ladegerätes geklemmt und dient gleichzeitig als Ablage für das Handy und Kabelaufwickler. via Gizmodo]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center"><img src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/08/driinnpink3.jpg" id="image419" alt="DRIINN" /></p>
+<p>Aus der Abteilung &#8220;Simpel und genial&#8221; kommt diese Ladestation (<a href="http://www.dutchus.com/">4,5 €</a>) für Handys. Sie wird einfach hinter den Stecker des Ladegerätes geklemmt und dient gleichzeitig als Ablage für das Handy und Kabelaufwickler.</p>
+<p>via <a href="http://gizmodo.com/gadgets/cellphones/driinn-charging-cellphone-holder-193994.php">Gizmodo</a></p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/836.driinn-mini-ladestation-fur-handys.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Multipot versteckt Netzteile</title>
+		<link>https://m.tacker.org/828.multipot-versteckt-netzteile.html</link>
+		<comments>https://m.tacker.org/828.multipot-versteckt-netzteile.html#respond</comments>
+		<pubDate>Tue, 25 Apr 2006 19:55:38 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Wohnen]]></category>
+		<category><![CDATA[Multimedia]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/828.multipot-versteckt-netzteile.html</guid>
+		<description><![CDATA[Der Multipot von Questo Design (€150) ist eine hübsche Kombination aus LED-Lampe und Mehrfach-Steckdose, die die Netzteile von bis zu 5 Handys, PDAs, iPod und anderen Spielzeugen formschön versteckt. Gefunden auf gizmodo.com.]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center"><img src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/04/multipot.jpg" id="image308" alt="Multipot" /></p>
+<p> Der Multipot von Questo Design (<a href="http://www.questodesign.com/shop/proddetail.php?prod=Multipot&amp;cat=116">€150</a>) ist eine hübsche Kombination aus LED-Lampe und Mehrfach-Steckdose, die die Netzteile von bis zu 5 Handys, PDAs, iPod und anderen Spielzeugen formschön versteckt.</p>
+<p>Gefunden auf <a href="http://gizmodo.com/gadgets/gadgets/magis-multipot-lamp-and-device-storage-unit-169451.php">gizmodo.com</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/828.multipot-versteckt-netzteile.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

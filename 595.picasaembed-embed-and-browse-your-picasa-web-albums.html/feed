@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:georss="http://www.georss.org/georss" 
+	>
+<channel>
+	<title>Comments on: Picasaembed: Embed and browse your Picasa Web Albums</title>
+	<atom:link href="https://m.tacker.org/595.picasaembed-embed-and-browse-your-picasa-web-albums.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org/595.picasaembed-embed-and-browse-your-picasa-web-albums.html</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Mon, 23 Nov 2015 21:43:02 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: tacker.org &#187; AlbumEmbed / PicasaEmbed</title>
+		<link>https://m.tacker.org/595.picasaembed-embed-and-browse-your-picasa-web-albums.html/comment-page-1#comment-8121</link>
+		<dc:creator><![CDATA[tacker.org &#187; AlbumEmbed / PicasaEmbed]]></dc:creator>
+		<pubDate>Mon, 19 Mar 2007 15:13:51 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/595.picasaembed-embed-and-browse-your-picasa-web-albums.html#comment-8121</guid>
+		<description><![CDATA[[...] PicasaEmbed, bzw. inzwischen AlbumEmbed ist ein universelle PHP5-Bibliothek und Fotos aus Bilder-Galerien, die einen RSS-Feed anbieten, in eine Webseite einzubinden. [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] PicasaEmbed, bzw. inzwischen AlbumEmbed ist ein universelle PHP5-Bibliothek und Fotos aus Bilder-Galerien, die einen RSS-Feed anbieten, in eine Webseite einzubinden. [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Markus Tacker</title>
+		<link>https://m.tacker.org/595.picasaembed-embed-and-browse-your-picasa-web-albums.html/comment-page-1#comment-2813</link>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+		<pubDate>Sat, 23 Dec 2006 08:47:34 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/595.picasaembed-embed-and-browse-your-picasa-web-albums.html#comment-2813</guid>
+		<description><![CDATA[Luis Medina wrote:
+&gt; it Only works in php5?
+
+True. Today there is no need for PHP4 anymore. PHP5 is available for over two years and stable. You are strongly encouraged to migrate your applications to PHP5 which is no hassle due to PHP5&#039;s backward compatibility.]]></description>
+		<content:encoded><![CDATA[<p>Luis Medina wrote:<br />
+> it Only works in php5?</p>
+<p>True. Today there is no need for PHP4 anymore. PHP5 is available for over two years and stable. You are strongly encouraged to migrate your applications to PHP5 which is no hassle due to PHP5&#8217;s backward compatibility.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Luis Medina</title>
+		<link>https://m.tacker.org/595.picasaembed-embed-and-browse-your-picasa-web-albums.html/comment-page-1#comment-2807</link>
+		<dc:creator><![CDATA[Luis Medina]]></dc:creator>
+		<pubDate>Sat, 23 Dec 2006 03:33:41 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/595.picasaembed-embed-and-browse-your-picasa-web-albums.html#comment-2807</guid>
+		<description><![CDATA[it Only works in php5?]]></description>
+		<content:encoded><![CDATA[<p>it Only works in php5?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Philipp Lenssen</title>
+		<link>https://m.tacker.org/595.picasaembed-embed-and-browse-your-picasa-web-albums.html/comment-page-1#comment-2393</link>
+		<dc:creator><![CDATA[Philipp Lenssen]]></dc:creator>
+		<pubDate>Thu, 30 Nov 2006 22:50:55 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/595.picasaembed-embed-and-browse-your-picasa-web-albums.html#comment-2393</guid>
+		<description><![CDATA[Nice. Sometimes the image, while loading, will make the box collapse though, maybe you need to specify its height or something. Also, it might be nicer to be able to include this as a one-liner in JavaScript, though of course then your server would need to carry the load.
+
+PS: A double arrow like you used &quot;&#062;&#062;&quot; often indicates &quot;move to end&quot; whereas a single arrow &quot;&#062;&quot; indicates &quot;next&quot;, which is what happens...]]></description>
+		<content:encoded><![CDATA[<p>Nice. Sometimes the image, while loading, will make the box collapse though, maybe you need to specify its height or something. Also, it might be nicer to be able to include this as a one-liner in JavaScript, though of course then your server would need to carry the load.</p>
+<p>PS: A double arrow like you used &#8220;&gt;&gt;&#8221; often indicates &#8220;move to end&#8221; whereas a single arrow &#8220;&gt;&#8221; indicates &#8220;next&#8221;, which is what happens&#8230;</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

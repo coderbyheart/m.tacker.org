@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:georss="http://www.georss.org/georss" 
+	>
+<channel>
+	<title>Comments on: CMOS Checksum BAD</title>
+	<atom:link href="https://m.tacker.org/1130.cmos-checksum-bad.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org/1130.cmos-checksum-bad.html</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Mon, 23 Nov 2015 21:43:02 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: Vincent</title>
+		<link>https://m.tacker.org/1130.cmos-checksum-bad.html/comment-page-1#comment-35907</link>
+		<dc:creator><![CDATA[Vincent]]></dc:creator>
+		<pubDate>Mon, 17 Aug 2009 12:30:45 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=1130#comment-35907</guid>
+		<description><![CDATA[Danke :)
+Ich hatte wohl das selbe Problem]]></description>
+		<content:encoded><![CDATA[<p>Danke <img src="https://m.tacker.org/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br />
+Ich hatte wohl das selbe Problem</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

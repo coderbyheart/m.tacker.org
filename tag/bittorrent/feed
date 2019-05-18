@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>Bittorrent &#8211; [|] m.tacker.org</title>
+	<atom:link href="https://m.tacker.org/tag/bittorrent/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Tue, 12 Jan 2016 11:45:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>File_Bittorrent 2.2.0 release</title>
+		<link>https://m.tacker.org/1168.file_bittorrent-220-release.html</link>
+		<comments>https://m.tacker.org/1168.file_bittorrent-220-release.html#respond</comments>
+		<pubDate>Thu, 12 Jun 2008 18:25:20 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[Bittorrent]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[PEAR]]></category>
+		<category><![CDATA[PHP]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=1168</guid>
+		<description><![CDATA[Today I&#8217;ve release version 2.2 of PEAR&#8217;s File_Bittorrent. Changes include the support for the &#8220;private&#8221; Flag which was requested by William Booth. The flag is used to tell Bittorrent Clients not to consider other trackers besides the ones stated in the torrent file. See the Azureus Wiki for further information on this topic.]]></description>
+				<content:encoded><![CDATA[<p><img src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/07/file_bittorrent.gif" alt="PEAR::File_Bittorrent" class="right" />Today I&#8217;ve release version 2.2 of PEAR&#8217;s <a href="http://pear.php.net/package/File_Bittorrent2/">File_Bittorrent</a>.</p>
+<p>Changes include the support for the &#8220;private&#8221; Flag which was requested by <a href="http://pear.php.net/bugs/bug.php?id=14013">William Booth</a>.</p>
+<p>The flag is used to tell Bittorrent Clients not to consider other trackers besides the ones stated in the torrent file. See the <a href="http://www.azureuswiki.com/index.php/Secure_Torrents">Azureus Wiki</a> for further information on this topic.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1168.file_bittorrent-220-release.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>File_Bittorrent 2.1.0 release</title>
+		<link>https://m.tacker.org/862.file_bittorrent-210-release.html</link>
+		<comments>https://m.tacker.org/862.file_bittorrent-210-release.html#respond</comments>
+		<pubDate>Sat, 12 Jan 2008 10:56:41 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PEAR File_Bittorrent]]></category>
+		<category><![CDATA[Projekte]]></category>
+		<category><![CDATA[Bittorrent]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[PEAR]]></category>
+		<category><![CDATA[PHP]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/862.file_bittorrent-210-release.html</guid>
+		<description><![CDATA[I&#8217;ve just released File_Bittorrent 2.1.0. This is the stable release of the PHP5 only version of File_Bittorrent. New features include the ability to add a specific list of files while making a torrent. This feature has been implemented by Barry Hunter.]]></description>
+				<content:encoded><![CDATA[<p><img src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/07/file_bittorrent.gif" alt="PEAR::File_Bittorrent" class="right" />I&#8217;ve just released <a href="http://pear.php.net/package/File_Bittorrent2/">File_Bittorrent 2.1.0</a>. This is the stable release of the PHP5 only version of <a href="http://pear.php.net/package/File_Bittorrent/">File_Bittorrent</a>. New features include the ability to add a specific list of files while making a torrent. This feature has been implemented by <a href="http://barryhunter.co.uk">Barry Hunter</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/862.file_bittorrent-210-release.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Eurovision Song Contest 2007 im Netz</title>
+		<link>https://m.tacker.org/727.eurovision-song-contest-2007-im-netz.html</link>
+		<comments>https://m.tacker.org/727.eurovision-song-contest-2007-im-netz.html#comments</comments>
+		<pubDate>Tue, 08 May 2007 08:41:55 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[Bittorrent]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/727.eurovision-song-contest-2007-im-netz.html</guid>
+		<description><![CDATA[Die Betreiber des größten Bittorrent-Trackers der Welt The Pirate Bay haben eine von den TV-Sendern unabhängige Abstimmung für den Eurovision Song Contest 2007 ins Leben gerufen. Auf der Seite Eurovisiontorrents.com kann sich jeder die Videos alle Kandidaten herunterladen &#8212; natürlich per Bittorrent &#8212; und selbst den Favoriten wählen. So soll der Gewinner des Wettbewerbes unabhängig [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src='https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2007/05/2007-05-08_103242.png' alt='Eurovisiontorrents.com' class='right' />Die Betreiber des größten Bittorrent-Trackers der Welt <a href="http://thepiratebay.org/">The Pirate Bay</a> haben eine von den TV-Sendern unabhängige Abstimmung für den Eurovision Song Contest 2007 ins Leben gerufen.</p>
+<p>Auf der Seite <a href="http://eurovisiontorrents.com/">Eurovisiontorrents.com</a> kann sich jeder die Videos alle Kandidaten herunterladen &mdash; natürlich per Bittorrent &mdash; und selbst den Favoriten wählen.</p>
+<p>So soll der Gewinner des Wettbewerbes unabhängig und direkt durch alle Europäer gewählt werden können. Das Ergebnis der Online-Abstimmung wird am Abend der TV-Ausstrahlung, kurz vor deren Beginn, veröffentlicht.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/727.eurovision-song-contest-2007-im-netz.html/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>File_Bittorrent 1.0.1 released</title>
+		<link>https://m.tacker.org/383.file_bittorrent-101-released.html</link>
+		<comments>https://m.tacker.org/383.file_bittorrent-101-released.html#comments</comments>
+		<pubDate>Mon, 03 Jul 2006 08:20:31 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PEAR File_Bittorrent]]></category>
+		<category><![CDATA[Projekte]]></category>
+		<category><![CDATA[Bittorrent]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[PEAR]]></category>
+		<category><![CDATA[PHP]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/383.file_bittorrent-101-released.html</guid>
+		<description><![CDATA[Yesterday I have released File_Bittorrent 1.0.1 with some minor bug fixes and enhancements. The complete changelog can be found here. There are currently two open bugs. Bug #5836 (Support for files &#62; 2GB) is a pain in the ass to test, so no progress there. I appreciate every help here. Bug #5880 (Support UTF-8 encoding) [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/07/file_bittorrent.gif" id="image381" alt="PEAR File_Bittorrent" class="right" />Yesterday I have released File_Bittorrent 1.0.1 with some minor bug fixes and enhancements. The complete changelog can be found <a href="http://versions.tacker.org/trac/File_Bittorrent/log/trunk?action=stop_on_copy&amp;rev=61&amp;stop_rev=55&amp;mode=stop_on_copy">here</a>.</p>
+<p>There are currently two open bugs. <a href="http://pear.php.net/bugs/5836">Bug #5836</a> (Support for files &gt; 2GB) is a pain in the ass to test, so no progress there. I appreciate every help here. <a href="http://pear.php.net/bugs/5880">Bug #5880</a> (Support UTF-8 encoding) is a two sided sword. Of course, UTF-8 is the only future proof way to go but unless the original bittorrent programs do not work with UTF-8, File_Bittorrent won&#8217;t either. Even if other clients do the original bittorrent programs are the reference implementation.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/383.file_bittorrent-101-released.html/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>File_Bittorrent stable</title>
+		<link>https://m.tacker.org/42.file_bittorrent-stable.html</link>
+		<comments>https://m.tacker.org/42.file_bittorrent-stable.html#respond</comments>
+		<pubDate>Wed, 19 Oct 2005 20:45:57 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PEAR File_Bittorrent]]></category>
+		<category><![CDATA[Projekte]]></category>
+		<category><![CDATA[Bittorrent]]></category>
+		<category><![CDATA[PEAR]]></category>
+		<category><![CDATA[PHP]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/42.file_bittorrent-stable.html</guid>
+		<description><![CDATA[Just released]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;ve just released File_Bittorrent 1.0.0.<br />
+Thanks to all who helped me during the last weeks.</p>
+<p>Please check out the project page [1] for the progress.<br />
+If you have any comments or questions don&#8217;t hesitate to ask. You may even file a bug here [2].</p>
+<ul>
+<li>[1] <a href="http://versions.tacker.org/trac/File_Bittorrent/">project page</a></li>
+<li>[2] <a href="http://versions.tacker.org/trac/File_Bittorrent/newticket">file a bug</a></li>
+</ul>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/42.file_bittorrent-stable.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>File_Bittorrent license changed</title>
+		<link>https://m.tacker.org/36.file_bittorrent-license-changed-to-lgpl.html</link>
+		<comments>https://m.tacker.org/36.file_bittorrent-license-changed-to-lgpl.html#respond</comments>
+		<pubDate>Fri, 26 Aug 2005 09:25:49 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PEAR File_Bittorrent]]></category>
+		<category><![CDATA[Projekte]]></category>
+		<category><![CDATA[Bittorrent]]></category>
+		<category><![CDATA[PEAR]]></category>
+		<category><![CDATA[PHP]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/36.file_bittorrent-license-changed-to-lgpl.html</guid>
+		<description><![CDATA[License changed from PHP to LGPL]]></description>
+				<content:encoded><![CDATA[<p>Due to the ongoing disussions about the PHP license beeing in conflict with major opensource licenses [1] I change File_Bittorrent&#8217;s license to LGPL in [2].<br />
+I hope this adresses most concerns also I see that most developers prefer the BSD license.</p>
+<ul>
+<li>[1] <a href="http://versions.tacker.org/trac/File_Bittorrent/ticket/8">Ticket explaining the problem</a></li>
+<li>[2] <a href="http://versions.tacker.org/trac/File_Bittorrent/changeset/42">Changeset</a></li>
+</ul>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/36.file_bittorrent-license-changed-to-lgpl.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>File_Bittorrent 1.0 Release Candidate 1</title>
+		<link>https://m.tacker.org/35.file_bittorrent-10-release-candidate-1.html</link>
+		<comments>https://m.tacker.org/35.file_bittorrent-10-release-candidate-1.html#respond</comments>
+		<pubDate>Wed, 20 Jul 2005 21:54:07 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PEAR File_Bittorrent]]></category>
+		<category><![CDATA[Projekte]]></category>
+		<category><![CDATA[Bittorrent]]></category>
+		<category><![CDATA[PEAR]]></category>
+		<category><![CDATA[PHP]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/35.file_bittorrent-10-release-candidate-1.html</guid>
+		<description><![CDATA[File_Bittorrent 1.0.0RC1 released]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;ve just release RC1 of File_Bittorrent [1].<br />
+After fixing the info_hash issue [2] I&#8217;ve cleaned up Justin&#8217;s MakeTorrent.php [3] which adds the ability to create .torrent files to the package.<br />
+I am planning the stable release for August 20. After that I will create the File_Bittorrent2 which will be the PHP 5 version of the package.</p>
+<ul>
+<li>[1] <a href="http://pear.php.net/package/File_Bittorrent">Package homepage</a></li>
+<li>[2] <a href="http://versions.tacker.org/trac/File_Bittorrent/ticket/1">info_hash ticket</a></li>
+<li>[3] <a href="http://versions.tacker.org/trac/File_Bittorrent/browser/branches/1.0.0RC1/File/Bittorrent/MakeTorrent.php">MakeTorrent.php</a></li>
+</ul>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/35.file_bittorrent-10-release-candidate-1.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>File_Bittorrent 0.1.7 + 0.1.8</title>
+		<link>https://m.tacker.org/33.file_bittorrent-017.html</link>
+		<comments>https://m.tacker.org/33.file_bittorrent-017.html#respond</comments>
+		<pubDate>Mon, 20 Jun 2005 20:45:04 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PEAR File_Bittorrent]]></category>
+		<category><![CDATA[Projekte]]></category>
+		<category><![CDATA[Bittorrent]]></category>
+		<category><![CDATA[PEAR]]></category>
+		<category><![CDATA[PHP]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=33</guid>
+		<description><![CDATA[Bugfix release]]></description>
+				<content:encoded><![CDATA[<p>Ein neues Bugfix-Release habe ich heute veröffentlicht [1].<br />
+Vielen Dank an gaggge und Justin &#8220;nagash&#8221; Jones für das Aufspüren und Mithelfen.</p>
+<p>Beide haben mich auch etwas weiter bei der fehlenden Info_Hash-Unterstützung gebracht. Hier konnte ich bisher noch keinen wirklich funktionierenden Hash produzieren. Siehe hierzu [2]. Ich habe zwei Ansätze die beide andere Hashes liefern als btshowmetainfo.py.</p>
+<p>Nervig.</p>
+<ul>
+<li>[1] <a href="http://pear.php.net/package/File_Bittorrent">PEAR File_Bittorrent</a></li>
+<li>[2] <a href="https://m.tacker.org/projects/File_Bittorrent/trunk/infohash.phps">infohash Test</a></li>
+</ul>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/33.file_bittorrent-017.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Bittorrent weiter im Sperrfeuer</title>
+		<link>https://m.tacker.org/30.bittorrent-weiter-im-sperrfeuer.html</link>
+		<comments>https://m.tacker.org/30.bittorrent-weiter-im-sperrfeuer.html#respond</comments>
+		<pubDate>Fri, 27 May 2005 08:11:23 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[Bittorrent]]></category>
+		<category><![CDATA[Raubkopierer]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/30.bittorrent-weiter-im-sperrfeuer.html</guid>
+		<description><![CDATA[FBI und DHS schlie]]></description>
+				<content:encoded><![CDATA[<p><a href="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/04/2005-05-27_095747.png" class="imagelink" title="elitetorrents.org"><img src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/04/2005-05-27_095747.thumbnail.png" id="image295" alt="elitetorrents.org" class="right" /></a>Eine weitere gro&szlig;e Bittorrent-Seite wurde geschlossen. Diesmal soger direkt vom FBI und dem DHS. elitetorrents.org [1] gilt in ihren Augen als Urheber von u.a. der Star Wars III Kopie, die bereits am ersten Kino-Tag des Filmes &uuml;ber Bittorrent verf&uuml;gbar war.<br />
+Von diesem Gegenwind l&auml;&szlig;t sich der Erfinder von Bittorent jedoch nicht einsch&uuml;chtern und stellt seinerseits eine eigene Bittorrent-Seite ins Netz. Die Homepage des Protokolls wurde um eine an Google angelehnte Suchmaschine [2] erweitert, die Bittorrent-Dateien indiziert. Im Gegensatz zu z.B. elitetorrents.org werden die Dateien dabei aber nur verlinkt und nicht selbst zum Download angeboten.<br />
+Dieses Vorgehen ist nicht illegal. Allerdings muss der Betreiber Links entfernen, wenn er davon Kenntnis erlangt, dass diese auf illegale Inhalte verweisen. Und dies wird eine seiner Hauptaufgaben werden, vermutet Mark Lemley [3].</p>
+<ul>
+<li>[1] <a href="http://www.elitetorrents.org/">elitetorrents.org</a></li>
+<li>[2] <a href="http://search.bittorrent.com/index.html">search.bittorrent.com</a></li>
+<li>[3] <a href="http://www.wired.com/news/ebiz/0,1272,67596,00.html">wired.com &#8211; Next for BitTorrent: Search</a></li>
+</ul>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/30.bittorrent-weiter-im-sperrfeuer.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Lokitorrent.com down</title>
+		<link>https://m.tacker.org/21.lokitorrentcom.html</link>
+		<comments>https://m.tacker.org/21.lokitorrentcom.html#respond</comments>
+		<pubDate>Fri, 11 Feb 2005 13:26:20 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[Bittorrent]]></category>
+		<category><![CDATA[Raubkopierer]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/21.lokitorrentcom.html</guid>
+		<description><![CDATA[Zweitgrö]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center"><img src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/04/mpaa_illegal_downloading.gif" id="image296" alt="mpaa_illegal_downloading.gif" /></p>
+<p>Na, das nenne ich mal ein Defacement. Auf Lokitorrent [1] ist gerade eine wunderh&uuml;bscher Aufmacher zu bewundern, der uns &uuml;ber die Illegalit&auml;t der angebotenen Downloads aufkl&auml;rt.</p>
+<p>Hier ein kleiner Ausszug aus der offiziellen Pressemitteilung der MPAA [2].</p>
+<blockquote><p>The MPAA&rsquo;s efforts to date have resulted in a 40 percent reduction in the number of servers that continue to operate. One such site that will no longer exist is LokiTorrent &mdash; one of the largest BitTorrent host servers. The operator of that site, Edward Webber, agreed to not only pay a substantial settlement with even greater financial penalties for any further such actions, but by Court Order must provide the MPAA with access to and copies of all logs and server data related to his illegal BitTorrent activities, which will provide a roadmap to others who have used LokiTorrent to engage in illegal activities.</p></blockquote>
+<ul>
+<li>[1] <a href="http://www.lokitorrent.com/">lokitorrent.com</a></li>
+<li>[2] <a href="http://www.mpaa.org/CurrentReleases/2005_02_10_BitTorrentLokitorrent.doc">mpaa.org</a></li>
+</ul>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/21.lokitorrentcom.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>File_Bittorrent 0.1.4</title>
+		<link>https://m.tacker.org/20.file_bittorrent-014.html</link>
+		<comments>https://m.tacker.org/20.file_bittorrent-014.html#respond</comments>
+		<pubDate>Fri, 04 Feb 2005 12:30:51 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PEAR File_Bittorrent]]></category>
+		<category><![CDATA[Projekte]]></category>
+		<category><![CDATA[Bittorrent]]></category>
+		<category><![CDATA[PEAR]]></category>
+		<category><![CDATA[PHP]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/20.file_bittorrent-014.html</guid>
+		<description><![CDATA[Bugfix release]]></description>
+				<content:encoded><![CDATA[<p>Bei einigen Torrents kommt es vor dass die Dictionaries nicht mit einem &#8216;e&#8217; beendet werden. Dies bewirkte eine unendliche Schleife.<br />
+Release 0.1.4 behebt dieses Problem.</p>
+<p>Ein Update erfolgt per<br />
+<code>pear upgrade File_Bittorrent-beta</code></p>
+<p>Eine Installation per<br />
+<code>pear install File_Bittorrent-beta</code></p>
+<p>Vor der Installation des Beta-Stadiums muss eine evtl. installiertes Alpha-Release aber erst deinstalliert werden<br />
+<code>pear uninstall File_Bittorrent-alpha</code></p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/20.file_bittorrent-014.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>File_Bittorrent 0.1.3</title>
+		<link>https://m.tacker.org/19.file_bittorrent-013.html</link>
+		<comments>https://m.tacker.org/19.file_bittorrent-013.html#respond</comments>
+		<pubDate>Mon, 31 Jan 2005 12:56:21 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PEAR File_Bittorrent]]></category>
+		<category><![CDATA[Projekte]]></category>
+		<category><![CDATA[Bittorrent]]></category>
+		<category><![CDATA[PEAR]]></category>
+		<category><![CDATA[PHP]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/19.file_bittorrent-013.html</guid>
+		<description><![CDATA[Kleines Bugfix-Release]]></description>
+				<content:encoded><![CDATA[<p>Ich habe eine neue Version von <a href="http://pear.php.net/package/File_Bittorrent/">PEARs File_Bittorrent</a> veröffentlicht.<br />
+Diese Release fixt den <a href="http://pear.php.net/bugs/3222">Bug #3222</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/19.file_bittorrent-013.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>eXeem &#8211; Ein neuer Stern am File-Sharing-Himmel</title>
+		<link>https://m.tacker.org/15.exeem-ein-neuer-stern-am-file-sharing-himmel.html</link>
+		<comments>https://m.tacker.org/15.exeem-ein-neuer-stern-am-file-sharing-himmel.html#respond</comments>
+		<pubDate>Tue, 11 Jan 2005 08:10:19 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[Bittorrent]]></category>
+		<category><![CDATA[Raubkopierer]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/15.exeem-ein-neuer-stern-am-file-sharing-himmel.html</guid>
+		<description><![CDATA[Details über den Bittorrent-Nachfolger]]></description>
+				<content:encoded><![CDATA[<p>In einem Audio-Interview von Radio Fusion hat sloncek, der Gr&uuml;nder von SuprNova, weitere Details &uuml;ber das neue File-Sharing-Programm eXeem verraten.</p>
+<p>So basiert eXeem auf einem modifizierten Bittorrent Protokoll und verf&uuml;gt &uuml;ber &auml;hnliche Funktionen wie Kazaa. Wie bei eDonkey ben&ouml;tigt man lediglich URLs im Format exeem://&hellip; (sog. Magnet-Links) um den Transfer einer Datei zu beginnen. Die Meta-Dateien, beim Bittorrent-Protokoll .torrent-Dateien, werden direkt aus dem eXeem-Netzwerk bezogen. Tracker-Seiten, von denen man diese Meta-Dateien herunterladen kann werden somit &uuml;berfl&uuml;ssig. Und genau diese Tracker-Seiten waren es zuletzt, die Ziele einer gro&szlig; angelegten Klagewelle der MPAA geworden sind.</p>
+<p>Interessant ist, dass eXeem von einer Software-Firma entwickelt wurde, die weiterhin anonym bleiben m&ouml;chte. Sloncek und das Team von SuprNova sind erst seit kurzem an der Entwicklung beteiligt und wurden kontaktiert, um die Markteinf&uuml;hrung zu begleiten.</p>
+<p>Das werbefinanzierte Programm wird kostenlos &uuml;ber exeem.com zu beziehen sein. Clients f&uuml;r Mac und Linux sind bis auf weiteres nicht geplant.<br />
+eXeem befindet sich derzeit in der Beta-Phase und soll Mitte oder Ende Januar ver&ouml;ffentlicht werden.</p>
+<p>Der eXeem-Client wird &uuml;ber folgenden Merkmale verf&uuml;gen</p>
+<ul>
+<li>niedrige Hardware-Anforderung (1 MB RAM pro Download), l&auml;uft auf einem 200 MHz Rechner mit 128 MB RAM</li>
+<li>Kommentare und Ratings von Dateien</li>
+<li>Im Gegensatz zu Kazaa werden aber nicht mehr ganzen Ornder frei gegeben, sondern einzelne Dateien in das Netz gestellt</li>
+<li>werbefinanziert, einige optionale Banner</li>
+</ul>
+<h4>Quellen</h4>
+<ul>
+<li><a href="http://83.149.90.123/interview_with_slon.mp3">Interview mit Sloncek</a></li>
+<li><a href="http://wired.com/news/digiwood/0,1412,66034,00.html">Wired.com &#8211; Hollywood Wants BitTorrent Dead (engl.)</a></li>
+</ul>
+<h4>Weblinks</h4>
+<ul>
+<li><a href="http://www.radiofusion.org/">Radio Fusion</a></li>
+<li><a href="http://www.suprnova.org/">SuprNova</a></li>
+<li><a href="http://www.bittorrent.com/">Bittorrent Protokoll]</a></li>
+<li><a href="http://www.kazaa.com/">Kazaa</a></li>
+<li><a href="http://www.edonkey2000.com/">eDonkey</a></li>
+<li><a href="http://www.exeem.com/">eXeem</a> &#8211; Zur Zeit noch nicht verf&uuml;gbar</li>
+</ul>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/15.exeem-ein-neuer-stern-am-file-sharing-himmel.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Suprnova gibt auf</title>
+		<link>https://m.tacker.org/11.suprnova-gibt-auf.html</link>
+		<comments>https://m.tacker.org/11.suprnova-gibt-auf.html#respond</comments>
+		<pubDate>Mon, 20 Dec 2004 12:51:54 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[Bittorrent]]></category>
+		<category><![CDATA[Raubkopierer]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/11.suprnova-gibt-auf.html</guid>
+		<description><![CDATA[Oder: Die Zukunft von Bittorrent]]></description>
+				<content:encoded><![CDATA[<p>Gestern hat der gr&ouml;&szlig;te Bittorrent-Tracker SuprNova [1] seinen Betrieb eingestellt.<br />
+Eine genaue Begr&uuml;ndung ist auf der Seite nicht zu erfahren, der Verdacht liegt aber nahe, dass dieser Schritt in Zusammenhang mit den Klagen der Filmindustrie [2] gegen Betreiber von Trackern steht.</p>
+<p>In einer Meldung von thep2pweblog [3] wird schon von einem dezentralisierten Bittorrent-Nachfolger &ldquo;Exeem&rdquo; gesprochen, den die Betreiber von SuprNova entwickeln. Mit ihm wird jeder Teilnehmer zum Tracker.</p>
+<p>Interessant ist in diesem Zusammenhang auch einen Studie von CacheLogic [4]. Laut dieser Studie verursachen Peer-to-Peer-Netzwerke mehr als die H&auml;lft des Datenaufkommens in Europa, allen voran Verbindungen zwischen Bittorrent-Clients.</p>
+<p>Pers&ouml;nlich bin ich mit diesem Thema auch durch meine PEAR-Klasse File_Bittorrent [5] und meinen E-Mail-Service f&uuml;r Torrents &ldquo;SuprMail&rdquo; [6] verbunden.</p>
+<ul>
+<li>[1] <a href="http://www.suprnova.org/">SuprNova.org</a></li>
+<li>[2] <a href="http://wired.com/news/digiwood/0,1412,66034,00.html">wired.com</a></li>
+<li>[3] <a href="http://p2p.weblogsinc.com/entry/1234000290023347/">p2p.weblogsinc.com</a></li>
+<li>[4] <a href="http://www.cachelogic.com/research/slide3.php">cachelogic.com</a></li>
+<li>[5] <a href="http://pear.php.net/File_Bittorrent">pear.php.net</a></li>
+<li>[6] <a href="http://services.tacker.org/suprmail/">SuprMail</a></li>
+</ul>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/11.suprnova-gibt-auf.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>PEAR File_Bittorrent</title>
+		<link>https://m.tacker.org/940.pear-file_bittorrent.html</link>
+		<comments>https://m.tacker.org/940.pear-file_bittorrent.html#respond</comments>
+		<pubDate>Tue, 20 Jul 2004 11:39:31 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PEAR File_Bittorrent]]></category>
+		<category><![CDATA[Projekte]]></category>
+		<category><![CDATA[Bittorrent]]></category>
+		<category><![CDATA[PEAR]]></category>
+		<category><![CDATA[PHP]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/940.pear-file_bittorrent.html</guid>
+		<description><![CDATA[PEAR File_Bittorrent is the PHP implementation of the Bittorrent protocol]]></description>
+				<content:encoded><![CDATA[<p><img src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/07/file_bittorrent.gif" id="image381" alt="PEAR File_Bittorrent" class="right" />PEAR File_Bittorrent is the PHP implementation of the <a href="http://www.bittorrent.com/">Bittorrent protocol</a>. It is based on the original Python implementation by Petru Paler, the PHP translation by Gerard Krijgsman and additional changes by Carl Ritson.</p>
+<p>It consists of three classes which handles the encoding and decoding of data in Bittorrent format. You can also extract useful informations from .torrent files, create .torrent files and query the torrent&#39;s scrape page to get its statistics.</p>
+<p>Starting in July 2004, PEAR File_Bittorrent hast been stabilised in October 2005.</p>
+<p>Visit the <a href="http://pear.php.net/package/File_Bittorrent">official package homepage on pear.php.net</a> for downloads. The development is managed via <a href="http://versions.tacker.org/trac/File_Bittorrent">trac</a> and the complete source is avaliable through <a href="http://versions.tacker.org/svn/File_Bittorrent/trunk">svn</a>.</p>
+<p>Usage examples can be found <a href="https://m.tacker.org/wp-admin/" title="http://versions.tacker.org/trac/File_Bittorrent/wiki/Documentation">here</a>.&nbsp;</p>
+<p>Please <a href="http://pear.php.net/bugs/report.php?package=File_Bittorrent">file bug reports or enhancement requests</a> on pear.php.net.&nbsp;</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/940.pear-file_bittorrent.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>PEAR File Formats Bittorrent</title>
+		<link>https://m.tacker.org/213.pear-file-formats-bittorrent.html</link>
+		<comments>https://m.tacker.org/213.pear-file-formats-bittorrent.html#respond</comments>
+		<pubDate>Fri, 25 Jun 2004 17:55:00 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Projekte]]></category>
+		<category><![CDATA[Bittorrent]]></category>
+		<category><![CDATA[PEAR]]></category>
+		<category><![CDATA[PHP]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/213.pear-file-formats-bittorrent.html</guid>
+		<description><![CDATA[Mein erstes PEAR-Package. Seit heute als Proposal.]]></description>
+				<content:encoded><![CDATA[<p>Mein erstes PEAR-Package. Seit heute als <a href="http://pear.php.net/pepr/pepr-proposal-show.php?id=100">Proposal</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/213.pear-file-formats-bittorrent.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>PEAR File_Bittorrent</title>
+		<link>https://m.tacker.org/952.pear-file_bittorrent-2.html</link>
+		<comments>https://m.tacker.org/952.pear-file_bittorrent-2.html#respond</comments>
+		<pubDate>Tue, 20 Apr 2004 22:06:30 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PHP]]></category>
+		<category><![CDATA[Bittorrent]]></category>
+		<category><![CDATA[PEAR]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/952.pear-file_bittorrent-2.html</guid>
+		<description><![CDATA[PEAR File_Bittorrent ist die PHP-Implementierung des Bittorrent-Protokolls. Es basiert ursprünglich auf der Python-Implementierung von Petru Paler, sowie deren PHP-Übersetzung von Gerard Krijgsman und Änderungen von Carl Ritson. Das Paket besteht aus drei Klassen (PHP4), mit denen man Daten im Bittorrent-Format kodieren und dekodieren kann sowie .torrent-Dateien lesen und schreiben kann. Zusätzlich kann man Tracker anfragen [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src="http://tacker.org/wp-content/uploads/2007/02/file_bittorrent.gif" alt="PEAR File_Bittorrent" class="right" /><a href="http://pear.php.net/package/File_Bittorrent">PEAR File_Bittorrent</a> ist die PHP-Implementierung des <a href="http://www.bittorrent.com/">Bittorrent-Protokolls</a>. Es basiert ursprünglich auf der Python-Implementierung von Petru Paler, sowie deren PHP-Übersetzung von Gerard Krijgsman und Änderungen von Carl Ritson.</p>
+<p>Das Paket besteht aus drei Klassen (PHP4), mit denen man Daten im Bittorrent-Format kodieren und dekodieren kann sowie .torrent-Dateien lesen und schreiben kann. Zusätzlich kann man Tracker anfragen und so die Anzahl der Peers für den jeweiligen Torrent erhalten.</p>
+<p>2004 habe ich aus den vorhanden Quellen ein <a href="http://pear.php.net/manual/en/standards.php">PEAR-konformes</a> Paket erstellt und betreue und erweitere dies seither.</p>
+<h3>Quellcode</h3>
+<ul>
+<li><a href="http://pear.php.net/package/File_Bittorrent/download">Download auf der offiziellen Homepage</a></li>
+<li><a href="http://versions.tacker.org/svn/File_Bittorrent/trunk">SVN</a></li>
+<li><a href="http://versions.tacker.org/trac/File_Bittorrent/browser/trunk">Quellcode-Browser</a></li>
+</ul>
+<h3>Dokumentation</h3>
+<p>Diese findet sich ebenfalls im <a href="http://versions.tacker.org/trac/File_Bittorrent/wiki/Documentation">Trac von File_Bittorrent</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/952.pear-file_bittorrent-2.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

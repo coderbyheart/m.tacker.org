@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:georss="http://www.georss.org/georss" 
+	>
+<channel>
+	<title>Comments on: Visitenkarten Fail</title>
+	<atom:link href="https://m.tacker.org/2018.visitenkarten-fail.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org/2018.visitenkarten-fail.html</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Mon, 23 Nov 2015 21:43:02 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: Klaus Tornow</title>
+		<link>https://m.tacker.org/2018.visitenkarten-fail.html/comment-page-1#comment-35790</link>
+		<dc:creator><![CDATA[Klaus Tornow]]></dc:creator>
+		<pubDate>Fri, 10 Jul 2009 11:36:55 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=2018#comment-35790</guid>
+		<description><![CDATA[Hallo Markus,
+
+habe mir mal das PDF angeschaut.
+Mit Acrobat 9 wird der weiße Text nur dargestellt, wenn die Überdruckenvorschau ausgeschaltet ist.
+Deswegen nehme ich an, das der weiße Text auf Überdrucken gestellt war und deshalb der Untergrund gedruckt wurde.
+Aber dennoch sollte dies beim Preflight erkannt werden.
+Viele Grüße
+Klaus]]></description>
+		<content:encoded><![CDATA[<p>Hallo Markus,</p>
+<p>habe mir mal das PDF angeschaut.<br />
+Mit Acrobat 9 wird der weiße Text nur dargestellt, wenn die Überdruckenvorschau ausgeschaltet ist.<br />
+Deswegen nehme ich an, das der weiße Text auf Überdrucken gestellt war und deshalb der Untergrund gedruckt wurde.<br />
+Aber dennoch sollte dies beim Preflight erkannt werden.<br />
+Viele Grüße<br />
+Klaus</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Markus Tacker</title>
+		<link>https://m.tacker.org/2018.visitenkarten-fail.html/comment-page-1#comment-35753</link>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+		<pubDate>Tue, 30 Jun 2009 11:34:05 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=2018#comment-35753</guid>
+		<description><![CDATA[Michael,
+dir dürfte entgangen sein, dass der Text der Visitenkarte englisch ist.]]></description>
+		<content:encoded><![CDATA[<p>Michael,<br />
+dir dürfte entgangen sein, dass der Text der Visitenkarte englisch ist.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Michael</title>
+		<link>https://m.tacker.org/2018.visitenkarten-fail.html/comment-page-1#comment-35752</link>
+		<dc:creator><![CDATA[Michael]]></dc:creator>
+		<pubDate>Tue, 30 Jun 2009 10:50:09 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=2018#comment-35752</guid>
+		<description><![CDATA[Naja, es gibt schon einen Unterschied zwischen Email, also dem auch Emaille genannten glasharten Korrosionsschutzüberzug, und der elektronischen Nachricht E-Mail. Eine andere Sache die ich ändern würde: Das Landeskürzel soll nicht mehr vor die Postleitzahl gesetzt werden, schau mal hier: http://www.deutschepost.de/dpag?skin=hi&#038;check=yes&#038;lang=de_DE&#038;xmlFile=1004048 und ggf. in der DIN 5008.
+
+Beste Grüße (auch aus OF)
+Michael]]></description>
+		<content:encoded><![CDATA[<p>Naja, es gibt schon einen Unterschied zwischen Email, also dem auch Emaille genannten glasharten Korrosionsschutzüberzug, und der elektronischen Nachricht E-Mail. Eine andere Sache die ich ändern würde: Das Landeskürzel soll nicht mehr vor die Postleitzahl gesetzt werden, schau mal hier: <a href="http://www.deutschepost.de/dpag?skin=hi&#038;check=yes&#038;lang=de_DE&#038;xmlFile=1004048" rel="nofollow">http://www.deutschepost.de/dpag?skin=hi&#038;check=yes&#038;lang=de_DE&#038;xmlFile=1004048</a> und ggf. in der DIN 5008.</p>
+<p>Beste Grüße (auch aus OF)<br />
+Michael</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: choise</title>
+		<link>https://m.tacker.org/2018.visitenkarten-fail.html/comment-page-1#comment-35737</link>
+		<dc:creator><![CDATA[choise]]></dc:creator>
+		<pubDate>Sat, 27 Jun 2009 10:57:01 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=2018#comment-35737</guid>
+		<description><![CDATA[Haha. Ach du großer Gott. Aber ne Visitenkarte ohne Name, Anschrift und Webseite is doch auch mal was ganz nettes. Für Kunden, für die man auf keinen Fall mehr ein zweites mal arbeiten möchte :X]]></description>
+		<content:encoded><![CDATA[<p>Haha. Ach du großer Gott. Aber ne Visitenkarte ohne Name, Anschrift und Webseite is doch auch mal was ganz nettes. Für Kunden, für die man auf keinen Fall mehr ein zweites mal arbeiten möchte :X</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

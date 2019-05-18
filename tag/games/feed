@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>Games &#8211; [|] m.tacker.org</title>
+	<atom:link href="https://m.tacker.org/tag/games/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Tue, 12 Jan 2016 11:45:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>Left 4 Dead</title>
+		<link>https://m.tacker.org/1566.left-4-dead.html</link>
+		<comments>https://m.tacker.org/1566.left-4-dead.html#respond</comments>
+		<pubDate>Wed, 19 Nov 2008 15:44:37 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[Games]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=1566</guid>
+		<description><![CDATA[Gerade eben ist Left 4 Dead auf meinem Schreibtisch gelandet, die Firma hat ein paar Frei-Exemplarer bekommen, unter anderem weil K-Play offizieller Premium-Partner ist. Leider haben selbst wir nur die deutsche Fassung bekommen, bei der man Zombies nicht die Körperteile abschießen kann und erledigte Zombies sofort verschwinden. Das tut dem Spielspaß aber keinen Abbruch &#8212; [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center"><img class="aligncenter size-full wp-image-1567" title="Left 4 Dead" src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2008/11/l4d.jpg" alt="Left 4 Dead" /></div>
+<p>Gerade eben ist <a href="http://www.amazon.de/gp/product/B001EKPVYU?ie=UTF8&amp;tag=mtaor-21&amp;linkCode=as2&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B001EKPVYU">Left 4 Dead</a><img style="border:none !important; margin:0px !important;" src="http://www.assoc-amazon.de/e/ir?t=mtaor-21&amp;l=as2&amp;o=3&amp;a=B001EKPVYU" border="0" alt="" width="1" height="1" /> auf meinem Schreibtisch gelandet, die <a href="http://www.krawall.de/">Firma</a> hat ein paar Frei-Exemplarer bekommen, unter anderem weil <a href="http://www.k-play.de/">K-Play</a> offizieller Premium-Partner ist. Leider haben selbst wir nur die deutsche Fassung bekommen, bei der man Zombies nicht die Körperteile abschießen kann und erledigte Zombies sofort verschwinden. Das tut dem Spielspaß aber keinen Abbruch &mdash; Left 4 Dead ist das Multi-Player-Highlight des Jahres. Immerhin blieb den PC-Spielern das rote Blut erhalten, auf der XBOX ist es zu grünem Schleim mutiert.</p>
+<p>Schlimm ist leider auch der beknackte Match-Making-Modus im Multiplayer, den man aber mit <a href="http://www.krawall.de/web/Left_4_Dead/news/id,33706/s,,c">ein paar Tricks</a> umgehen kann.</p>
+<p>Ich freue mich schon darauf, auf der nächsten Firmen-LAN ausgiebig Zombies zu killen, aktuell komme ich eher nicht dazu, da meine freie Zeit für Fallout 3 drauf geht.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1566.left-4-dead.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

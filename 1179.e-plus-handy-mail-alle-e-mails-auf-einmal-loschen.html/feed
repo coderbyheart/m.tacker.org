@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:georss="http://www.georss.org/georss" 
+	>
+<channel>
+	<title>Comments on: E-Plus Handy-Mail: Alle E-Mails auf einmal löschen</title>
+	<atom:link href="https://m.tacker.org/1179.e-plus-handy-mail-alle-e-mails-auf-einmal-loschen.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org/1179.e-plus-handy-mail-alle-e-mails-auf-einmal-loschen.html</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Mon, 23 Nov 2015 21:43:02 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: Kai</title>
+		<link>https://m.tacker.org/1179.e-plus-handy-mail-alle-e-mails-auf-einmal-loschen.html/comment-page-1#comment-33372</link>
+		<dc:creator><![CDATA[Kai]]></dc:creator>
+		<pubDate>Sun, 22 Mar 2009 04:17:27 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=1179#comment-33372</guid>
+		<description><![CDATA[Hallo Markus, ich erhalte exakt den selben error wie Tiberius, habe aber bereits Nummer und Passwort eingetragen... eine idee, woran es liegen könnte?
+Ich verwende XAMPP, PHP-Kenntnisse leider noch mangelhaft.
+Gruß und Danke für das Skript!]]></description>
+		<content:encoded><![CDATA[<p>Hallo Markus, ich erhalte exakt den selben error wie Tiberius, habe aber bereits Nummer und Passwort eingetragen&#8230; eine idee, woran es liegen könnte?<br />
+Ich verwende XAMPP, PHP-Kenntnisse leider noch mangelhaft.<br />
+Gruß und Danke für das Skript!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Markus Tacker</title>
+		<link>https://m.tacker.org/1179.e-plus-handy-mail-alle-e-mails-auf-einmal-loschen.html/comment-page-1#comment-33151</link>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+		<pubDate>Tue, 17 Mar 2009 05:36:59 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=1179#comment-33151</guid>
+		<description><![CDATA[Hoi Casagrande,
+&lt;blockquote&gt;Muss ich das runter laden ??&lt;/blockquote&gt;
+Ja, und dann mittels &lt;a href=&quot;http://de.php.net/downloads.php&quot; rel=&quot;nofollow&quot;&gt;PHP&lt;/a&gt; ausführen.
+Ich hab nie behauptet, dass es für Computer-Noobs ist ...]]></description>
+		<content:encoded><![CDATA[<p>Hoi Casagrande,</p>
+<blockquote><p>Muss ich das runter laden ??</p></blockquote>
+<p>Ja, und dann mittels <a href="http://de.php.net/downloads.php" rel="nofollow">PHP</a> ausführen.<br />
+Ich hab nie behauptet, dass es für Computer-Noobs ist &#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Casagrande</title>
+		<link>https://m.tacker.org/1179.e-plus-handy-mail-alle-e-mails-auf-einmal-loschen.html/comment-page-1#comment-33137</link>
+		<dc:creator><![CDATA[Casagrande]]></dc:creator>
+		<pubDate>Mon, 16 Mar 2009 23:27:59 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=1179#comment-33137</guid>
+		<description><![CDATA[Muss ich das runter laden ??
+eplus-handy-mail-posteingang-leeren.php 
+oder wie soll das genau gehen wenn ich es runter lade ist es nur eine text Datei wie soll ich es sonst auf das Handy bekommen??]]></description>
+		<content:encoded><![CDATA[<p>Muss ich das runter laden ??<br />
+eplus-handy-mail-posteingang-leeren.php<br />
+oder wie soll das genau gehen wenn ich es runter lade ist es nur eine text Datei wie soll ich es sonst auf das Handy bekommen??</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Markus Tacker</title>
+		<link>https://m.tacker.org/1179.e-plus-handy-mail-alle-e-mails-auf-einmal-loschen.html/comment-page-1#comment-21360</link>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+		<pubDate>Sat, 09 Aug 2008 07:54:53 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=1179#comment-21360</guid>
+		<description><![CDATA[Hoi Tiberius,
+&lt;blockquote&gt;Hallo, bei mir kommt folgender fehler was mach ich falsch?&lt;/blockquote&gt;
+Hast Du in Zeile 47 und 52 deine Handy-Nummer (01791234567) und dein Passwort eingetragen?]]></description>
+		<content:encoded><![CDATA[<p>Hoi Tiberius,</p>
+<blockquote><p>Hallo, bei mir kommt folgender fehler was mach ich falsch?</p></blockquote>
+<p>Hast Du in Zeile 47 und 52 deine Handy-Nummer (01791234567) und dein Passwort eingetragen?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Tiberius</title>
+		<link>https://m.tacker.org/1179.e-plus-handy-mail-alle-e-mails-auf-einmal-loschen.html/comment-page-1#comment-21344</link>
+		<dc:creator><![CDATA[Tiberius]]></dc:creator>
+		<pubDate>Fri, 08 Aug 2008 08:18:42 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=1179#comment-21344</guid>
+		<description><![CDATA[Hallo, bei mir kommt folgender fehler was mach ich falsch?
+&lt;code&gt;PHP Fatal error:  Uncaught exception &#039;Exception&#039; with message &#039;Konnte Session-ID
+ nicht finden.&#039; in C:\Programme\Tools\PHP\eplus.php:77
+Stack trace:
+#0 C:\Programme\Tools\PHP\eplus.php(105): EPlus_HandyMail-&#062;login()
+#1 C:\Programme\Tools\PHP\eplus.php(181): EPlus_HandyMail-&#062;deleteAllMessages()
+#2 C:\Programme\Tools\PHP\eplus.php(184): EPlus_HandyMail::main()
+#3 {main}
+  thrown in C:\Programme\Tools\PHP\eplus.php on line 77
+&lt;/code&gt;
+
+Windows XP, php-5.2.6-Win32
+
+Danke für die Hilfe
+
+eigentlich müsste es so sein:
+
+&lt;blockquote&gt;2.7 „E-Plus Handy Mail“ unterstützt pro eingerichtetem E-Mail Konto bis zu maximal 100 E-Mails. Falls sich mehr als 100 E-Mails im jeweiligen Posteingang befinden, so werden nur die neuesten 100 E-Mails angezeigt. Es besteht keine Größenbeschränkung der einzelnen E-Mails.&lt;/blockquote&gt;]]></description>
+		<content:encoded><![CDATA[<p>Hallo, bei mir kommt folgender fehler was mach ich falsch?<br />
+<code>PHP Fatal error: Uncaught exception 'Exception' with message 'Konnte Session-ID<br />
+ nicht finden.' in C:\Programme\Tools\PHP\eplus.php:77<br />
+Stack trace:<br />
+#0 C:\Programme\Tools\PHP\eplus.php(105): EPlus_HandyMail-&gt;login()<br />
+#1 C:\Programme\Tools\PHP\eplus.php(181): EPlus_HandyMail-&gt;deleteAllMessages()<br />
+#2 C:\Programme\Tools\PHP\eplus.php(184): EPlus_HandyMail::main()<br />
+#3 {main}<br />
+ thrown in C:\Programme\Tools\PHP\eplus.php on line 77<br />
+</code></p>
+<p>Windows XP, php-5.2.6-Win32</p>
+<p>Danke für die Hilfe</p>
+<p>eigentlich müsste es so sein:</p>
+<blockquote><p>2.7 „E-Plus Handy Mail“ unterstützt pro eingerichtetem E-Mail Konto bis zu maximal 100 E-Mails. Falls sich mehr als 100 E-Mails im jeweiligen Posteingang befinden, so werden nur die neuesten 100 E-Mails angezeigt. Es besteht keine Größenbeschränkung der einzelnen E-Mails.</p></blockquote>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Markus Tacker</title>
+		<link>https://m.tacker.org/1179.e-plus-handy-mail-alle-e-mails-auf-einmal-loschen.html/comment-page-1#comment-20820</link>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+		<pubDate>Wed, 16 Jul 2008 11:32:22 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=1179#comment-20820</guid>
+		<description><![CDATA[Hallo Kurt,
+&lt;blockquote&gt;Hast Du das zufälligerweise schon geschafft?&lt;/blockquote&gt;
+Nein, das habe ich noch nicht versucht.
+Verwendest Du auch sicher die &lt;a href=&quot;http://mail.google.com/support/bin/answer.py?answer=78799&amp;topic=12920&quot; rel=&quot;nofollow&quot;&gt;korrekten Einstellungen&lt;/a&gt;?]]></description>
+		<content:encoded><![CDATA[<p>Hallo Kurt,</p>
+<blockquote><p>Hast Du das zufälligerweise schon geschafft?</p></blockquote>
+<p>Nein, das habe ich noch nicht versucht.<br />
+Verwendest Du auch sicher die <a href="http://mail.google.com/support/bin/answer.py?answer=78799&#038;topic=12920" rel="nofollow">korrekten Einstellungen</a>?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Kurt</title>
+		<link>https://m.tacker.org/1179.e-plus-handy-mail-alle-e-mails-auf-einmal-loschen.html/comment-page-1#comment-20819</link>
+		<dc:creator><![CDATA[Kurt]]></dc:creator>
+		<pubDate>Wed, 16 Jul 2008 11:27:44 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=1179#comment-20819</guid>
+		<description><![CDATA[Hallo, 
+ich habe gerade ein ganz ähnliches Problem mit Gmail über POP3 und Base-Handymail. 
+Versuche auch schon seit geräumer Zeit das ganze auf IMAP umzustellen. Dabei bekomme ich aber immer Fehlermeldungen zurück. 
+Hast Du das zufälligerweise schon geschafft?
+Gruß]]></description>
+		<content:encoded><![CDATA[<p>Hallo,<br />
+ich habe gerade ein ganz ähnliches Problem mit Gmail über POP3 und Base-Handymail.<br />
+Versuche auch schon seit geräumer Zeit das ganze auf IMAP umzustellen. Dabei bekomme ich aber immer Fehlermeldungen zurück.<br />
+Hast Du das zufälligerweise schon geschafft?<br />
+Gruß</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

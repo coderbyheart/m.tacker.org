@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>PHP &#8211; [|] m.tacker.org</title>
+	<atom:link href="https://m.tacker.org/category/portfolio/p-php/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Tue, 12 Jan 2016 11:45:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>E-Plus Handy-Mail: Alle E-Mails auf einmal löschen</title>
+		<link>https://m.tacker.org/1179.e-plus-handy-mail-alle-e-mails-auf-einmal-loschen.html</link>
+		<comments>https://m.tacker.org/1179.e-plus-handy-mail-alle-e-mails-auf-einmal-loschen.html#comments</comments>
+		<pubDate>Thu, 10 Jul 2008 18:48:26 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PHP]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=1179</guid>
+		<description><![CDATA[Ein PHP-Script erspart die Sisyphus-Arbeit]]></description>
+				<content:encoded><![CDATA[<p>Vor einigen Monaten habe ich mir zu meinem E-Plus Vertrag Handy-Mail dazu gebucht. Das ist im Prinzip ganz praktisch: Man kann beliebig viele E-Mail-Konten in einem browser-basierten E-Mail-Client abrufen lassen, Mails schreiben und erhält bei neu eingetroffenen E-Mails sogar eine Benachrichtigung per SMS und das alles für 5 € im Monat ohne weitere Zusatzkosten. Zusätzlich ist das Surfen im E-Plus-Wap-Portal und 5 MB sonstiger Datentraffic inklusive.</p>
+<p>Allerdings hatte ich ein GMail-Konto eingerichtet, bei dem bereits der POP3-Zugang aktiviert war und ich seit längerem keine E-Mails mehr über POP3 abgerufen hatte. Dadurch hat Handy-Mail direkt mal an die hundert E-Mails abgerufen. Allerdings ist bei 99 E-Mails Schluss und man empfängt einfach keine weiteren mehr. Erst wenn die E-Mails löscht kommen wieder neue nach. Jedoch gibt es keine Option zum Löschen aller E-Mails im Posteingang, und das einzelne Löschen dauert pro E-Mail gut eine Minute.</p>
+<p>Auf meine Anfrage beim Support wegen diesem Umstand mit der Bitte, doch mal alle E-Mails aus meinem Posteingang zu löschen, kam leider die ernüchternde Antwort:</p>
+<blockquote><p>Über Handymail haben Sie die Möglichkeit, max. 100 Mails zu empfangen. Nach erreichen des Limits kann keine weitere Mail zugestellt werden. Wichtig ist, dass über Handymail alle Mails heruntergeladen werden, welche sich im Posteingang Ihrer Mailadresse befinden.<br />
+Eine Löschung der Mails oder das Verschieben in einen anderen Ordner ist nur über den Onlinezugang des Mailproviders möglich.</p>
+<p>Die Löschung der bisher erhaltenen Mails ist leider nur vom Handy aus möglich.</p></blockquote>
+<p>Pah, das wäre doch gelacht &mdash; dachte ich mir und habe flugs ein PHP-Script geschrieben, dass die Arbeit für mich übernimmt. Praktisch ist in diesem Zusammenhang, dass der Handy-Mail Webserver von außen erreichbar ist, sofern immer HTTPs verwendet wird &mdash; HTTP funktioniert nur auf den Handys, die den E-Plus-WAP Proxy-Server verwenden.</p>
+<ul>
+<li><a href="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2008/07/eplus-handy-mail-posteingang-leeren.php.txt" title="PHP-Script zum Löschen aller E-Mails auf einem E-Plus Handy-Mail Account">eplus-handy-mail-posteingang-leeren.php</a></li>
+</ul>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1179.e-plus-handy-mail-alle-e-mails-auf-einmal-loschen.html/feed</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+		</item>
+		<item>
+		<title>PEAR Cache_Lite 1.7.3 release</title>
+		<link>https://m.tacker.org/1118.pear-cache_lite-173-release.html</link>
+		<comments>https://m.tacker.org/1118.pear-cache_lite-173-release.html#respond</comments>
+		<pubDate>Mon, 14 Apr 2008 17:58:40 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PEAR Cache_Lite]]></category>
+		<category><![CDATA[PHP]]></category>
+		<category><![CDATA[Projekte]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[PEAR]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=1118</guid>
+		<description><![CDATA[This is my first release for PEAR Cache_Lite. In March I took over the vacant developer position for this package as I am using it for many projects. After some initial hesitation, David nudged me to use cvs. I did &#8212; and 1.7.3 is the result. It&#8217;s just a bugfix release but after nearly two [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2008/04/pear-cache_lite.gif" alt="" title="PEAR Cache_Lite" width="199" height="46" class="alignright size-medium wp-image-1119" />This is my first release for <a href="http://pear.php.net/package/Cache_Lite">PEAR Cache_Lite</a>. In March I took over the vacant developer position for this package as I am using it for many projects. After some initial hesitation, <a href="http://blog.agoraproduction.com/">David</a> nudged me to use cvs. I did &mdash; and <a href="http://pear.php.net/package/Cache_Lite/download/1.7.3">1.7.3</a> is the result. It&#8217;s just a bugfix release but after nearly two years finally something to talk about for Cache_Lite.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1118.pear-cache_lite-173-release.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SMS-Newsletter Backend geweolbe.org</title>
+		<link>https://m.tacker.org/1097.sms-newsletter-backend-geweolbeorg.html</link>
+		<comments>https://m.tacker.org/1097.sms-newsletter-backend-geweolbeorg.html#respond</comments>
+		<pubDate>Thu, 06 Sep 2007 17:47:32 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PHP]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/1097.sms-newsletter-backend-geweolbeorg.html</guid>
+		<description><![CDATA[Einfaches und günstiges Backend zum Versenden des SMS-Newsletter von gewoelbe.org. Quellcode auf Anfrage.]]></description>
+				<content:encoded><![CDATA[<p>Einfaches und günstiges Backend zum Versenden des SMS-Newsletter von <a href="http://gewoelbe.org/">gewoelbe.org</a>.</p>
+<p>Quellcode auf Anfrage.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1097.sms-newsletter-backend-geweolbeorg.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>AlbumEmbed / PicasaEmbed</title>
+		<link>https://m.tacker.org/1056.albumembed-picasaembed.html</link>
+		<comments>https://m.tacker.org/1056.albumembed-picasaembed.html#respond</comments>
+		<pubDate>Thu, 30 Nov 2006 20:23:40 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Ajax]]></category>
+		<category><![CDATA[PHP]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/1056.albumembed-picasaembed.html</guid>
+		<description><![CDATA[AlbumEmbed / PicasaEmbed PicasaEmbed, bzw. inzwischen AlbumEmbed ist ein universelle PHP5-Bibliothek und Fotos aus Bilder-Galerien, die einen RSS-Feed anbieten, in eine Webseite einzubinden. Grundsätzlich geschieht das Blättern mittels Ajax, es steht jedoch auch eine Fallback-Lösung zur Verfügung, falls JavaScript deaktiviert ist. Weitere Details finden sich (auf Englisch) in meinem Blog. Ausgehen von PicasaEmbed ist AlbumEmbed [&#8230;]]]></description>
+				<content:encoded><![CDATA[<dl class="foto" style="width: 200px">
+<dt><img src="http://tacker.org/wp-content/uploads/2007/02/resized_2007-02-28_212600.png" alt="AlbumEmbed / PicasaEmbed" /></dt>
+<dd>AlbumEmbed / PicasaEmbed</dd>
+</dl>
+<p><a href="https://m.tacker.org/595.picasaembed-embed-and-browse-your-picasa-web-albums.html">PicasaEmbed</a>, bzw. inzwischen <em>AlbumEmbed</em> ist ein universelle PHP5-Bibliothek und Fotos aus Bilder-Galerien, die einen RSS-Feed anbieten, in eine Webseite einzubinden.</p>
+<p>Grundsätzlich geschieht das Blättern mittels Ajax, es steht jedoch auch eine Fallback-Lösung zur Verfügung, falls JavaScript deaktiviert ist. Weitere Details finden sich (auf Englisch) <a href="https://m.tacker.org/595.picasaembed-embed-and-browse-your-picasa-web-albums.html">in meinem Blog</a>.</p>
+<p>Ausgehen von <em>PicasaEmbed</em> ist <em>AlbumEmbed</em> verallgemeinert und lässt sich für alle Arten von Bilder-Galerien einsetzen. Zur Zeit wird <a href="http://picasaweb.google.com/">Picasa</a> und <a href="http://gallery.menalto.com/">Gallery</a> unterstützt. Ein Beispiel für den Einsatz von <em>AlbumEmbed</em> findet sich <a href="https://m.tacker.org/652.bad-noch-mehr-moglichkeiten.html">hier</a>.</p>
+<h3>Quellcode</h3>
+<ul>
+<li><a href="http://versions.tacker.org/svn/smallprojects/albumembed">SVN</a></li>
+<li><a href="http://projects.clyre.net/picasaembed/example.phps">Beispiel</a></li>
+<li><a href="http://versions.tacker.org/trac/smallprojects/browser/albumembed/">Quellcode-Browser</a></li>
+</ul>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1056.albumembed-picasaembed.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>ViewLevel-Plugin fixed</title>
+		<link>https://m.tacker.org/389.viewlevel-plugin-fixed.html</link>
+		<comments>https://m.tacker.org/389.viewlevel-plugin-fixed.html#respond</comments>
+		<pubDate>Wed, 05 Jul 2006 11:32:33 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PHP]]></category>
+		<category><![CDATA[Wordpress]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/389.viewlevel-plugin-fixed.html</guid>
+		<description><![CDATA[Changeset 3951 of WordPress finally removed the old table variables. This broke the ViewLevel-Plugin I was using. You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near &#8216;WHERE meta_key=&#8217;viewlevel&#8217; AND meta_value &#62; 10&#8242; at line 1 I&#8217;ve fixed the plugin [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://trac.wordpress.org/changeset/3951">Changeset 3951</a> of <a href="http://www.wordpress.org/">WordPress</a> finally removed the old table variables. This broke the <a href="http://blog.firetree.net/2005/08/25/viewlevel-20/">ViewLevel-Plugin</a> I was using.</p>
+<blockquote><p>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near &#8216;WHERE meta_key=&#8217;viewlevel&#8217; AND meta_value &gt; 10&#8242; at line 1</p></blockquote>
+<p>I&#8217;ve fixed the plugin so it&#8217;s now using the right variables.</p>
+<p>You can download it here: <a href="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/07/viewlevel21.zip" id="p388">ViewLevel 2.1</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/389.viewlevel-plugin-fixed.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>PDODataObject</title>
+		<link>https://m.tacker.org/1045.pdodataobject.html</link>
+		<comments>https://m.tacker.org/1045.pdodataobject.html#respond</comments>
+		<pubDate>Tue, 18 Apr 2006 10:59:06 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PHP]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/1045.pdodataobject.html</guid>
+		<description><![CDATA[PDODataObject ist eine Portierung von PEAR DB_DataObject auf PHP5 und PDO. Zusätzlich zu den bekannten Features von DB_DataObject habe ich noch eine automatische Formulargenerierung sowie die automatische Validierung von Datenbank-Referenzen integriert. Eine stabiles Release liegt zur noch nicht vor, steht aber kurz bevor. Ein Großteil des Codes wird bereits durch Unit-Tests mit PHPUnit geprüft. Quellcode [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>PDODataObject ist eine Portierung von <a href="http://pear.php.net/package/DB_DataObject">PEAR DB_DataObject</a> auf PHP5 und <a href="http://de.php.net/pdo">PDO</a>.</p>
+<p>Zusätzlich zu den bekannten Features von DB_DataObject habe ich noch eine automatische Formulargenerierung sowie die automatische Validierung von Datenbank-Referenzen integriert.</p>
+<p>Eine stabiles Release liegt zur noch nicht vor, steht aber kurz bevor. Ein Großteil des Codes wird bereits durch Unit-Tests mit <a href="http://www.phpunit.de">PHPUnit</a> geprüft.</p>
+<h3>Quellcode</h3>
+<ul>
+<li><a href="http://tacker.org/svn/smallprojects/php/packages/PDODataObject/trunk/">SVN</a></li>
+<li><a href="http://tacker.org/trac/smallprojects/browser/php/packages/PDODataObject/trunk/">Quellcode-Browser</a></li>
+</ul>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1045.pdodataobject.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Discontinued: WikkaTodo for Wikka Wiki</title>
+		<link>https://m.tacker.org/75.discontinued-wikkatodo-for-wikka-wiki.html</link>
+		<comments>https://m.tacker.org/75.discontinued-wikkatodo-for-wikka-wiki.html#respond</comments>
+		<pubDate>Fri, 27 Jan 2006 11:49:29 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PHP]]></category>
+		<category><![CDATA[English]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/75.discontinued-wikkatodo-for-wikka-wiki.html</guid>
+		<description><![CDATA[I am no longer working on WikkaTodo (task management in Wikka Wiki) as I have moved the project it was needed for to Trac. The source code can be downloaded via SVN from here. Any one interested in taking over the project?]]></description>
+				<content:encoded><![CDATA[<p>I am no longer working on <b>WikkaTodo</b> (task management in <a href="http://wikkawiki.org/HomePage">Wikka Wiki</a>) as I have moved the project it was needed for to <a href="http://projects.edgewall.com/trac/">Trac</a>.</p>
+<p>The source code can be downloaded via SVN from <a href="http://versions.tacker.org/svn/wikkawiki/trunk">here</a>.</p>
+<p>Any one interested in taking over the project?</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/75.discontinued-wikkatodo-for-wikka-wiki.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>RSS für PHPBB</title>
+		<link>https://m.tacker.org/1040.rss-fur-phpbb.html</link>
+		<comments>https://m.tacker.org/1040.rss-fur-phpbb.html#comments</comments>
+		<pubDate>Fri, 23 Dec 2005 18:38:02 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PHP]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/1040.rss-fur-phpbb.html</guid>
+		<description><![CDATA[Dies ist eine Ergänzung für die Forensoftware PHPBB 2, die RSS-Feeds zur Verfügung stellt. Sie arbeitet unabhängig vom Template und muss nicht eingepatcht werden — statt dessen wird sie einfach in einen Unterordner kopiert. Dieses Modul liefert ist seit Anfang 2006 die RSS-Feeds der größten deutschsprachigen Mediencommunity Mediengestalter.info aus. Features RSS 2.0 Feed für neue [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src="http://tacker.org/wp-content/uploads/2007/02/resized_feed-icon_200.png" alt="RSS Feed Icon" class="right" />Dies ist eine Ergänzung für die Forensoftware <a href="http://www.phpbb.net/">PHPBB 2</a>, die RSS-Feeds zur Verfügung stellt. Sie arbeitet unabhängig vom Template und muss nicht eingepatcht werden — statt dessen wird sie einfach in einen Unterordner kopiert.</p>
+<p>Dieses Modul <a href="http://www.mediengestalter.info/forum/2/mgi-rss-feeds-54943-1.html">liefert ist seit Anfang 2006</a> die RSS-Feeds der größten deutschsprachigen Mediencommunity <a href="http://www.mediengestalter.info/">Mediengestalter.info</a> aus.</p>
+<h3>Features</h3>
+<ul class="square">
+<li>RSS 2.0</li>
+<li>Feed für neue Themen aus allen öffentlichen Foren</li>
+<li>Feed für neue Themen aus einem bestimmten Forum</li>
+<li>Feed für die Beiträge in einem bestimmten Thema</li>
+<li>Liste aller verfügbaren Feeds im OPML-Format</li>
+<li>Entwickelt für große Installationen</li>
+<li>Teile der Feeds können einfach deaktiviert werden um die Last zu redizieren</li>
+<li>Unterstützung der HTTP Cache-Header If-Modified-Since und Etag</li>
+</ul>
+<h3>Quellcode</h3>
+<ul>
+<li><a href="https://github.com/tacker/phpbb2-rss">auf GitHub</a></li>
+<li><a href="https://github.com/tacker/phpbb2-rss/zipball/master">Aktuelles Release als ZIP</a> oder <a href="https://github.com/tacker/phpbb2-rss/tarball/master">TGZ</a></li>
+</ul>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1040.rss-fur-phpbb.html/feed</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Script to convert WordPress&#8217; content encoding</title>
+		<link>https://m.tacker.org/64.script-to-convert-wordpress-content-encoding.html</link>
+		<comments>https://m.tacker.org/64.script-to-convert-wordpress-content-encoding.html#comments</comments>
+		<pubDate>Mon, 12 Dec 2005 21:18:13 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PHP]]></category>
+		<category><![CDATA[Wordpress]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[most visited]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=64</guid>
+		<description><![CDATA[This script converts the encoding of all database entries of wordpress into another encoding.]]></description>
+				<content:encoded><![CDATA[<p>I&#39;ve just created a script which converts the encoding of all database entries of wordpress into another encoding.<br />
+In most cases you would convert into UTF-8.</p>
+<p><b>IMPORTANT!</b><br />
+Remember to dumpy your database first</p>
+<p><code>mysqldump --opt DB_NAME</code></p>
+<p>Or use phpMyAdmin:<br />
+<a href="http://www.zerokspot.com/docs/howto.phpmyadmin.backup_and_restore/">http://www.zerokspot.com/docs/howto.phpmyadmin.backup_and_restore/</a><br />
+<a href="http://www.phpmyadmin.net/documentation/#faq6_3">http://www.phpmyadmin.net/documentation/#faq6_3</a></p>
+<p>Do NOT run this script more then once</p>
+<p>Place this script inside the wp-content folder of your blog and access it via the browser, e.g. http://yoursite.com/blog/wp-content/convert-encoding.php</p>
+<ul>
+<li><a href="https://raw.github.com/tacker/wordpress-convert-encoding/master/convert-encoding.php">convert-encoding.php</a></li>
+<li><a href="https://github.com/tacker/wordpress-convert-encoding">Source code on GitHub</a></li>
+</ul>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/64.script-to-convert-wordpress-content-encoding.html/feed</wfw:commentRss>
+		<slash:comments>43</slash:comments>
+		</item>
+		<item>
+		<title>Event_Dispatcher2</title>
+		<link>https://m.tacker.org/1038.event_dispatcher2.html</link>
+		<comments>https://m.tacker.org/1038.event_dispatcher2.html#respond</comments>
+		<pubDate>Fri, 11 Nov 2005 19:57:22 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PHP]]></category>
+		<category><![CDATA[PEAR]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/1038.event_dispatcher2.html</guid>
+		<description><![CDATA[Event_Dispatcher2 ist einen PHP5-Version des PEAR-Paketes Event_Dispatcher. Es existierte zeitweise ein Proposal, dieses als seperates Paket in PEAR zu führen, welches jedoch von den aktuellen Maintainern abgelehnt wurde. Quellcode SVN Quellcode-Browser]]></description>
+				<content:encoded><![CDATA[<p>Event_Dispatcher2 ist einen PHP5-Version des <a href="http://pear.php.net/package/Event_Dispatcher">PEAR-Paketes Event_Dispatcher</a>. Es existierte zeitweise ein Proposal, dieses als seperates Paket in PEAR zu führen, welches jedoch von den aktuellen Maintainern abgelehnt wurde.</p>
+<h3>Quellcode</h3>
+<ul>
+<li><a href="http://tacker.org/svn/Event_Dispatcher2/trunk/">SVN</a></li>
+<li><a href="http://versions.tacker.org/trac/Event_Dispatcher2/browser/trunk">Quellcode-Browser</a></li>
+</ul>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1038.event_dispatcher2.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>PEAR Google_Map</title>
+		<link>https://m.tacker.org/966.pear-google_map.html</link>
+		<comments>https://m.tacker.org/966.pear-google_map.html#respond</comments>
+		<pubDate>Fri, 09 Sep 2005 22:28:19 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PHP]]></category>
+		<category><![CDATA[PEAR]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/966.pear-google_map.html</guid>
+		<description><![CDATA[PEAR Google_Map ist eine PHP-API für Google Maps und soll als PEAR-Paket veröffentlich werden, was aber mangels Zeit noch nicht geschehen ist. Es existieren zur Zeit zwei Versionen des Paketes, die erste wurde von Daniel Khan geschriebe. Meine Version verfolgt eine etwas anderen Ansatz. Es ist geplant die Funktionen beider Klassen zu vereinen und als [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src="http://tacker.org/wp-content/uploads/2007/02/google_map.gif" alt="PEAR Google_Map" class="right" />PEAR Google_Map ist eine PHP-API für <a href="http://maps.google.com/">Google Maps</a> und soll als <a href="http://pear.php.net/pepr/pepr-proposal-show.php?id=314">PEAR-Paket veröffentlich werden</a>, was aber mangels Zeit noch nicht geschehen ist.</p>
+<p>Es existieren zur Zeit zwei Versionen des Paketes, die erste wurde von Daniel Khan geschriebe. Meine Version verfolgt eine etwas anderen Ansatz. Es ist geplant die Funktionen beider Klassen zu vereinen und als ein gemeinsames Paket zu veröffentlichen.</p>
+<h3>Quellcode</h3>
+<ul>
+<li><a href="http://versions.tacker.org/svn/Google_Map">SVN</a></li>
+<li><a href="https://m.tacker.org/trac/Google_Map/browser/trunk">Quellcode-Browser</a></li>
+</ul>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/966.pear-google_map.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>PEAR File_Bittorrent</title>
+		<link>https://m.tacker.org/952.pear-file_bittorrent-2.html</link>
+		<comments>https://m.tacker.org/952.pear-file_bittorrent-2.html#respond</comments>
+		<pubDate>Tue, 20 Apr 2004 22:06:30 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PHP]]></category>
+		<category><![CDATA[Bittorrent]]></category>
+		<category><![CDATA[PEAR]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/952.pear-file_bittorrent-2.html</guid>
+		<description><![CDATA[PEAR File_Bittorrent ist die PHP-Implementierung des Bittorrent-Protokolls. Es basiert ursprünglich auf der Python-Implementierung von Petru Paler, sowie deren PHP-Übersetzung von Gerard Krijgsman und Änderungen von Carl Ritson. Das Paket besteht aus drei Klassen (PHP4), mit denen man Daten im Bittorrent-Format kodieren und dekodieren kann sowie .torrent-Dateien lesen und schreiben kann. Zusätzlich kann man Tracker anfragen [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src="http://tacker.org/wp-content/uploads/2007/02/file_bittorrent.gif" alt="PEAR File_Bittorrent" class="right" /><a href="http://pear.php.net/package/File_Bittorrent">PEAR File_Bittorrent</a> ist die PHP-Implementierung des <a href="http://www.bittorrent.com/">Bittorrent-Protokolls</a>. Es basiert ursprünglich auf der Python-Implementierung von Petru Paler, sowie deren PHP-Übersetzung von Gerard Krijgsman und Änderungen von Carl Ritson.</p>
+<p>Das Paket besteht aus drei Klassen (PHP4), mit denen man Daten im Bittorrent-Format kodieren und dekodieren kann sowie .torrent-Dateien lesen und schreiben kann. Zusätzlich kann man Tracker anfragen und so die Anzahl der Peers für den jeweiligen Torrent erhalten.</p>
+<p>2004 habe ich aus den vorhanden Quellen ein <a href="http://pear.php.net/manual/en/standards.php">PEAR-konformes</a> Paket erstellt und betreue und erweitere dies seither.</p>
+<h3>Quellcode</h3>
+<ul>
+<li><a href="http://pear.php.net/package/File_Bittorrent/download">Download auf der offiziellen Homepage</a></li>
+<li><a href="http://versions.tacker.org/svn/File_Bittorrent/trunk">SVN</a></li>
+<li><a href="http://versions.tacker.org/trac/File_Bittorrent/browser/trunk">Quellcode-Browser</a></li>
+</ul>
+<h3>Dokumentation</h3>
+<p>Diese findet sich ebenfalls im <a href="http://versions.tacker.org/trac/File_Bittorrent/wiki/Documentation">Trac von File_Bittorrent</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/952.pear-file_bittorrent-2.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>Feldberg &#8211; [|] m.tacker.org</title>
+	<atom:link href="https://m.tacker.org/tag/feldberg/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Tue, 12 Jan 2016 11:45:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>Schneemeer</title>
+		<link>https://m.tacker.org/1757.schneemeer.html</link>
+		<comments>https://m.tacker.org/1757.schneemeer.html#respond</comments>
+		<pubDate>Sun, 18 Jan 2009 18:42:36 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Foto]]></category>
+		<category><![CDATA[Feldberg]]></category>
+		<category><![CDATA[Winter]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=1757</guid>
+		<description><![CDATA[Schnee, der aussieht wie Meereswellen]]></description>
+				<content:encoded><![CDATA[<p><img src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/fotos/550/Schneeschuhwandern-Feldberg-2009/DSC_3222.jpg" alt="" /></p>
+<p>Gemacht beim <a href="https://m.tacker.org/1745.schneeschuhwandern-auf-dem-feldberg.html">Schneeschuhwandern auf dem Feldberg</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1757.schneemeer.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<georss:point>47.8700142 7.9986477</georss:point>	</item>
+		<item>
+		<title>Leuchtturm auf dem Feldberg</title>
+		<link>https://m.tacker.org/1755.leuchtturm-auf-dem-feldberg.html</link>
+		<comments>https://m.tacker.org/1755.leuchtturm-auf-dem-feldberg.html#respond</comments>
+		<pubDate>Sun, 18 Jan 2009 18:37:59 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Foto]]></category>
+		<category><![CDATA[Feldberg]]></category>
+		<category><![CDATA[Winter]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=1755</guid>
+		<description><![CDATA[Ein Leuchtturm auf dem Feldberg]]></description>
+				<content:encoded><![CDATA[<p><img src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/fotos/550/Schneeschuhwandern-Feldberg-2009/DSC_3188.jpg" alt="" /></p>
+<p>Mit der Wolkendecke im Hintergrund sieht es fast aus wie ein Leuchtturm am Meer.</p>
+<p>Gemacht beim <a href="https://m.tacker.org/1745.schneeschuhwandern-auf-dem-feldberg.html">Schneeschuhwandern auf dem Feldberg</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1755.leuchtturm-auf-dem-feldberg.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<georss:point>47.8644600 8.0222082</georss:point>	</item>
+		<item>
+		<title>Busch im Schnee</title>
+		<link>https://m.tacker.org/1752.busch-im-schnee.html</link>
+		<comments>https://m.tacker.org/1752.busch-im-schnee.html#respond</comments>
+		<pubDate>Sun, 18 Jan 2009 18:35:10 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Foto]]></category>
+		<category><![CDATA[Feldberg]]></category>
+		<category><![CDATA[Winter]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=1752</guid>
+		<description><![CDATA[Ein Busch ohne Blätter im Schnee]]></description>
+				<content:encoded><![CDATA[<p><img src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/fotos/550/Schneeschuhwandern-Feldberg-2009/DSC_3178.jpg" alt="" /></p>
+<p>Gemacht beim <a href="https://m.tacker.org/1745.schneeschuhwandern-auf-dem-feldberg.html">Schneeschuhwandern auf dem Feldberg</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1752.busch-im-schnee.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<georss:point>47.8667374 8.0201912</georss:point>	</item>
+		<item>
+		<title>Schneeschuhwandern auf dem Feldberg</title>
+		<link>https://m.tacker.org/1745.schneeschuhwandern-auf-dem-feldberg.html</link>
+		<comments>https://m.tacker.org/1745.schneeschuhwandern-auf-dem-feldberg.html#comments</comments>
+		<pubDate>Sun, 18 Jan 2009 18:32:23 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[Feldberg]]></category>
+		<category><![CDATA[Winter]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=1745</guid>
+		<description><![CDATA[Fotos vom Schneeschuhwandern auf dem Feldberg]]></description>
+				<content:encoded><![CDATA[<p><img src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/fotos/550/Schneeschuhwandern-Feldberg-2009/DSC_3179.jpg" alt="" /></p>
+<p>Letztes Wochenende waren wir bei Tina und Steffen zu Besuch um am Sonntag den Feldberg mit Schneeschuhen zu bezwingen &mdash; naja und mit Bus und Bahn. Das hieß am Sonntag um kurz vor sechs aufstehen um kurz vor neun unten an der Talstation der Feldbergbahn (<a href="http://maps.google.de/maps?f=q&#038;source=s_q&#038;hl=de&#038;geocode=&#038;q=Feldberg,+Schwarzwald&#038;sll=51.151786,10.415039&#038;sspn=19.08695,39.550781&#038;ie=UTF8&#038;ll=47.858871,8.037035&#038;spn=0.009948,0.019312&#038;t=h&#038;z=16&#038;iwloc=addr">Karte</a>) die Schneeschuhe an zu schnallen. Zügig ging es dann bergauf um nach nur wenigen Minuten die viel zu dicke Klamottenschicht aus zu dünnen &mdash; schließlich hatten wir bei Windstille und Sonnenschein über null Grad.</p>
+<p>Der gut ausgeschilderte Schneeschuhwanderweg führte uns vorbei am <a href="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/fotos/550/Schneeschuhwandern-Feldberg-2009/DSC_3175.jpg" rel="lightbox">Aussichtsturm</a> und zum <a href="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/fotos/550/Schneeschuhwandern-Feldberg-2009/DSC_3212.jpg" rel="lightbox">Gipfel</a>. Auf dem Rückweg ins Tal gab es dann bei einer kleinen Pause in der <a href="http://www.todtnauer-huette.de/">Todnauer Hütte</a> <a href="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/fotos/550/Schneeschuhwandern-Feldberg-2009/DSC_3236.jpg" rel="lightbox">leckeren Kuchen</a>.</p>
+<p>Leider war der Schnee schon sehr hart gefroren, so dass wir nur etwa ein drittel der Strecke wirklich Schneeschuhe gebraucht haben, trotzdem war es einfach herrlich, querfeldein durch die tolle Winterlandschaft zu stapfen.</p>
+<p>Wir warten jetzt auf Neu-Schnee, um das nochmal zu wiederholen &#8230;</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1745.schneeschuhwandern-auf-dem-feldberg.html/feed</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+	<georss:point>47.8728409 8.0054283</georss:point>	</item>
+	</channel>
+</rss>

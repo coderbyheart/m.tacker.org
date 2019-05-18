@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:georss="http://www.georss.org/georss" 
+	>
+<channel>
+	<title>Comments on: Daten von einer defekten Festplatte retten</title>
+	<atom:link href="https://m.tacker.org/269.daten-von-einer-defekten-festplatte-retten.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org/269.daten-von-einer-defekten-festplatte-retten.html</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Mon, 23 Nov 2015 21:43:02 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: Datensicherung für Gestalter :: [&#124;] m.tacker.org</title>
+		<link>https://m.tacker.org/269.daten-von-einer-defekten-festplatte-retten.html/comment-page-1#comment-17084</link>
+		<dc:creator><![CDATA[Datensicherung für Gestalter :: [&#124;] m.tacker.org]]></dc:creator>
+		<pubDate>Fri, 14 Mar 2008 10:15:27 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/269.daten-von-einer-defekten-festplatte-retten.html#comment-17084</guid>
+		<description><![CDATA[[...] Daten von einer defekten Festplatte retten [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Daten von einer defekten Festplatte retten [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: barett</title>
+		<link>https://m.tacker.org/269.daten-von-einer-defekten-festplatte-retten.html/comment-page-1#comment-887</link>
+		<dc:creator><![CDATA[barett]]></dc:creator>
+		<pubDate>Tue, 11 Apr 2006 21:15:09 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/269.daten-von-einer-defekten-festplatte-retten.html#comment-887</guid>
+		<description><![CDATA[TestDisk ist prima, damit hab ich schon öfter ein paar Daten von meiner nun mehr verstorbenen Platte retten können.
+Allerdings sollte man sich vorher wirklich die Doku durchlesen. Safety first. ;D]]></description>
+		<content:encoded><![CDATA[<p>TestDisk ist prima, damit hab ich schon öfter ein paar Daten von meiner nun mehr verstorbenen Platte retten können.<br />
+Allerdings sollte man sich vorher wirklich die Doku durchlesen. Safety first. ;D</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

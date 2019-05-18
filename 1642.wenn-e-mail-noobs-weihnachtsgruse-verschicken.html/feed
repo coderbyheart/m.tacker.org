@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:georss="http://www.georss.org/georss" 
+	>
+<channel>
+	<title>Comments on: Wenn E-Mail-Noobs Weihnachtsgrüße verschicken &#8230;</title>
+	<atom:link href="https://m.tacker.org/1642.wenn-e-mail-noobs-weihnachtsgruse-verschicken.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org/1642.wenn-e-mail-noobs-weihnachtsgruse-verschicken.html</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Mon, 23 Nov 2015 21:43:02 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: liQ</title>
+		<link>https://m.tacker.org/1642.wenn-e-mail-noobs-weihnachtsgruse-verschicken.html/comment-page-1#comment-23034</link>
+		<dc:creator><![CDATA[liQ]]></dc:creator>
+		<pubDate>Tue, 23 Dec 2008 23:31:47 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=1642#comment-23034</guid>
+		<description><![CDATA[Nicht schlecht. Ist eben ein &quot;moderner&quot; Weihnachtsbaum.
+
+Ich wünsch&#039; euch ein frohes Fest, lasst euch reich beschenken.
+
+Bis dann!]]></description>
+		<content:encoded><![CDATA[<p>Nicht schlecht. Ist eben ein &#8220;moderner&#8221; Weihnachtsbaum.</p>
+<p>Ich wünsch&#8217; euch ein frohes Fest, lasst euch reich beschenken.</p>
+<p>Bis dann!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

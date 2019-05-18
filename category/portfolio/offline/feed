@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>Offline &#8211; [|] m.tacker.org</title>
+	<atom:link href="https://m.tacker.org/category/portfolio/offline/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Tue, 12 Jan 2016 11:45:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>cut+club flyer</title>
+		<link>https://m.tacker.org/1096.cutclub-flyer.html</link>
+		<comments>https://m.tacker.org/1096.cutclub-flyer.html#respond</comments>
+		<pubDate>Fri, 28 Dec 2007 17:47:04 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Offline]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/1096.cutclub-flyer.html</guid>
+		<description><![CDATA[Flyer für ein Event bei einem Friseur.]]></description>
+				<content:encoded><![CDATA[<p><img src="http://tacker.org/wp-content/uploads/2007/12/cutclub.jpg" alt="cut+club flyer" class="full" /></p>
+<p>Flyer für ein Event bei einem Friseur.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1096.cutclub-flyer.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Hairatelier.de</title>
+		<link>https://m.tacker.org/1052.hairatelierde.html</link>
+		<comments>https://m.tacker.org/1052.hairatelierde.html#respond</comments>
+		<pubDate>Sun, 16 Jul 2006 19:26:22 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Offline]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/1052.hairatelierde.html</guid>
+		<description><![CDATA[Layout für einen befreundeten Frisör. Mangels Zeit der Inhaberin noch offline.]]></description>
+				<content:encoded><![CDATA[<p><img src="http://tacker.org/wp-content/uploads/2007/02/hairatelier_de.jpg" alt="Hairatelier.de" class="full" /></p>
+<p>Layout für einen <a href="http://hairatelier.de/">befreundeten Frisör</a>. Mangels Zeit der Inhaberin noch offline.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1052.hairatelierde.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Anzeige IR-Informer</title>
+		<link>https://m.tacker.org/1041.anzeige-ir-informer-2.html</link>
+		<comments>https://m.tacker.org/1041.anzeige-ir-informer-2.html#respond</comments>
+		<pubDate>Fri, 23 Dec 2005 20:44:19 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Offline]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/1041.anzeige-ir-informer-2.html</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[<p><img src="http://tacker.org/wp-content/uploads/2007/02/anzeige_ir-informer.jpg" alt="Anzeige IR-Informer" class="full" /></p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1041.anzeige-ir-informer-2.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:georss="http://www.georss.org/georss" 
+	>
+<channel>
+	<title>Comments on: Firmenwagen</title>
+	<atom:link href="https://m.tacker.org/871.firmenwagen.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org/871.firmenwagen.html</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Mon, 23 Nov 2015 21:43:02 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: Alex</title>
+		<link>https://m.tacker.org/871.firmenwagen.html/comment-page-1#comment-16337</link>
+		<dc:creator><![CDATA[Alex]]></dc:creator>
+		<pubDate>Thu, 24 Jan 2008 21:11:23 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/871.firmenwagen.html#comment-16337</guid>
+		<description><![CDATA[*lol*
+
+Das nenn ich mal product placement vom Feinsten ^^]]></description>
+		<content:encoded><![CDATA[<p>*lol*</p>
+<p>Das nenn ich mal product placement vom Feinsten ^^</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Valentin</title>
+		<link>https://m.tacker.org/871.firmenwagen.html/comment-page-1#comment-16317</link>
+		<dc:creator><![CDATA[Valentin]]></dc:creator>
+		<pubDate>Wed, 23 Jan 2008 22:01:54 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/871.firmenwagen.html#comment-16317</guid>
+		<description><![CDATA[Geil, mit G-Kat??!!]]></description>
+		<content:encoded><![CDATA[<p>Geil, mit G-Kat??!!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: katha</title>
+		<link>https://m.tacker.org/871.firmenwagen.html/comment-page-1#comment-16316</link>
+		<dc:creator><![CDATA[katha]]></dc:creator>
+		<pubDate>Wed, 23 Jan 2008 22:00:17 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/871.firmenwagen.html#comment-16316</guid>
+		<description><![CDATA[Sauber!
+Besonders die Beifahrerscheibe ueberzeugt! :-D]]></description>
+		<content:encoded><![CDATA[<p>Sauber!<br />
+Besonders die Beifahrerscheibe ueberzeugt! 😀</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

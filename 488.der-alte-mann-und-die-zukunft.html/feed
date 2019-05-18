@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:georss="http://www.georss.org/georss" 
+	>
+<channel>
+	<title>Comments on: Der alte Mann und die Zukunft</title>
+	<atom:link href="https://m.tacker.org/488.der-alte-mann-und-die-zukunft.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org/488.der-alte-mann-und-die-zukunft.html</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Mon, 23 Nov 2015 21:43:02 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: Vorstand schaltet Anwalt ein :: [&#124;] m.tacker.org</title>
+		<link>https://m.tacker.org/488.der-alte-mann-und-die-zukunft.html/comment-page-1#comment-12985</link>
+		<dc:creator><![CDATA[Vorstand schaltet Anwalt ein :: [&#124;] m.tacker.org]]></dc:creator>
+		<pubDate>Wed, 29 Aug 2007 10:02:31 +0000</pubDate>
+		<guid isPermaLink="false">http://meine-jugend.net/blog/?p=23#comment-12985</guid>
+		<description><![CDATA[[...] ich gerade über drei Ecken erfahren habe, hat der Vorstand einen Anwalt angestrengt um mich von meinen bösen Machenschaften auf tg-offenbach.de und meine-jugend.net [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] ich gerade über drei Ecken erfahren habe, hat der Vorstand einen Anwalt angestrengt um mich von meinen bösen Machenschaften auf tg-offenbach.de und meine-jugend.net [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

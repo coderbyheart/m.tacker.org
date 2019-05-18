@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>Wordpress &#8211; [|] m.tacker.org</title>
+	<atom:link href="https://m.tacker.org/category/portfolio/wordpress-portfolio/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Tue, 12 Jan 2016 11:45:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>Autoren eines Blogs auflisten</title>
+		<link>https://m.tacker.org/1478.autoren-eines-blogs-auflisten.html</link>
+		<comments>https://m.tacker.org/1478.autoren-eines-blogs-auflisten.html#respond</comments>
+		<pubDate>Sat, 13 Sep 2008 09:49:42 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Wordpress]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=1478</guid>
+		<description><![CDATA[Code-Beispiel für Wordpress zum Auflisten aller Autoren eines Blogs sortiert nach Anzahl der Posts.]]></description>
+				<content:encoded><![CDATA[<p><img src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2008/09/wp-list-authors-example.jpg" alt="" title="Autoren eines Blogs auflisten: Beispiel" width="182" height="297" class="alignright size-full wp-image-1482" />Wenn man ein Blog beitreibt, an dem mehrere Autoren mit schreiben, kann es durchaus sinnvoll sein, alle Autoren auf zu listen. Da eine einfach Liste aber etwas langweilig ist, lasse ich in <a href="http://www.mediengestalter-blog.de/#authorlist">diesem Beispiel</a> die Liste noch nach Anzahl der Posts sortieren. </p>
+<p>Hier ist der <a href='https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2008/09/wp-list-authors.txt'>Quellcode</a> für WordPress dazu, der einfach in z.B. die sidebar.php eingefügt werden kann.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1478.autoren-eines-blogs-auflisten.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>WordPress mit Google Maps versehen</title>
+		<link>https://m.tacker.org/1170.wordpress-mit-google-maps-versehen.html</link>
+		<comments>https://m.tacker.org/1170.wordpress-mit-google-maps-versehen.html#respond</comments>
+		<pubDate>Sat, 14 Jun 2008 15:27:55 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Wordpress]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=1170</guid>
+		<description><![CDATA[Es macht durchaus Sinn, einige Beiträge mit geografischen Informationen zu versehen &#8212; umgangssprachlich auch &#8220;GeoTagging&#8221; genannt. Bei mir im Blog sind das vor allem Fotos und zum Beispiel auch die Qype-Beiträge. An die Umsetzung habe ich mich heute Nachmittag gemacht. Mit dem WordPress-Plugin &#8220;Geo Mashup&#8221; lässt sich jeder Beitrag mit einer Geo-Koordinate versehen. Diese kann [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Es macht durchaus Sinn, einige Beiträge mit geografischen Informationen zu versehen &mdash; umgangssprachlich auch &#8220;GeoTagging&#8221; genannt.</p>
+<p>Bei mir im Blog sind das vor allem Fotos und zum Beispiel auch die Qype-Beiträge.</p>
+<p>An die Umsetzung habe ich mich heute Nachmittag gemacht. Mit dem WordPress-Plugin &#8220;<a href="http://code.google.com/p/wordpress-geo-mashup/">Geo Mashup</a>&#8221; lässt sich jeder Beitrag mit einer Geo-Koordinate versehen. Diese kann dann im Template mit vorgefertigten Template-Tags ausgelesen werden. Details dazu finden sich in der <a href="http://code.google.com/p/wordpress-geo-mashup/wiki/Documentation">Dokumentation von Geo Mashup</a>.</p>
+<p>In meiner Umsetzung habe ich nur die Methode <code>GeoMashup::post_coordinates();</code> verwendet und mich denn selber um das Erstellen der Kartenanzeige gekümmert. <a href="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2008/06/wordpress-googlemaps.txt">Hier</a> findet sich der entsprechenden PHP-Code.</p>
+<p>Einige Beiträgen habe ich inzwischen mit Koordinaten versehen, beispielsweise das Foto <a href="https://m.tacker.org/1155.eingang-des-louvre.html">Eingang des Louvre</a> und die Qype-Review vom <a href="https://m.tacker.org/1163.quatsch-comedy-club.html">Quatsch Comedy Club</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1170.wordpress-mit-google-maps-versehen.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Neues Theme</title>
+		<link>https://m.tacker.org/922.neues-theme.html</link>
+		<comments>https://m.tacker.org/922.neues-theme.html#comments</comments>
+		<pubDate>Fri, 14 Mar 2008 08:16:44 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[Wordpress]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/922.neues-theme.html</guid>
+		<description><![CDATA[Endlich hab ich das neue Theme soweit, dass ich zumindest das Blog in ein neues Gewand kleiden kann. Nach vier Jahren KISS ist das neue Theme eine komplette Eigenentwicklung, die Schrift für die Headlines ist die AUdimat von SMeltery, die Icons kommen von FAMFAMFAM, die Lightbox ist eine Übersetzung der Slimbox. Auf der Todo-Liste stehtnoch: [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src='https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2008/03/blog-themes.jpg' alt='Blog Themes (2002-2008)' class='full' /><br />
+Endlich hab ich das neue Theme soweit, dass ich zumindest das Blog in ein neues Gewand kleiden kann.</p>
+<p>Nach <a href="https://m.tacker.org/525.blog-theme.html">vier Jahren KISS</a> ist das neue Theme eine komplette Eigenentwicklung, die Schrift für die Headlines ist die AUdimat von <a href="http://www.smeltery.net/">SMeltery</a>, die Icons kommen von <a href="http://www.famfamfam.com/">FAMFAMFAM</a>, die Lightbox ist eine <a href="https://m.tacker.org/939.slimbox-auf-deutsch.html">Übersetzung der Slimbox</a>.</p>
+<p>Auf der Todo-Liste stehtnoch:</p>
+<ol>
+<li>Theme-Texte übersetzen (die sind in englisch angelegt, da ich das Theme unter die GPL stellen will)</li>
+<li>IE7/IE6 Bugs beheben</li>
+<li><span style="text-decoration: line-through;">Fotos integrieren</span></li>
+<li><span style="text-decoration: line-through;">Portfolio integrieren</span></li>
+<li><span style="text-decoration: line-through;">Altes Blog nach WordPress umziehen</span></li>
+</ol>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/922.neues-theme.html/feed</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>aldogiannotti.com</title>
+		<link>https://m.tacker.org/1098.aldogiannotticom.html</link>
+		<comments>https://m.tacker.org/1098.aldogiannotticom.html#respond</comments>
+		<pubDate>Tue, 05 Jun 2007 17:48:29 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Wordpress]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/1098.aldogiannotticom.html</guid>
+		<description><![CDATA[aldogiannotti.com Anpassung des WordPress-Themes, Installation der NGGallery, Programmierung eines Plugin zur zufälligen Anzeige von Bildern aus den Artikeln und der Galerie sowie Internet Explorer Korrekturen.]]></description>
+				<content:encoded><![CDATA[<dl class="foto" style="width: 200px">
+<dt><img src="http://tacker.org/wp-content/uploads/2007/06/resized_2007-06-05_110022.png" alt="aldogiannotti.com" /></dt>
+<dd><a href="http://www.aldogiannotti.com/">aldogiannotti.com</a></dd>
+</dl>
+<p>Anpassung des WordPress-Themes, Installation der <a href="http://alexrabe.boelinger.com/?page_id=80">NGGallery</a>, Programmierung eines Plugin zur zufälligen Anzeige von Bildern aus den Artikeln und der Galerie sowie Internet Explorer Korrekturen.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1098.aldogiannotticom.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Michael Neumann</title>
+		<link>https://m.tacker.org/1099.michael-neumann.html</link>
+		<comments>https://m.tacker.org/1099.michael-neumann.html#respond</comments>
+		<pubDate>Tue, 17 Apr 2007 17:49:12 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Wordpress]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/1099.michael-neumann.html</guid>
+		<description><![CDATA[neumann-hamburg.de WordPress-Support, HTML- und CSS-Fehlerbereinigung für die Internetseite von Michael Neumann, Mitglied der Hamburgischen Bürgerschaft und Vorsitzender der SPD Fraktion Hamburg.]]></description>
+				<content:encoded><![CDATA[<dl class="foto" style="width: 200px">
+<dt><img src="http://tacker.org/wp-content/uploads/2007/04/2007-04-17_151539.png" alt="Michael Neumann" /></dt>
+<dd><a href="http://www.neumann-hamburg.de/wordpress/">neumann-hamburg.de</a></dd>
+</dl>
+<p>WordPress-Support, HTML- und CSS-Fehlerbereinigung für die Internetseite von Michael Neumann, Mitglied der Hamburgischen Bürgerschaft und Vorsitzender der SPD Fraktion Hamburg.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1099.michael-neumann.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>ViewLevel-Plugin fixed</title>
+		<link>https://m.tacker.org/389.viewlevel-plugin-fixed.html</link>
+		<comments>https://m.tacker.org/389.viewlevel-plugin-fixed.html#respond</comments>
+		<pubDate>Wed, 05 Jul 2006 11:32:33 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PHP]]></category>
+		<category><![CDATA[Wordpress]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/389.viewlevel-plugin-fixed.html</guid>
+		<description><![CDATA[Changeset 3951 of WordPress finally removed the old table variables. This broke the ViewLevel-Plugin I was using. You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near &#8216;WHERE meta_key=&#8217;viewlevel&#8217; AND meta_value &#62; 10&#8242; at line 1 I&#8217;ve fixed the plugin [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://trac.wordpress.org/changeset/3951">Changeset 3951</a> of <a href="http://www.wordpress.org/">WordPress</a> finally removed the old table variables. This broke the <a href="http://blog.firetree.net/2005/08/25/viewlevel-20/">ViewLevel-Plugin</a> I was using.</p>
+<blockquote><p>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near &#8216;WHERE meta_key=&#8217;viewlevel&#8217; AND meta_value &gt; 10&#8242; at line 1</p></blockquote>
+<p>I&#8217;ve fixed the plugin so it&#8217;s now using the right variables.</p>
+<p>You can download it here: <a href="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/07/viewlevel21.zip" id="p388">ViewLevel 2.1</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/389.viewlevel-plugin-fixed.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>andreasmusic.de</title>
+		<link>https://m.tacker.org/1043.andreasmusicde-2.html</link>
+		<comments>https://m.tacker.org/1043.andreasmusicde-2.html#respond</comments>
+		<pubDate>Fri, 27 Jan 2006 20:21:40 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Wordpress]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/1043.andreasmusicde-2.html</guid>
+		<description><![CDATA[andreasmusic.de Ebenfalls auf WordPress basiert die Seite eines befreundeten Musikers, Andreas Benke.]]></description>
+				<content:encoded><![CDATA[<dl class="foto" style="width: 200px">
+<dt><img src="http://tacker.org/wp-content/uploads/2007/02/resized_2007-02-28_211804.png" alt="andreasmusic.de" /></dt>
+<dd>andreasmusic.de</dd>
+</dl>
+<p>Ebenfalls auf <a href="http://www.wordpress.org/">WordPress</a> basiert die Seite eines befreundeten Musikers, <a href="http://andreasmusic.de/">Andreas Benke</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1043.andreasmusicde-2.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Script to convert WordPress&#8217; content encoding</title>
+		<link>https://m.tacker.org/64.script-to-convert-wordpress-content-encoding.html</link>
+		<comments>https://m.tacker.org/64.script-to-convert-wordpress-content-encoding.html#comments</comments>
+		<pubDate>Mon, 12 Dec 2005 21:18:13 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PHP]]></category>
+		<category><![CDATA[Wordpress]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[most visited]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=64</guid>
+		<description><![CDATA[This script converts the encoding of all database entries of wordpress into another encoding.]]></description>
+				<content:encoded><![CDATA[<p>I&#39;ve just created a script which converts the encoding of all database entries of wordpress into another encoding.<br />
+In most cases you would convert into UTF-8.</p>
+<p><b>IMPORTANT!</b><br />
+Remember to dumpy your database first</p>
+<p><code>mysqldump --opt DB_NAME</code></p>
+<p>Or use phpMyAdmin:<br />
+<a href="http://www.zerokspot.com/docs/howto.phpmyadmin.backup_and_restore/">http://www.zerokspot.com/docs/howto.phpmyadmin.backup_and_restore/</a><br />
+<a href="http://www.phpmyadmin.net/documentation/#faq6_3">http://www.phpmyadmin.net/documentation/#faq6_3</a></p>
+<p>Do NOT run this script more then once</p>
+<p>Place this script inside the wp-content folder of your blog and access it via the browser, e.g. http://yoursite.com/blog/wp-content/convert-encoding.php</p>
+<ul>
+<li><a href="https://raw.github.com/tacker/wordpress-convert-encoding/master/convert-encoding.php">convert-encoding.php</a></li>
+<li><a href="https://github.com/tacker/wordpress-convert-encoding">Source code on GitHub</a></li>
+</ul>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/64.script-to-convert-wordpress-content-encoding.html/feed</wfw:commentRss>
+		<slash:comments>43</slash:comments>
+		</item>
+		<item>
+		<title>flötissimo &#8211; Das etwas andere Orchester</title>
+		<link>https://m.tacker.org/1035.flotissimo-das-etwas-andere-orchester-2.html</link>
+		<comments>https://m.tacker.org/1035.flotissimo-das-etwas-andere-orchester-2.html#respond</comments>
+		<pubDate>Wed, 02 Nov 2005 19:32:05 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Wordpress]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/1035.flotissimo-das-etwas-andere-orchester-2.html</guid>
+		<description><![CDATA[flötissimo.net Ebenfalls auf WordPress basiert die Internetseite des Rhein-Main-Projektorchesters flötissimo. Die Terminverwaltung erfolgt mit Google Calender. Quellcode SVN]]></description>
+				<content:encoded><![CDATA[<dl class="foto" style="width: 200px">
+<dt><img src="http://tacker.org/wp-content/uploads/2007/02/resized_2007-02-28_203223.png" alt="flötissimo.net" /></dt>
+<dd>flötissimo.net</dd>
+</dl>
+<p>Ebenfalls auf <a href="http://www.wordpress.org/">WordPress</a> basiert die Internetseite des Rhein-Main-Projektorchesters flötissimo. Die Terminverwaltung erfolgt mit <a href="http://www.google.com/calendar/">Google Calender</a>.</p>
+<h3>Quellcode</h3>
+<ul>
+<li><a href="https://m.tacker.org/svn/floetissimo.net/wp-theme/">SVN</a></li>
+</ul>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1035.flotissimo-das-etwas-andere-orchester-2.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

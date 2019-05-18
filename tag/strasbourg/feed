@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>Strasbourg &#8211; [|] m.tacker.org</title>
+	<atom:link href="https://m.tacker.org/tag/strasbourg/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Tue, 12 Jan 2016 11:45:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>Strasbourg</title>
+		<link>https://m.tacker.org/3117.strasbourg.html</link>
+		<comments>https://m.tacker.org/3117.strasbourg.html#respond</comments>
+		<pubDate>Mon, 02 Apr 2012 16:00:16 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Urlaub]]></category>
+		<category><![CDATA[Frankreich]]></category>
+		<category><![CDATA[Strasbourg]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=3117</guid>
+		<description><![CDATA[Am vergangenen Samstag haben wir einen spontanen Abstecher nach Strasbourg gemacht. Dort findet sich eine fantastische Altstadt und massig weitere Sehenswürdigkeiten. Wir sind in Klein-Paris gestartet und haben uns dort auf dem Flohmarkt frische Flammkuchen gegönnt. Auf dem Weg zum Dom mussten wir dann auch bei frischen Churros mit Nutell zuschlagen. Tanja hat sich dann [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Am vergangenen Samstag haben wir einen spontanen Abstecher nach Strasbourg gemacht. Dort findet sich eine fantastische Altstadt und massig weitere Sehenswürdigkeiten. Wir sind in Klein-Paris gestartet und haben uns dort auf dem Flohmarkt frische Flammkuchen gegönnt. Auf dem Weg zum Dom mussten wir dann auch bei frischen Churros mit Nutell zuschlagen. Tanja hat sich dann in einem <a href="http://www.myspace.com/leleopardfriperie">tollen kleinen Second-Hand-Laden namens Leopard</a> mit schönen und vor allem Teilen eingedeckt. Toll waren auch die extrem niedrigen Parkgebühren. Am Museum für Moderne Kunst (Parkhaus Petit Paris) zahlt man für die Stunde nur 1,- €.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/3117.strasbourg.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

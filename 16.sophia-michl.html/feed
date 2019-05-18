@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:georss="http://www.georss.org/georss" 
+	>
+<channel>
+	<title>Comments on: Sophia Michl</title>
+	<atom:link href="https://m.tacker.org/16.sophia-michl.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org/16.sophia-michl.html</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Mon, 23 Nov 2015 21:43:02 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: Markus Tacker</title>
+		<link>https://m.tacker.org/16.sophia-michl.html/comment-page-1#comment-63</link>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+		<pubDate>Sun, 30 Jan 2005 16:07:56 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/16.sophia-michl.html#comment-63</guid>
+		<description><![CDATA[Da hast Du eigentlich recht. Fällt aber trotzdem unter die Kategorie der Hoaxe: http://de.wikipedia.org/wiki/Hoax]]></description>
+		<content:encoded><![CDATA[<p>Da hast Du eigentlich recht. Fällt aber trotzdem unter die Kategorie der Hoaxe: <a href="http://de.wikipedia.org/wiki/Hoax" rel="nofollow">http://de.wikipedia.org/wiki/Hoax</a></p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: T.S.</title>
+		<link>https://m.tacker.org/16.sophia-michl.html/comment-page-1#comment-62</link>
+		<dc:creator><![CDATA[T.S.]]></dc:creator>
+		<pubDate>Sun, 30 Jan 2005 15:59:20 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/16.sophia-michl.html#comment-62</guid>
+		<description><![CDATA[es handelt sich um kein hoax sondern um eine nicht aktuelle meldung. sie ist wieder in deutschland.]]></description>
+		<content:encoded><![CDATA[<p>es handelt sich um kein hoax sondern um eine nicht aktuelle meldung. sie ist wieder in deutschland.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

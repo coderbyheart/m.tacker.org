@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>Portfolio &#8211; [|] m.tacker.org</title>
+	<atom:link href="https://m.tacker.org/category/portfolio/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Tue, 12 Jan 2016 11:45:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>heikejassmann.de</title>
+		<link>https://m.tacker.org/1903.heikejassmannde.html</link>
+		<comments>https://m.tacker.org/1903.heikejassmannde.html#respond</comments>
+		<pubDate>Tue, 28 Apr 2009 17:54:15 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Portfolio]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=1903</guid>
+		<description><![CDATA[Umsetzung des Screendesigns in XHTML]]></description>
+				<content:encoded><![CDATA[<p><img src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/fotos/550/Portfolio/2009-04-heikejassmann.jpg" /></p>
+<p>Umsetzung des Screendesigns in XHTML (für Firefox 3, Safari 3, Internet Explorer 7 und 8).</p>
+<p>Design: <a href="http://kockerols.net/">Kirsten Witascheck</a>.<br />
+<a href="http://www.colourlovers.com/palette/792173/heikejassmann.de">Farbpalette</a> auf colourlovers.com</p>
+<p><a href="http://www.heikejassmann.de/">heikejassmann.de</a></p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1903.heikejassmannde.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Autoren eines Blogs auflisten</title>
+		<link>https://m.tacker.org/1478.autoren-eines-blogs-auflisten.html</link>
+		<comments>https://m.tacker.org/1478.autoren-eines-blogs-auflisten.html#respond</comments>
+		<pubDate>Sat, 13 Sep 2008 09:49:42 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Wordpress]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=1478</guid>
+		<description><![CDATA[Code-Beispiel für Wordpress zum Auflisten aller Autoren eines Blogs sortiert nach Anzahl der Posts.]]></description>
+				<content:encoded><![CDATA[<p><img src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2008/09/wp-list-authors-example.jpg" alt="" title="Autoren eines Blogs auflisten: Beispiel" width="182" height="297" class="alignright size-full wp-image-1482" />Wenn man ein Blog beitreibt, an dem mehrere Autoren mit schreiben, kann es durchaus sinnvoll sein, alle Autoren auf zu listen. Da eine einfach Liste aber etwas langweilig ist, lasse ich in <a href="http://www.mediengestalter-blog.de/#authorlist">diesem Beispiel</a> die Liste noch nach Anzahl der Posts sortieren. </p>
+<p>Hier ist der <a href='https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2008/09/wp-list-authors.txt'>Quellcode</a> für WordPress dazu, der einfach in z.B. die sidebar.php eingefügt werden kann.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1478.autoren-eines-blogs-auflisten.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>E-Plus Handy-Mail: Alle E-Mails auf einmal löschen</title>
+		<link>https://m.tacker.org/1179.e-plus-handy-mail-alle-e-mails-auf-einmal-loschen.html</link>
+		<comments>https://m.tacker.org/1179.e-plus-handy-mail-alle-e-mails-auf-einmal-loschen.html#comments</comments>
+		<pubDate>Thu, 10 Jul 2008 18:48:26 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PHP]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=1179</guid>
+		<description><![CDATA[Ein PHP-Script erspart die Sisyphus-Arbeit]]></description>
+				<content:encoded><![CDATA[<p>Vor einigen Monaten habe ich mir zu meinem E-Plus Vertrag Handy-Mail dazu gebucht. Das ist im Prinzip ganz praktisch: Man kann beliebig viele E-Mail-Konten in einem browser-basierten E-Mail-Client abrufen lassen, Mails schreiben und erhält bei neu eingetroffenen E-Mails sogar eine Benachrichtigung per SMS und das alles für 5 € im Monat ohne weitere Zusatzkosten. Zusätzlich ist das Surfen im E-Plus-Wap-Portal und 5 MB sonstiger Datentraffic inklusive.</p>
+<p>Allerdings hatte ich ein GMail-Konto eingerichtet, bei dem bereits der POP3-Zugang aktiviert war und ich seit längerem keine E-Mails mehr über POP3 abgerufen hatte. Dadurch hat Handy-Mail direkt mal an die hundert E-Mails abgerufen. Allerdings ist bei 99 E-Mails Schluss und man empfängt einfach keine weiteren mehr. Erst wenn die E-Mails löscht kommen wieder neue nach. Jedoch gibt es keine Option zum Löschen aller E-Mails im Posteingang, und das einzelne Löschen dauert pro E-Mail gut eine Minute.</p>
+<p>Auf meine Anfrage beim Support wegen diesem Umstand mit der Bitte, doch mal alle E-Mails aus meinem Posteingang zu löschen, kam leider die ernüchternde Antwort:</p>
+<blockquote><p>Über Handymail haben Sie die Möglichkeit, max. 100 Mails zu empfangen. Nach erreichen des Limits kann keine weitere Mail zugestellt werden. Wichtig ist, dass über Handymail alle Mails heruntergeladen werden, welche sich im Posteingang Ihrer Mailadresse befinden.<br />
+Eine Löschung der Mails oder das Verschieben in einen anderen Ordner ist nur über den Onlinezugang des Mailproviders möglich.</p>
+<p>Die Löschung der bisher erhaltenen Mails ist leider nur vom Handy aus möglich.</p></blockquote>
+<p>Pah, das wäre doch gelacht &mdash; dachte ich mir und habe flugs ein PHP-Script geschrieben, dass die Arbeit für mich übernimmt. Praktisch ist in diesem Zusammenhang, dass der Handy-Mail Webserver von außen erreichbar ist, sofern immer HTTPs verwendet wird &mdash; HTTP funktioniert nur auf den Handys, die den E-Plus-WAP Proxy-Server verwenden.</p>
+<ul>
+<li><a href="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2008/07/eplus-handy-mail-posteingang-leeren.php.txt" title="PHP-Script zum Löschen aller E-Mails auf einem E-Plus Handy-Mail Account">eplus-handy-mail-posteingang-leeren.php</a></li>
+</ul>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1179.e-plus-handy-mail-alle-e-mails-auf-einmal-loschen.html/feed</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+		</item>
+		<item>
+		<title>WordPress mit Google Maps versehen</title>
+		<link>https://m.tacker.org/1170.wordpress-mit-google-maps-versehen.html</link>
+		<comments>https://m.tacker.org/1170.wordpress-mit-google-maps-versehen.html#respond</comments>
+		<pubDate>Sat, 14 Jun 2008 15:27:55 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Wordpress]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=1170</guid>
+		<description><![CDATA[Es macht durchaus Sinn, einige Beiträge mit geografischen Informationen zu versehen &#8212; umgangssprachlich auch &#8220;GeoTagging&#8221; genannt. Bei mir im Blog sind das vor allem Fotos und zum Beispiel auch die Qype-Beiträge. An die Umsetzung habe ich mich heute Nachmittag gemacht. Mit dem WordPress-Plugin &#8220;Geo Mashup&#8221; lässt sich jeder Beitrag mit einer Geo-Koordinate versehen. Diese kann [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Es macht durchaus Sinn, einige Beiträge mit geografischen Informationen zu versehen &mdash; umgangssprachlich auch &#8220;GeoTagging&#8221; genannt.</p>
+<p>Bei mir im Blog sind das vor allem Fotos und zum Beispiel auch die Qype-Beiträge.</p>
+<p>An die Umsetzung habe ich mich heute Nachmittag gemacht. Mit dem WordPress-Plugin &#8220;<a href="http://code.google.com/p/wordpress-geo-mashup/">Geo Mashup</a>&#8221; lässt sich jeder Beitrag mit einer Geo-Koordinate versehen. Diese kann dann im Template mit vorgefertigten Template-Tags ausgelesen werden. Details dazu finden sich in der <a href="http://code.google.com/p/wordpress-geo-mashup/wiki/Documentation">Dokumentation von Geo Mashup</a>.</p>
+<p>In meiner Umsetzung habe ich nur die Methode <code>GeoMashup::post_coordinates();</code> verwendet und mich denn selber um das Erstellen der Kartenanzeige gekümmert. <a href="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2008/06/wordpress-googlemaps.txt">Hier</a> findet sich der entsprechenden PHP-Code.</p>
+<p>Einige Beiträgen habe ich inzwischen mit Koordinaten versehen, beispielsweise das Foto <a href="https://m.tacker.org/1155.eingang-des-louvre.html">Eingang des Louvre</a> und die Qype-Review vom <a href="https://m.tacker.org/1163.quatsch-comedy-club.html">Quatsch Comedy Club</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1170.wordpress-mit-google-maps-versehen.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>PEAR Cache_Lite 1.7.3 release</title>
+		<link>https://m.tacker.org/1118.pear-cache_lite-173-release.html</link>
+		<comments>https://m.tacker.org/1118.pear-cache_lite-173-release.html#respond</comments>
+		<pubDate>Mon, 14 Apr 2008 17:58:40 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PEAR Cache_Lite]]></category>
+		<category><![CDATA[PHP]]></category>
+		<category><![CDATA[Projekte]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[PEAR]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=1118</guid>
+		<description><![CDATA[This is my first release for PEAR Cache_Lite. In March I took over the vacant developer position for this package as I am using it for many projects. After some initial hesitation, David nudged me to use cvs. I did &#8212; and 1.7.3 is the result. It&#8217;s just a bugfix release but after nearly two [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2008/04/pear-cache_lite.gif" alt="" title="PEAR Cache_Lite" width="199" height="46" class="alignright size-medium wp-image-1119" />This is my first release for <a href="http://pear.php.net/package/Cache_Lite">PEAR Cache_Lite</a>. In March I took over the vacant developer position for this package as I am using it for many projects. After some initial hesitation, <a href="http://blog.agoraproduction.com/">David</a> nudged me to use cvs. I did &mdash; and <a href="http://pear.php.net/package/Cache_Lite/download/1.7.3">1.7.3</a> is the result. It&#8217;s just a bugfix release but after nearly two years finally something to talk about for Cache_Lite.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1118.pear-cache_lite-173-release.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Neues Theme</title>
+		<link>https://m.tacker.org/922.neues-theme.html</link>
+		<comments>https://m.tacker.org/922.neues-theme.html#comments</comments>
+		<pubDate>Fri, 14 Mar 2008 08:16:44 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[Wordpress]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/922.neues-theme.html</guid>
+		<description><![CDATA[Endlich hab ich das neue Theme soweit, dass ich zumindest das Blog in ein neues Gewand kleiden kann. Nach vier Jahren KISS ist das neue Theme eine komplette Eigenentwicklung, die Schrift für die Headlines ist die AUdimat von SMeltery, die Icons kommen von FAMFAMFAM, die Lightbox ist eine Übersetzung der Slimbox. Auf der Todo-Liste stehtnoch: [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src='https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2008/03/blog-themes.jpg' alt='Blog Themes (2002-2008)' class='full' /><br />
+Endlich hab ich das neue Theme soweit, dass ich zumindest das Blog in ein neues Gewand kleiden kann.</p>
+<p>Nach <a href="https://m.tacker.org/525.blog-theme.html">vier Jahren KISS</a> ist das neue Theme eine komplette Eigenentwicklung, die Schrift für die Headlines ist die AUdimat von <a href="http://www.smeltery.net/">SMeltery</a>, die Icons kommen von <a href="http://www.famfamfam.com/">FAMFAMFAM</a>, die Lightbox ist eine <a href="https://m.tacker.org/939.slimbox-auf-deutsch.html">Übersetzung der Slimbox</a>.</p>
+<p>Auf der Todo-Liste stehtnoch:</p>
+<ol>
+<li>Theme-Texte übersetzen (die sind in englisch angelegt, da ich das Theme unter die GPL stellen will)</li>
+<li>IE7/IE6 Bugs beheben</li>
+<li><span style="text-decoration: line-through;">Fotos integrieren</span></li>
+<li><span style="text-decoration: line-through;">Portfolio integrieren</span></li>
+<li><span style="text-decoration: line-through;">Altes Blog nach WordPress umziehen</span></li>
+</ol>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/922.neues-theme.html/feed</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>BAM Shirt</title>
+		<link>https://m.tacker.org/913.bam-shirt.html</link>
+		<comments>https://m.tacker.org/913.bam-shirt.html#respond</comments>
+		<pubDate>Sat, 01 Mar 2008 15:58:05 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Portfolio]]></category>
+		<category><![CDATA[T-Shirt]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/913.bam-shirt.html</guid>
+		<description><![CDATA[T-Shirt als Geburtstagsgeschenk für Daniel, als Hommage an dieses Video. Gedruckt bei clopen, Bilder im Hintergrund von we need money.]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;"><img src='https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2008/03/bam-shirt.jpg' alt='BAM Shirt' /></div>
+<p>T-Shirt als Geburtstagsgeschenk für <a href="http://www.dawitt.de/">Daniel</a>, als Hommage an dieses <a href="http://www.youtube.com/watch?v=jlcWTRU4hdo">Video</a>.</p>
+<p>Gedruckt bei <a href="http://clopen.de">clopen</a>, Bilder im Hintergrund von <a href="http://www.weneedmoney.de/">we need money</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/913.bam-shirt.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>cut+club flyer</title>
+		<link>https://m.tacker.org/1096.cutclub-flyer.html</link>
+		<comments>https://m.tacker.org/1096.cutclub-flyer.html#respond</comments>
+		<pubDate>Fri, 28 Dec 2007 17:47:04 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Offline]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/1096.cutclub-flyer.html</guid>
+		<description><![CDATA[Flyer für ein Event bei einem Friseur.]]></description>
+				<content:encoded><![CDATA[<p><img src="http://tacker.org/wp-content/uploads/2007/12/cutclub.jpg" alt="cut+club flyer" class="full" /></p>
+<p>Flyer für ein Event bei einem Friseur.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1096.cutclub-flyer.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>SMS-Newsletter Backend geweolbe.org</title>
+		<link>https://m.tacker.org/1097.sms-newsletter-backend-geweolbeorg.html</link>
+		<comments>https://m.tacker.org/1097.sms-newsletter-backend-geweolbeorg.html#respond</comments>
+		<pubDate>Thu, 06 Sep 2007 17:47:32 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PHP]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/1097.sms-newsletter-backend-geweolbeorg.html</guid>
+		<description><![CDATA[Einfaches und günstiges Backend zum Versenden des SMS-Newsletter von gewoelbe.org. Quellcode auf Anfrage.]]></description>
+				<content:encoded><![CDATA[<p>Einfaches und günstiges Backend zum Versenden des SMS-Newsletter von <a href="http://gewoelbe.org/">gewoelbe.org</a>.</p>
+<p>Quellcode auf Anfrage.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1097.sms-newsletter-backend-geweolbeorg.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>aldogiannotti.com</title>
+		<link>https://m.tacker.org/1098.aldogiannotticom.html</link>
+		<comments>https://m.tacker.org/1098.aldogiannotticom.html#respond</comments>
+		<pubDate>Tue, 05 Jun 2007 17:48:29 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Wordpress]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/1098.aldogiannotticom.html</guid>
+		<description><![CDATA[aldogiannotti.com Anpassung des WordPress-Themes, Installation der NGGallery, Programmierung eines Plugin zur zufälligen Anzeige von Bildern aus den Artikeln und der Galerie sowie Internet Explorer Korrekturen.]]></description>
+				<content:encoded><![CDATA[<dl class="foto" style="width: 200px">
+<dt><img src="http://tacker.org/wp-content/uploads/2007/06/resized_2007-06-05_110022.png" alt="aldogiannotti.com" /></dt>
+<dd><a href="http://www.aldogiannotti.com/">aldogiannotti.com</a></dd>
+</dl>
+<p>Anpassung des WordPress-Themes, Installation der <a href="http://alexrabe.boelinger.com/?page_id=80">NGGallery</a>, Programmierung eines Plugin zur zufälligen Anzeige von Bildern aus den Artikeln und der Galerie sowie Internet Explorer Korrekturen.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1098.aldogiannotticom.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Michael Neumann</title>
+		<link>https://m.tacker.org/1099.michael-neumann.html</link>
+		<comments>https://m.tacker.org/1099.michael-neumann.html#respond</comments>
+		<pubDate>Tue, 17 Apr 2007 17:49:12 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Wordpress]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/1099.michael-neumann.html</guid>
+		<description><![CDATA[neumann-hamburg.de WordPress-Support, HTML- und CSS-Fehlerbereinigung für die Internetseite von Michael Neumann, Mitglied der Hamburgischen Bürgerschaft und Vorsitzender der SPD Fraktion Hamburg.]]></description>
+				<content:encoded><![CDATA[<dl class="foto" style="width: 200px">
+<dt><img src="http://tacker.org/wp-content/uploads/2007/04/2007-04-17_151539.png" alt="Michael Neumann" /></dt>
+<dd><a href="http://www.neumann-hamburg.de/wordpress/">neumann-hamburg.de</a></dd>
+</dl>
+<p>WordPress-Support, HTML- und CSS-Fehlerbereinigung für die Internetseite von Michael Neumann, Mitglied der Hamburgischen Bürgerschaft und Vorsitzender der SPD Fraktion Hamburg.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1099.michael-neumann.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Anpassung Imagevue</title>
+		<link>https://m.tacker.org/1100.anpassung-imagevue.html</link>
+		<comments>https://m.tacker.org/1100.anpassung-imagevue.html#respond</comments>
+		<pubDate>Tue, 27 Mar 2007 17:49:55 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Flash]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/1100.anpassung-imagevue.html</guid>
+		<description><![CDATA[ImageVue Galerie auf fotopaolo.ch Layout- und Farb-Anpassung der Flash-Galerie ImageVue für fotopaolo.ch.]]></description>
+				<content:encoded><![CDATA[<dl class="foto" style="width: 200px">
+<dt><img src="http://tacker.org/wp-content/uploads/2007/03/resized_2007-03-27_114836.png" alt="ImageVue Galerie auf fotopaolo.ch" /></dt>
+<dd>ImageVue Galerie auf fotopaolo.ch</dd>
+</dl>
+<p>Layout- und Farb-Anpassung der Flash-Galerie <a href="http://www.imagevuex.com/">ImageVue</a> für <a href="http://fotopaolo.ch/">fotopaolo.ch</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1100.anpassung-imagevue.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>AlbumEmbed / PicasaEmbed</title>
+		<link>https://m.tacker.org/1056.albumembed-picasaembed.html</link>
+		<comments>https://m.tacker.org/1056.albumembed-picasaembed.html#respond</comments>
+		<pubDate>Thu, 30 Nov 2006 20:23:40 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Ajax]]></category>
+		<category><![CDATA[PHP]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/1056.albumembed-picasaembed.html</guid>
+		<description><![CDATA[AlbumEmbed / PicasaEmbed PicasaEmbed, bzw. inzwischen AlbumEmbed ist ein universelle PHP5-Bibliothek und Fotos aus Bilder-Galerien, die einen RSS-Feed anbieten, in eine Webseite einzubinden. Grundsätzlich geschieht das Blättern mittels Ajax, es steht jedoch auch eine Fallback-Lösung zur Verfügung, falls JavaScript deaktiviert ist. Weitere Details finden sich (auf Englisch) in meinem Blog. Ausgehen von PicasaEmbed ist AlbumEmbed [&#8230;]]]></description>
+				<content:encoded><![CDATA[<dl class="foto" style="width: 200px">
+<dt><img src="http://tacker.org/wp-content/uploads/2007/02/resized_2007-02-28_212600.png" alt="AlbumEmbed / PicasaEmbed" /></dt>
+<dd>AlbumEmbed / PicasaEmbed</dd>
+</dl>
+<p><a href="https://m.tacker.org/595.picasaembed-embed-and-browse-your-picasa-web-albums.html">PicasaEmbed</a>, bzw. inzwischen <em>AlbumEmbed</em> ist ein universelle PHP5-Bibliothek und Fotos aus Bilder-Galerien, die einen RSS-Feed anbieten, in eine Webseite einzubinden.</p>
+<p>Grundsätzlich geschieht das Blättern mittels Ajax, es steht jedoch auch eine Fallback-Lösung zur Verfügung, falls JavaScript deaktiviert ist. Weitere Details finden sich (auf Englisch) <a href="https://m.tacker.org/595.picasaembed-embed-and-browse-your-picasa-web-albums.html">in meinem Blog</a>.</p>
+<p>Ausgehen von <em>PicasaEmbed</em> ist <em>AlbumEmbed</em> verallgemeinert und lässt sich für alle Arten von Bilder-Galerien einsetzen. Zur Zeit wird <a href="http://picasaweb.google.com/">Picasa</a> und <a href="http://gallery.menalto.com/">Gallery</a> unterstützt. Ein Beispiel für den Einsatz von <em>AlbumEmbed</em> findet sich <a href="https://m.tacker.org/652.bad-noch-mehr-moglichkeiten.html">hier</a>.</p>
+<h3>Quellcode</h3>
+<ul>
+<li><a href="http://versions.tacker.org/svn/smallprojects/albumembed">SVN</a></li>
+<li><a href="http://projects.clyre.net/picasaembed/example.phps">Beispiel</a></li>
+<li><a href="http://versions.tacker.org/trac/smallprojects/browser/albumembed/">Quellcode-Browser</a></li>
+</ul>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1056.albumembed-picasaembed.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Hairatelier.de</title>
+		<link>https://m.tacker.org/1052.hairatelierde.html</link>
+		<comments>https://m.tacker.org/1052.hairatelierde.html#respond</comments>
+		<pubDate>Sun, 16 Jul 2006 19:26:22 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Offline]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/1052.hairatelierde.html</guid>
+		<description><![CDATA[Layout für einen befreundeten Frisör. Mangels Zeit der Inhaberin noch offline.]]></description>
+				<content:encoded><![CDATA[<p><img src="http://tacker.org/wp-content/uploads/2007/02/hairatelier_de.jpg" alt="Hairatelier.de" class="full" /></p>
+<p>Layout für einen <a href="http://hairatelier.de/">befreundeten Frisör</a>. Mangels Zeit der Inhaberin noch offline.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1052.hairatelierde.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>ViewLevel-Plugin fixed</title>
+		<link>https://m.tacker.org/389.viewlevel-plugin-fixed.html</link>
+		<comments>https://m.tacker.org/389.viewlevel-plugin-fixed.html#respond</comments>
+		<pubDate>Wed, 05 Jul 2006 11:32:33 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PHP]]></category>
+		<category><![CDATA[Wordpress]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/389.viewlevel-plugin-fixed.html</guid>
+		<description><![CDATA[Changeset 3951 of WordPress finally removed the old table variables. This broke the ViewLevel-Plugin I was using. You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near &#8216;WHERE meta_key=&#8217;viewlevel&#8217; AND meta_value &#62; 10&#8242; at line 1 I&#8217;ve fixed the plugin [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://trac.wordpress.org/changeset/3951">Changeset 3951</a> of <a href="http://www.wordpress.org/">WordPress</a> finally removed the old table variables. This broke the <a href="http://blog.firetree.net/2005/08/25/viewlevel-20/">ViewLevel-Plugin</a> I was using.</p>
+<blockquote><p>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near &#8216;WHERE meta_key=&#8217;viewlevel&#8217; AND meta_value &gt; 10&#8242; at line 1</p></blockquote>
+<p>I&#8217;ve fixed the plugin so it&#8217;s now using the right variables.</p>
+<p>You can download it here: <a href="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/07/viewlevel21.zip" id="p388">ViewLevel 2.1</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/389.viewlevel-plugin-fixed.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>PDODataObject</title>
+		<link>https://m.tacker.org/1045.pdodataobject.html</link>
+		<comments>https://m.tacker.org/1045.pdodataobject.html#respond</comments>
+		<pubDate>Tue, 18 Apr 2006 10:59:06 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PHP]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/1045.pdodataobject.html</guid>
+		<description><![CDATA[PDODataObject ist eine Portierung von PEAR DB_DataObject auf PHP5 und PDO. Zusätzlich zu den bekannten Features von DB_DataObject habe ich noch eine automatische Formulargenerierung sowie die automatische Validierung von Datenbank-Referenzen integriert. Eine stabiles Release liegt zur noch nicht vor, steht aber kurz bevor. Ein Großteil des Codes wird bereits durch Unit-Tests mit PHPUnit geprüft. Quellcode [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>PDODataObject ist eine Portierung von <a href="http://pear.php.net/package/DB_DataObject">PEAR DB_DataObject</a> auf PHP5 und <a href="http://de.php.net/pdo">PDO</a>.</p>
+<p>Zusätzlich zu den bekannten Features von DB_DataObject habe ich noch eine automatische Formulargenerierung sowie die automatische Validierung von Datenbank-Referenzen integriert.</p>
+<p>Eine stabiles Release liegt zur noch nicht vor, steht aber kurz bevor. Ein Großteil des Codes wird bereits durch Unit-Tests mit <a href="http://www.phpunit.de">PHPUnit</a> geprüft.</p>
+<h3>Quellcode</h3>
+<ul>
+<li><a href="http://tacker.org/svn/smallprojects/php/packages/PDODataObject/trunk/">SVN</a></li>
+<li><a href="http://tacker.org/trac/smallprojects/browser/php/packages/PDODataObject/trunk/">Quellcode-Browser</a></li>
+</ul>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1045.pdodataobject.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>FAQs campuszoom</title>
+		<link>https://m.tacker.org/1044.faqs-campuszoom.html</link>
+		<comments>https://m.tacker.org/1044.faqs-campuszoom.html#respond</comments>
+		<pubDate>Sun, 12 Feb 2006 18:12:53 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Flash]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/1044.faqs-campuszoom.html</guid>
+		<description><![CDATA[FAQs campuszoom Programmierung einer FAQ für die Veranstaltung campuszooom der FH Wiesbaden, bei der alle Fragen mit Videos hinterlegt sind. Die Fragen werden aus einer XML-Datei eingelesen. Die werden in der Live-Version vom Flash Media Server gestreamt. Wenn der User keine Aktionen macht, werden verschiedene Füller-Videos per Zufall eingespielt. ansehen Quelldatei]]></description>
+				<content:encoded><![CDATA[<dl class="foto" style="width: 200px">
+<dt><img src="http://tacker.org/wp-content/uploads/2007/02/resized_2007-02-28_192903.png" alt="FAQs campuszoom" /></dt>
+<dd>FAQs campuszoom</dd>
+</dl>
+<p>Programmierung einer FAQ für die Veranstaltung campuszooom der <a href="http://www.fh-wiesbaden.de/">FH Wiesbaden</a>, bei der alle Fragen mit Videos hinterlegt sind. Die Fragen werden aus einer XML-Datei eingelesen. Die werden in der Live-Version vom Flash Media Server gestreamt.</p>
+<p>Wenn der User keine Aktionen macht, werden verschiedene Füller-Videos per Zufall eingespielt.</p>
+<ul>
+<li><a href="https://m.tacker.org/portfolio/2006-02-12-faqs-campuszoom/deploy/faqs.html">ansehen</a></li>
+<li><a href="https://m.tacker.org/portfolio/2006-02-12-faqs-campuszoom/source/faqs_schwarz.fla">Quelldatei</a></li>
+</ul>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1044.faqs-campuszoom.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>andreasmusic.de</title>
+		<link>https://m.tacker.org/1043.andreasmusicde-2.html</link>
+		<comments>https://m.tacker.org/1043.andreasmusicde-2.html#respond</comments>
+		<pubDate>Fri, 27 Jan 2006 20:21:40 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Wordpress]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/1043.andreasmusicde-2.html</guid>
+		<description><![CDATA[andreasmusic.de Ebenfalls auf WordPress basiert die Seite eines befreundeten Musikers, Andreas Benke.]]></description>
+				<content:encoded><![CDATA[<dl class="foto" style="width: 200px">
+<dt><img src="http://tacker.org/wp-content/uploads/2007/02/resized_2007-02-28_211804.png" alt="andreasmusic.de" /></dt>
+<dd>andreasmusic.de</dd>
+</dl>
+<p>Ebenfalls auf <a href="http://www.wordpress.org/">WordPress</a> basiert die Seite eines befreundeten Musikers, <a href="http://andreasmusic.de/">Andreas Benke</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1043.andreasmusicde-2.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Discontinued: WikkaTodo for Wikka Wiki</title>
+		<link>https://m.tacker.org/75.discontinued-wikkatodo-for-wikka-wiki.html</link>
+		<comments>https://m.tacker.org/75.discontinued-wikkatodo-for-wikka-wiki.html#respond</comments>
+		<pubDate>Fri, 27 Jan 2006 11:49:29 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PHP]]></category>
+		<category><![CDATA[English]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/75.discontinued-wikkatodo-for-wikka-wiki.html</guid>
+		<description><![CDATA[I am no longer working on WikkaTodo (task management in Wikka Wiki) as I have moved the project it was needed for to Trac. The source code can be downloaded via SVN from here. Any one interested in taking over the project?]]></description>
+				<content:encoded><![CDATA[<p>I am no longer working on <b>WikkaTodo</b> (task management in <a href="http://wikkawiki.org/HomePage">Wikka Wiki</a>) as I have moved the project it was needed for to <a href="http://projects.edgewall.com/trac/">Trac</a>.</p>
+<p>The source code can be downloaded via SVN from <a href="http://versions.tacker.org/svn/wikkawiki/trunk">here</a>.</p>
+<p>Any one interested in taking over the project?</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/75.discontinued-wikkatodo-for-wikka-wiki.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Anzeige IR-Informer</title>
+		<link>https://m.tacker.org/1041.anzeige-ir-informer-2.html</link>
+		<comments>https://m.tacker.org/1041.anzeige-ir-informer-2.html#respond</comments>
+		<pubDate>Fri, 23 Dec 2005 20:44:19 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Offline]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/1041.anzeige-ir-informer-2.html</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[<p><img src="http://tacker.org/wp-content/uploads/2007/02/anzeige_ir-informer.jpg" alt="Anzeige IR-Informer" class="full" /></p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1041.anzeige-ir-informer-2.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

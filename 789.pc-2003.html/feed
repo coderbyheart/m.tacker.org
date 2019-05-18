@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:georss="http://www.georss.org/georss" 
+	>
+<channel>
+	<title>Comments on: PC 2003</title>
+	<atom:link href="https://m.tacker.org/789.pc-2003.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org/789.pc-2003.html</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Mon, 23 Nov 2015 21:43:02 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: PC 2012: AMD oder Intel? :: [&#124;] m.tacker.org</title>
+		<link>https://m.tacker.org/789.pc-2003.html/comment-page-1#comment-38226</link>
+		<dc:creator><![CDATA[PC 2012: AMD oder Intel? :: [&#124;] m.tacker.org]]></dc:creator>
+		<pubDate>Tue, 27 Sep 2011 16:33:49 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/789.pc-2003.html#comment-38226</guid>
+		<description><![CDATA[[...] acht bzw. vier Jahren viel mir die Entscheidung noch leicht: 2003 musste es ein AMD Athlon XP sein, da [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] acht bzw. vier Jahren viel mir die Entscheidung noch leicht: 2003 musste es ein AMD Athlon XP sein, da [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: PC 2008 :: [&#124;] m.tacker.org</title>
+		<link>https://m.tacker.org/789.pc-2003.html/comment-page-1#comment-15021</link>
+		<dc:creator><![CDATA[PC 2008 :: [&#124;] m.tacker.org]]></dc:creator>
+		<pubDate>Thu, 22 Nov 2007 16:40:08 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/789.pc-2003.html#comment-15021</guid>
+		<description><![CDATA[[...] über 4 Jahren ist es endlich an der Zeit, dass ich mir einen neuen Rechner zulege. Inzwischen erfüllt mein PC [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] über 4 Jahren ist es endlich an der Zeit, dass ich mir einen neuen Rechner zulege. Inzwischen erfüllt mein PC [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

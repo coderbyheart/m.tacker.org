@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>Müsli &#8211; [|] m.tacker.org</title>
+	<atom:link href="https://m.tacker.org/tag/musli/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Tue, 12 Jan 2016 11:45:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>Bio-Müsli selber mischen</title>
+		<link>https://m.tacker.org/3167.bio-musli-selber-mischen.html</link>
+		<comments>https://m.tacker.org/3167.bio-musli-selber-mischen.html#comments</comments>
+		<pubDate>Mon, 16 Jul 2012 10:09:20 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Essen]]></category>
+		<category><![CDATA[Müsli]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=3167</guid>
+		<description><![CDATA[mymuesli dürfte ja inzwischen jedem bekannt sein. Dort kann man sich aus vielen Zutaten seine eigene Lieblingsmüsli-Mischung zusammenstellen und schön zu je 570g verpackt per Post zusenden lassen. Das Ganze geht dann bei gut 11 € pro Kilo los, dazu kommen noch 3,90 € Versandkosten. Mindestens genauso einfach und zudem viel günstiger kann man sich [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://mymuesli.com/">mymuesli</a> dürfte ja inzwischen jedem bekannt sein. Dort kann man sich aus vielen Zutaten seine eigene Lieblingsmüsli-Mischung zusammenstellen und schön zu je 570g verpackt per Post zusenden lassen. Das Ganze geht dann bei gut 11 € pro Kilo los, dazu kommen noch 3,90 € Versandkosten. </p>
+<p>Mindestens genauso einfach und zudem viel günstiger kann man sich sein eigenes Bio-Müsli selber mischen. Eine meiner Mischung möchte ich euch hier vorstellen. Alle Zutaten stammen von Alnatura, der Bio-Marke von dm.</p>
+<ul>
+<li>3 x 500g <a href="http://www.alnatura.de/de/produkt/11228">5-Korn-Flocken</a></li>
+<li>500g <a href="http://www.alnatura.de/de/produkt/31431">Sojaflocken</a></li>
+<li>375g <a href="http://www.alnatura.de/de/produkt/37893">Dinkel-Crunchy Schoko</a></li>
+<li>250g Rosinen</li>
+<li>150g Bananenchips</li>
+<li>100g Kokoschips</li>
+<li>100g Sonnenblumenkerne</li>
+<li>100g Leinsamen</li>
+</ul>
+<p>Diese Mischung kostet etwa 13,50 € und ergibt 3 kg Müsli &ndash; was einem Kilo-Preis 4,50 € entspricht. Ein vergleichbares Müsli bei mymuesli kostet das <strong>dreifache</strong>, es fallen zudem Versandkosten und viel mehr Verpackungsmüll an.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/3167.bio-musli-selber-mischen.html/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

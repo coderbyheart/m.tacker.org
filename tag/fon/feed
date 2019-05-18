@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>fon &#8211; [|] m.tacker.org</title>
+	<atom:link href="https://m.tacker.org/tag/fon/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Tue, 12 Jan 2016 11:45:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>Kostenloser weltweiter WLAN-Zugang für eplus-Kunden</title>
+		<link>https://m.tacker.org/1951.kostenloser-weltweiter-wlan-zugang-fur-eplus-kunden.html</link>
+		<comments>https://m.tacker.org/1951.kostenloser-weltweiter-wlan-zugang-fur-eplus-kunden.html#respond</comments>
+		<pubDate>Wed, 03 Jun 2009 07:19:54 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[fon]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=1951</guid>
+		<description><![CDATA[eplus kooperiert ab 1. September 2009 mit FON. ]]></description>
+				<content:encoded><![CDATA[<p><img src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2007/08/fon_logo_spray_200px.png" alt="FON Logo" class="right"/>eplus <a href="http://blog.fon.com/en/archive/business/fon-partners-with-eplus.html">kooperiert</a> ab 1. September 2009 mit FON. Zum einen erhalten alle eplus-Kunden kostenlose Testzugänge an allen <a href="http://maps.fon.com/">weltweit aktiven FON-Hotspots</a> und zum anderen einen Rabatt auf den Erwerb eines FON-Routers.</p>
+<p>Nach der <a href="https://www.fon.com/en/promos/eplus">Registrierung</a> kann man bis zum 1. September 2009 an allen FON-Hotspots kostenlos surfen —wie es danach aussieht ist noch nirgends zu lesen (auch nicht auf der <a href="http://wiki.fon.com/wiki/Eplus">Info-Seite zur Kooperation mit eplus im FON-Wiki</a>).</p>
+<blockquote><p><strong>Herzlichen Glückwunsch. Du gehörst jetzt zur FON Community.</strong></p>
+<p>Deine Vorteile auf einen Blick:</p>
+<ul>
+<li>Router FONERA+ für 14,95 € statt 29,95 € bzw. <span class="newline">Router FONERA 2.0 für 44,95 € statt 49,95 €</span> <span class="newline separate">Sobald die Router verfügbar sind (spätestens zum 1. September 2009) werden wir Dich informieren und Du hast die Wahl zwischen den beiden Router Modellen. Bitte überprüfe regelmäßig Dein E-Mail Postfach.</span></li>
+<li>Auch ohne Router sofort kostenlos und mit highspeed an allen FON Spots surfen. FON Hotspots findest Du unter dem Link &#8220;FON Maps&#8221;.</li>
+<li>In Kürze stellen wir Dir kostenlose FON WLAN Clients für Dein Smartphone zur Verfügung. Mit Hilfe dieser Software kannst Du Dich dann automatisch an FON Ho</li>
+</ul>
+</blockquote>
+<p>Ich vermute, dass man nach dem 1. September als aktiver Fonero (jemand der seine Internetverbindung mittels eines FON-Routers anderen zur Verfügung stellt) weiterhin ohne Einschränkung via WLAN surfen kann. Alle anderen werden die <a href="http://wiki.fon.com/wiki/FON_Passes#Price_Overview">üblichen Gebühren</a> bei FON zahlen müssen, warscheinlich nicht mit einem kleinen Aufschlag für eplus.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1951.kostenloser-weltweiter-wlan-zugang-fur-eplus-kunden.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>5.734.400</title>
+		<link>https://m.tacker.org/1181.5734400.html</link>
+		<comments>https://m.tacker.org/1181.5734400.html#respond</comments>
+		<pubDate>Wed, 23 Jul 2008 06:41:37 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Server]]></category>
+		<category><![CDATA[fon]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=1181</guid>
+		<description><![CDATA[Austausch des Allnet 1297 durch La Fonera+ ermöglicht endlich volle DSL-Geschwindigkeit.]]></description>
+				<content:encoded><![CDATA[<p>Bis vor ein paar Tagen hatte ich mich damit abgefunden, dass an meinem 6-MBit-DSL-Zugang von Arcor nur 3.2 MBit (395 KB/s) möglich waren. Schließlich kann eine langsame Leitung viele Gründe haben, oft ist die Leitungsdämpfung zu groß. Möglich wäre auch gewesen, dass ich beim manuellen verkabeln der Arcor-Telefonanlage einen Fehler gemacht hatte.</p>
+<p>Allerdings hat mich <a href="http://www.dawitt.de/" rel="friend met neighbor">Daniel</a> drauf gestoßen, doch mal den <a href="https://m.tacker.org/98.new-router.html" rel="me">Allnet Router</a>, den ich vor zwei Jahren angeschafft hatte durch einen anderen aus zu tauschen, da dieser einfach technisch nicht in der Lage ist mehr als 2 bis 3 MBit am WAN-Port zu verarbeiten.</p>
+<p>Praktischerweise hatte ich noch einen Fonera+ als Access Point bei meiner Schwester im Einsatz, den ich flugs gegen den Fonera im Erdgeschoss getauscht habe. Der Fonera+ verfügt im Gegensatz zum Fonera über einen eingebauten Router. </p>
+<p>Die Installation war natürlich kein Problem, der Fonera+ unterstützt auch Portforwarding das für den Betrieb meines Heimservers unerlässlich ist.</p>
+<p>Im Ergebnis habe ich jetzt endlich die volle Bandbreite (5.7 MBit oder 700 KB/s) an meinem DSL-Anschluss &mdash; und zwei Allnet 1297 zu verschenken.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1181.5734400.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<georss:point>50.0950241 8.7621355</georss:point>	</item>
+		<item>
+		<title>Qype verschenkt 100 Fon-Router an Münchner</title>
+		<link>https://m.tacker.org/869.qype-verschenkt-100-fon-router-an-munchner.html</link>
+		<comments>https://m.tacker.org/869.qype-verschenkt-100-fon-router-an-munchner.html#respond</comments>
+		<pubDate>Wed, 23 Jan 2008 12:21:50 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[fon]]></category>
+		<category><![CDATA[qype]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/869.qype-verschenkt-100-fon-router-an-munchner.html</guid>
+		<description><![CDATA[Für Qype-User in München wird der nächste Newsletter besonders interessant. Die ersten 100 User, die sich bei uns melden, bekommen einen WLAN Router von FON geschenkt. Normalerweise kosten die knapp 50€, für die Qype User in München sind sie aber kostenlos. Sehr gute Idee, ich bin seit 2006 Fonero und versuche regelmäßig Andere von der [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2007/08/fon_logo_spray_200px.png" alt="FON Logo" class="right"/></p>
+<blockquote><p>Für Qype-User in München wird der nächste Newsletter besonders interessant.<br />
+Die ersten 100 User, die sich bei uns melden, bekommen einen WLAN Router von FON geschenkt.<br />
+Normalerweise kosten die knapp 50€, für die Qype User in München sind sie aber kostenlos. </p></blockquote>
+<p>Sehr gute Idee, ich bin seit 2006 Fonero und versuche regelmäßig <a href="https://m.tacker.org/766.re-frage-zu-fon.html">Andere von der Idee zu begeistern</a>. Um so mehr freut es mich, dass <a href="http://de.blog.qype.com/2008/01/22/qype-und-fon/">Qype den Nutzen des Projektes für sich erkannt hat</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/869.qype-verschenkt-100-fon-router-an-munchner.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>RE: frage zu fon</title>
+		<link>https://m.tacker.org/766.re-frage-zu-fon.html</link>
+		<comments>https://m.tacker.org/766.re-frage-zu-fon.html#comments</comments>
+		<pubDate>Wed, 01 Aug 2007 12:56:45 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[fon]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/766.re-frage-zu-fon.html</guid>
+		<description><![CDATA[Über das Mediengestalter-Forum habe ich folgende Frage gestellt bekommen: über deinen blog hab ich gelesen, dass du ei FON betreibst. Darf ich fragen wie der so funktioniert und ob alles reibungslos läuft? Das Funktionsprinzip von FON wird natürlich auf der offiziellen FON-Seite erklärt. Auch auf Wikipedia findet sich eine Erläuterung. Und es funktioniert bei tatsächlich [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src='https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2007/08/fon_logo_spray_200px.png' alt='FON Logo' class="right" />Über das Mediengestalter-Forum habe ich folgende Frage gestellt bekommen:</p>
+<blockquote><p>über deinen blog hab ich gelesen, dass du ei FON betreibst.<br />
+Darf ich fragen wie der so funktioniert und ob alles reibungslos läuft?</p></blockquote>
+<p>Das Funktionsprinzip von FON wird natürlich auf der <a href="http://www.fon.com/de/info/whatsFon">offiziellen FON-Seite erklärt</a>. Auch <a href="http://de.wikipedia.org/wiki/FON">auf Wikipedia findet sich eine Erläuterung</a>.</p>
+<p>Und es funktioniert bei tatsächlich reibungslos. Ich betreibe im Haus zwei Foneras, und hatte bisher kaum Probleme damit. Allerdings nutzt bei mir kaum jemand den öffentlichen AP &mdash; was vermutlich daran liegt, dass in meiner Reichweite ca. 10 andere WLANs existieren und ich nicht in der nähe eines von Laptop-Trägern frequentierten Platzes lebe.</p>
+<blockquote><p>Welchen Aufwand/Nutzen siehst du im ganzen Projekt?</p></blockquote>
+<p>Der Aufwand geht gegen null. Fonera bestellen, einstöpseln, registrieren, fertig.</p>
+<p>Der Nutzen: Kostenlos an anderen FON-Access-Points surfen und günstig einen eigenen bekommen &mdash; das war übrigens der Grund, warum ich deb ersten Fonera bestellt habe.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/766.re-frage-zu-fon.html/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Betatester für FON</title>
+		<link>https://m.tacker.org/761.betatester-fur-fon.html</link>
+		<comments>https://m.tacker.org/761.betatester-fur-fon.html#respond</comments>
+		<pubDate>Tue, 10 Jul 2007 10:55:54 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[fon]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/761.betatester-fur-fon.html</guid>
+		<description><![CDATA[Ich bin j ein großer Fan von FON. Inzwischen habe ich bei uns im Haus zwei FON-Hotspots und eine Fontenna. Da lag es nahe, mich auch als Beta-Tester bei FON zu bewerben. Und tatsächlich hat es geklappt: Congratulations! We are happy to inform you that you have been selected to be part of our beta [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Ich bin j ein großer Fan von <a href="http://www.fon.com/">FON</a>. Inzwischen habe ich bei uns im Haus zwei FON-Hotspots und eine <a href="http://picasaweb.google.com/m.tacker.org/Fontenna">Fontenna</a>. Da lag es nahe, mich auch als <a href="http://blog.fon.com/de/archive/technology/fon-sucht-betatester.html">Beta-Tester</a> bei FON zu bewerben.</p>
+<p>Und tatsächlich hat es geklappt:</p>
+<blockquote><p>Congratulations!</p>
+<p>We are happy to inform you that you have been selected to be part of our beta testing team.</p>
+<p>[&#8230;]</p>
+<p>We will soon send you a “welcome pack” including a diploma that entitles you as an official FON beta tester, a beta tester’s t-shirt, the first product to test and documentation among other things.</p>
+<p>THANK YOU for your enthusiasm and welcome to our beta tester team, and to our support community!!</p></blockquote>
+<p>Ich bin gespannt!</p>
+<h3>Update 9. Augist 2007</h3>
+<p>Wie ich gerade im aktuellen <a href="http://www.fon.com/de/landing/Newsletter082007">FON-Newsletter gelesen habe</a>, gibt es weltweit nur <a href="http://www.fon.com/de/landing/Newsletter082007#supportCommunities">100 Beta-Tester</a>. Das nenne ich mal einen exklusiven Kreis &#8211; bei rund 450.000 FON-Mitgliedern&#8230;</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/761.betatester-fur-fon.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>La Fontenna</title>
+		<link>https://m.tacker.org/757.la-fontenna.html</link>
+		<comments>https://m.tacker.org/757.la-fontenna.html#comments</comments>
+		<pubDate>Tue, 19 Jun 2007 13:41:25 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[fon]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/757.la-fontenna.html</guid>
+		<description><![CDATA[Kurz nachdem ich ein kostenloses Update auf den Fonero bekommen habe, kam ein Gutschein für die neuen Fontenna, die ich dann auch gleich für 7 € inklusive Versand bestellt habe. Die Antenne soll das WiFi-Signal des Fonero um das dreifache verstärken. Stärker ist es auch geworden. Und ob die Antenne, wie versprochen, wetterfest ist, werde [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Kurz nachdem ich ein kostenloses Update auf den Fonero bekommen habe, kam ein Gutschein für die neuen <a href="http://blog.fon.com/de/archive/events/fonpr-la-fontenna.html">Fontenna</a>, die ich dann auch gleich für 7 € inklusive Versand bestellt habe. Die Antenne soll das WiFi-Signal des Fonero um das dreifache verstärken. Stärker ist es auch geworden. Und ob die Antenne, wie versprochen, wetterfest ist, werde ich auch bald sehen, da ich sie schon draußen montiert habe.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/757.la-fontenna.html/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Fon verschickt wieder Router</title>
+		<link>https://m.tacker.org/590.fon-verschickt-wieder-router.html</link>
+		<comments>https://m.tacker.org/590.fon-verschickt-wieder-router.html#comments</comments>
+		<pubDate>Thu, 23 Nov 2006 10:52:45 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[fon]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/590.fon-verschickt-wieder-router.html</guid>
+		<description><![CDATA[Ich hab ja etwas Werbung für das FON-Projekt gemacht. Einige Freund von mir haben sich dann auch angemeldet und einen FON-Router bestellt &#8212; nur häuften sich dann die Beschwerden, dass das Teil als nicht ankommt. Das warten hat aber jetzt ein Ende. Wie im offiziellen FON-Blog zu lesen ist, wurden heute 5.000 Router an die [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src='https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/11/ups_fon_delivery.jpg' alt='Fon verschickt wieder Router' class='right' />Ich hab ja <a href="https://m.tacker.org/394.fon-kostenlos-surfen-in-offenbach-und-der-ganzen-welt.html">etwas Werbung für das FON-Projekt</a> gemacht. Einige Freund von mir haben sich dann auch angemeldet und einen FON-Router bestellt &mdash; nur häuften sich dann die Beschwerden, dass das Teil als nicht ankommt.</p>
+<p>Das warten hat aber jetzt ein Ende. Wie im <a href="http://blog.fon.com/de/">offiziellen FON-Blog</a> <a href="http://blog.fon.com/de/archive/foneros/fonintern-heute-ist-la-fonera-tag-in-d-at.html">zu lesen ist</a>, wurden heute 5.000 Router an die neuen deutschen Foneras verschickt.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/590.fon-verschickt-wieder-router.html/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>FON: kostenlos Surfen in Offenbach und der ganzen Welt</title>
+		<link>https://m.tacker.org/394.fon-kostenlos-surfen-in-offenbach-und-der-ganzen-welt.html</link>
+		<comments>https://m.tacker.org/394.fon-kostenlos-surfen-in-offenbach-und-der-ganzen-welt.html#comments</comments>
+		<pubDate>Sun, 09 Jul 2006 15:20:56 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[fon]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/394.fon-kostenlos-surfen-in-offenbach-und-der-ganzen-welt.html</guid>
+		<description><![CDATA[Bereits seit einigen Tagen ist er nun am Netz: Ein Linksys WRT54GL WLAN-Router mit der neuesten Software von FON. Dadurch kann jeder, der in Reichweite des Routers ist kostenlos ins Internet. Die einzige Voraussetzung ist ein Account bei FON. Das ganze ist nat&#252;rlich nicht ganz neu. Mittlerweile gibt es &#252;ber 65.000 Foneros weltweit, wovon etwa [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/07/fonlogo.png" id="image395" alt="FON Logo" class="right" />Bereits seit einigen Tagen ist er nun am Netz: Ein Linksys WRT54GL WLAN-Router mit der <a href="http://de.fon.com/downloads/">neuesten Software</a> von <a href="http://de.fon.com/">FON</a>. Dadurch kann jeder, der in Reichweite des Routers ist <b>kostenlos</b> ins Internet. Die einzige Voraussetzung ist ein Account bei FON.</p>
+<p>Das ganze ist nat&uuml;rlich nicht ganz neu. Mittlerweile gibt es &uuml;ber 65.000 Foneros weltweit, wovon etwa 49.000 auch &uuml;ber einen aktiven Router verf&uuml;gen. Mittels einer Karte kann man den n&auml;chsten FON Hotspot in seiner N&auml;he finden. In Offenbach gibt es <a href="http://de.maps.fon.com/recenter/8.760223388671875/50.09977132673169/">ganze vier weitere</a> &#8230;</p>
+<p>Kostenlos ist der Zugang allerdings nur, wenn man seinen Router anderen zur Verf&uuml;gung stellt und daf&uuml;r kein Entgelt verlangt, diese Personen nennt man &quot;Linus&quot;. Jemand der Geld daf&uuml;r verlang, 3 &euro; pro Tag, ist ein Bill. Nur Linuse surfen an anderen Fon Hotspots kostenlos. Bills m&uuml;ssen daf&uuml;r zahlen. Jemand der keinen eigenen Router hat, ist in der Fon-Sprache ein &quot;Alien&quot;. Aliens k&ouml;nnen sich den Zugang erkaufen.</p>
+<p>Ganz wichtig ist auch <a href="http://www.linksysinfo.org/modules.php?name=Content&amp;pa=showpage&amp;pid=33">zu wissen, wie man seinen Router wiederbeleben kann</a>, falls mal ein Firmware-Update fehlschl&auml;gt.</p>
+<p>Ich w&uuml;rde mich freuen, wenn Du als Nutzer einen Kommentar zu diesem Beitrag hinterlassen k&ouml;nntest.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/394.fon-kostenlos-surfen-in-offenbach-und-der-ganzen-welt.html/feed</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:georss="http://www.georss.org/georss" 
+	>
+<channel>
+	<title>Comments on: Bad</title>
+	<atom:link href="https://m.tacker.org/100.bad.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org/100.bad.html</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Mon, 23 Nov 2015 21:43:02 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: Bad - Das kurze Wort mit den vielen Möglichkeiten :: [&#124;] m.tacker.org</title>
+		<link>https://m.tacker.org/100.bad.html/comment-page-1#comment-2332</link>
+		<dc:creator><![CDATA[Bad - Das kurze Wort mit den vielen Möglichkeiten :: [&#124;] m.tacker.org]]></dc:creator>
+		<pubDate>Sun, 26 Nov 2006 23:27:45 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/100.bad.html#comment-2332</guid>
+		<description><![CDATA[[...] Es mag sicherlich schwer zu glauben sein, aber sich für ein Bad-Stil zu entscheiden ist echt schwer. Zur Zeit ist ja der schlicht und moderne Stil sehr angesagt. So findet man auch in den Bad-Ausstellungen und Katalogen vorrangig diese Art von Bädern &#8212; der unterkühlte Charme ist nicht so ganz das, was wir für die untere Etage suchen. [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Es mag sicherlich schwer zu glauben sein, aber sich für ein Bad-Stil zu entscheiden ist echt schwer. Zur Zeit ist ja der schlicht und moderne Stil sehr angesagt. So findet man auch in den Bad-Ausstellungen und Katalogen vorrangig diese Art von Bädern &mdash; der unterkühlte Charme ist nicht so ganz das, was wir für die untere Etage suchen. [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

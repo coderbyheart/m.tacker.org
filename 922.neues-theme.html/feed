@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:georss="http://www.georss.org/georss" 
+	>
+<channel>
+	<title>Comments on: Neues Theme</title>
+	<atom:link href="https://m.tacker.org/922.neues-theme.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org/922.neues-theme.html</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Mon, 23 Nov 2015 21:43:02 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: LIGHTDRAFTSMAN</title>
+		<link>https://m.tacker.org/922.neues-theme.html/comment-page-1#comment-26475</link>
+		<dc:creator><![CDATA[LIGHTDRAFTSMAN]]></dc:creator>
+		<pubDate>Wed, 28 Jan 2009 19:36:18 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/922.neues-theme.html#comment-26475</guid>
+		<description><![CDATA[Dein Theme gefällt mir sehr. Sehr gute Aufteilung und Schriftbild. Habe es mal mit dem IE8 getestet, ist alles ok. 
+Frage: Stellst du es noch unter GPL? Ab wann könnte man damit rechnen?
+
+Grüsse aus München
+Frank]]></description>
+		<content:encoded><![CDATA[<p>Dein Theme gefällt mir sehr. Sehr gute Aufteilung und Schriftbild. Habe es mal mit dem IE8 getestet, ist alles ok.<br />
+Frage: Stellst du es noch unter GPL? Ab wann könnte man damit rechnen?</p>
+<p>Grüsse aus München<br />
+Frank</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Timm</title>
+		<link>https://m.tacker.org/922.neues-theme.html/comment-page-1#comment-17930</link>
+		<dc:creator><![CDATA[Timm]]></dc:creator>
+		<pubDate>Sun, 20 Apr 2008 18:59:04 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/922.neues-theme.html#comment-17930</guid>
+		<description><![CDATA[Schick!]]></description>
+		<content:encoded><![CDATA[<p>Schick!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

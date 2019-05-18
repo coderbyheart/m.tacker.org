@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>Draussen &#8211; [|] m.tacker.org</title>
+	<atom:link href="https://m.tacker.org/tag/draussen/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Tue, 12 Jan 2016 11:45:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>Fireplate</title>
+		<link>https://m.tacker.org/843.fireplate.html</link>
+		<comments>https://m.tacker.org/843.fireplate.html#respond</comments>
+		<pubDate>Wed, 25 Apr 2007 13:50:08 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Wohnen]]></category>
+		<category><![CDATA[Draussen]]></category>
+		<category><![CDATA[feuer]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/843.fireplate.html</guid>
+		<description><![CDATA[Radius Design macht schöne Sachen aus Metall. Unter anderem auch Fireplate (199-488 €) — eine Feuerstelle, die man auch als Grill verwenden kann. Fireplate besteht aus Stahl und ist 20 cm bei einem Durchmesser von 75 oder 100 cm. Als Zubehör gibt es einen Grillrost damit mit man es nicht nur gemütlich hat sondern auch [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.radius-design.de/"><img src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2007/04/fireplate_220.jpg" alt="Fireplate" class="right" />Radius Design</a> macht schöne Sachen aus Metall. Unter anderem auch <a href="http://www.radius-design.de/produkte/grill-garten/grills-grill-zubehoer/fireplate.html">Fireplate</a> (<a href="http://www.connox.de/kategorien/garten-haushalt/grill-und-grillzubehoer/fireplate.html?p=100020">199-488 €</a>) — eine Feuerstelle, die man auch als Grill verwenden kann.</p>
+<p>Fireplate besteht aus Stahl und ist 20 cm bei einem Durchmesser von 75 oder 100 cm. Als Zubehör gibt es einen Grillrost damit mit man es nicht nur gemütlich hat sondern auch noch den Hunger stillen kann.</p>
+<p>Durch die erhöhte Position besteht auch keine Gefahr für den Aufstellunsgort — die Terrasse ist also sicher.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/843.fireplate.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

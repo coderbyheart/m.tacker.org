@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>Arbeit &#8211; [|] m.tacker.org</title>
+	<atom:link href="https://m.tacker.org/tag/arbeit/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Tue, 12 Jan 2016 11:45:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>Ich bin wieder Angesteller</title>
+		<link>https://m.tacker.org/3281.ich-bin-wieder-angesteller.html</link>
+		<comments>https://m.tacker.org/3281.ich-bin-wieder-angesteller.html#comments</comments>
+		<pubDate>Sat, 29 Mar 2014 16:58:11 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[Arbeit]]></category>
+		<category><![CDATA[dotHIV]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=3281</guid>
+		<description><![CDATA[Ab 1. April 2014 übernehme ich die Rolle des CTO bei dotHIV.]]></description>
+				<content:encoded><![CDATA[<p><a href="http://dotHIV.org/"><img class="" alt=".hiv domains – The Red Ribbon of the digital age" src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2014/03/Case_dotHIV_02.png" width="100%" /></a></p>
+<p>Sieben Jahre ist es her, seit ich meinen letzten Arbeitsvertrag unterschrieben habe (im Juli 2007 bei <a href="https://m.tacker.org/tag/krawall">Krawall</a>). Nach meinem Studium, <a href="https://m.tacker.org/3180.re-erststudium-mit-29-dank-aufstiegsstipendium.html">das ich 2012 abgeschlossen habe</a>, habe ich 2013 als selbständiger Software-Entwickler gearbeitet. Und es lief richtig gut. Im Vergleich zu meiner Zeit als Angestellter bis 2009 verdiene ich gut das Doppelte, und habe dabei eine Vier-Tage-Woche. Ausreichend Zeit um mich mit Nebenprojekten, wie den <a href="http://wemoof.de/">Webmontag Offenbach</a>, den <a href="http://gründerhub.de/">Gründerhub FrankfurtRheinMain</a>, das <a href="http://barcamp-rheinmain.de/">BarCamp Rhein-Main</a>, <a href="http://usergroups.rheinmainrocks.de/">Usergroups</a> und <a href="http://www.agoodbook.de/">anderen</a>  <a href="http://wakeupscreen.com/">Kleinigkeiten</a> zu beschäftigen. Ich bin gut etabliert in der Szene, in der Branche und kann mir meine Projekte aussuchen: Seit Anfang des Jahres ist die <a href="http://www.esl.eu/de/">ESL</a> mein Auftraggeber gewesen, für ein Innovationsprojekt auf der grünen Wiese – faktisch das für mich beste Projekt, an dem ich bisher mitarbeiten durfte.</p>
+<p>All das gebe ich zum 1. April auf und verlagere meine Arbeitskraft¹ nach <strong>Berlin</strong>. Genau der Ort, gegen den ich mit meinem Engagement für den Gründerhub fast zwei Jahre gearbeitet habe. <em>Doch es ist für einen guten Zweck…</em><br />
+(<small>¹ Mein <em>Arbeitsplatz</em> ist übrigens weiterhin in <a href="http://die-zentrale-ffm.de/">der Zentrale</a>.</small>)</p>
+<p>Ich bin sehr stolz, dass ich ab 1. April 2014 bei <a href="http://dotHIV.org/">dotHIV</a> die Rolle des CTO übernehmen darf.<br />
+<a href="http://vimeo.com/86494290">Dieses Video erklärt, <em>was</em> dotHIV ist</a> und damit ist auch klar, warum mich das Thema so fasziniert: ein nerdiges Thema (DNS) wird für einen richtig guten Zweck (Kampf gegen HIV/AIDS) eingesetzt; was will man als Software-Entwickler mehr? </p>
+<p>Genau. </p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/3281.ich-bin-wieder-angesteller.html/feed</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Tschüß Krawall</title>
+		<link>https://m.tacker.org/2483.tschuess-krawall.html</link>
+		<comments>https://m.tacker.org/2483.tschuess-krawall.html#respond</comments>
+		<pubDate>Sun, 05 Sep 2010 11:42:35 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[Arbeit]]></category>
+		<category><![CDATA[krawall]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=2483</guid>
+		<description><![CDATA[Kurz vor unserem Norwegen-Urlaub also Ende Juli habe ich endgültig meinen Schreibtisch bei Krawall/Global [Media&#124;Group]* geräumt. Nachdem ich ja im Oktober letzten Jahres wegen dem Beginn des Studiums meistens nur noch einmal die Woche in Idstein war, geht der Abschied auf Raten also in die finale Phase. Obwohl ich mich schon eine ganze Weile in [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Kurz vor unserem Norwegen-Urlaub also Ende Juli habe ich endgültig meinen Schreibtisch bei Krawall/Global [Media|Group]* geräumt. Nachdem ich ja im Oktober letzten Jahres wegen dem Beginn des Studiums meistens nur noch einmal die Woche in Idstein war, geht der Abschied auf Raten also in die finale Phase.</p>
+<p>Obwohl ich mich schon eine ganze Weile in der Abwesenheit der Kollegen üben konnte, fällt auch so ein Abschied nicht leicht&#8230; Krawall ist nicht nur eine Website, sonder eine Bruderschaft (weibliche Mitarbeiter gibt es ja bei Krawall nicht) die sich nicht durch die Zugehörigkeit zu einer Firma definiert, sondern sich aus der grandiosen Zusammenstellung junger Mitarbeiter ergibt, die durch die Bank die gleichen Interessen haben: Games, Kino und Fastfood! Auch das Altersgefüge ist ungewöhnlich, die 40 hat bis jetzt noch keiner erreicht.</p>
+<p>Das Foto oben ist übrigens aus den ersten Woche bei Krawall, dort hatte ich einen <a href="https://m.tacker.org/779.3360x1050.html">Arbeitsplatz</a> direkt neben einer sau coolen, lebensgroßen Aragorn-Figur.</p>
+<p>So gehe ich sicher mit ein wenig Pipi in den Augen … aber WOHIN eigentlich?</p>
+<p>Ab Mitte September werde ich als Werkstudent die Entwicklungsabteilung von <a href="http://www.s-v.de/">Scholz &amp; Volkmer</a> verstärken. Eine feste Bindung hat beiderseitige Vorteile. ich erwarte vor allem tolle Projekte — die Referenzen von S&amp;V sprechen ja für sich — und vor allem von der großen Erfahrung vor Ort viel zu lernen.</p>
+<p>Ich bin sehr gespannt auf meinen neuen Arbeitsplatz und das neue Team!</p>
+<p><small>* 2007 habe ich ursprünglich mal bei der <a href="http://www.krawall.de/">Krawall Gaming Network GmbH</a> angefangen. 2008 wurde dann <em>unstrukturiert</em> und fast alle Abteilungen, inklusive Entwicklung, gingen in die Global Media GmbH über. In diesem Jahr wurde dann der ganze Firmen-Haufen, der sich unter dem Dach der <a href="http://www.global-group.de/">Global Group AG</a> angesammelt eingeschmolzen und von da an firmieren Alle nur noch unter dem Namen der Group.</small></p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/2483.tschuess-krawall.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Tag der Arbeit: Über die „Flexibilität“ von Angestellten</title>
+		<link>https://m.tacker.org/1912.tag-der-arbeit-uber-die-%e2%80%9eflexibilitat%e2%80%9c-von-angestellten.html</link>
+		<comments>https://m.tacker.org/1912.tag-der-arbeit-uber-die-%e2%80%9eflexibilitat%e2%80%9c-von-angestellten.html#comments</comments>
+		<pubDate>Fri, 01 May 2009 10:10:09 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[Arbeit]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=1912</guid>
+		<description><![CDATA[„Selbständiges Arbeiten“ und „Flexibilität“ sind keine Einbahnstraßen ...]]></description>
+				<content:encoded><![CDATA[<p>Zu den üblichen Stellenbeschreibungen für Entwickler gehören Schlagwörter wie „selbständiges Arbeiten“ und „Flexibilität“.</p>
+<p>Ersteres bedeutet, dass man auch ohne ständige Aufsicht in der Lage ist, die einem gestellten Aufgaben zu erfüllen und anfallende Entscheidungen selbst zu fällen, ohne wegen jedem Kleinkram zum Vorgesetzten zu rennen. Es bedeutet auch Verantwortung für die Software zu übernehmen, die man betreut und für Fehler gerade zu stehen.</p>
+<p>„Flexibilität“ bedeutet, die 40-Stunden-Woche nicht ganz so ernst zu nehmen. Als Entwickler sitzen wir am Ende der Kette im Projektplan und müssen Deadlines die zum Teil schon in der Planungsphase festgelegt wurden, einhalten – ungeachtet irgendwelcher Schlampereien oder Verzögerungen in der Kommunikation mit dem Kunden oder in der Projektführung. Das schließt auch Änderungen in letzter Minute ein, so dass Überstunden und Wochenendarbeit vorprogrammiert sind – welch schöne Analogie. Es macht eigentlich keinen Sinn, in der Entwicklung früh (vor 9 Uhr) an zu fangen, erst gegen 16 Uhr haben die meisten Projektleiter ihre tägliche Kommunikation mit dem Kunden abgeschlossen und kommen dann zu den Entwicklern um die berühmten „Kleinigkeiten“ weiter zu geben.</p>
+<p>Überstunden sind also ein stillschweigender Bestandteil des Beschäftigungsverhältnisses und seine Arbeit sollte man schnell und ohne großen Aufriss erledigen.</p>
+<p>Somit sehe ich kein Problem darin, mal einen Tag von zu Hause zu arbeiten. Ob man in der Firma ist oder am heimischen PC unterscheidet sich eigentlich nur in der Geschwindigkeit des Internetanschlusses und in der Qualität des Kaffees – wobei auch der Internetanschluss zu Hause durchaus schneller sein kann.</p>
+<p>Gerade wenn man seine aktuellen Aufgaben und Projekte im Blick hat, kann man leicht selber entscheiden, ob man es sich erlauben kann, mal einen Tag nicht die ganze Zeit persönlich für Projektleiter, Geschäftsführer und Kollegen ansprechbar zu sein. Telefon lassen sich umleiten. Überstunden um den Ausfall aus zu gleichen hat man sowieso genug angehäuft.</p>
+<p>Ich war also der Meinung, bei wichtigen Terminen wie Arztbesuchen, Handwerkerterminen oder sonstig notwendigen Erledigungen, die man nicht vor und nach der Arbeit machen kann, auch mal – nach Ankündigung versteht sich – zu Hause zu bleiben. Bei mir sind es immerhin gut 50 Minuten einfache Fahrtzeit zu meinem Arbeitsplatz, so schrumpft die verbleibende Arbeitszeit an dem Tag dann schnell auf wenige Stunden zusammen.</p>
+<p>Wie schon gesagt, meine Meinung – leider nicht die meines Chefs. Ich bin also angehalten, in Zukunft meinen Chef um Erlaubnis zu fragen ob ich an irgendeinem Tag ein paar Stunden von meiner Aufgabe fern verbleiben darf, auch wenn ich weiß, dass es kein Problem ist, keine Deadline dagegen spricht, und genug Kollegen da sind, die mich vertreten können. Selbst Arztbesuche, die keiner akuten Erkrankung geschuldet sind, müssen nicht vom Arbeitgeber genehmigt werden. Es ist auch nicht so, dass ich das regelmäßig mache – das kommt bei mir vielleicht zwei, dreimal im Jahr vor – und ich mir aus Jux und Tollerei wilde Anlässe aus den Fingern sauge, um lange zu schlafen, in ICQ online zu gehen und dann so zu tun als würde ich arbeiten. Alle Termine haben einen triftigen Grund.</p>
+<p>Andere sind einfach einen Tag krank.</p>
+<p>An dieser Stelle interessiere ich mich natürlich für die Gegenargumente, was sagen die Geschäftsführer unter euch? Oder seht ihr es genauso, dass die Zugeständnisse, die wir als Arbeitnehmer machen auch ein gewisses Maß an Gegenleistung erfordern,</p>
+<p>Übrigens, diesen Blog-Eintrag schreibe ich, während ich beim Arzt warte. Den Tag habe ich selbst festgelegt. Ein Gespräch gab es deswegen auch schon …</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1912.tag-der-arbeit-uber-die-%e2%80%9eflexibilitat%e2%80%9c-von-angestellten.html/feed</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>„Für weitere Fragen stehe ich gerne zur Verfügung“</title>
+		<link>https://m.tacker.org/1844.%e2%80%9efur-weitere-fragen-stehe-ich-gerne-zur-verfugung%e2%80%9c.html</link>
+		<comments>https://m.tacker.org/1844.%e2%80%9efur-weitere-fragen-stehe-ich-gerne-zur-verfugung%e2%80%9c.html#comments</comments>
+		<pubDate>Tue, 31 Mar 2009 14:48:46 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[Arbeit]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=1844</guid>
+		<description><![CDATA[Mein kleiner Trick zur besseren E-Mail-Kommunikation.]]></description>
+				<content:encoded><![CDATA[<p><img class="alignnone size-full wp-image-1849" title="Für weitere Fragen stehe ich gerne zur Verfügung" src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2009/03/fur-weitere-fragen-stehe-ich-gerne-zur-verfugung.jpg" alt="Für weitere Fragen stehe ich gerne zur Verfügung" width="550" height="220" /></p>
+<p>Ich müsste mir in der Vergangenheit schon öfter von Freunden, Bekannten und auch Kollegen sagen lassen, dass ich in meinen E-Mails einen recht harschen und knappen Tonfall pflege, der von manchen als unfreundlich empfunden wird.</p>
+<p>Der Grund für meine knappe und direkte Schreibweise ist einfach: Ich antworte gerne ohne Umschweife und Floskeln auf Fragen — das geht einfach schneller. Auch Smilies mag ich gar nicht, dementsprechend schmücke ich meine Sätze auch nicht am Ende mit den kleinen Fratzen.</p>
+<p>Gerade im Kundenkontakt wird diese Direktheit jedoch oft als unfreundlich missverstanden. Kunden sind es schließlich gewöhnt, vom Kundenbetreuer seitenweise E-Mails zu bekommen in denen auf alle erdenklichen Punkte des Themas eingegangen wird, um ja auch niemandem auf den Schlips zu treten.</p>
+<p>Als Entwickler gehört es nicht zu meinen Hauptaufgaben, mit dem Kunden zu kommunizieren. Trotzdem lässt sich das oft nicht vermeiden, zum einen halten sich Kunden <em>nie</em> an die abgesprochenen Kommunikationsabläufe (siehe <a rel="lightbox" href="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2009/03/kommunikationsablauf.jpg">Abbildung</a>), zum anderen sind auch die Projektleiter nicht immer Zeitnah verfügbar, was den Kunden dann wieder verärgern <em>könnte</em>.</p>
+<p>Da ich mir gut gemeinte Ratschläge durchaus zu Herzen nehme, habe ich mir einen kleinen &#8220;Mind-Trick&#8221; ausgedacht, der für mich auch super funktioniert: Meine E-Mail-Vorlage fügt automatisch vor der Signatur den Satz &#8220;Für weitere Fragen stehe ich gerne zur Verfügung&#8221; ein. Dieser kleine Zusatz ruft mir jedesmal zwei wichtige Fragen ins Gedächtnis:</p>
+<ol>
+<li>Habe ich alle möglichen Punkte in meiner E-Mail(-Antwort) so formuliert, dass sie auch vom Kunden verstanden werden?<br />
+Denn lieber schreibe ich eine ausführlichere E-Mail als meine ursprünglichen Ausführungen nochmal zu erläutern.</li>
+<li>Ist mein Tonfall nicht zu knapp und damit möglicherweise unfreundlich?<br />
+Das kleine Wörtchen &#8220;gerne&#8221; impliziert nämlich, dass ich die E-Mail in einer positiven Gesamteinstellung, und mit soviel &#8220;Hingabe&#8221; zum Kunden und zum Projekt wie möglich verfasst habe — das ist vielleicht schwierig zu verstehen, aber es funktioniert.</li>
+</ol>
+<p>Seit ich diesen kleinen Trick anwende, habe ich kein negatives Feedback mehr bezüglich meines E-Mail-Stils bekommen, und mir selbst ist es auch nicht mehr passiert, dass ich das Absenden einer E-Mail zu einem späteren Zeitpunkt bereut habe, oder zumindest die Formulierung gerne nochmal angepasst hätte.</p>
+<p>Nebenbei gesagt, bin ich ein Freund von Telefonaten oder noch besser dem direkten Gespräch, da das zum einen viel schneller geht und man zum anderen die Emotionen des anderen viel besser erkennen kann. Allerdings habe ich die Erfahrung gemacht, dass Telefonate mit dem Kunden immer schlecht sind, da sich nicht verbindlich fest halten lässt, was besprochen wurde — soweit käme es noch, dass ich ein Protokoll führe und jedes Telefonat mit dem Kunden nacher zusammenfasse. Bei E-Mails ist es schließlich einigermaßen nachvollziehbar, was irgendwann mal vereinbart wurde, auch wenn Texte grundsätzlich immer offen für Interpretationen sind &#8230;</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1844.%e2%80%9efur-weitere-fragen-stehe-ich-gerne-zur-verfugung%e2%80%9c.html/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>I&#8217;m in the Movies</title>
+		<link>https://m.tacker.org/1649.im-in-the-movies.html</link>
+		<comments>https://m.tacker.org/1649.im-in-the-movies.html#respond</comments>
+		<pubDate>Wed, 24 Dec 2008 13:00:20 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[Arbeit]]></category>
+		<category><![CDATA[krawall]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=1649</guid>
+		<description><![CDATA[&#8230; zumindest im Test zu &#8220;You&#8217;re in the Movies&#8221; auf K-Videogames. Dass passiert eben, wenn man in der Arbeitszeit mal ins Redakteurs-Büro rüberschlendert, in der Hoffnung einen neuen brutalen Inidzierungskandidaten begutachten zu können. You&#8217;re in the Movies gehörte leider nicht dazu, Spaß gemacht hat der &#8220;Multiplayer-Test&#8221; trotzdem.]]></description>
+				<content:encoded><![CDATA[<p><img class="alignright size-medium wp-image-1650" src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2008/12/krawallbrand_movies4-300x199.jpg" alt="" width="300" height="199" />&#8230; zumindest im <a href="http://www.k-videogames.de/web/Youre_in_the_Movies/review/id,12934/page,1/s,,c">Test zu &#8220;You&#8217;re in the Movies&#8221; auf K-Videogames</a>.</p>
+<p>Dass passiert eben, wenn man in der Arbeitszeit mal ins Redakteurs-Büro rüberschlendert, in der Hoffnung einen neuen brutalen Inidzierungskandidaten begutachten zu können. <a href="http://www.amazon.de/gp/product/B001F20ZCK?ie=UTF8&amp;tag=mtaor-21&amp;linkCode=as2&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B001F20ZCK">You&#8217;re in the Movies</a><img class=" xpiootuxqykqndimepcx xpiootuxqykqndimepcx" style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.de/e/ir?t=mtaor-21&amp;l=as2&amp;o=3&amp;a=B001F20ZCK" border="0" alt="" width="1" height="1" /> gehörte leider nicht dazu, Spaß gemacht hat der &#8220;Multiplayer-Test&#8221; trotzdem.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1649.im-in-the-movies.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Lecker Stollen vom Geldeintreiber</title>
+		<link>https://m.tacker.org/1606.lecker-stollen-vom-geldeintreiber.html</link>
+		<comments>https://m.tacker.org/1606.lecker-stollen-vom-geldeintreiber.html#respond</comments>
+		<pubDate>Thu, 04 Dec 2008 15:10:08 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Essen]]></category>
+		<category><![CDATA[Arbeit]]></category>
+		<category><![CDATA[krawall]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=1606</guid>
+		<description><![CDATA[Über den Butterstollen von Annaberger Backwaren ...]]></description>
+				<content:encoded><![CDATA[<p>Eben gab es wieder ein zwei-Daumen-dickes Stück des original Erzgebirge Butterstollen der <a href="http://www.annaberger-backwaren.de/">Annaberger Backwaren</a>, den uns unser Inkasso-Unternehmen geschickt hat — ein schönes und zugleich leckeres Kundengeschenk, und mit einem Preis von um die 20 Euro, sicher nicht besonders teuer. Daran sollten sich andere Lieferanten mal ein Beispiel nehmen.</p>
+<p>Der Stollen ist wirklich ein Prachtexemplar und sehr lecker — kann ich nur weiterempfehlen.</p>
+<p>Ich schau mal im Januar ob es den dann als Restposten gibt.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1606.lecker-stollen-vom-geldeintreiber.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>30°</title>
+		<link>https://m.tacker.org/1206.30%c2%b0.html</link>
+		<comments>https://m.tacker.org/1206.30%c2%b0.html#comments</comments>
+		<pubDate>Thu, 31 Jul 2008 11:39:47 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[Arbeit]]></category>
+		<category><![CDATA[Idstein]]></category>
+		<category><![CDATA[krawall]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=1206</guid>
+		<description><![CDATA[Bürotemperatur, gemessen auf Maushöhe. Da fällt das Denken ganz schön schwer.]]></description>
+				<content:encoded><![CDATA[<p>Bürotemperatur, gemessen auf Maushöhe.<br />
+Da fällt das Denken ganz schön schwer.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1206.30%c2%b0.html/feed</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>&#8220;Ich hab am Wochenende frei&#8221;</title>
+		<link>https://m.tacker.org/1169.ich-hab-am-wochenende-frei.html</link>
+		<comments>https://m.tacker.org/1169.ich-hab-am-wochenende-frei.html#respond</comments>
+		<pubDate>Sat, 14 Jun 2008 15:00:30 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[Arbeit]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=1169</guid>
+		<description><![CDATA[Während eines Gespräches mit einem geschäftsführenden Kollegen meinte dieser ganz beiläufig: Ich muss nachher noch von zu Hause aus arbeiten &#8212; wird warscheinlich mal wieder spät. Dafür habe ich das Wochenend frei. Vor allem wegen des selbstverständlichen und beiläufigen Tones musste ich schallend lachen &#8212; und war mal wieder froh, ein ganz normaler Angestellter zu [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Während eines Gespräches mit einem geschäftsführenden Kollegen meinte dieser ganz beiläufig:</p>
+<blockquote><p>Ich muss nachher noch von zu Hause aus arbeiten &mdash; wird warscheinlich mal wieder spät.<br />
+Dafür habe ich das Wochenend frei.</p></blockquote>
+<p>Vor allem wegen des selbstverständlichen und beiläufigen Tones musste ich schallend lachen &mdash; und war mal wieder froh, ein ganz <em>normaler</em> Angestellter zu sein.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1169.ich-hab-am-wochenende-frei.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Bergdorf Idstein</title>
+		<link>https://m.tacker.org/786.bergdorf-idstein.html</link>
+		<comments>https://m.tacker.org/786.bergdorf-idstein.html#respond</comments>
+		<pubDate>Sat, 10 Nov 2007 15:11:32 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[Arbeit]]></category>
+		<category><![CDATA[krawall]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/786.bergdorf-idstein.html</guid>
+		<description><![CDATA[Idstein liegt ja für Offenbacher Verhältnisse in den Bergen (ca. 550m über NN im Taunus). Deswegen schneit es hier auch heute schon.]]></description>
+				<content:encoded><![CDATA[<p><img class="full" src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2007/11/dsc00155.jpg" alt="Bergdorf Idstein" /><br />
+Idstein liegt ja für Offenbacher Verhältnisse in den Bergen (ca. 550m über NN im Taunus). Deswegen schneit es hier auch heute schon.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/786.bergdorf-idstein.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>stromforyou</title>
+		<link>https://m.tacker.org/785.stromforyou.html</link>
+		<comments>https://m.tacker.org/785.stromforyou.html#respond</comments>
+		<pubDate>Tue, 06 Nov 2007 15:05:33 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[Arbeit]]></category>
+		<category><![CDATA[krawall]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/785.stromforyou.html</guid>
+		<description><![CDATA[Mein erstes Projekt bei Global Media ging gestern online: stromforyou.de]]></description>
+				<content:encoded><![CDATA[<p><a href="http://partners.webmasterplan.com/click.asp?ref=435754&amp;site=5023&amp;type=b8&amp;bnb=8"><img class="right xpiootuxqykqndimepcx xpiootuxqykqndimepcx" src="http://banners.webmasterplan.com/view.asp?ref=435754&amp;site=5023&amp;b=8" border="0" alt="stromforyou.de - Einfach wechseln!" width="250" height="250" /></a>Es ist schon ein schönes Gefühl, wenn man Anderen auch mal zeigen kann, was man so auf der Arbeit macht.</p>
+<p>Bei der <a href="http://www.itfuture.de/">IT Future AG</a> war ich ja mit der Entwicklung von Intranet-Anwendungen betraut, die nur ein ausgewählter Kreis von Nutzer zu Gesicht bekommt. <a href="http://partners.webmasterplan.com/click.asp?ref=435754&amp;site=5023&amp;type=text&amp;tnb=1">stromforyou</a> hingegen ist mein erstes Projekt bei <a href="http://www.krawall.de/">Krawall</a> bzw. Global Media, dass ich als hauptverantwortlicher Entwickler betreut habe und dass nach insgesamt 3 Monaten gestern live ging.</p>
+<p>stromforyou ermöglicht den direkten Vergleich von allen deutschen Stromtarifen und zeigt so direkt und einfach ein mögliches Sparpotential bei den eigenen Stromkosten auf — um den Wechsel kümmert sich stromforyou ebenfalls.</p>
+<p>Über jegliches Feedback zum Projekt freue ich mich natürlich.</p>
+<h3>Update 8. Januar 2008</h3>
+<p>Heute wurde stromforyou offiziell eingestellt und die Server abgeschaltet.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/785.stromforyou.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>3360 x 1050</title>
+		<link>https://m.tacker.org/779.3360x1050.html</link>
+		<comments>https://m.tacker.org/779.3360x1050.html#comments</comments>
+		<pubDate>Thu, 13 Sep 2007 14:13:13 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[Arbeit]]></category>
+		<category><![CDATA[krawall]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/779.3360x1050.html</guid>
+		<description><![CDATA[Das nenne ich mal einen «vernünftigen» Arbeitsplatz. Nachdem ich gleich am zweiten Arbeitstag bei Krawall einen alten TFT als Zweitmonitor mitgebracht habe, war das Geschrei unter den Kollegen groß. Die Geschäftsleitug hat sich aber nicht lumpen lassen und gleich mal einen Großbestellung bei DELL gemacht — seit heute ist die Entwicklungsabteilung mit zwei Dell 2007WFPb [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img class="full" src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2007/09/kgn-arbeitsplatz.jpg" alt="Mein Arbeitsplatz bei Krawall" /></p>
+<p>Das nenne ich mal einen «vernünftigen» Arbeitsplatz. Nachdem ich gleich am zweiten Arbeitstag bei <a href="http://www.krawall.de">Krawall</a> einen alten TFT als Zweitmonitor mitgebracht habe, war das Geschrei unter den Kollegen groß. Die Geschäftsleitug hat sich aber nicht lumpen lassen und gleich mal einen Großbestellung bei DELL gemacht — seit heute ist die Entwicklungsabteilung mit zwei <a href="http://accessories.euro.dell.com/sna/productdetail.aspx?c=de&amp;l=de&amp;s=dhs&amp;cs=dedhs1&amp;sku=59203">Dell 2007WFPb</a> pro Arbeitsplatz ausgerüstet.</p>
+<p>3360&#215;1050 ist übrigens die Auflösung meines Desktops in Pixeln.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/779.3360x1050.html/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>«Licht an!» vs. «Licht aus!»</title>
+		<link>https://m.tacker.org/435.%c2%ablicht-an%c2%bb-vs-%c2%ablicht-aus%c2%bb.html</link>
+		<comments>https://m.tacker.org/435.%c2%ablicht-an%c2%bb-vs-%c2%ablicht-aus%c2%bb.html#respond</comments>
+		<pubDate>Thu, 31 Aug 2006 15:00:04 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[Wohnen]]></category>
+		<category><![CDATA[Arbeit]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/435.%c2%ablicht-an%c2%bb-vs-%c2%ablicht-aus%c2%bb.html</guid>
+		<description><![CDATA[Die mitteilungsbedürftigen Flurkollegen haben heute wieder einen neuen Zettel in die Küche gehängt: Licht bitte beim Verlassen wieder ausmachen. Danke! Darauf folgte eine Diskussion mit ein paar anderen Flurkollegen über den Sinn und Unsinn der Forderung. Starter für Leuchtstoffröhren würden schließlich viel Strom verbrauchen. Doch das ist ein Irrtumm. Der Stromverbrauch des Starters fällt nicht [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Die mitteilungsbedürftigen Flurkollegen haben heute wieder einen neuen Zettel in die Küche gehängt:</p>
+<blockquote><p>Licht bitte beim Verlassen wieder <span style="text-decoration: underline">ausmachen</span>.<br />
+Danke!</p></blockquote>
+<p>Darauf folgte eine Diskussion mit ein <a href="http://www.thomax.net/">paar</a> <a href="http://www.financescout24.de/contactRequestHandlerAction.do?op=init&amp;inpZipCode=PLZ&amp;brokerId=20626">anderen</a> Flurkollegen über den Sinn und Unsinn der Forderung. Starter für Leuchtstoffröhren würden schließlich viel Strom verbrauchen. Doch das ist ein Irrtumm. Der Stromverbrauch des Starters fällt nicht ins Gewicht. Viel mehr Geld kostet es, die Leuchtstoffröhre dauerhaft brennen zu lassen. Alle anderen Faktoren, wie Kosten für Lampe und Starter sind vernachlässigbar.</p>
+<table class="leuchtstoff">
+<tr>
+<td>Bezeichnung</td>
+<td>Einheit</td>
+<td><b>Licht an</b></td>
+<td><b>Licht aus</b></td>
+</tr>
+<tr>
+<td>Arbeitstage pro Jahr</td>
+<td class="right">240</td>
+<td class="right">&nbsp;</td>
+<td class="right">&nbsp;</td>
+</tr>
+<tr>
+<td>Leuchtdauer</td>
+<td class="right">h</td>
+<td class="right">10</td>
+<td class="right">2</td>
+</tr>
+<tr>
+<td><b>Strom</b></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Stromaufnahme Leuchtstoffröhre</td>
+<td class="right">Kw/h</td>
+<td class="right">0,12</td>
+<td class="right">0,12</td>
+</tr>
+<tr>
+<td>Tagesverbauch</td>
+<td class="right">KWh</td>
+<td class="right">1,16</td>
+<td class="right">0,23</td>
+</tr>
+<tr>
+<td>Preis pro KWh</td>
+<td class="right">€</td>
+<td class="right">0,20</td>
+<td class="right">0,20</td>
+</tr>
+<tr>
+<td>Preis pro Tag</td>
+<td class="right">€</td>
+<td class="right">0,23</td>
+<td class="right">0,05</td>
+</tr>
+<tr>
+<td>Preis pro Jahr</td>
+<td class="right">€</td>
+<td class="right">55,68</td>
+<td class="right">11,14</td>
+</tr>
+<tr>
+<td><b>Leuchtstoffröhre</b></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Preis Leuchtstoffröhre</td>
+<td class="right">€</td>
+<td class="right">6,00</td>
+<td class="right">6,00</td>
+</tr>
+<tr>
+<td><a href="http://www.osram.de/produkte/allgemein/leuchtstoff/index.html">Lebensdauer Leuchtstoffröhre</a></td>
+<td class="right">h</td>
+<td class="right">45.000</td>
+<td class="right">5.000</td>
+</tr>
+<tr>
+<td>Abnutzung Leuchtstoffröhre pro Tag</td>
+<td class="right">€</td>
+<td class="right">0,00</td>
+<td class="right">0,00</td>
+</tr>
+<tr>
+<td>Abnutzung Leuchtstoffröhre pro Jahr</td>
+<td class="right">€</td>
+<td class="right">0,32</td>
+<td class="right">0,58</td>
+</tr>
+<tr>
+<td><b>Starter</b></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Preis Starter</td>
+<td class="right">€</td>
+<td class="right">1,00</td>
+<td class="right">1,00</td>
+</tr>
+<tr>
+<td><a href="http://www.osram.de/produkte/allgemein/leuchtstoff/index.html">Lebensdauer Starter</a></td>
+<td class="right">Startvorgänge</td>
+<td class="right">20.000</td>
+<td class="right">20.000</td>
+</tr>
+<tr>
+<td>Startvorgänge</td>
+<td class="right">&nbsp;</td>
+<td class="right">1</td>
+<td class="right">50</td>
+</tr>
+<tr>
+<td>Preis Starter pro Tag</td>
+<td class="right">€</td>
+<td class="right">0,00</td>
+<td class="right">0,00</td>
+</tr>
+<tr>
+<td>Preis Starter pro Jahr</td>
+<td class="right">€</td>
+<td class="right">0,01</td>
+<td class="right">0,60</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><b>Gesamtpreis pro Jahr</b></td>
+<td class="right"><b>€</b></td>
+<td class="right"><b>55,68</b></td>
+<td class="right"><b>11,14</b></td>
+</tr>
+</table>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/435.%c2%ablicht-an%c2%bb-vs-%c2%ablicht-aus%c2%bb.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Geschirrservice</title>
+		<link>https://m.tacker.org/82.geschirrservice.html</link>
+		<comments>https://m.tacker.org/82.geschirrservice.html#respond</comments>
+		<pubDate>Mon, 27 Feb 2006 10:57:42 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[Arbeit]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/82.geschirrservice.html</guid>
+		<description><![CDATA[Der Arbeitsauftrag unseres aktuellen Reinigungsdienstleisters All Service umfasst unter anderem auch Geschirrservice Nach einem klärenden Telefonat wissen wir jetzt auch, was man darunter zu verstehen hat: Gebrauchtes Geschirr wird vom Schreibtisch in die Küche getragen. Das es gespült werden würde, hätten wir erwartet.]]></description>
+				<content:encoded><![CDATA[<p>Der Arbeitsauftrag unseres aktuellen Reinigungsdienstleisters <a href="http://www.all-service.de/gebaeudedienste.php">All Service</a> umfasst unter anderem auch</p>
+<blockquote><p>Geschirrservice</p></blockquote>
+<p>Nach einem klärenden Telefonat wissen wir jetzt auch, was man darunter zu verstehen hat: Gebrauchtes Geschirr wird vom Schreibtisch in die Küche getragen. Das es gespült werden würde, hätten wir erwartet.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/82.geschirrservice.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

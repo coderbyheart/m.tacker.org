@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>most visited &#8211; [|] m.tacker.org</title>
+	<atom:link href="https://m.tacker.org/tag/most-visited/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Tue, 12 Jan 2016 11:45:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>Terassenbelag</title>
+		<link>https://m.tacker.org/721.terassenbelag.html</link>
+		<comments>https://m.tacker.org/721.terassenbelag.html#respond</comments>
+		<pubDate>Thu, 19 Apr 2007 18:51:12 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Ausbau]]></category>
+		<category><![CDATA[most visited]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/721.terassenbelag.html</guid>
+		<description><![CDATA[Auf der Suche nach dem richtigen Terrassenbelag habe ich mich für europäische Lärche entschieden, da es hier keine bedenklichen Abbaumethoden gibt.]]></description>
+				<content:encoded><![CDATA[<p><img src='https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2007/04/terasse_render.jpg' alt='Terassenbelag (3D-Simulation)' class='full' /></p>
+<p>Auf der Suche nach dem richtigen Terrassenbelag habe ich mich für <a href="http://de.wikipedia.org/wiki/Europ%C3%A4ische_L%C3%A4rche">europäische Lärche</a> entschieden, da es hier keine bedenklichen Abbaumethoden gibt &mdash; <a href="http://www.holzfragen.de/seiten/laerche.html">im Gegensatz zur sibirischen Lärche</a>. Tropenhölzern wie <a href="http://de.wikipedia.org/wiki/Yellow_Balau">Bangkirai</a>, kommen grundsätzlich für mich nicht in Frage.</p>
+<p>Also habe ich mich in den letzten Wochen ausführlich mit der Frage beschäftigt, wie eine Dielen-Terrasse überhaupt gebaut wird, wie viel Holz ich für die Dachterrasse benötige und wie ich das Holz am besten verlege. Oben siehst Du das Ergebnis. Mit Hilfe eines 3D-Programmes konnte ich die Verlegung simulieren und so auch die benötigte Menge ermitteln.</p>
+<h3>Preisvergleich</h3>
+<p>Neben der ersten Anlaufstelle für Holz, dem Baumarkt und dem Holzfachhandel, gibt es mittlerweile auch einige Anbieter, die deutschlandweit mit Terrassenholz handeln &mdash; teilweise kostet die Lieferung innerhalb Deutschlands nur 25 € (z.B. bei <a href="http://dielen-online.de/">dielen-online.de</a>).</p>
+<p>Den Vogel schießt hier der nahe gelegene Holzfachmarkt <a href="http://holzland-becker.de/" rel="nofollow">Holzland Becker</a> ab, der mehr als die Hälfte teurer als der günstigste Anbieter (Dielen-Online) ist &mdash; Lieferung noch gar nicht mit eingerechnet.</p>
+<p>Ganz ähnlich verhält es sich mit den benötigten Schrauben. Für die Fläche benötige ich ca. 1.200 Schrauben aus Edelstahl. Im Baumarkt zahlt man pro kg ca. 45 bis 50 €. Bei ebay findet man die Schrauben schon für 10 € pro kg.</p>
+<p>Anders wieder beim notwendigen Holzschutz-Öl. Hier geben sich ebay und der Baumarkt eigentlich nichts. Die paar Euro, die der Baumarkt teurer ist kommen bei den Versandkosten bei einer Online-Bestellung noch oben drauf.</p>
+<h3>Links</h3>
+<p>Meine gesammelten Links zum Thema Terrasse finden sich übrigens auf <a href="http://del.icio.us/tacker/terrasse">del.icio.us</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/721.terassenbelag.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>GMail als standard E-Mail-Anwendung verwenden</title>
+		<link>https://m.tacker.org/582.gmail-als-standard-e-mail-anwendung-verwenden.html</link>
+		<comments>https://m.tacker.org/582.gmail-als-standard-e-mail-anwendung-verwenden.html#comments</comments>
+		<pubDate>Tue, 14 Nov 2006 00:31:31 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Datensicherung für Gestalter]]></category>
+		<category><![CDATA[most visited]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/582.gmail-als-standard-e-mail-anwendung-verwenden.html</guid>
+		<description><![CDATA[GMail bietet einen vollwertigen E-Mail-Client im Browser an. Was liegt da näher, GMail standardmäßig zu verwenden — der Browser ist sowieso meistens offen.]]></description>
+				<content:encoded><![CDATA[<p><img src='https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/11/googlemail.gif' alt='GMail' class="right" /><a href="http://mail.google.com/">GMail</a> bietet einen vollwertigen E-Mail-Client im Browser an. Was liegt da näher, GMail standardmäßig zu verwenden &mdash; der Browser ist sowieso meistens offen.</p>
+<h3>Die bestehende E-Mail-Adresse weiter verwenden</h3>
+<p>Damit man die alte E-Mail-Adresse in GMail verwenden kann, muss man diese freischalten. Dieser Vorgang ist auf dieser Seite in der GMail-Hilfe beschrieben: <a href="http://mail.google.com/support/bin/answer.py?answer=20616&#038;topic=1570">Wie kann ich die &#8220;Von:&#8221;-Adresse für ausgehende Nachrichten anpassen?</a></p>
+<p>Ist dies erledigt, kann man beim beim Senden von E-Mails aus GMail die alte E-Mail-Adresse im Absender verwenden. Wie man die alte E-Mail-Adresse als Standard festlegt ist in <a href="http://mail.google.com/support/bin/answer.py?answer=22375&#038;topic=1570">Wie ändere ich meine standardmäßige &#8220;Von:&#8221;-Adresse?</a> beschrieben.</p>
+<h3>gmail statt googlemail</h3>
+<p>Aufgrund von markenrechtlichen Konflikten wird GMail in Deutschland und einigen anderen Ländern GoogleMail genannt. Deswegen bekommt man bei einer Registrierung in diesen Ländern die Domain <code>googlemail.com</code>. Dies lässt sich jedoch leicht umgehen, indem man eine weitere E-Mail-Adresse hinzufügt. Diesmal ersetzt man einfach <code>googlemail</code> in der neuen E-Mail-Adresse mit <code>gmail</code>.</p>
+<h3>E-Mails nach GMail importieren</h3>
+<p>Nun haben wir eine schöne neue Mailbox. Leider ist diese aber leer. Gerade die Suchfunktion ist bei GMail sehr ausgereift. Damit wir in Zukunft nicht mehr in das Mailprogramm starten müssen, um alte Mails zu suchen, sollten wir diese noch nach GMail importieren.</p>
+<p>Google selbst bietet zur Zeit keine Möglichkeit an, E-Mails aus anderen Anwendungen zu importieren. Es besteht natürlich die Möglichkeit, alle E-Mails an das neue Konto weiter zu leiten &mdash; allerdings ist das nicht besonders komfortabel.</p>
+<p>Wesentlich einfacher geht das Importieren mit dem kostenlose Tool <a href="http://www.marklyon.org/gmail/default.htm">Google GMail Load (GML)</a> von Mark Lyon oder <a href="http://blog.codefront.net/archives/2004/06/23/gexodus-02-some-new-features-for-gmail-mbox-import-tool">gExodus &#8211; a graphical Gmail import tool</a>. Beide setzen allerdings voraus, dass die E-Mails im <a href="http://de.wikipedia.org/wiki/Mbox">mbox-Format</a> vorliegen. Dieses Speicherformat für E-Mails hat seinen Ursprung in Unix und wird nur von Netscape- bzw. Mozilla-Produkten verwendet.</p>
+<p>Hat man seine Mails bisher in Netscape oder Mozilla empfangen kann man das Tool direkt verwenden, ansonsten ist erst eine Konvertierung nötig.</p>
+<h3>Outlook-E-Mails importieren</h3>
+<p>Möchte man seine E-Mails aus Outlook in Gmail verwenden, ist ein etwas größerer Umweg notwendig.</p>
+<p>Zuerst muss Outlook Express die Mails von Outlook importieren. Dies ist auf den Hilfeseiten von Microsoft erläutert: <a href="http://office.microsoft.com/de-de/outlook/HA100799171031.aspx">Importieren Ihrer Nachrichten oder Ihres Kontos aus Outlook in Outlook Express</a>.</p>
+<h3>Outlook-Express-E-Mails importieren</h3>
+<p>Wenn die E-Mails bisher in Outlook Express empfangen worden sind, oder von Outlook importiert wurden, müssen diesen nun in <a href="http://www.mozilla-europe.org/de/products/thunderbird/">Mozilla Thunderbird</a> importiert werden. Dieser Vorgang ist auf den Hilfeseiten von Mozilla erläutert: <a href="http://www.thunderbird-mail.de/hilfe/dokumentation1.5/importieren.php">Importieren von E-Mails und Adressen</a>.</p>
+<h3>Nestcape-, Thunderbird- und Mozilla-E-Mails importieren</h3>
+<p>Sind nun alle E-Mails in <a href="http://www.mozilla-europe.org/de/products/thunderbird/">Thunderbird</a> oder <a href="http://browser.netscape.com/ns8/">Netscape Mail</a> vorhanden, kann man sich endlich um den Import nach GMail kümmern.</p>
+<dl class="foto" style="width: 220px;">
+<dt><a href='https://m.tacker.org/582.gmail-als-standard-e-mail-anwendung-verwenden.html/gexodus-02/' rel='attachment wp-att-584' title='gExodus 0.2'><img src='https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/11/gexodus_200px.gif' alt='gExodus 0.2' /></a></dt>
+<dd>Import von E-Mails aus Mozilla Thunderbird nach GMail mittels gExodus.</dd>
+</dl>
+<h3>Import mit gExodus 0.2</h3>
+<p>Hierzu lädt man sich die aktuelle Version von <a href="http://blog.codefront.net/archives/2004/06/23/gexodus-02-some-new-features-for-gmail-mbox-import-tool">gExodus</a> herunter. Nach dem Entpacken die gexodus.exe ausführen.</p>
+<p>Die Mbox-Dateien finden sich, am Beispiel von Thunderbird, unter </p>
+<blockquote><p>C:\Dokumente und Einstellungen\ [Username]\ Anwendungsdaten\ Thunderbird\ Profiles\ default\ [Profilname]\ Mail\ [Konto-Name]</p></blockquote>
+<p>In diesem Ordner findet sich für jeden Post-Ordner, den man angelegt hat, eine Datei mit gleichem Namen <strong>ohne Dateiendung</strong>. Dies ist die Mbox-Datei. Mann muss nun jeden Ordner einzeln importieren &mdash; dies mag zwar etwas Mühselig erscheinen, hat aber den Vorteil, dass man den Betreffzeilen der zu importierenden E-Mails einen Text voranstellen kann, damit man diese dann in GMail schneller findet.</p>
+<p>Der voreingestellte Mailserver von GMail hat bei mir nicht funktioniert. Ich habe <code>alt1.gmail-smtp-in.l.google.com</code> verwendet.</p>
+<p>Mit einem Klick auf &#8220;Import into Gmail&#8221; beginnt gExodus mit dem Import &mdash; dies dauert ein Weile, denn GMail würde einen schnellen Massen-Import als SPAM-Angriff abwehren.</p>
+<h3>Zugang für Handys und PDAs</h3>
+<p>Unter <a href="http://m.gmail.com/">http://m.gmail.com</a> findet sich eine Version für mobile Endgeräte. Diese ist vom Funktionsumfang etwas eingeschränkt, kann aber auch selbst auf kleinen Displays von Handys oder PDAs verwendet werden.</p>
+<p>Sehr praktisch ist auch, dass die Kontakte eingesehen und durchsucht werden können.</p>
+<p><em>Erschienen in der Artikel-Reihe:</em> <a href="https://m.tacker.org/546.datensicherung-fur-gestalter.html">Datensicherung für Gestalter</a></p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/582.gmail-als-standard-e-mail-anwendung-verwenden.html/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Wie schneidet man eine Mango</title>
+		<link>https://m.tacker.org/405.wie-schneidet-man-eine-mango.html</link>
+		<comments>https://m.tacker.org/405.wie-schneidet-man-eine-mango.html#comments</comments>
+		<pubDate>Tue, 25 Jul 2006 07:37:48 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Essen]]></category>
+		<category><![CDATA[most visited]]></category>
+		<category><![CDATA[Video]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/405.wie-schneidet-man-eine-mango.html</guid>
+		<description><![CDATA[Josh Leo erklärt auf seiner Homepage in einem Video, wie man eine Mango schneidet.]]></description>
+				<content:encoded><![CDATA[<p><a href="http://joshleo.com/">Josh Leo</a> erkl&auml;rt auf seiner Homepage in einem Video, <a href="http://www.joshleo.com/vlog/2005/08/14/mango/">wie man eine Mango schneidet</a>. Bei mir gabs bisher immer mehr Sauerei&#8230;</p>
+<p align="center"><object type="application/x-shockwave-flash" width="320" height="256" data="http://blip.tv/scripts/flash/flvplayer.swf?autoStart=false&#038;file=http://blip.tv/file/get/Joshleo-mango204.flv%3Fsource%3D3"><param name="movie" value="http://blip.tv/scripts/flash/flvplayer.swf?autoStart=false&#038;file=http://blip.tv/file/get/Joshleo-mango204.flv%3Fsource%3D3" /><param name="wmode" value="transparent" /></object></p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/405.wie-schneidet-man-eine-mango.html/feed</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Arcor DNS Server</title>
+		<link>https://m.tacker.org/79.arcor-dns-server.html</link>
+		<comments>https://m.tacker.org/79.arcor-dns-server.html#comments</comments>
+		<pubDate>Tue, 07 Feb 2006 11:08:14 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[most visited]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/79.arcor-dns-server.html</guid>
+		<description><![CDATA[Das ist die Liste der offiziellen Arcor-DNS-Server.]]></description>
+				<content:encoded><![CDATA[<p>Mal wieder Probleme mit dem DNS?<br />
+Das ist die Liste der offiziellen Arcor-DNS-Server:</p>
+<ul>
+<li>dns1.arcor-ip.de (145.253.2.11)</li>
+<li>dns2.arcor-ip.de (145.253.2.75)</li>
+<li><del datetime="2010-07-06T16:45:08+00:00">dns3.arcor-ip.de (145.253.2.171)</del> [nicht erreichbar]</li>
+<li>dns4.arcor-ip.de (145.253.2.203)</li>
+<li>dns5.arcor-ip.de (195.50.140.114)</li>
+<li>dns6.arcor-ip.de (145.253.2.196)</li>
+<li>dns7.arcor-ip.de (145.253.2.81)</li>
+<li><del datetime="2010-07-06T16:45:08+00:00">dns8.arcor-ip.de (145.253.2.174)</del> [nicht erreichbar]</li>
+<li>dns9.arcor-ip.de (195.50.140.252)</li>
+<li><del datetime="2008-09-17T10:17:32+00:00">dns10.arcor-ip.de (195.50.140.250)</del> [nicht erreichbar]</li>
+<li>dns11.arcor-ip.de (195.50.140.178)</li>
+</ul>
+<p>Linux /etc/resolv.conf Format:</p>
+<p><code><br />
+nameserver 145.253.2.11<br />
+nameserver 145.253.2.75<br />
+nameserver 145.253.2.203<br />
+nameserver 195.50.140.114<br />
+nameserver 145.253.2.196<br />
+nameserver 145.253.2.81<br />
+nameserver 195.50.140.252<br />
+nameserver 195.50.140.178<br />
+</code></p>
+<p>Als providerunabhängige und hochperformante Alternative bietet sich der <a href="http://code.google.com/intl/de-DE/speed/public-dns/">Google DNS-Server</a> an:</p>
+<ul>
+<li>8.8.8.8</li>
+<li>8.8.4.4</li>
+</ul>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/79.arcor-dns-server.html/feed</wfw:commentRss>
+		<slash:comments>43</slash:comments>
+		</item>
+		<item>
+		<title>Script to convert WordPress&#8217; content encoding</title>
+		<link>https://m.tacker.org/64.script-to-convert-wordpress-content-encoding.html</link>
+		<comments>https://m.tacker.org/64.script-to-convert-wordpress-content-encoding.html#comments</comments>
+		<pubDate>Mon, 12 Dec 2005 21:18:13 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PHP]]></category>
+		<category><![CDATA[Wordpress]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[most visited]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=64</guid>
+		<description><![CDATA[This script converts the encoding of all database entries of wordpress into another encoding.]]></description>
+				<content:encoded><![CDATA[<p>I&#39;ve just created a script which converts the encoding of all database entries of wordpress into another encoding.<br />
+In most cases you would convert into UTF-8.</p>
+<p><b>IMPORTANT!</b><br />
+Remember to dumpy your database first</p>
+<p><code>mysqldump --opt DB_NAME</code></p>
+<p>Or use phpMyAdmin:<br />
+<a href="http://www.zerokspot.com/docs/howto.phpmyadmin.backup_and_restore/">http://www.zerokspot.com/docs/howto.phpmyadmin.backup_and_restore/</a><br />
+<a href="http://www.phpmyadmin.net/documentation/#faq6_3">http://www.phpmyadmin.net/documentation/#faq6_3</a></p>
+<p>Do NOT run this script more then once</p>
+<p>Place this script inside the wp-content folder of your blog and access it via the browser, e.g. http://yoursite.com/blog/wp-content/convert-encoding.php</p>
+<ul>
+<li><a href="https://raw.github.com/tacker/wordpress-convert-encoding/master/convert-encoding.php">convert-encoding.php</a></li>
+<li><a href="https://github.com/tacker/wordpress-convert-encoding">Source code on GitHub</a></li>
+</ul>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/64.script-to-convert-wordpress-content-encoding.html/feed</wfw:commentRss>
+		<slash:comments>43</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>Wohnmobil &#8211; [|] m.tacker.org</title>
+	<atom:link href="https://m.tacker.org/tag/wohnmobil/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Tue, 12 Jan 2016 11:45:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>Wohnmobil: Das haben wir vergessen</title>
+		<link>https://m.tacker.org/2615.wohnmobil-das-haben-wir-vergessen.html</link>
+		<comments>https://m.tacker.org/2615.wohnmobil-das-haben-wir-vergessen.html#respond</comments>
+		<pubDate>Wed, 22 Sep 2010 08:07:30 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Urlaub]]></category>
+		<category><![CDATA[Norwegen2010]]></category>
+		<category><![CDATA[Wohnmobil]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=2615</guid>
+		<description><![CDATA[Dank zahlreicher Urlaube vorher waren wir ziemlich gut ausgestattet, doch an ein paar Dinge haben wir nicht gedacht. Als kleine Gedächtnisstütze hier die Liste: Hammer zum Einschlagen der Heringe der Markise 12V→220V-Wandler während der Fahrt hat meine keine 220V um z.B. Aktivboxen für den MP3-Player zu betreiben Ersatzrad wie wir jetzt wissen, ist eine TireFit-Kit [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Dank zahlreicher Urlaube vorher waren wir ziemlich gut ausgestattet, doch an ein paar Dinge haben wir nicht gedacht.</p>
+<p>Als kleine Gedächtnisstütze hier die Liste:</p>
+<ul>
+<li>Hammer<br />
+zum Einschlagen der Heringe der Markise</li>
+<li>12V→220V-Wandler<br />
+während der Fahrt hat meine keine 220V um z.B. Aktivboxen für den MP3-Player zu betreiben</li>
+<li>Ersatzrad<br />
+wie wir jetzt wissen, ist eine TireFit-Kit kein guter Ersatz</li>
+<li>Einmalhandschuhe<br />
+Dieselhandschuhe findet man in Skandinavien kaum an den Tanksäulen und zum leeren des Chemie-Klos sind sie auch gut zu gebrauchen</li>
+<li>Vorregistrierung bei <a href="http://autopass.no/">autopass.no</a><br />
+dem norwegischen Maut-System, dann kann man ohne Probleme durch die automatischen Mautstationen fahren und muss nicht anhalten und manuell zahlen.</li>
+</ul>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/2615.wohnmobil-das-haben-wir-vergessen.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

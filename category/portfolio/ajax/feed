@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>Ajax &#8211; [|] m.tacker.org</title>
+	<atom:link href="https://m.tacker.org/category/portfolio/ajax/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Tue, 12 Jan 2016 11:45:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>AlbumEmbed / PicasaEmbed</title>
+		<link>https://m.tacker.org/1056.albumembed-picasaembed.html</link>
+		<comments>https://m.tacker.org/1056.albumembed-picasaembed.html#respond</comments>
+		<pubDate>Thu, 30 Nov 2006 20:23:40 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Ajax]]></category>
+		<category><![CDATA[PHP]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/1056.albumembed-picasaembed.html</guid>
+		<description><![CDATA[AlbumEmbed / PicasaEmbed PicasaEmbed, bzw. inzwischen AlbumEmbed ist ein universelle PHP5-Bibliothek und Fotos aus Bilder-Galerien, die einen RSS-Feed anbieten, in eine Webseite einzubinden. Grundsätzlich geschieht das Blättern mittels Ajax, es steht jedoch auch eine Fallback-Lösung zur Verfügung, falls JavaScript deaktiviert ist. Weitere Details finden sich (auf Englisch) in meinem Blog. Ausgehen von PicasaEmbed ist AlbumEmbed [&#8230;]]]></description>
+				<content:encoded><![CDATA[<dl class="foto" style="width: 200px">
+<dt><img src="http://tacker.org/wp-content/uploads/2007/02/resized_2007-02-28_212600.png" alt="AlbumEmbed / PicasaEmbed" /></dt>
+<dd>AlbumEmbed / PicasaEmbed</dd>
+</dl>
+<p><a href="https://m.tacker.org/595.picasaembed-embed-and-browse-your-picasa-web-albums.html">PicasaEmbed</a>, bzw. inzwischen <em>AlbumEmbed</em> ist ein universelle PHP5-Bibliothek und Fotos aus Bilder-Galerien, die einen RSS-Feed anbieten, in eine Webseite einzubinden.</p>
+<p>Grundsätzlich geschieht das Blättern mittels Ajax, es steht jedoch auch eine Fallback-Lösung zur Verfügung, falls JavaScript deaktiviert ist. Weitere Details finden sich (auf Englisch) <a href="https://m.tacker.org/595.picasaembed-embed-and-browse-your-picasa-web-albums.html">in meinem Blog</a>.</p>
+<p>Ausgehen von <em>PicasaEmbed</em> ist <em>AlbumEmbed</em> verallgemeinert und lässt sich für alle Arten von Bilder-Galerien einsetzen. Zur Zeit wird <a href="http://picasaweb.google.com/">Picasa</a> und <a href="http://gallery.menalto.com/">Gallery</a> unterstützt. Ein Beispiel für den Einsatz von <em>AlbumEmbed</em> findet sich <a href="https://m.tacker.org/652.bad-noch-mehr-moglichkeiten.html">hier</a>.</p>
+<h3>Quellcode</h3>
+<ul>
+<li><a href="http://versions.tacker.org/svn/smallprojects/albumembed">SVN</a></li>
+<li><a href="http://projects.clyre.net/picasaembed/example.phps">Beispiel</a></li>
+<li><a href="http://versions.tacker.org/trac/smallprojects/browser/albumembed/">Quellcode-Browser</a></li>
+</ul>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1056.albumembed-picasaembed.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

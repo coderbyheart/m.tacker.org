@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>wordpress &#8211; [|] m.tacker.org</title>
+	<atom:link href="https://m.tacker.org/tag/wordpress/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Tue, 12 Jan 2016 11:45:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>WordPress Themes fallen unter die GPL</title>
+		<link>https://m.tacker.org/2044.wordpress-themes-fallen-unter-die-gpl.html</link>
+		<comments>https://m.tacker.org/2044.wordpress-themes-fallen-unter-die-gpl.html#respond</comments>
+		<pubDate>Thu, 02 Jul 2009 06:41:26 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Technik]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=2044</guid>
+		<description><![CDATA[Wer Themes verkauft, muss den Quellcode unter die GPL stellen.]]></description>
+				<content:encoded><![CDATA[<p>Wie im WordPress Blog zu lesen ist, sind alle WordPress Themese <a href="http://wordpress.org/development/2009/07/themes-are-gpl-too/">unter der GPL zu lizenzieren</a>.</p>
+<p>Themes seien nach Analyse der Experten des <a href="http://en.wikipedia.org/wiki/Software_Freedom_Law_Center">Software Freedom Law Center</a> lediglich eine Reihe von Aufrufen der WordPress-Funktionen und dadurch kein eigenständiges Werk.</p>
+<blockquote><p>The PHP elements, taken together, are clearly derivative of WordPress code. The template is loaded via the include() function. Its contents are combined with the WordPress code in memory to be processed by PHP along with (and completely indistinguishable from) the rest of WordPress. The PHP code consists largely of calls to WordPress functions and sparse, minimal logic to control which WordPress functions are accessed and how many times they will be called. They are derivative of WordPress because every part of them is determined by the content of the WordPress functions they call. As works of authorship, they are designed only to be combined with WordPress into a larger work.</p></blockquote>
+<p>Für Autoren von kommerziellen Themes bedeutet das, dass sie ihrem Kunden das Template nur <a href="http://www.gnu.org/copyleft/gpl.html">GPL-Lizenziert</a> verkaufen dürfen. Eigene oder andere OpenSource-Lizenzen sind nicht zulässig. So darf auch die Weitergabe des Themes an andere, sogar gegen Bezahlung, nicht untersagt werden.</p>
+<p>Dies gilt ausdrücklich <strong>nur</strong> für den PHP-Code des Themes. Hiervon nicht betroffen sind Dateien wie z.B. CSS, JavaScript oder Bilder, die nicht durch WordPress eingelesen werden, sonder direkt durch den Webserver ausgelesen werden. Diese Bestandteile des Themes können separat lizenziert werden.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/2044.wordpress-themes-fallen-unter-die-gpl.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Autoren eines Blogs auflisten</title>
+		<link>https://m.tacker.org/1478.autoren-eines-blogs-auflisten.html</link>
+		<comments>https://m.tacker.org/1478.autoren-eines-blogs-auflisten.html#respond</comments>
+		<pubDate>Sat, 13 Sep 2008 09:49:42 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Wordpress]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=1478</guid>
+		<description><![CDATA[Code-Beispiel für Wordpress zum Auflisten aller Autoren eines Blogs sortiert nach Anzahl der Posts.]]></description>
+				<content:encoded><![CDATA[<p><img src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2008/09/wp-list-authors-example.jpg" alt="" title="Autoren eines Blogs auflisten: Beispiel" width="182" height="297" class="alignright size-full wp-image-1482" />Wenn man ein Blog beitreibt, an dem mehrere Autoren mit schreiben, kann es durchaus sinnvoll sein, alle Autoren auf zu listen. Da eine einfach Liste aber etwas langweilig ist, lasse ich in <a href="http://www.mediengestalter-blog.de/#authorlist">diesem Beispiel</a> die Liste noch nach Anzahl der Posts sortieren. </p>
+<p>Hier ist der <a href='https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2008/09/wp-list-authors.txt'>Quellcode</a> für WordPress dazu, der einfach in z.B. die sidebar.php eingefügt werden kann.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1478.autoren-eines-blogs-auflisten.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>WordPress mit Google Maps versehen</title>
+		<link>https://m.tacker.org/1170.wordpress-mit-google-maps-versehen.html</link>
+		<comments>https://m.tacker.org/1170.wordpress-mit-google-maps-versehen.html#respond</comments>
+		<pubDate>Sat, 14 Jun 2008 15:27:55 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Wordpress]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=1170</guid>
+		<description><![CDATA[Es macht durchaus Sinn, einige Beiträge mit geografischen Informationen zu versehen &#8212; umgangssprachlich auch &#8220;GeoTagging&#8221; genannt. Bei mir im Blog sind das vor allem Fotos und zum Beispiel auch die Qype-Beiträge. An die Umsetzung habe ich mich heute Nachmittag gemacht. Mit dem WordPress-Plugin &#8220;Geo Mashup&#8221; lässt sich jeder Beitrag mit einer Geo-Koordinate versehen. Diese kann [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Es macht durchaus Sinn, einige Beiträge mit geografischen Informationen zu versehen &mdash; umgangssprachlich auch &#8220;GeoTagging&#8221; genannt.</p>
+<p>Bei mir im Blog sind das vor allem Fotos und zum Beispiel auch die Qype-Beiträge.</p>
+<p>An die Umsetzung habe ich mich heute Nachmittag gemacht. Mit dem WordPress-Plugin &#8220;<a href="http://code.google.com/p/wordpress-geo-mashup/">Geo Mashup</a>&#8221; lässt sich jeder Beitrag mit einer Geo-Koordinate versehen. Diese kann dann im Template mit vorgefertigten Template-Tags ausgelesen werden. Details dazu finden sich in der <a href="http://code.google.com/p/wordpress-geo-mashup/wiki/Documentation">Dokumentation von Geo Mashup</a>.</p>
+<p>In meiner Umsetzung habe ich nur die Methode <code>GeoMashup::post_coordinates();</code> verwendet und mich denn selber um das Erstellen der Kartenanzeige gekümmert. <a href="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2008/06/wordpress-googlemaps.txt">Hier</a> findet sich der entsprechenden PHP-Code.</p>
+<p>Einige Beiträgen habe ich inzwischen mit Koordinaten versehen, beispielsweise das Foto <a href="https://m.tacker.org/1155.eingang-des-louvre.html">Eingang des Louvre</a> und die Qype-Review vom <a href="https://m.tacker.org/1163.quatsch-comedy-club.html">Quatsch Comedy Club</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1170.wordpress-mit-google-maps-versehen.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Neues Theme</title>
+		<link>https://m.tacker.org/922.neues-theme.html</link>
+		<comments>https://m.tacker.org/922.neues-theme.html#comments</comments>
+		<pubDate>Fri, 14 Mar 2008 08:16:44 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[Wordpress]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/922.neues-theme.html</guid>
+		<description><![CDATA[Endlich hab ich das neue Theme soweit, dass ich zumindest das Blog in ein neues Gewand kleiden kann. Nach vier Jahren KISS ist das neue Theme eine komplette Eigenentwicklung, die Schrift für die Headlines ist die AUdimat von SMeltery, die Icons kommen von FAMFAMFAM, die Lightbox ist eine Übersetzung der Slimbox. Auf der Todo-Liste stehtnoch: [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src='https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2008/03/blog-themes.jpg' alt='Blog Themes (2002-2008)' class='full' /><br />
+Endlich hab ich das neue Theme soweit, dass ich zumindest das Blog in ein neues Gewand kleiden kann.</p>
+<p>Nach <a href="https://m.tacker.org/525.blog-theme.html">vier Jahren KISS</a> ist das neue Theme eine komplette Eigenentwicklung, die Schrift für die Headlines ist die AUdimat von <a href="http://www.smeltery.net/">SMeltery</a>, die Icons kommen von <a href="http://www.famfamfam.com/">FAMFAMFAM</a>, die Lightbox ist eine <a href="https://m.tacker.org/939.slimbox-auf-deutsch.html">Übersetzung der Slimbox</a>.</p>
+<p>Auf der Todo-Liste stehtnoch:</p>
+<ol>
+<li>Theme-Texte übersetzen (die sind in englisch angelegt, da ich das Theme unter die GPL stellen will)</li>
+<li>IE7/IE6 Bugs beheben</li>
+<li><span style="text-decoration: line-through;">Fotos integrieren</span></li>
+<li><span style="text-decoration: line-through;">Portfolio integrieren</span></li>
+<li><span style="text-decoration: line-through;">Altes Blog nach WordPress umziehen</span></li>
+</ol>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/922.neues-theme.html/feed</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Blog-Theme</title>
+		<link>https://m.tacker.org/525.blog-theme.html</link>
+		<comments>https://m.tacker.org/525.blog-theme.html#comments</comments>
+		<pubDate>Mon, 02 Oct 2006 15:40:21 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/525.blog-theme.html</guid>
+		<description><![CDATA[Das Theme für dieses Blog basiert auf KISS von Oinam Software und wurde lediglich etwas verbreitert und etwas an meine Bedürfnisse angepasst (Datum, Links). Es kann hier heruntergeladen werden.]]></description>
+				<content:encoded><![CDATA[<p><img id="image526" src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/10/2006-10-02_174306.thumbnail.png" alt="m.tacker.org Theme: KISS" class="right" />Das Theme für dieses Blog basiert auf <a href="http://labs.oinam.com/css/kiss/">KISS</a> von <a href="http://www.oinam.com/">Oinam Software</a> und wurde lediglich etwas verbreitert und etwas an meine Bedürfnisse angepasst (Datum, Links).</p>
+<p>Es kann <a href="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/10/kiss2.zip">hier</a> heruntergeladen werden.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/525.blog-theme.html/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>ViewLevel-Plugin fixed</title>
+		<link>https://m.tacker.org/389.viewlevel-plugin-fixed.html</link>
+		<comments>https://m.tacker.org/389.viewlevel-plugin-fixed.html#respond</comments>
+		<pubDate>Wed, 05 Jul 2006 11:32:33 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PHP]]></category>
+		<category><![CDATA[Wordpress]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/389.viewlevel-plugin-fixed.html</guid>
+		<description><![CDATA[Changeset 3951 of WordPress finally removed the old table variables. This broke the ViewLevel-Plugin I was using. You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near &#8216;WHERE meta_key=&#8217;viewlevel&#8217; AND meta_value &#62; 10&#8242; at line 1 I&#8217;ve fixed the plugin [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://trac.wordpress.org/changeset/3951">Changeset 3951</a> of <a href="http://www.wordpress.org/">WordPress</a> finally removed the old table variables. This broke the <a href="http://blog.firetree.net/2005/08/25/viewlevel-20/">ViewLevel-Plugin</a> I was using.</p>
+<blockquote><p>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near &#8216;WHERE meta_key=&#8217;viewlevel&#8217; AND meta_value &gt; 10&#8242; at line 1</p></blockquote>
+<p>I&#8217;ve fixed the plugin so it&#8217;s now using the right variables.</p>
+<p>You can download it here: <a href="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/07/viewlevel21.zip" id="p388">ViewLevel 2.1</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/389.viewlevel-plugin-fixed.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>MySQL update on Gentoo broke my WordPress blog</title>
+		<link>https://m.tacker.org/277.mysql-update-on-gentoo-broke-my-wordpress-blog.html</link>
+		<comments>https://m.tacker.org/277.mysql-update-on-gentoo-broke-my-wordpress-blog.html#respond</comments>
+		<pubDate>Thu, 13 Apr 2006 12:59:13 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[PHP]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/277.mysql-update-on-gentoo-broke-my-wordpress-blog.html</guid>
+		<description><![CDATA[This weeks update of MySQL on Gentoo introduced UTF-8 as the default character set. This is without doubt the right decision. But it caused some trouble with wordpress. Basically, the title fields of WordPress posts were stored utf8 encoded in the database, this caused them to be displayed like Hersteller von Heizkesseln f&#195;&#188;r Holz So, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>This weeks update of MySQL on <a href="https://m.tacker.org/">Gentoo</a> introduced UTF-8 as the default character set. This is without doubt the right decision. But it caused some trouble with wordpress.</p>
+<p>Basically, the title fields of WordPress posts were stored utf8 encoded in the database, this caused them to be displayed like</p>
+<blockquote><p>Hersteller von Heizkesseln f&Atilde;&frac14;r Holz</p></blockquote>
+<p>So, I&#39;ve update my <a href="https://m.tacker.org/64.script-to-convert-wordpress-content-encoding.html">Script to convert WordPress&rsquo; content encoding</a> to cope with that. It updates the table and fields to use UTF-8 as encoding and collation and optionally decodes utf8 encoded content. Se the <a href="https://m.tacker.org/trac/smallprojects/changeset?new=wordpress%2Fconvert-encoding.php%4023&amp;old=trunk%2Fconvert-encoding.php%4020">change log</a> for details.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/277.mysql-update-on-gentoo-broke-my-wordpress-blog.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Script to convert WordPress&#8217; content encoding</title>
+		<link>https://m.tacker.org/64.script-to-convert-wordpress-content-encoding.html</link>
+		<comments>https://m.tacker.org/64.script-to-convert-wordpress-content-encoding.html#comments</comments>
+		<pubDate>Mon, 12 Dec 2005 21:18:13 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PHP]]></category>
+		<category><![CDATA[Wordpress]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[most visited]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=64</guid>
+		<description><![CDATA[This script converts the encoding of all database entries of wordpress into another encoding.]]></description>
+				<content:encoded><![CDATA[<p>I&#39;ve just created a script which converts the encoding of all database entries of wordpress into another encoding.<br />
+In most cases you would convert into UTF-8.</p>
+<p><b>IMPORTANT!</b><br />
+Remember to dumpy your database first</p>
+<p><code>mysqldump --opt DB_NAME</code></p>
+<p>Or use phpMyAdmin:<br />
+<a href="http://www.zerokspot.com/docs/howto.phpmyadmin.backup_and_restore/">http://www.zerokspot.com/docs/howto.phpmyadmin.backup_and_restore/</a><br />
+<a href="http://www.phpmyadmin.net/documentation/#faq6_3">http://www.phpmyadmin.net/documentation/#faq6_3</a></p>
+<p>Do NOT run this script more then once</p>
+<p>Place this script inside the wp-content folder of your blog and access it via the browser, e.g. http://yoursite.com/blog/wp-content/convert-encoding.php</p>
+<ul>
+<li><a href="https://raw.github.com/tacker/wordpress-convert-encoding/master/convert-encoding.php">convert-encoding.php</a></li>
+<li><a href="https://github.com/tacker/wordpress-convert-encoding">Source code on GitHub</a></li>
+</ul>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/64.script-to-convert-wordpress-content-encoding.html/feed</wfw:commentRss>
+		<slash:comments>43</slash:comments>
+		</item>
+		<item>
+		<title>Spam im Blog</title>
+		<link>https://m.tacker.org/7.spam-im-blog.html</link>
+		<comments>https://m.tacker.org/7.spam-im-blog.html#respond</comments>
+		<pubDate>Thu, 02 Dec 2004 16:12:34 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/7.spam-im-blog.html</guid>
+		<description><![CDATA[Nach 2 Tagen die ersten Einträge.]]></description>
+				<content:encoded><![CDATA[<p>Die Jungs sind echt flott. Erst zwei Tage war dieses Blog online und schon hatte ich die ersten vier Spam-Kommentare drin.<br />
+Mit einem Wort-Filter kann man dem gut vorbeugen.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/7.spam-im-blog.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

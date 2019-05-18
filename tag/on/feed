@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>On &#8211; [|] m.tacker.org</title>
+	<atom:link href="https://m.tacker.org/tag/on/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Tue, 12 Jan 2016 11:45:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>lifeisbetteron. Not, yet!</title>
+		<link>https://m.tacker.org/2423.lifeisbetteron-not-yet.html</link>
+		<comments>https://m.tacker.org/2423.lifeisbetteron-not-yet.html#comments</comments>
+		<pubDate>Wed, 23 Jun 2010 19:59:56 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[HTC Desire]]></category>
+		<category><![CDATA[lifeisbetteron]]></category>
+		<category><![CDATA[On]]></category>
+		<category><![CDATA[Twitter]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=2423</guid>
+		<description><![CDATA[On ist eine App für Android des britischen Mobilfunkanbieters Orange, die verspricht, alle persönlichen Kontakte und die Kommunikation mit diesen zentral managen zu können — und das angenehm, schnell und sicher. Es stehen neben den Telefonbuchkontakten auch die Daten aus den Konten in sozialen Netzwerken zur Verfügung. Das verspricht natürlich einiges an Komfort auf das [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img class="alignright size-full wp-image-2424" title="On" src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2010/06/on-logo-stay-close-to-the-people-who-matter_bigger.png" alt="" width="73" height="73" /><a href="http://lifeisbetteron.com/">On</a> ist eine App für Android des britischen Mobilfunkanbieters Orange, die verspricht, alle persönlichen Kontakte und die Kommunikation mit diesen zentral managen zu können — und das angenehm, schnell und sicher. Es stehen neben den Telefonbuchkontakten auch die Daten aus den Konten in sozialen Netzwerken zur Verfügung.</p>
+<p>Das verspricht natürlich einiges an Komfort auf das Smartphone zu bringen. Mit dem neuesten Update funktioniert On nun auch mit einer deutschen Handynummer — und ich konnte es heute zum ersten Mal testen.</p>
+<p>Nach der Aktualisierung über den Android Market klappte das Einrichten des Nutzerkontos problemlos — allerdings ist eine Handynummer nötig, wobei mir nicht ersichtlich ist, wofür diese benötigt wird.</p>
+<p>Nach der Installation importiert On alle Kontakte des Telefons, auf dem HTC Desire aber nur eine seltsame unergründliche Auswahl. Die Quelle — ob von der SIM, vom Handy oder aus anderer Quelle — ist nicht ersichtlich.</p>
+<p>Möchte man nun die Kontakte aus seinen sozialen Netzwerken hinzufügen, geht das nicht in der App, man muss sich mit dem trägen Flash-Client auf der Webseite begnügen, der mich übrigens auch mehrfach einfach ausgeloggt hat. Die Passwort-Vergessen-Funktion verschickt, nebenbei bemerkt, eure gesetzten Passwörter im Klartext, diese können also jederzeit in den Datenbanken von On eingesehen werden.</p>
+<h3>Verknüpfen mit Sozialen Netzwerken</h3>
+<p>On ermöglicht diese zentrale Verwaltung mit Hilfe eines serverbasierten Dienstes, der alle Konten synchronisiert und Verbindungen zwischen den selben Kontakten aus verschiedenen Quellen erkennt und verknüpft.</p>
+<p>Und hier sind wir auch schon beim nächsten bedenklichen Punkt: Alle Verknüpfungen mit den Konten erfolgen durch Eingabe des Konto-Logins und Passwortes — ob diese Dauerhaft gespeichert werden sei einmal dahin gestellt — eine große Sicherheitslücke und zu dem grundsätzlich nicht nötig, da Facebook und Twitter inzwischen die Möglichkeit anbieten, auf die Nutzerdaten ohne Nutzername und Passwort zu zu greifen.</p>
+<h3>Fazit</h3>
+<p>Trotz guter Vorschusslorbeeren, die das Team von On auch gerne in ihrem<a href="http://twitter.com/lifeisbetteron"> Twitter-Kanal</a> verbreitet, sorgte das fehlerhafte Webinterface und vor allem der mangelhafte Umgang mit Zugangsdaten bei mir schnell dafür, On wieder zu deinstallieren — immerhin: Eine Option zum Löschen des Kontos ist vorhanden.</p>
+<p>Das Konzept ist jedoch so viel versprechend, und deswegen in ein paar Monaten sicherlich wieder eine Testfahrt wert.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/2423.lifeisbetteron-not-yet.html/feed</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+	</channel>
+</rss>

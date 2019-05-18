@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>pc2012 &#8211; [|] m.tacker.org</title>
+	<atom:link href="https://m.tacker.org/tag/pc2012/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Tue, 12 Jan 2016 11:45:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>Define R3 &#8211; Erste Lieferung mit Qualitätsproblemen</title>
+		<link>https://m.tacker.org/3060.define-r3-erste-lieferung-mit-qualitatsproblemen.html</link>
+		<comments>https://m.tacker.org/3060.define-r3-erste-lieferung-mit-qualitatsproblemen.html#respond</comments>
+		<pubDate>Tue, 01 Nov 2011 15:06:13 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Technik]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[pc2012]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=3060</guid>
+		<description><![CDATA[Heute ist mein Fractal Design Define R3 gekommen &#8212; wie man auf den Fotos gut sehen kann, mit einem hässlichen Fehler: die linke Seitenwand wurde wohl nicht richtig zugemacht und die Schraube mit Gewalt zugedreht, was dazu geführt hat, dass sich das Blech verbogen hat. Deswegen geht der Tower auch direkt in die Retoure, und [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Heute ist mein <a href="http://amzn.to/pfcsYt">Fractal Design Define R3</a> gekommen &mdash; wie man auf den Fotos gut sehen kann, mit einem hässlichen Fehler: die linke Seitenwand wurde wohl nicht richtig zugemacht und die Schraube mit Gewalt zugedreht, was dazu geführt hat, dass sich das Blech verbogen hat. Deswegen geht der Tower auch direkt in die Retoure, und dank kostenlosem Midnightshopping bei Mindfactory bestelle ich heute direkt einen neuen &dmash; so muss ich nicht auf den Austauschtower warten.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/3060.define-r3-erste-lieferung-mit-qualitatsproblemen.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>GTX 580 &#8211; diesmal keine Kompromisse</title>
+		<link>https://m.tacker.org/3050.gtx-580-diesmal-keine-kompromisse.html</link>
+		<comments>https://m.tacker.org/3050.gtx-580-diesmal-keine-kompromisse.html#respond</comments>
+		<pubDate>Mon, 31 Oct 2011 09:56:40 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Technik]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[pc2012]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=3050</guid>
+		<description><![CDATA[Am Wochenende habe ich die restlichen Teile für meinen PC2012 bestellt. Dabei habe ich mich in Sachen Grafik noch einmal umentschieden und eine GTX 580 in den Warenkorb gelegt. Der Grund? In den vergangenen Jahren habe ich immer wieder Kompromisse bei der Wahl der Grafikkarte gemacht, und mich für das jeweils günstigere Modell entschieden (Radeon [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center"><a href="http://amzn.to/tmbVNs"><img src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2011/10/3719.jpg" alt="GIGABYTE GeForce GTX580" width="500" height="457" class="size-full wp-image-3053" /></a></div>
+<p>Am Wochenende habe ich die restlichen Teile für meinen <a href="https://m.tacker.org/2938.pc-2012.html">PC2012</a> bestellt. Dabei habe ich mich in Sachen Grafik noch einmal umentschieden und eine <a href="http://amzn.to/tmbVNs">GTX 580</a> in den Warenkorb gelegt.</p>
+<p>Der Grund? In den vergangenen Jahren habe ich immer wieder Kompromisse bei der Wahl der Grafikkarte gemacht, und mich für das jeweils günstigere Modell entschieden (Radeon 9800 Pro, Geforce 8800 GT). Das waren jeweils gute Grafikkarten, keine Frage.</p>
+<p>Diesmal habe ich mich jedoch für das Top-Modell entschieden. Zum einen ist die GXT 580 nur etwa 80 € teurer als die GTX 570 und zum anderen habe ich damit noch mehr Leistungsreserven für die nächsten Jahre und kann länger auf den Kauf einer zweiten Karte verzichten. Zudem habe ich dann jetzt schon die perfekte Ausstattung um <a href="http://amzn.to/u5ewns">Battlefield 3</a>, was der Titel sein wird, den ich in der nächsten Zeit am häufigsten spiele, mit allen grafischen Finessen in Full-HD spielen zu können.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/3050.gtx-580-diesmal-keine-kompromisse.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>PC 2012: Update #1</title>
+		<link>https://m.tacker.org/3007.pc-2012-update-1.html</link>
+		<comments>https://m.tacker.org/3007.pc-2012-update-1.html#respond</comments>
+		<pubDate>Sat, 15 Oct 2011 20:40:45 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Technik]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[pc2012]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=3007</guid>
+		<description><![CDATA[Ich habe habe ich meine erste Zusammenstellung zum PC 2012 einer großen Überarbeitung unterzogen. Nachdem mich ein Kollege darauf hingewiesen hat, dass man Gehäuse ja durchaus mehrere Generationen einsetzen kann, habe ich mich auf die Suche nach einem anderen Gehäuse gemacht. Zudem muss man sagen, dass die AeroCool-Gehäuse zwar günstig sind, aber doch recht klapprig [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Ich habe habe ich meine erste Zusammenstellung zum <a href="https://m.tacker.org/2938.pc-2012.html">PC 2012</a> einer großen Überarbeitung unterzogen. </p>
+<p>Nachdem mich ein Kollege darauf hingewiesen hat, dass man Gehäuse ja durchaus <em>mehrere Generationen</em> einsetzen kann, habe ich mich auf die Suche nach einem anderen Gehäuse gemacht. Zudem muss man sagen, dass die AeroCool-Gehäuse zwar günstig sind, aber doch recht klapprig sind. Mir war neben besseren Material auch die Entkopplung der Festplatten wichtig. Da µATX nicht wirklich ein Muss war, sondern lediglich die Größe des Towers nicht zu riesig sein sollte, bin ich hier auch nicht wirklich festgelegt.</p>
+<p><a href="http://amzn.to/pfcsYt"><img src="http://bit.ly/mP09GT" class="alignright" /></a>Nach einigen Stunden suchen und vergleichen, habe ich mich für das <a href="http://amzn.to/pfcsYt">Fractal Design Define R3</a>, natürlich in der USB 3.0 Variante, entschieden, das neben einer kompletten Entkopplung aller Laufwerke, viele Möglichkeiten zur Montage von Lüftern bietet und zudem durch die Tür keine hässlichen Blenden für 5,25-Zoll-Laufwerke hat, die ich eben nicht benötige. Desweiteren ist dieser Tower bereits werkseitig gedämmt.</p>
+<p>Mit dem größeren Gehäuse ist auch Platz für ein ATX-Mainboard, hier habe ich mich aufgrund der sehr guten Ausstattung jetzt für ein <a href="http://amzn.to/oIxjjD">Asrock P67 Extreme6</a> entschieden.</p>
+<p>Zusätzlich habe ich mich entschieden, nur 8 GB RAM zu verbauen &mdash; sollte ich doch tatsächlich mehr benötigen lassen sich zwei zusätzliche Riegel leicht nachrüsten. Die gesparten 40 € fließen demnach direkt in das bessere Gehäuse.</p>
+<p>Inzwischen haben ich mich auch auf den i7 festgelegt, dieser bietet im Moment einfach die bester Leistung für einen Desktop-Rechner auf dem Markt &mdash; auch der <a href="http://www.tomshardware.de/fx-8150-zambezi-bulldozer-990fx,testberichte-240885.html">AMD Bulldozer bietet keine nennenswerte Mehrleistung</a>.</p>
+<p>Auch mein <a href="https://m.tacker.org/2938.pc-2012.html#cooling">Kühlkonzept</a> habe ich in der Konfiguration jetzt aufgenommen.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/3007.pc-2012-update-1.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>PC 2012</title>
+		<link>https://m.tacker.org/2938.pc-2012.html</link>
+		<comments>https://m.tacker.org/2938.pc-2012.html#comments</comments>
+		<pubDate>Tue, 27 Sep 2011 16:02:58 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Technik]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[pc2012]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=2938</guid>
+		<description><![CDATA[Vier Jahre sind rum und nun ist es wieder an der Zeit einen neuen Rechner zu bauen. Auch diesemal möchte ich wieder einen kleinen Tower, diese sind zum Kunden und zu LAN-Parties einfach geiler zu transportieren, weil man sie so schön unter den Arm klemmen kann — auch wenn mein beiden 24&#8243;-LCDs das Thema Transport [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Vier Jahre sind rum und nun ist es wieder an der Zeit einen neuen Rechner zu bauen. Auch diesemal möchte ich wieder einen kleinen Tower, diese sind zum Kunden und zu LAN-Parties einfach geiler zu transportieren, weil man sie so schön unter den Arm klemmen kann — auch wenn mein beiden 24&#8243;-LCDs das Thema Transport wieder <em>ad absurdum</em> führen.</p>
+<p>Die wichtigen Eckdaten sind also: <strong>Midi-Tower mit Core i7-2600K, 8 GB RAM, 256 GB SSD, 3 TB HDD und Geforce GTX 580.</strong></p>
+<p>Die <a href="http://amzn.to/oPqiX7">Konfiguration</a> für etwa 1.600 € im Detail:</p>
+<h3 class="textimage">CPU, RAM und Mainboard</h3>
+<p>Zum Einsatz kommt der <a href="http://amzn.to/nLI2g7">Intel Core i7-2600K</a> (~260 €) auf einem <a href="http://amzn.to/oIxjjD">Asrock P67 Extreme6</a> (~125 €) mit 8 GB DDR3-RAM (<a href="http://amzn.to/naPpIE ">Corsair Vengeance</a>, ~55 €) im Dual-Channel-Modus.</p>
+<h3 class="textimage">Interner Speicher</h3>
+<p><a href="http://www.tomshardware.de/Flash-SSD-solid_state_drive,testberichte-240868.html">SSD muss 2012 einfach sein</a>. Als Systemplatte habe ich die <a href="http://amzn.to/qOJZal">256 GB Samsung SSD aus der 470er Serie</a> (~270 €) ausgewählt, die durch eine schnelle <a href="http://bit.ly/psok1y">1 TB Samsung Spinpoint F3</a> (~45 €) ergänzt wird. Also Backup- und Medienspeicher gesellt sich dazu noch eine <a href="http://amzn.to/p60BB3">2 TB Samsung EcoGreen F4</a> (~70 €).</p>
+<p>Die <a href="http://amzn.to/reJXim">ADATA S511 mit 240GB</a> find ich auch sehr interessant, allerdings ist die mit 350 € doch einen Ticken zu teuer, <a href="http://www.tomshardware.de/Marvell_88SS9174-SF-1222-SF-2281-Intel_PC29AS21BA0-vergleichstest,testberichte-240887-27.html">auch wenn ihre Leistung sehr gut ist</a>.</p>
+<h3 class="textimage">Wechselmedien</h3>
+<p><strong>Keine.</strong> Die brauche ich schon lange nicht mehr.</p>
+<h3 class="textimage">Grafik</h3>
+<p>Ein großes Thema ist natürlich die Grafikkarte — hier bleibe ich den NVidia-Karten treu und entscheide mich wegen dem guten Kühlkonzept für die <a href="http://amzn.to/tmbVNs">Gigabyte GeForce GTX 580 mit 1,5 GB GDDR5</a> (~400 €) &mdash; das ist damit das erste Mal, dass ich bei der Wahl der Grafikkarte keine Kompromisse mache, die GTX 580 ist die momentan schnellste Single-Core-GPU auf dem Markt.</p>
+<p><a href="http://www.geforce.com/Optimize/Guides/battlefield-3-beta-performance-guide"><img src="http://www.geforce.com/Active/en_US/shared/images/guides/battlefield-3-beta/bf3-performance-chart.png" alt="Battlefield 3 Beta Performance" width="520" /></a></p>
+<h3 class="textimage">Tower und Netzteil</h3>
+<p><a href="http://amzn.to/pfcsYt"><img class="alignright" src="http://bit.ly/mP09GT" alt="" /></a>Alle Teile werden in den <a href="http://amzn.to/pfcsYt">Fractal Design Define R3</a> verbaut — natürlich in der USB 3.0 Variante — der neben einer kompletten Entkopplung aller Laufwerke, viele Möglichkeiten zur Montage von Lüftern bietet und zudem durch die Tür keine hässlichen Blenden für 5,25-Zoll-Laufwerke hat, die ich eben nicht benötige. Desweiteren ist dieser Tower bereits werkseitig gedämmt.</p>
+<p>Als Netzteil habe ich das <a href="http://geizhals.at/deutschland/544258">Seasonic X-760</a> (~170 €) gewählt.</p>
+<h3 id="cooling" class="textimage">Kühlung</h3>
+<p>Als CPU-Kühler setze ich auf den <a href="http://amzn.to/vd9Tan">EKL Alpenföhn Nordwand</a> (~34 €). Im Gehäuse kommen in der Front zwei <a href="http://amzn.to/p7ySrR">Noiseblocker Black Silent XL1 mit 120mm</a> aus meinem alten Gehäuse zum Einsatz, die als Ersatz für die beiden eher lauten Lüfter von Fractal Design dienen. Zusätzlich verbaue ich einen dritten XL1 in der Rückwand. Für die Kühlung der Grafikkarte sorgt ein <a href="http://amzn.to/r77Rip">EKL Alpenföhn Föhn 140mm</a> (~14 €) den ich im Boden einsetzen werden. Für den Abzug der Luft nach oben, setze ich das gleiche Modell im Deckel ein. Gesteuert werden die Gehäuselüfter mit der <a href="http://amzn.to/qRcizd">NZXT Sentry Mesh</a> (~22 €), die sich hinter der Tür verstecken lässt.</p>
+<h3 class="textimage">Erkenntnisse und Hintergründe</h3>
+<p>Zur Anschaffung eines neuen Rechners gehört es auch, sich durch hunderte Reviews zu quälen. Dabei habe ich folgendes gelernt:</p>
+<ul>
+<li>SSD bringen im Verhältnis sehr viel Leistungsgewinn, es muss also einen rein</li>
+<li>Große SSDs sind schneller als Kleine (kleiner gleich 64 GB)</li>
+<li>16 GB RAM kann man nur schwerlich auslasten, bei dem Preis schadet es aber nichts</li>
+<li>Der Z68-Chipsatz <a href="http://www.noobtech.at/2845/vergleich-intel-p67-vs-z68/">ist nur marginal schneller</a> und <a href="http://www.tomshardware.de/intel-z68-express-smart-response-ssd-caching-Virtu,testberichte-240783.html">die neuen Features (SSD-Caching und virtuelle Grafikarten)</a> für mich uninteressant — mit einem P67-Board kann man also Geld sparen</li>
+<li>Der GTX 570 ist in einigen Bereichen langsamer als der 560 Ti, insgesamt aber die bessere Wahl</li>
+<li><a href="http://eu.evga.com/support/warranty/">EVGA bietet keine lebenslange Garantie mehr</a></li>
+<li>Der i7 lässt sich ohne viel Aufwand auf 4,5 GHz übertakten</li>
+<li>CPU-Kühler mit an die 1.000 g Gewicht sind keine Seltenheit mehr</li>
+</ul>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/2938.pc-2012.html/feed</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>PC 2012: AMD oder Intel</title>
+		<link>https://m.tacker.org/2936.pc-2012-amd-oder-intel.html</link>
+		<comments>https://m.tacker.org/2936.pc-2012-amd-oder-intel.html#comments</comments>
+		<pubDate>Tue, 27 Sep 2011 10:25:01 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Technik]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[pc2012]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=2936</guid>
+		<description><![CDATA[Vor acht bzw. vier Jahren viel mir die Entscheidung noch leicht: 2003 musste es ein AMD Athlon XP sein, da dieser wunderbar zu übertakten war und noch zudem deutlich günstiger als ein Intel Pentium 4 mit vergleichbarer Leistung — 2008 dann viel die Wahl ganz klar auf den Intel Core 2 Quad Q6600, da zu [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Vor <a href="https://m.tacker.org/789.pc-2003.html">acht</a> bzw. <a href="https://m.tacker.org/788.pc-2008.html">vier Jahren</a> viel mir die Entscheidung noch leicht: 2003 musste es ein AMD Athlon XP sein, da dieser wunderbar zu übertakten war und noch zudem deutlich günstiger als ein Intel Pentium 4 mit vergleichbarer Leistung — 2008 dann viel die Wahl ganz klar auf den Intel Core 2 Quad Q6600, da zu diesem Zeitpunkt AMD diesem hervorragenden Vierkern nichts entgegen zu setzen hatte. Seither läuft der Q6600 mit 3,2 GHz bei mir übertaktet und sehr stabil.</p>
+<p>Nun sind wieder vier Jahre vorbei und <a href="http://www.amazon.de/gp/product/B004MW4BHK?ie=UTF8&#038;tag=mtaor-21&#038;linkCode=shr&#038;camp=3206&#038;creative=21426&#038;creativeASIN=B004MW4BHK">Battlefield 3</a> steht vor der Tür, und mein Rechner erfüllt gerade einmal die <a href="http://www.krawall.de/web/Battlefield_3/news/id,59724/">Mindestanforderungen dafür</a> — ergo ist es Zeit für einen neuen.</p>
+<p>In diesem Jahr stehe aber vor der Wahl zwischen einem Intel Core i7 oder einen AMD Phenom II X6.</p>
+<p>Würde ich mit dem Rechner nur zocken wollen, würde ich direkt den i7 nehmen, aber ich werde ich den nächsten vier Jahren vor allem mit der Maschine entwicklen. Es läuft also zu 90% Linux mit vielen gleichzeitig aktiven Prozessen — eben alles, was ein Webanwendungsentwickler so braucht: einen Webserver, ein bis zwei Datenbanken (eine SQL und eine No-SQL), Entwicklungsumgebung (Java, z.b. Eclipse oder PHPStorm), Webbrowser (Chrome oder Firefox) mit diversen Plugins, Skype, Musikplayer, Dropbox, Dateibrowser, mehrere offenen SSH-Verbindungen, dann öfters noch eine Instanz von OpenOffice oder einem PDF-Viewer um die unsäglichen Briefingdokumente zu lesen. Gut und gerne über ein Dutzend Vordergrundprogramme plus die ganzen Hintegrunddienste, dabei werden CPU und HDD schon extrem gefordert. Mein aktuelles System kommt damit dann an seine Leistungsgrenze. Und genau wegen der großen Menge an Prozessen stellt sich hier wirklich die Frage, ob nicht die 6 Kerne des Phenom II X6 für mich im Schnitt die besser Wahl wäre. Die Preisdifferenz von etwa 100 € kann man da getrost ignorieren.</p>
+<p><strong>Wie ist eure Meinung dazu?</strong></p>
+<p>Meine geplante <a href="https://m.tacker.org/2938.pc-2012.html">Rechnerkonfiguration für 2012 findet sich übrigens hier</a>.</p>
+<h3 class="textimage">Update 15. Oktober 2011</h3>
+<p>Inzwischen haben ich mich auch auf den i7 festgelegt, dieser bietet im Moment einfach die bester Leistung für einen Desktop-Rechner auf dem Markt &mdash; auch der <a href="http://www.tomshardware.de/fx-8150-zambezi-bulldozer-990fx,testberichte-240885.html">AMD Bulldozer bietet keine nennenswerte Mehrleistung</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/2936.pc-2012-amd-oder-intel.html/feed</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>Projekte &#8211; [|] m.tacker.org</title>
+	<atom:link href="https://m.tacker.org/category/projekte/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Tue, 12 Jan 2016 11:45:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>regfail</title>
+		<link>https://m.tacker.org/2386.regfail.html</link>
+		<comments>https://m.tacker.org/2386.regfail.html#comments</comments>
+		<pubDate>Sat, 20 Mar 2010 14:12:06 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Projekte]]></category>
+		<category><![CDATA[Server]]></category>
+		<category><![CDATA[Technik]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=2386</guid>
+		<description><![CDATA[Ich bereite gerade den Umzug diverser Projekte von meinem Gentoo-Server, der unten im Keller steht und mit meiner Arcor 6-MBit-DSL-Leitung (Upload: 768 KBit/s) im Internet hängt, auf einen VServer bei Greatnet vor. Da dort drei .de-Domains im Preis inbegriffen sind, habe ich bei meinem jetzigen Domain-Provider regfish drei Domains gekündigt, mit der Einstellung, die AuthInfos [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Ich bereite gerade den Umzug diverser Projekte von meinem Gentoo-Server, der unten im Keller steht und mit meiner Arcor 6-MBit-DSL-Leitung (Upload: 768 KBit/s) im Internet hängt, auf einen <a href="http://partners.webmasterplan.com/click.asp?ref=435754&#038;site=2430&#038;type=text&#038;tnb=60">VServer bei Greatnet</a> vor.</p>
+<p>Da dort drei .de-Domains im Preis inbegriffen sind, habe ich bei meinem jetzigen Domain-Provider <a href="http://regfish.de/">regfish</a> drei Domains gekündigt, mit der Einstellung, die AuthInfos zum Wechseln zu erzeugen. </p>
+<p>Bei zwei Domains hat das auch geklappt, aber die Dritte wurde von regfish an die DENIC zurückgegeben &mdash; dadurch kann ich sie jetzt nicht mehr im Admin-Interface bearbeiten, geschweige denn den A-Record bei Wechsel der IP-Adresse aktualisieren. Da hat wohl jemand vom Support den Haken an der falschen Stelle gesetzt. </p>
+<h3 class="textimage" id="update1">Update 22.03.2010</h3>
+<p>Inzwischen hat sich die Sache geklärt.<br />
+<strong>Es war kein Fehler von Regfish &mdash; sondern Service!</strong></p>
+<p>Die Domain lief zum 21.03.2010 aus, der Wechsel wurde am 18.03. beauftragt &#8230; somit hat Regfish alles richtig gemacht, und sogar kulanterweise nicht von ihrer 40-tägigen Kündigungsfrist Gebrauch gemacht.</p>
+<blockquote><p>Die Domain ist natürlich auch weiterhin noch auf Ihren Namen registriert, wird jedoch nicht mehr von uns verwaltet. Sie erhalten in den nächsten Tagen von DENIC Zugang zum DENIC-Transit um die Domain zu einem anderen Provider übertragen zu können.</p></blockquote>
+<p>Jo, mal sehen was daraus wird.<br />
+Praktischerweise ist es keine wichtige Domain.</p>
+<p><img src="http://banners.webmasterplan.com/view.asp?ref=435754&#038;site=2430&#038;type=text&#038;tnb=60&#038;js=1" width="1" height="1" /></p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/2386.regfail.html/feed</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>MProducts.de &#8211; Jugendsünden eines Webentwicklers</title>
+		<link>https://m.tacker.org/1838.mproductsde-jugendsunden-eines-webentwicklers.html</link>
+		<comments>https://m.tacker.org/1838.mproductsde-jugendsunden-eines-webentwicklers.html#respond</comments>
+		<pubDate>Sat, 21 Mar 2009 12:35:38 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Jugendsünden]]></category>
+		<category><![CDATA[mproducts]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=1838</guid>
+		<description><![CDATA[Wunderbar skurriles Webdesign: meine erste Homepage.]]></description>
+				<content:encoded><![CDATA[<p><img src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/fotos/550/mproducts/mproducts-1998-01.jpg" alt="" /></p>
+<p>An die 12 Jahre ist es nun her, dass ich meine ersten Gehversuche in HTML gemacht habe — und diese möchte ich euch einfach nicht vorenthalten. Schließlich ist <a href="http://coderbyheart.github.io/mproducts/">meine erste Homepage</a> ein wunderbares Beispiel dafür, wie auch heute noch absolute Anfänger Homepages bauen. Bei meinem Entwurf kommen einige wunderbar beknackte Eigenheiten zusammen:</p>
+<ul>
+<li>1-Seiten-Layout: Es gibt so wenig Inhalt, dass er nur für eine Seite reicht.</li>
+<li>GIFs, GIFs und noch mehr GIFs. Animationen fand ich aber damals schon doof.</li>
+<li>willkürlich Linksammlungen</li>
+<li>Lesbarkeit? Scheiß drauf, es gibt doch so viele tolle Farben!</li>
+<li>und natürlich darf ein großkotziger &#8220;wir&#8221;-Ton nicht fehlen</li>
+</ul>
+<p>Der Name &#8220;MProducts&#8221; ist rührt übrigens aus meiner damaligen Leidenschaft für das Pen&amp;Paper-Rollenspiel Shadowrun — das dem ein oder anderen sicher ein Begriff sein dürfte. Dort bezeichnete ich mit MProducts einen Konzern, der Auftraggeber für diverse Runs war und auch noch Waffen und Ausrüstungsgenstände produzierte.</p>
+<p>Zum Thema Shadowrun habe ich auch noch andere, herrlich skurrile Webseiten in meinen Backups gefunden. Diese werde ich nach und nach veröffentlichen.</p>
+<p>Achja, den Begriff BETA haben nicht irgendwelche hippen Web-2.0-Startups salonfähig gemacht, sondern Ich! Ganz oben stehts: &#8220;<em>BETA 3</em>&#8220;.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1838.mproductsde-jugendsunden-eines-webentwicklers.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Tessiner-Grill</title>
+		<link>https://m.tacker.org/1710.tessiner-grill.html</link>
+		<comments>https://m.tacker.org/1710.tessiner-grill.html#comments</comments>
+		<pubDate>Sun, 04 Jan 2009 13:44:16 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Essen]]></category>
+		<category><![CDATA[Projekte]]></category>
+		<category><![CDATA[Offenbach]]></category>
+		<category><![CDATA[qype]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/1710.qype-tessiner-grill-in-muhlheim.html</guid>
+		<description><![CDATA[Bewertung des Tessiner-Grills in Mühlheim]]></description>
+				<content:encoded><![CDATA[<p>Wir waren an einem <a href="https://m.tacker.org/1706.10-jahre.html">Samstag Abend</a> im Tessiner-Grill. Wir hatten reserviert und wurden auch gleich von der sehr freundlichen Service-Mitarbeitern zu unserem Platz begleitet, an dem wir schon das sehr leckere Griebenschmalz mit einem kleinen Brotkorb vorfanden.</p>
+<p>Anschließend konnten wir uns in die üppige Speisekarte vertiefen, auf der bestimmt über hundert Hauptgerichte zu finden sind, zählt man die Saison-Gerichte dazu.</p>
+<p>Ich habe mich für den Eidgenossentoast (16,90 €) entschieden. Das Gericht besteht aus einem guten Stück Rumpsteak, auf Toast mit Plizsauce und Saisonsalat. Der Salat war wirklich ausgezeichnet und frisch, das Fleisch fantastisch zart und perfekt gebraten &#8211; wie gewünscht medium. Allerdings war die Pilzsauce mit Dosenpilzen zubereitet, für den Preis hatte ich frische Pilze erwartet. <strong>Update vom 22. Juni 2009</strong>: Die Champignons und die Sauce sind entgegen meiner Aussage hausgemacht. Siehe hierzu den <a href="https://m.tacker.org/1710.tessiner-grill.html#comment-35694">Kommentar unten</a>.</p>
+<p>Meine Begleitung hatte das Grillpfännchen (14,70 €), drei sehr leckere Schweinemedaillions, auf Rösti mit Tomaten und Käse überbacken. Hier gab es an dem Fleisch ebenfalls nichts aus zu setzen, allerdings wollte die braune Fertigsauce nicht wirklich zum Gericht passen.</p>
+<p>Unsere Bedienung war immer sehr freundlich und das Essen war schnell am Tisch.</p>
+<p>Die Einrichtung ist urig, aber trotzdem schön hell, allerdings aufgrund des kleinen Gastraums etwas eng. Die Tische sind schön mit Kerze, frischen Blumen dekoriert und mit sauberen Stofftischdecken versehen.</p>
+<p>Getrübt wurde der Abend leider durch den kleinen Hinweis am Ende einer der Saison-Karte, dass keine EC- und Kreditkarten akzeptiert werden. Diese Umstand ist heut zu Tage eine Zumutung, und bewirkt einen Punkt Abzug. Auch auf der Internetseite des Grills wird nicht darauf hin gewiesen.</p>
+<p>Während meine Begleitung die Doppelte Kraftbrühe mit Ei (3,60 €) genoss &#8211; bestellt wurde eigentlich eine Klare Bouillon mit Backerbsen und Petersilie (1,95 €) &#8211; musste ich schnell zu einer Sparkasse in Mühlheim fahren, immerhin konnte mir die Bedienung den Weg beschreiben.</p>
+<p><strong>Fazit</strong></p>
+<p>Nettes, gemütliches Restaurant in schlechter Lage mit gutem Service und leckeren Gerichten, bei denen die Details leider eher lieblos ausgeführt werden.</p>
+<p>Der Abend war keine Enttäuschung, aber auch kein Highlight, so dass wir nicht nochmal hin gehen werden.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1710.tessiner-grill.html/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<georss:point>50.1177139 8.8439255</georss:point>	</item>
+		<item>
+		<title>iMac G5 (PPC) und Gentoo Linux</title>
+		<link>https://m.tacker.org/1681.imac-g5-ppc-und-gentoo-linux.html</link>
+		<comments>https://m.tacker.org/1681.imac-g5-ppc-und-gentoo-linux.html#respond</comments>
+		<pubDate>Thu, 01 Jan 2009 13:01:58 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Projekte]]></category>
+		<category><![CDATA[Gentoo]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=1681</guid>
+		<description><![CDATA[Gentoo Linux auf dem iMac G5]]></description>
+				<content:encoded><![CDATA[<p>Seit ein paar Tagen läuft unser iMac (erstes Modell der dritten Generation) mit Gentoo Linux.</p>
+<p>Allerdings sind noch einige Kleinigkeiten nicht ganz perfekt:</p>
+<ul>
+<li>Die Front-LED geht nicht, man sieht also nicht, ob der Mac läuft</li>
+<li><a href="http://forum.skype.com/index.php?showtopic=4153">Skype ist nicht für PPC verfügbar</a></li>
+<li><a href="http://labs.mozilla.com/projects/weave/">Mozilla Weave</a> funktioniert nicht unter PPC</li>
+<li><a href="http://get.adobe.com/de/flashplayer/otherversions/">Adobe Flash Player</a> gibt es nicht für PPC, dafür <a href="http://www.gnu.org/software/gnash/">Gnash</a> als Alternative</li>
+</ul>
+<p>Desweiteren  gibt es einige Bugs im schnellen nouveau-Treiber für die Grafikkarte, die beim langsameren nv-Treiber nicht auftreten.</p>
+<ul>
+<li><span style="text-decoration: line-through;"><a href="https://bugs.freedesktop.org/show_bug.cgi?id=19356">DPMS does not turn off LCD backlight on NV34M [GeForce FX Go5200]</a></span></li>
+<li><a href="https://bugs.freedesktop.org/show_bug.cgi?id=19356">Mouse cursors distorted on NV34M [GeForce FX Go5200]</a></li>
+</ul>
+<p>Hier sind die wichtigsten Konfigurations-Dateien:</p>
+<ul>
+<li><a href="http://projects.tacker.org/gentoo-on-imac-g5/config.txt">kernel .config<br />
+</a></li>
+<li><a href="http://projects.tacker.org/gentoo-on-imac-g5/xorg.conf">xorg.conf</a></li>
+<li><a href="http://projects.tacker.org/gentoo-on-imac-g5/make.conf">make.conf</a></li>
+<li><a href="http://projects.tacker.org/gentoo-on-imac-g5/nvclock.txt">nvclock</a></li>
+</ul>
+<p>Sonstige Infos:</p>
+<ul>
+<li><a href="http://projects.tacker.org/gentoo-on-imac-g5/cpuinfo.txt">cpuinfo</a></li>
+<li><a href="http://projects.tacker.org/gentoo-on-imac-g5/meminfo.txt">meminfo</a></li>
+</ul>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1681.imac-g5-ppc-und-gentoo-linux.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Tenda TEG-1008: Die UPnP-Bremse</title>
+		<link>https://m.tacker.org/1494.tenda-teg-1008-die-upnp-bremse.html</link>
+		<comments>https://m.tacker.org/1494.tenda-teg-1008-die-upnp-bremse.html#comments</comments>
+		<pubDate>Thu, 18 Sep 2008 08:59:30 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Server]]></category>
+		<category><![CDATA[PS3]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=1494</guid>
+		<description><![CDATA[Ich versuche seit Montag meinen Linux-Server als Medienserver via UPnP der Playstation 3 schmackhaft zu machen. Doch alle Versuche scheiterten daran, dass die PS3 einfach keine Medienserver finden kann. Auch eine Freigabe mittels Windows Media Player unter Vista wurde nicht erkannt. Praktischerweise gibt es dieses Utility: Der UPnP Tester von Noël Danjou listet alle aktiven [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Ich versuche seit Montag meinen Linux-Server als Medienserver via <a href="http://de.wikipedia.org/wiki/UPnP">UPnP</a> der Playstation 3 schmackhaft zu machen. Doch alle Versuche scheiterten daran, dass die PS3 einfach keine Medienserver finden kann.</p>
+<p>Auch eine Freigabe mittels Windows Media Player unter Vista wurde nicht erkannt.</p>
+<p>Praktischerweise gibt es dieses Utility: Der <a href="http://www.noeld.com/programs.asp?cat=dstools#upnptest">UPnP Tester</a> von Noël Danjou listet alle aktiven UPnP-Endpunkte im Netz auf. Die Vista-Freigabe war auch nicht auf dem Laptop zu sehen, also habe ich den Switch mal ausgetauscht und siehe da: der <a href="http://www.tenda.cn/product/show.php?productid-221.html">Tenda TEG-1008</a> ist Schuld. Er schluckt einfach die UPnP-Broadcast-Pakete.</p>
+<p>Jetzt muss ich erstmal einen Ersatz organisieren &#8230;</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1494.tenda-teg-1008-die-upnp-bremse.html/feed</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>5.734.400</title>
+		<link>https://m.tacker.org/1181.5734400.html</link>
+		<comments>https://m.tacker.org/1181.5734400.html#respond</comments>
+		<pubDate>Wed, 23 Jul 2008 06:41:37 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Server]]></category>
+		<category><![CDATA[fon]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=1181</guid>
+		<description><![CDATA[Austausch des Allnet 1297 durch La Fonera+ ermöglicht endlich volle DSL-Geschwindigkeit.]]></description>
+				<content:encoded><![CDATA[<p>Bis vor ein paar Tagen hatte ich mich damit abgefunden, dass an meinem 6-MBit-DSL-Zugang von Arcor nur 3.2 MBit (395 KB/s) möglich waren. Schließlich kann eine langsame Leitung viele Gründe haben, oft ist die Leitungsdämpfung zu groß. Möglich wäre auch gewesen, dass ich beim manuellen verkabeln der Arcor-Telefonanlage einen Fehler gemacht hatte.</p>
+<p>Allerdings hat mich <a href="http://www.dawitt.de/" rel="friend met neighbor">Daniel</a> drauf gestoßen, doch mal den <a href="https://m.tacker.org/98.new-router.html" rel="me">Allnet Router</a>, den ich vor zwei Jahren angeschafft hatte durch einen anderen aus zu tauschen, da dieser einfach technisch nicht in der Lage ist mehr als 2 bis 3 MBit am WAN-Port zu verarbeiten.</p>
+<p>Praktischerweise hatte ich noch einen Fonera+ als Access Point bei meiner Schwester im Einsatz, den ich flugs gegen den Fonera im Erdgeschoss getauscht habe. Der Fonera+ verfügt im Gegensatz zum Fonera über einen eingebauten Router. </p>
+<p>Die Installation war natürlich kein Problem, der Fonera+ unterstützt auch Portforwarding das für den Betrieb meines Heimservers unerlässlich ist.</p>
+<p>Im Ergebnis habe ich jetzt endlich die volle Bandbreite (5.7 MBit oder 700 KB/s) an meinem DSL-Anschluss &mdash; und zwei Allnet 1297 zu verschenken.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1181.5734400.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<georss:point>50.0950241 8.7621355</georss:point>	</item>
+		<item>
+		<title>PEAR Cache_Lite 1.7.3 release</title>
+		<link>https://m.tacker.org/1118.pear-cache_lite-173-release.html</link>
+		<comments>https://m.tacker.org/1118.pear-cache_lite-173-release.html#respond</comments>
+		<pubDate>Mon, 14 Apr 2008 17:58:40 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PEAR Cache_Lite]]></category>
+		<category><![CDATA[PHP]]></category>
+		<category><![CDATA[Projekte]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[PEAR]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=1118</guid>
+		<description><![CDATA[This is my first release for PEAR Cache_Lite. In March I took over the vacant developer position for this package as I am using it for many projects. After some initial hesitation, David nudged me to use cvs. I did &#8212; and 1.7.3 is the result. It&#8217;s just a bugfix release but after nearly two [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2008/04/pear-cache_lite.gif" alt="" title="PEAR Cache_Lite" width="199" height="46" class="alignright size-medium wp-image-1119" />This is my first release for <a href="http://pear.php.net/package/Cache_Lite">PEAR Cache_Lite</a>. In March I took over the vacant developer position for this package as I am using it for many projects. After some initial hesitation, <a href="http://blog.agoraproduction.com/">David</a> nudged me to use cvs. I did &mdash; and <a href="http://pear.php.net/package/Cache_Lite/download/1.7.3">1.7.3</a> is the result. It&#8217;s just a bugfix release but after nearly two years finally something to talk about for Cache_Lite.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1118.pear-cache_lite-173-release.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Slimbox auf deutsch</title>
+		<link>https://m.tacker.org/939.slimbox-auf-deutsch.html</link>
+		<comments>https://m.tacker.org/939.slimbox-auf-deutsch.html#comments</comments>
+		<pubDate>Mon, 24 Mar 2008 11:13:58 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Projekte]]></category>
+		<category><![CDATA[JavaScript]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/939.slimbox-auf-deutsch.html</guid>
+		<description><![CDATA[Ich habe den Lightbox-Klon Slimbox ins Deutsche übersetzt.]]></description>
+				<content:encoded><![CDATA[<p>Ich habe den Lightbox-Klon <a href="http://www.digitalia.be/software/slimbox">slimbox</a> ins Deutsche übersetzt.</p>
+<p>Die aktuelle Version (1.64) liegt nun als deutsche und als englische Fassung in diesem ZIP-Archiv bereit:</p>
+<ul>
+<li><a href="http://projects.tacker.org/slimbox/slimbox-1.64-[en,de].zip">slimbox-1.64-[en,de].zip</a> (für Mootools 2)</li>
+<li><a href="http://projects.tacker.org/slimbox/slimbox-1.41-[en,de].zip">slimbox-1.41-[en,de].zip</a> (für Mootools 1)</li>
+</ul>
+<p>Das Archiv enthält neben der ursprünglichen englische Fassung, die deutsche Version und eine .PSD-Datei um einfach weitere Übersetzungen anfertigen zu können.</p>
+<h3>Ausprobieren</h3>
+<p><a rel="lightbox[t610]" href="/content/all/images/t-six-ten/processed/1.jpg"><img src="/content/all/images/t-six-ten/processed/1_thumb.jpg" alt="" width="40" height="30" /></a><a rel="lightbox[t610]" href="/content/all/images/t-six-ten/processed/2.jpg"><img src="/content/all/images/t-six-ten/processed/2_thumb.jpg" alt="" width="40" height="30" /></a><a rel="lightbox[t610]" href="/content/all/images/t-six-ten/processed/12.jpg"><img src="/content/all/images/t-six-ten/processed/12_thumb.jpg" alt="" width="40" height="30" /></a><a rel="lightbox[t610]" href="/content/all/images/t-six-ten/processed/5.jpg"><img src="/content/all/images/t-six-ten/processed/5_thumb.jpg" alt="" width="40" height="30" /></a><a rel="lightbox[t610]" href="/content/all/images/t-six-ten/processed/6.jpg"><img src="/content/all/images/t-six-ten/processed/6_thumb.jpg" alt="" width="40" height="30" /></a><a rel="lightbox[t610]" href="/content/all/images/t-six-ten/processed/7.jpg"><img src="/content/all/images/t-six-ten/processed/7_thumb.jpg" alt="" width="40" height="30" /></a><a rel="lightbox[t610]" href="/content/all/images/t-six-ten/processed/8.jpg"><img src="/content/all/images/t-six-ten/processed/8_thumb.jpg" alt="" width="40" height="30" /></a><a rel="lightbox[t610]" href="/content/all/images/t-six-ten/processed/11.jpg"><img src="/content/all/images/t-six-ten/processed/11_thumb.jpg" alt="" width="40" height="30" /></a></p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/939.slimbox-auf-deutsch.html/feed</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>File_Bittorrent 2.1.0 release</title>
+		<link>https://m.tacker.org/862.file_bittorrent-210-release.html</link>
+		<comments>https://m.tacker.org/862.file_bittorrent-210-release.html#respond</comments>
+		<pubDate>Sat, 12 Jan 2008 10:56:41 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PEAR File_Bittorrent]]></category>
+		<category><![CDATA[Projekte]]></category>
+		<category><![CDATA[Bittorrent]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[PEAR]]></category>
+		<category><![CDATA[PHP]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/862.file_bittorrent-210-release.html</guid>
+		<description><![CDATA[I&#8217;ve just released File_Bittorrent 2.1.0. This is the stable release of the PHP5 only version of File_Bittorrent. New features include the ability to add a specific list of files while making a torrent. This feature has been implemented by Barry Hunter.]]></description>
+				<content:encoded><![CDATA[<p><img src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/07/file_bittorrent.gif" alt="PEAR::File_Bittorrent" class="right" />I&#8217;ve just released <a href="http://pear.php.net/package/File_Bittorrent2/">File_Bittorrent 2.1.0</a>. This is the stable release of the PHP5 only version of <a href="http://pear.php.net/package/File_Bittorrent/">File_Bittorrent</a>. New features include the ability to add a specific list of files while making a torrent. This feature has been implemented by <a href="http://barryhunter.co.uk">Barry Hunter</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/862.file_bittorrent-210-release.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Server jetzt mit fast 1 Terabyte</title>
+		<link>https://m.tacker.org/775.server-jetzt-mit-fast-1-terabyte.html</link>
+		<comments>https://m.tacker.org/775.server-jetzt-mit-fast-1-terabyte.html#respond</comments>
+		<pubDate>Wed, 05 Sep 2007 10:08:39 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Server]]></category>
+		<category><![CDATA[Hardware]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/775.server-jetzt-mit-fast-1-terabyte.html</guid>
+		<description><![CDATA[Seit gestern laufen die 6 Festplatten in meinem Server wieder stabil. Eine ganze Weile hatte ich das Problem, dass sich das System nach einem ata5: exception Emask 0x10 SAct 0x0 SErr 0x1990000 action 0x2 frozen ata5: hard resetting port immer wieder aufhing, bzw. beim Booten schon stehen blieb. In diversen Foren findet man den Hinweis, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src='https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2007/09/372514_1445.jpg' alt='Festplatte' class="right" />Seit gestern laufen die 6 Festplatten in meinem Server wieder stabil. Eine ganze Weile hatte ich das Problem, dass sich das System nach einem </p>
+<p><code>ata5: exception Emask 0x10 SAct 0x0 SErr 0x1990000 action 0x2 frozen ata5: hard resetting port</code></p>
+<p>immer wieder aufhing, bzw. beim Booten schon stehen blieb.</p>
+<p>In diversen Foren findet man den Hinweis, dass dies oft an gelockerten SATA-Steckern läge &mdash; bei mir hat das Kontrollieren der Stecker keinen Erfolg gebracht. Auch die Strom-Stecker an den Platten waren in Ordnung.</p>
+<p>Gestern habe ich dann gemerkt, dass ich an einem Strom-Strang 5 der 6 Platten hängen hatte. Seit ich sie gleichmäßig auf zwei Stränge verteilt habe läuft die Kiste wieder ohne Hänger.</p>
+<p>Insgesamt bin ich jetzt knapp am Terabyte vorbei geschliddert. Genau genommen sind es 912 Gigabyte, was in der <a href="http://de.wikipedia.org/wiki/Festplatte#Speicherkapazit.C3.A4t">Notation von Festplattenherstellern</a> immerhin 979,25<br />
+ GiBiByte.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/775.server-jetzt-mit-fast-1-terabyte.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>File_Bittorrent2 released</title>
+		<link>https://m.tacker.org/773.file_bittorrent2-released.html</link>
+		<comments>https://m.tacker.org/773.file_bittorrent2-released.html#respond</comments>
+		<pubDate>Sun, 26 Aug 2007 11:11:23 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PEAR File_Bittorrent]]></category>
+		<category><![CDATA[Projekte]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[PEAR]]></category>
+		<category><![CDATA[PHP]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/773.file_bittorrent2-released.html</guid>
+		<description><![CDATA[I&#8217;ve just released File_Bittorrent2. This is the PHP5 only version of File_Bittorrent &#8212; no new features were added, even the API is the same. Only the error handling has been changed according to PEAR&#8217;s new error handling guidelines «Error Signaling in PHP 5 PEAR packages».]]></description>
+				<content:encoded><![CDATA[<p><img src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/07/file_bittorrent.gif" alt="PEAR::File_Bittorrent" class="right" />I&#8217;ve just released <a href="http://pear.php.net/package/File_Bittorrent2/">File_Bittorrent2</a>. This is the PHP5 only version of <a href="http://pear.php.net/package/File_Bittorrent/">File_Bittorrent</a> &mdash; no new features were added, even the API is the same.</p>
+<p>Only the error handling has been changed according to <a href="http://www.go-pear.org/manual/en/standards.errors.php">PEAR&#8217;s new error handling guidelines</a> «Error Signaling in PHP 5 PEAR packages».</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/773.file_bittorrent2-released.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Die Kopie der Kopie der Kopie &#8230;</title>
+		<link>https://m.tacker.org/724.die-kopie-der-kopie-der-kopie.html</link>
+		<comments>https://m.tacker.org/724.die-kopie-der-kopie-der-kopie.html#respond</comments>
+		<pubDate>Fri, 27 Apr 2007 18:57:07 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Projekte]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/724.die-kopie-der-kopie-der-kopie.html</guid>
+		<description><![CDATA[Gestern tauchte im Mediengestalter-Forum ein User mit dem Vorhaben auf, einen Twitter-Klon ins Leben zu rufen. Ihm ist ganz bewusst, dass es schon mehrere Twitters gibt &#8212; er verweist direkt in seinem Beitrag darauf. Hallo, ich möchte mit einem Partner einen Klon der twitter-Seite veröffentlichen. Folgende Funktionalitäten sollten enthalten sein: Anmeldescript wie bei wamadu db-Script [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Gestern tauchte im Mediengestalter-Forum ein User mit dem Vorhaben auf, einen <a href="http://www.mediengestalter.info/forum/34/wer-kann-einen-twitter-klon-programmieren-82572-1.html">Twitter-Klon ins Leben zu rufen</a>. Ihm ist ganz bewusst, dass es schon mehrere Twitters gibt &mdash; er verweist direkt in seinem Beitrag darauf.</p>
+<blockquote><p>Hallo,<br />
+ich möchte mit einem Partner einen Klon der <a href="http://twitter.com/">twitter</a>-Seite veröffentlichen.</p>
+<p>Folgende Funktionalitäten sollten enthalten sein:</p>
+<ul>
+<li>Anmeldescript wie bei <a href="http://www.wamadu.de/user/register">wamadu</a></li>
+<li>db-Script für die Speicherung der Beiträge in einer SQL-Datenbank</li>
+<li>Aufbau der Startseite ähnlich wie bei <a href="http://www.faybl.de/">faybl</a></li>
+</ul>
+</blockquote>
+<p>Da frage ich mich schon, warum man sowas machen will. Ist nicht genug Grips für eigene Ideen vorhanden?</p>
+<p>Und da ich ein Freund der konstruktiven Kritik bin, möchte ich in den nächsten Tag einige Ideen vorstellen, die ich aus Zeitgründen leider nicht selber realisieren kann. Aber vielleicht findet sich ja auf diesem Weg jemand, der die Ideen aufgreift und umsetzt.</p>
+<ul>
+<li><strong>sould</strong><br />
+Wofür würdest Du deine Seele verkaufen?</li>
+<li><strong>Community Asset Management</strong><br />
+Verwalten, Bewerten, Diskutieren von frei zugänglichem Projektmaterialien (Fonts, Farben, Fotos, Sounds)</li>
+<li>Eine <strong>browserbasierte Schriftenveraltung</strong><br />
+elche Schrift wurde für welches Projekt verwendet. Welche Fonts haben wir. Welche eignen sich wofür.</li>
+<li><strong>TracBay</strong><br />
+Blogger posten in ihrem Blog eine Suchanfrage nach einem Produkt. Hersteller können direkt via Trackback antworten.</li>
+<li><strong>Ein Qype für Filme</strong><br />
+Es gibt viele Rating-Seiten für Filme. Aber keine stellt ihre Inhalte den Autoren wieder zur Verfügung &mdash; so wie <a href="http://qype.com">Qype</a> das macht.</li>
+</ul>
+<p>Oder vielleicht gibt es ja das alles schon &mdash; und ich weiß es nur nicht.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/724.die-kopie-der-kopie-der-kopie.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Serverausfall wegen Western Digital</title>
+		<link>https://m.tacker.org/659.serverausfall-wegen-western-digital.html</link>
+		<comments>https://m.tacker.org/659.serverausfall-wegen-western-digital.html#comments</comments>
+		<pubDate>Wed, 14 Feb 2007 13:31:43 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Projekte]]></category>
+		<category><![CDATA[Server]]></category>
+		<category><![CDATA[Hardware]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/659.serverausfall-wegen-western-digital.html</guid>
+		<description><![CDATA[Es ist echt zum Kotzen. Da hat man mal einen freien Tag und dann passiert das&#8230; Heute morgen habe ich die Hälfte meines Software-Raids &#8212; das seit zwei Wochen schon nicht mehr läuft &#8212; ausgebaut und mit der Diagnose-Software von Western Digital getestet. Die hat dann auch direkt vermeldet, dass ich mich mit dem Support [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Es ist echt zum Kotzen. Da hat man mal einen freien Tag und dann passiert das&#8230; </p>
+<p>Heute morgen habe ich die Hälfte meines Software-Raids &mdash; das seit zwei Wochen schon nicht mehr läuft &mdash; ausgebaut und mit der Diagnose-Software von Western Digital getestet. Die hat dann auch direkt vermeldet, dass ich mich mit dem Support in Verbindung setzen soll, da der S.M.A.R.T.-Wert 5 (<a href="http://www.ariolic.com/activesmart/smart-attributes/reallocated-sectors-count.html">Reallocated Sectors Count</a>) zu hoch wäre. Das bedeutet, dass es jede Menge Schreibfehler auf der Platte gab. Also habe ich schön die RMA vorbereitet und die Platte, übrigens eine <a href="http://www.westerndigital.com/de/products/Products.asp?DriveID=83&#038;Language=de">WDC WD800JD-55MU</a>, verpackt.</p>
+<p>Das gibt mir natürlich zu denken, da die andere Hälfte des Software-Raids <strong>genau die gleiche</strong> Platte ist. Als könnte sie Gedanken lesen, hat sie dann auch gegen 11:40 Uhr den Dienst quittiert in dem sich das System aufhing. Glücklicherweise konnte ich dann aber mit einem</p>
+<blockquote><p><code># dd if=/dev/hda of=/dev/sda conv=noerror,sync bs=4k</code></p></blockquote>
+<p>alle Daten auf eine IDE-Platte kopieren und das System mit dieser dann wieder zum Leben erwecken.</p>
+<p>Jetzt ist IDE-Platte der Master und die angeblich defekte SATA-Platte der Slave im Raid. <strike>Bis jetzt läuft die Wiederherstellung des Spiegels ohne Probleme.</strike> Nach 20 Minuten hat die dann auch ihren Geist aufgegeben.</p>
+<blockquote><p>ata2: translated ATA stat/err 0x61/04 to SCSI SK/ASC/ASCQ 0xb/00/00<br />
+ata2: status=0x61 { DriveReady DeviceFault Error }<br />
+ata2: error=0x04 { DriveStatusError }</p></blockquote>
+<p>Mit <em>der</em> RMA warte ich erstmal &#8230;</p>
+<h3>Update 28.03.2007</h3>
+<p>Western Digital hat beide Festplatten kommentarlos umgetauscht. Kosten auf meiner Seite waren dafür gut 12 €.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/659.serverausfall-wegen-western-digital.html/feed</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Serverausfall wegen defekter On-Board-Netzwerkkarte</title>
+		<link>https://m.tacker.org/647.serverausfall-wegen-defekter-on-board-netzwerkkarte.html</link>
+		<comments>https://m.tacker.org/647.serverausfall-wegen-defekter-on-board-netzwerkkarte.html#respond</comments>
+		<pubDate>Wed, 31 Jan 2007 10:09:30 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Projekte]]></category>
+		<category><![CDATA[Server]]></category>
+		<category><![CDATA[Hardware]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/647.serverausfall-wegen-defekter-on-board-netzwerkkarte.html</guid>
+		<description><![CDATA[Gestern Abend um 22:34 (da war ich noch im Kino Babel schauen), hat sich die On-Board-Netzwerkkarte des nForce2-Motherboards, mit dem mein Server läuft, entschlossen den Geist aufzugeben. Zum Glück habe ich noch einen Stapel 3com 3c905er da, so war flugs ein Ersatz da und um 23:20 war die Kiste dann auch wieder «drin». Interessant ist, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Gestern Abend um 22:34 (da war ich noch im Kino <a href="http://www.imdb.com/title/tt0449467/">Babel</a> schauen), hat sich die On-Board-Netzwerkkarte des nForce2-Motherboards, mit dem <a href="https://m.tacker.org/projects/server/#Heimserver">mein Server</a> läuft, entschlossen den Geist aufzugeben.</p>
+<p>Zum Glück habe ich noch einen Stapel 3com 3c905er da, so war flugs ein Ersatz da und um 23:20 war die Kiste dann auch wieder «drin».</p>
+<p>Interessant ist, dass ich mir immer Gedanken um die Absicherung eines Festplatten-Ausfalles mache, obwohl das noch nie passiert ist. Eine defekte Netzwerkkarte hatte ich aber jetzt <a href="https://m.tacker.org/215.nic-explodiert.html">schon zum zweiten Mal</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/647.serverausfall-wegen-defekter-on-board-netzwerkkarte.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Picasaembed: Embed and browse your Picasa Web Albums</title>
+		<link>https://m.tacker.org/595.picasaembed-embed-and-browse-your-picasa-web-albums.html</link>
+		<comments>https://m.tacker.org/595.picasaembed-embed-and-browse-your-picasa-web-albums.html#comments</comments>
+		<pubDate>Thu, 30 Nov 2006 17:00:02 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Projekte]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[PHP]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/595.picasaembed-embed-and-browse-your-picasa-web-albums.html</guid>
+		<description><![CDATA[Yesterday evening I discovered that Google&#8217;s Picasa Web Albums have RSS feeds. This led me to a script in PHP5, which enables you to embed the thumbnails of a whole album in any site &#8212; you may even browse through them. The browsing is done with Ajax to give a fast experience but there is [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Yesterday evening I discovered that <a href="http://picasaweb.google.com/">Google&#8217;s Picasa Web Albums</a> have RSS feeds. This led me to a script in PHP5, which enables you to embed the thumbnails of a whole album in any site &mdash; you may even browse through them. The browsing is done with Ajax to give a fast experience but there is a fallback solution which works without javascript.</p>
+<p>Multiple embedded albums per page are also supported.</p>
+<p>The usage of Picasaembed is not limited to WordPress &mdash; it&#8217;s designed as a standalone library.</p>
+<h2>Download</h2>
+<ul>
+<li><a href="http://versions.tacker.org/svn/smallprojects/picasaembed">via SVN</a></li>
+<li><a href="http://projects.clyre.net/download/picasaembed.tgz">Tar-Archive</a></li>
+<li><a href="http://projects.clyre.net/download/picasaembed.zip">Zip-Archive</a></li>
+</ul>
+<h2>Example</h2>
+<p>You are just seeing an example. You may also check out the <a href="http://projects.clyre.net/picasaembed/example.php">example</a> (<a href="http://projects.clyre.net/picasaembed/example.phps">source code</a>) which is provided with the script.</p>
+<h2>Installation</h2>
+<p>Let&#8217;s assume that you want Picasaembed in your WordPress blog.</p>
+<p>Copy the files to a new folder named <code>picasaembed</code> in WordPress&#8217; plugins folder and make sure that the webserver has write permission to the <code>cache</code> folder.</p>
+<p>Just make sure that the prototype.js is loaded somewhere. You would add it to your <code>header.php</code> file.</p>
+<blockquote><p><code>&lt;script type=&quot;text/javascript&quot; src=&quot;/blog/wp-content/plugins/picasaembed/prototype-1.4.0.js&quot;&gt;&lt;/script&gt;</code></p></blockquote>
+<p>As Picasaembed requires a RSS-URL to display the album we need set up a <a href="http://codex.wordpress.org/Using_Custom_Fields">custom field</a> for our post. Let&#8217;s assume that we name it <code>picasaembed_rss_url</code>.</p>
+<p>In the theme files <code>index.php</code> and <code>single.php</code> (which display the post) we have to add these lines before the <code>the_content()</code> tag to display the album:</p>
+<blockquote><p><code>&lt;?php<br />
+ $picasaembed = (get_post_meta($post-&gt;ID, 'picasaembed_rss_url', true)) ? get_post_meta($post-&gt;ID, 'picasaembed_rss_url', true) : false;<br />
+ if ($picasaembed) {<br />
+ require_once './wp-content/plugins/picasaembed/Picasaembed.php';<br />
+ Picasaembed::$location = './wp-content/plugins/picasaembed/Picasaembed.php';<br />
+ echo Picasaembed::getContainer($picasaembed);<br />
+ }<br />
+?&gt;</code></p></blockquote>
+<p>That&#8217;s it. Now everytime a post has the custom field <code>picasaembed_rss_url</code> the value will be used as a RSS-URL for Picasaembed. Happy time!</p>
+<h2>Uses</h2>
+<ul>
+<li><a href="http://pear.php.net/package/XML_RSS">PEAR XML_RSS</a> for parsing the rss feed. (not included)</li>
+<li><a href="http://pear.php.net/package/Cache_Lite">PEAR Cache_Lite</a> for caching the parsed rss feed. (not included)</li>
+<li><a href="http://prototype.conio.net/">The prototype JavaScript Framework</a> for the ajax browsing.</li>
+<li><a href="http://pear.php.net/package/HTML_Page2">PEAR HTML_Page2</a> &mdash; optional &mdash; for the <a href="http://projects.clyre.net/picasaembed/example.php">example</a>. (not included)</li>
+</ul>
+<h2>License</h2>
+<p>Released under the <a href="http://www.gnu.org/licenses/lgpl.html">LGPL</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/595.picasaembed-embed-and-browse-your-picasa-web-albums.html/feed</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>Datensicherung für Gestalter</title>
+		<link>https://m.tacker.org/546.datensicherung-fur-gestalter.html</link>
+		<comments>https://m.tacker.org/546.datensicherung-fur-gestalter.html#comments</comments>
+		<pubDate>Tue, 14 Nov 2006 00:36:36 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Datensicherung für Gestalter]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/546.datensicherung-fur-gestalter.html</guid>
+		<description><![CDATA[Datensicherung ist ein oft vernachlässigtes Thema. Gerade kleine und kleinste Firmen haben nur begrenztes Wissen darüber, wie man Daten sinnvoll sichert. Doch ist der Datenverlust nicht so unwarscheinlich wie oft gedacht wird. Ein vergessener Windows-Patch für eine alte Version oder eine ausgelaufene Antiviren-Lizenz reißt große Löcher in den Schutz des Betriebsystemes. Schnell nisten sich, auch [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src='https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/11/datensicherung_fuer_gestalt.jpg' alt='Datensicherung für Gestalter' class='full' /></p>
+<p>Datensicherung ist ein oft vernachlässigtes Thema. Gerade kleine und kleinste Firmen haben nur begrenztes Wissen darüber, wie man Daten sinnvoll sichert. Doch ist der Datenverlust nicht so unwarscheinlich wie oft gedacht wird. Ein vergessener Windows-Patch für eine alte Version oder eine ausgelaufene Antiviren-Lizenz reißt große Löcher in den Schutz des Betriebsystemes. Schnell nisten sich, auch ohne Zutun des Anwenders, Viren auf dem Laptop oder Rechner ein und schon sind alle Daten gefährdet. </p>
+<p>In dieser Artikel-Serie möchte ich über das Thema «Datensicherung» sprechen und einen Weg zeigen, wie man die eigenen Daten mit geringem finanziellen und personellen Aufwand sichert und auch wieder her stellt.</p>
+<p>Diese Artikelreihen wird auch im <a href="http://www.mediengestalter-blog.de">Mediengestalter-Blog</a> veröffentlicht. Über Kommentare und Ergänzungen freue ich mich natürlich.</p>
+<p>In der Reihe «Datensicherung für Gestalter» sind folgende Artikel erschienen:</p>
+<ul>
+<li>Wann sind meine Daten sicher?</li>
+<li><a href="https://m.tacker.org/547.e-mail-auch-im-notfall-immer-verfugbar.html">E-Mail &#8211; auch im Notfall immer verfügbar</a>
+<ul>
+<li><a href="https://m.tacker.org/582.gmail-als-standard-e-mail-anwendung-verwenden.html">GMail als standard E-Mail-Anwendung verwenden</a></li>
+</ul>
+</li>
+<li>Updates, Virenschutz und Firewall</li>
+<li>Ein Projektdaten-Server muss her</li>
+<li>Projektdaten automatisch sichern
+<ul>
+<li><a href="https://m.tacker.org/269.daten-von-einer-defekten-festplatte-retten.html">Daten von einer defekten Festplatte retten</a></li>
+</ul>
+</li>
+<li>Projektdaten auf DVD sichern</li>
+<li>Kostenübersicht</li>
+</ul>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/546.datensicherung-fur-gestalter.html/feed</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>E-Mail &#8211; auch im Notfall immer verfügbar</title>
+		<link>https://m.tacker.org/547.e-mail-auch-im-notfall-immer-verfugbar.html</link>
+		<comments>https://m.tacker.org/547.e-mail-auch-im-notfall-immer-verfugbar.html#respond</comments>
+		<pubDate>Tue, 14 Nov 2006 00:31:56 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Datensicherung für Gestalter]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/547.e-mail-auch-im-notfall-immer-verfugbar.html</guid>
+		<description><![CDATA[E-Mails haben inzwischen den gleichen Stellenwert wie Faxe oder Briefe. Gerade im Medienbereich findet ein Großteil der Kommunikation über E-Mail statt. Umso ärgerlicher ist es dann, wenn man für die eigenen Kunden über E-Mail nicht zu erreichen ist. Auch für den Kunden ist es ein Ärgernis, wenn er nach einigen Tagen immer noch keine Antwort [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>E-Mails haben inzwischen den gleichen Stellenwert wie Faxe oder Briefe. Gerade im Medienbereich findet ein Großteil der Kommunikation über E-Mail statt. Umso ärgerlicher ist es dann, wenn man für die eigenen Kunden über E-Mail nicht zu erreichen ist. Auch für den Kunden ist es ein Ärgernis, wenn er nach einigen Tagen immer noch keine Antwort bekommen hat und er auf Nachfrage gebeten wird, die E-Mail nochmal zu schicken.</p>
+<p>Damit E-Mails immer verfügbar sind, sollten diese unabhängig von der eigenen IT-Infrastruktur (Arbeitsplatzrechner, Server und Netzwerk) abrufbar sein.</p>
+<dl class="foto" style="width: 220px;">
+<dt><img src='https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/10/gmail_thumb.png' alt='GMail' /></dt>
+<dd>Können die E-Mails über den Browser abgerufen werden, sind sie immer verfügbar, sofern ein Internetzugang verfügbar ist.</dd>
+</dl>
+<p>Was liegt da näher, als einen E-Mail-Anbieter zu wählen, bei dem man seinem E-Mails über den Browser, und somit von jedem Ort mit Internetzugang, abrufen kann? Diesen Dienst, stellen so genannte Webmail-Anbieter zur Verfügung. Hierbei unterscheidet man zwischen kostenlosen und kostenpflichtigen, Anbietern.</p>
+<h3>Die Qual der Wahl</h3>
+<p>Auf Wikipedia findet sich eine <a href="http://de.wikipedia.org/wiki/Freemail">Übersicht der gängigsten «Freemail»-Anbieter</a>, deren Angebot kostenlos ist.</p>
+<p>Ich persönlich empfehle GMail, im folgenden werde ich auch in meinen Beispielen GMail verwenden &mdash; siehe <a href="https://m.tacker.org/582.gmail-als-standard-e-mail-anwendung-verwenden.html">GMail als standard E-Mail-Anwendung verwenden</a>.</p>
+<p>Natürlich bieten inzwischen auch die meisten Webhoster und Internet-Service-Provider browserbasierte Zugänge für E-Mails an &mdash; eine <a href="http://de.wikipedia.org/wiki/Internetdienstanbieter">Übersicht von Providern findet sich ebenfalls in Wikipedia</a>.</p>
+<h3>Genug Platz?</h3>
+<p>Früher war ein vernichtendes Argument gegen die Anbieter von browserbasierten E-Mail-Diensten der kleine Speicherplatz. Oft hatte man nicht mehr als 50 MB zur Verfügung. Seit aber Google mit seinem Dienst <a href="http://de.wikipedia.org/wiki/GMail">GMail</a> auf den Plan getreten ist, stehen mittlerweile gut 3 GB zur Verfügung. Dies ist für die meisten Anwender vollkommen ausreichen &mdash; wer noch mehr Platz braucht kann sich bei Bedarf ein weiteres Konto registrieren. Andere Anbieter haben inzwischen nachgezogen und so bietet <a href="http://www.gmx.de">GMX</a>, in einer ebenfalls kostenlosen Basisversion, 1 GB Speicherplatz für E-Mails an.</p>
+<h3>Schutz vor Viren und SPAM integriert</h3>
+<p>Ein weiterer Vorteil ist der integrierte Virenschutz, der bei allen Anbietern selbst im kostenlosen Grundpaket enthalten ist. Alle Eingehenden E-Mails werden durch den Anbieter geprüft und schädliche Bestandteile der E-Mail werden entfernt. </p>
+<p>Beim herkömmlichen Empfangen der E-Mails mittels Outlook besteht dieser Schutz nur, wenn die eingesetzte Anti-Viren-Software diesen Schutz anbietet.</p>
+<p>Das gleiche gilt für Spam-Filter. Diese werden ebenfalls von allen Anbietern eingesetzt und sind sehr wirkungsvoll. Der Vorteil liegt auch hier auf der Hand, man muss sich nicht um die Einrichtung kümmern und eine Lizenzgebühr für einen E-Mail-Viren- und Spam-Scanner braucht nicht mehr entrichtet zu werden.</p>
+<h3>Umzug still und heimlich</h3>
+<p>Nachdem man sich bei dem Anbieter seiner Wahl registriert hat, gilt es nun die E-Mails umzuleiten, denn der Kunde soll so wenig wie möglich vom «Umzug» mitbekommen und die Visitenkarten will man auch nicht ändern.</p>
+<p>Wichtig ist zu aller erst, dass die E-Mails, die an die bestehende E-Mail-Adresse gesendet werden, an die neue weitergeleitet werden. Dies muss beim bisherigen Anbieter eingestellt werden, meistens gibt es dazu eine Verwaltungsoberfläche, mit man das erledigen kann.</p>
+<p>Nun sollte beim Webmailer die bishere E-Mail-Adresse als Absender eingetragen werden. Wird diese nicht unterstützt besteht zumindest meistens die Option, die Adresse als sogenannte «Reply-To»-Adresse zu verwenden. Hier ist zwar die Absender-Adresse die des Webmailers, aber sobald der Empfänger auf «Antworten» klickt, wird das E-Mail-Programm die Mail an die «Reply-To»-Adresse schicken.</p>
+<h3>Mobiler Zugang</h3>
+<p>Da nun das Postfach mittels eines Browsers erreicht werden kann, kann man sich von überall einloggen. Mann sollte aber unbedingt darauf achten, sich beim Verlassen eines öffentlich zugänglichen Rechners abzumelden und den Browser zu schließen.</p>
+<p>Einige Angebote stellen zusätzlich eine Version für mobile Endgeräte zur Verfügung, diese ist dann vom Funktionsumfang eingeschränkt, kann aber auch selbst auf kleinen Displays von Handys oder PDAs verwendet werden.</p>
+<p><em>Erschienen in der Artikel-Reihe:</em> <a href="https://m.tacker.org/546.datensicherung-fur-gestalter.html">Datensicherung für Gestalter</a></p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/547.e-mail-auch-im-notfall-immer-verfugbar.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>GMail als standard E-Mail-Anwendung verwenden</title>
+		<link>https://m.tacker.org/582.gmail-als-standard-e-mail-anwendung-verwenden.html</link>
+		<comments>https://m.tacker.org/582.gmail-als-standard-e-mail-anwendung-verwenden.html#comments</comments>
+		<pubDate>Tue, 14 Nov 2006 00:31:31 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Datensicherung für Gestalter]]></category>
+		<category><![CDATA[most visited]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/582.gmail-als-standard-e-mail-anwendung-verwenden.html</guid>
+		<description><![CDATA[GMail bietet einen vollwertigen E-Mail-Client im Browser an. Was liegt da näher, GMail standardmäßig zu verwenden — der Browser ist sowieso meistens offen.]]></description>
+				<content:encoded><![CDATA[<p><img src='https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/11/googlemail.gif' alt='GMail' class="right" /><a href="http://mail.google.com/">GMail</a> bietet einen vollwertigen E-Mail-Client im Browser an. Was liegt da näher, GMail standardmäßig zu verwenden &mdash; der Browser ist sowieso meistens offen.</p>
+<h3>Die bestehende E-Mail-Adresse weiter verwenden</h3>
+<p>Damit man die alte E-Mail-Adresse in GMail verwenden kann, muss man diese freischalten. Dieser Vorgang ist auf dieser Seite in der GMail-Hilfe beschrieben: <a href="http://mail.google.com/support/bin/answer.py?answer=20616&#038;topic=1570">Wie kann ich die &#8220;Von:&#8221;-Adresse für ausgehende Nachrichten anpassen?</a></p>
+<p>Ist dies erledigt, kann man beim beim Senden von E-Mails aus GMail die alte E-Mail-Adresse im Absender verwenden. Wie man die alte E-Mail-Adresse als Standard festlegt ist in <a href="http://mail.google.com/support/bin/answer.py?answer=22375&#038;topic=1570">Wie ändere ich meine standardmäßige &#8220;Von:&#8221;-Adresse?</a> beschrieben.</p>
+<h3>gmail statt googlemail</h3>
+<p>Aufgrund von markenrechtlichen Konflikten wird GMail in Deutschland und einigen anderen Ländern GoogleMail genannt. Deswegen bekommt man bei einer Registrierung in diesen Ländern die Domain <code>googlemail.com</code>. Dies lässt sich jedoch leicht umgehen, indem man eine weitere E-Mail-Adresse hinzufügt. Diesmal ersetzt man einfach <code>googlemail</code> in der neuen E-Mail-Adresse mit <code>gmail</code>.</p>
+<h3>E-Mails nach GMail importieren</h3>
+<p>Nun haben wir eine schöne neue Mailbox. Leider ist diese aber leer. Gerade die Suchfunktion ist bei GMail sehr ausgereift. Damit wir in Zukunft nicht mehr in das Mailprogramm starten müssen, um alte Mails zu suchen, sollten wir diese noch nach GMail importieren.</p>
+<p>Google selbst bietet zur Zeit keine Möglichkeit an, E-Mails aus anderen Anwendungen zu importieren. Es besteht natürlich die Möglichkeit, alle E-Mails an das neue Konto weiter zu leiten &mdash; allerdings ist das nicht besonders komfortabel.</p>
+<p>Wesentlich einfacher geht das Importieren mit dem kostenlose Tool <a href="http://www.marklyon.org/gmail/default.htm">Google GMail Load (GML)</a> von Mark Lyon oder <a href="http://blog.codefront.net/archives/2004/06/23/gexodus-02-some-new-features-for-gmail-mbox-import-tool">gExodus &#8211; a graphical Gmail import tool</a>. Beide setzen allerdings voraus, dass die E-Mails im <a href="http://de.wikipedia.org/wiki/Mbox">mbox-Format</a> vorliegen. Dieses Speicherformat für E-Mails hat seinen Ursprung in Unix und wird nur von Netscape- bzw. Mozilla-Produkten verwendet.</p>
+<p>Hat man seine Mails bisher in Netscape oder Mozilla empfangen kann man das Tool direkt verwenden, ansonsten ist erst eine Konvertierung nötig.</p>
+<h3>Outlook-E-Mails importieren</h3>
+<p>Möchte man seine E-Mails aus Outlook in Gmail verwenden, ist ein etwas größerer Umweg notwendig.</p>
+<p>Zuerst muss Outlook Express die Mails von Outlook importieren. Dies ist auf den Hilfeseiten von Microsoft erläutert: <a href="http://office.microsoft.com/de-de/outlook/HA100799171031.aspx">Importieren Ihrer Nachrichten oder Ihres Kontos aus Outlook in Outlook Express</a>.</p>
+<h3>Outlook-Express-E-Mails importieren</h3>
+<p>Wenn die E-Mails bisher in Outlook Express empfangen worden sind, oder von Outlook importiert wurden, müssen diesen nun in <a href="http://www.mozilla-europe.org/de/products/thunderbird/">Mozilla Thunderbird</a> importiert werden. Dieser Vorgang ist auf den Hilfeseiten von Mozilla erläutert: <a href="http://www.thunderbird-mail.de/hilfe/dokumentation1.5/importieren.php">Importieren von E-Mails und Adressen</a>.</p>
+<h3>Nestcape-, Thunderbird- und Mozilla-E-Mails importieren</h3>
+<p>Sind nun alle E-Mails in <a href="http://www.mozilla-europe.org/de/products/thunderbird/">Thunderbird</a> oder <a href="http://browser.netscape.com/ns8/">Netscape Mail</a> vorhanden, kann man sich endlich um den Import nach GMail kümmern.</p>
+<dl class="foto" style="width: 220px;">
+<dt><a href='https://m.tacker.org/582.gmail-als-standard-e-mail-anwendung-verwenden.html/gexodus-02/' rel='attachment wp-att-584' title='gExodus 0.2'><img src='https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/11/gexodus_200px.gif' alt='gExodus 0.2' /></a></dt>
+<dd>Import von E-Mails aus Mozilla Thunderbird nach GMail mittels gExodus.</dd>
+</dl>
+<h3>Import mit gExodus 0.2</h3>
+<p>Hierzu lädt man sich die aktuelle Version von <a href="http://blog.codefront.net/archives/2004/06/23/gexodus-02-some-new-features-for-gmail-mbox-import-tool">gExodus</a> herunter. Nach dem Entpacken die gexodus.exe ausführen.</p>
+<p>Die Mbox-Dateien finden sich, am Beispiel von Thunderbird, unter </p>
+<blockquote><p>C:\Dokumente und Einstellungen\ [Username]\ Anwendungsdaten\ Thunderbird\ Profiles\ default\ [Profilname]\ Mail\ [Konto-Name]</p></blockquote>
+<p>In diesem Ordner findet sich für jeden Post-Ordner, den man angelegt hat, eine Datei mit gleichem Namen <strong>ohne Dateiendung</strong>. Dies ist die Mbox-Datei. Mann muss nun jeden Ordner einzeln importieren &mdash; dies mag zwar etwas Mühselig erscheinen, hat aber den Vorteil, dass man den Betreffzeilen der zu importierenden E-Mails einen Text voranstellen kann, damit man diese dann in GMail schneller findet.</p>
+<p>Der voreingestellte Mailserver von GMail hat bei mir nicht funktioniert. Ich habe <code>alt1.gmail-smtp-in.l.google.com</code> verwendet.</p>
+<p>Mit einem Klick auf &#8220;Import into Gmail&#8221; beginnt gExodus mit dem Import &mdash; dies dauert ein Weile, denn GMail würde einen schnellen Massen-Import als SPAM-Angriff abwehren.</p>
+<h3>Zugang für Handys und PDAs</h3>
+<p>Unter <a href="http://m.gmail.com/">http://m.gmail.com</a> findet sich eine Version für mobile Endgeräte. Diese ist vom Funktionsumfang etwas eingeschränkt, kann aber auch selbst auf kleinen Displays von Handys oder PDAs verwendet werden.</p>
+<p>Sehr praktisch ist auch, dass die Kontakte eingesehen und durchsucht werden können.</p>
+<p><em>Erschienen in der Artikel-Reihe:</em> <a href="https://m.tacker.org/546.datensicherung-fur-gestalter.html">Datensicherung für Gestalter</a></p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/582.gmail-als-standard-e-mail-anwendung-verwenden.html/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Scheisstag</title>
+		<link>https://m.tacker.org/531.scheisstag.html</link>
+		<comments>https://m.tacker.org/531.scheisstag.html#comments</comments>
+		<pubDate>Wed, 04 Oct 2006 17:48:36 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Server]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/531.scheisstag.html</guid>
+		<description><![CDATA[Jaha, heute war ein Scheisstag. Erste ist heute morgen der Server ausgefallen &#8212; wohl wegen einem defekten Sektor. Wie Du siehst geht er wieder. Einfach wieder einschalten, fsck drüber laufen lassen und fertig. Dann hatte ich mein Fahrrad gestern aufgrund des Regens auf der Arbeit stehen gelassen. Als ich heute abend nach Hause fahren wollte, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img id="image530" src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/10/toilet_paper_01.jpg" alt="Toilettenpapier" class="right" />Jaha, heute war ein Scheisstag. Erste ist heute morgen der Server ausgefallen &mdash; wohl wegen einem defekten Sektor. Wie Du siehst geht er wieder. Einfach wieder einschalten, fsck drüber laufen lassen und fertig.</p>
+<p>Dann hatte ich mein Fahrrad gestern aufgrund des Regens auf der Arbeit stehen gelassen. Als ich heute abend nach Hause fahren wollte, habe ich kurz vor dem Losfahren gemerkt, dass man mir beide <a href="http://de.wikipedia.org/wiki/Umwerfer">Umwerfer</a> inklusive Kette geklaut hat &mdash; das Teil ist 10 Jahre alt! </p>
+<p>Naja, dafür dann gleich mal den <a href="http://www.allianz.de/service/online_verwalten/index.html">Allianz Online-Service</a> bemüht &mdash; das Fahrrad ist immerhin versichert. Mal sehen wie die das regeln.</p>
+<p><strong>Update 6. November</strong></p>
+<p>Die <a href="http://www.allianz.de">Allianz</a> hat es geregelt. Und bezahlt den ganzen Schaden. Vielen Dank!</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/531.scheisstag.html/feed</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>File_Bittorrent 1.0.1 released</title>
+		<link>https://m.tacker.org/383.file_bittorrent-101-released.html</link>
+		<comments>https://m.tacker.org/383.file_bittorrent-101-released.html#comments</comments>
+		<pubDate>Mon, 03 Jul 2006 08:20:31 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[PEAR File_Bittorrent]]></category>
+		<category><![CDATA[Projekte]]></category>
+		<category><![CDATA[Bittorrent]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[PEAR]]></category>
+		<category><![CDATA[PHP]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/383.file_bittorrent-101-released.html</guid>
+		<description><![CDATA[Yesterday I have released File_Bittorrent 1.0.1 with some minor bug fixes and enhancements. The complete changelog can be found here. There are currently two open bugs. Bug #5836 (Support for files &#62; 2GB) is a pain in the ass to test, so no progress there. I appreciate every help here. Bug #5880 (Support UTF-8 encoding) [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/07/file_bittorrent.gif" id="image381" alt="PEAR File_Bittorrent" class="right" />Yesterday I have released File_Bittorrent 1.0.1 with some minor bug fixes and enhancements. The complete changelog can be found <a href="http://versions.tacker.org/trac/File_Bittorrent/log/trunk?action=stop_on_copy&amp;rev=61&amp;stop_rev=55&amp;mode=stop_on_copy">here</a>.</p>
+<p>There are currently two open bugs. <a href="http://pear.php.net/bugs/5836">Bug #5836</a> (Support for files &gt; 2GB) is a pain in the ass to test, so no progress there. I appreciate every help here. <a href="http://pear.php.net/bugs/5880">Bug #5880</a> (Support UTF-8 encoding) is a two sided sword. Of course, UTF-8 is the only future proof way to go but unless the original bittorrent programs do not work with UTF-8, File_Bittorrent won&#8217;t either. Even if other clients do the original bittorrent programs are the reference implementation.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/383.file_bittorrent-101-released.html/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

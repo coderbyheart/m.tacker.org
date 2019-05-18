@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>3ddrucker &#8211; [|] m.tacker.org</title>
+	<atom:link href="https://m.tacker.org/tag/3ddrucker/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Tue, 12 Jan 2016 11:45:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>3D-Drucker Links</title>
+		<link>https://m.tacker.org/3229.3d-drucker-links.html</link>
+		<comments>https://m.tacker.org/3229.3d-drucker-links.html#respond</comments>
+		<pubDate>Thu, 24 Jan 2013 09:03:04 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Technik]]></category>
+		<category><![CDATA[3ddrucker]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=3229</guid>
+		<description><![CDATA[Hier findet sich eine völlig unvollständige Liste mit Links die ich durch Zuruf bekommen haben und die einen ersten <em>Einstieg</em> in das Thema bieten.]]></description>
+				<content:encoded><![CDATA[<p>Mein Vater ist seit 30+ Jahren in der Automobilbranche (Versuch, Testing, QS) tätig und hat mitbekommen dass es jetzt 3D-Drucker für zu Hause gibt. Er kennt diese Teile nur von der Arbeit, dort kosten 3D-Sintermetalldrucker ~100.00 €, der Ofen dafür dann auch nochmal so viel. Er will jetzt unbedingt in dem Thema einsteigen. Hier findet sich eine völlig unvollständige Liste mit Links die ich durch Zuruf bekommen haben und die einen <em>ersten Einstieg</em> in das Thema bieten.</p>
+<h3>Einführung</h3>
+<ul>
+<li><a title="Was ist 3D Druck und wie funktioniert 3D Drucken" href="http://www.3ddinge.de/was-ist-3d-druck-und-wie-funktioniert-3d-drucken/">Was ist 3D Druck und wie funktioniert 3D Drucken</a></li>
+<li><a title="Warum 3D drucken und wie?!" href="http://maschbaur.wordpress.com/2012/12/03/warum-3d-drucken-und-wie/">Warum 3D drucken und wie?!</a></li>
+<li><a title="3D Printing Basics (viele Videos)" href="http://www.3ders.org/3d-printing-basics.html">3D Printing Basics (viele Videos)</a></li>
+<li><a href="http://maschbaur.wordpress.com/2013/01/30/materialien-fur-3d-druck-verfahren/">Materialen der verschiedenen 3D-Druck-Verfahren</a></li>
+</ul>
+<h3>Weiterführendes</h3>
+<ul>
+<li><a title="The incomplete REPRAP beginner's guide" href="http://reprap.org/wiki/The_incomplete_reprap_beginner%27s_guide">The incomplete REPRAP beginner&#8217;s guide</a></li>
+<li><a href="http://reprapbook.appspot.com/">Building Your Own 3D Printer</a></li>
+</ul>
+<h3>Lokale Treffen</h3>
+<ul>
+<li><a title="Hackffm³RepRap" href="http://hackerspace-ffm.de/wiki/index.php?title=Hackffm%C2%B3RepRap">hackffm³RepRap wednesday</a><br />
+ist das Treffen für RepRap Enthusiasten, Open Source Hardware und 3D Drucker Begeisterte. Eine konstante Gelegenheit zum Erfahrungsaustausch für Gleichgesinnte und Interessierte. Die Rapid Prototyper materialisieren gelegentlich auch 3D Wünsche auf Zuruf. Gäste sind willkommen.</li>
+</ul>
+<h3>Blogs</h3>
+<ul>
+<li><a href="http://3ddinge.de/">3ddinge.de</a></li>
+<li><a href="http://maschbaur.wordpress.com/category/3d-druck/">maschbaur.wordpress.com/category/3d-druck</a></li>
+</ul>
+<h3>Hersteller</h3>
+<ul>
+<li><a title="Makerbot" href="http://www.makerbot.com/">Makerbot</a></li>
+<li><a title="Ultimaker" href="http://www.ultimaker.com/">Ultimaker<br />
+</a></p>
+<ul>
+<li><a title="Wiki vom raumzeitlabor zum Ultimaker" href="https://raumzeitlabor.de/wiki/Ultimaker">Wiki vom raumzeitlabor zum Ultimaker</a></li>
+</ul>
+</li>
+<li><a href="http://www.kickstarter.com/projects/1682938109/robo-3d-printer?ref=live">Robo 3d Printer</a></li>
+<li><a title="AO-101" href="https://www.lulzbot.com/products/ao-101-3d-printer">AO-101</a></li>
+<li><a title="Objet" href="http://objet.com/3d-printers">Objet</a></li>
+</ul>
+<h3>Dienstleister</h3>
+<p>Hier kann man Objekte relativ schnell und (bei kleineren Objekten auch Preisgünstig) produzieren lassen. Man erhält dort einen guten Überblick über die Materialen (bis hin zu Silber, Edelstahl und Keramik) und einen Eindruck von den Ergebnissen.</p>
+<ul>
+<li><a href="http://www.shapeways.com/">shapeways.com</a><br />
+3D print in over 30 materials, including metals and ceramics.</li>
+<li><a title="fabberhouse" href="http://www.fabberhouse.de/pages/home.aspx">fabberhouse</a></li>
+<li><a title="Voxeljet" href="http://www.voxeljet.de/">Voxeljet</a></li>
+</ul>
+<h3>Danke!</h3>
+<p>Danke für die zahlreichen Tipps!</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/3229.3d-drucker-links.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

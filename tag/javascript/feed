@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>JavaScript &#8211; [|] m.tacker.org</title>
+	<atom:link href="https://m.tacker.org/tag/javascript/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Tue, 12 Jan 2016 11:45:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>Slimbox auf deutsch</title>
+		<link>https://m.tacker.org/939.slimbox-auf-deutsch.html</link>
+		<comments>https://m.tacker.org/939.slimbox-auf-deutsch.html#comments</comments>
+		<pubDate>Mon, 24 Mar 2008 11:13:58 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Projekte]]></category>
+		<category><![CDATA[JavaScript]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/939.slimbox-auf-deutsch.html</guid>
+		<description><![CDATA[Ich habe den Lightbox-Klon Slimbox ins Deutsche übersetzt.]]></description>
+				<content:encoded><![CDATA[<p>Ich habe den Lightbox-Klon <a href="http://www.digitalia.be/software/slimbox">slimbox</a> ins Deutsche übersetzt.</p>
+<p>Die aktuelle Version (1.64) liegt nun als deutsche und als englische Fassung in diesem ZIP-Archiv bereit:</p>
+<ul>
+<li><a href="http://projects.tacker.org/slimbox/slimbox-1.64-[en,de].zip">slimbox-1.64-[en,de].zip</a> (für Mootools 2)</li>
+<li><a href="http://projects.tacker.org/slimbox/slimbox-1.41-[en,de].zip">slimbox-1.41-[en,de].zip</a> (für Mootools 1)</li>
+</ul>
+<p>Das Archiv enthält neben der ursprünglichen englische Fassung, die deutsche Version und eine .PSD-Datei um einfach weitere Übersetzungen anfertigen zu können.</p>
+<h3>Ausprobieren</h3>
+<p><a rel="lightbox[t610]" href="/content/all/images/t-six-ten/processed/1.jpg"><img src="/content/all/images/t-six-ten/processed/1_thumb.jpg" alt="" width="40" height="30" /></a><a rel="lightbox[t610]" href="/content/all/images/t-six-ten/processed/2.jpg"><img src="/content/all/images/t-six-ten/processed/2_thumb.jpg" alt="" width="40" height="30" /></a><a rel="lightbox[t610]" href="/content/all/images/t-six-ten/processed/12.jpg"><img src="/content/all/images/t-six-ten/processed/12_thumb.jpg" alt="" width="40" height="30" /></a><a rel="lightbox[t610]" href="/content/all/images/t-six-ten/processed/5.jpg"><img src="/content/all/images/t-six-ten/processed/5_thumb.jpg" alt="" width="40" height="30" /></a><a rel="lightbox[t610]" href="/content/all/images/t-six-ten/processed/6.jpg"><img src="/content/all/images/t-six-ten/processed/6_thumb.jpg" alt="" width="40" height="30" /></a><a rel="lightbox[t610]" href="/content/all/images/t-six-ten/processed/7.jpg"><img src="/content/all/images/t-six-ten/processed/7_thumb.jpg" alt="" width="40" height="30" /></a><a rel="lightbox[t610]" href="/content/all/images/t-six-ten/processed/8.jpg"><img src="/content/all/images/t-six-ten/processed/8_thumb.jpg" alt="" width="40" height="30" /></a><a rel="lightbox[t610]" href="/content/all/images/t-six-ten/processed/11.jpg"><img src="/content/all/images/t-six-ten/processed/11_thumb.jpg" alt="" width="40" height="30" /></a></p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/939.slimbox-auf-deutsch.html/feed</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+	</channel>
+</rss>

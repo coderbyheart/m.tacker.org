@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:georss="http://www.georss.org/georss" 
+	>
+<channel>
+	<title>Comments on: Netzwerk-Festplatten für die Playstation 3</title>
+	<atom:link href="https://m.tacker.org/1786.netzwerk-festplatten-fur-die-playstation-3.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org/1786.netzwerk-festplatten-fur-die-playstation-3.html</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Mon, 23 Nov 2015 21:43:02 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: Philip Blatter</title>
+		<link>https://m.tacker.org/1786.netzwerk-festplatten-fur-die-playstation-3.html/comment-page-1#comment-35970</link>
+		<dc:creator><![CDATA[Philip Blatter]]></dc:creator>
+		<pubDate>Wed, 02 Sep 2009 09:04:34 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=1786#comment-35970</guid>
+		<description><![CDATA[Hey Markus, ich habe ein Thecus N5200 (http://www.thecus.de/) und bin total zufrieden damit..! Als UPnP Server setze ich twonkymedia ein. VG, Philip]]></description>
+		<content:encoded><![CDATA[<p>Hey Markus, ich habe ein Thecus N5200 (<a href="http://www.thecus.de/" rel="nofollow">http://www.thecus.de/</a>) und bin total zufrieden damit..! Als UPnP Server setze ich twonkymedia ein. VG, Philip</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

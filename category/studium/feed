@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>Studium &#8211; [|] m.tacker.org</title>
+	<atom:link href="https://m.tacker.org/category/studium/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Tue, 12 Jan 2016 11:45:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>Re: Erststudium mit 29 dank Aufstiegsstipendium</title>
+		<link>https://m.tacker.org/3180.re-erststudium-mit-29-dank-aufstiegsstipendium.html</link>
+		<comments>https://m.tacker.org/3180.re-erststudium-mit-29-dank-aufstiegsstipendium.html#comments</comments>
+		<pubDate>Fri, 17 Aug 2012 10:41:08 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Studium]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=3180</guid>
+		<description><![CDATA[Es kommt nicht alles, wie erwartet.]]></description>
+				<content:encoded><![CDATA[<p>Vor vier Jahren habe ich <a href="https://m.tacker.org/1574.erststudium-mit-29-dank-aufstiegsstipendium.html">hier</a> meine Vorstellungen über das bevorstehende Studium aufgeschrieben. Jetzt möchte ich diese noch einmal Revue passieren lassen.</p>
+<blockquote><p>Ja, richtig gelesen: Ab dem Wintersemester 2009 werde ich Medieninformatik an der FH Wiesbaden studieren. Das ist sicherlich ein gewagter Schritt, schließlich verzichte ich auf einen sicheren Job mit fixem Gehalt. […] Als Webworker ist es natürlich einfach, nebenbei zu arbeiten — für meine Chefs ist das kein Problem, als studentischer Angestellter spart man Sozialabgaben und steht im Semester zumindest als halbe Stelle zur Verfügung (Arbeitszeit maximal 20 Stunden pro Woche und in der studienfreien Zeit, soviel man will).</p></blockquote>
+<p>Was ist heute schon noch sicher? In meinem vorigen Job hatte ich vier Wochen Kündigungsfrist. In den letzten Jahren habe ich als Freelancer nebenbei gearbeitet, und daran gefallen gefunden. Eine Festanstellung kann ich mir heute eigentlich nicht mehr vorstellen. Das mit den maximal 20 Stunden pro Woche ging dann aber höchstens noch in den ersten beiden Semestern. Danach ist der Stundenplan so voll, dass man <a href="http://studium.coderbyheart.de/studieren-und-arbeiten">nebenbei nur Arbeiten kann, wenn man nicht vor hat, das Studium in der Regelstudienzeit abzuschließen</a>. </p>
+<blockquote><p>Wenn ich mir den Studienplan so anschaue, sehe ich im Bachelor-Studiengang keine Herausforderung, lediglich Mathe und die Wirtschaftsteile werden sicherlich ein bisschen anstrengend.</p></blockquote>
+<p>Tja, da habe ich fast völlig falsch gelegen. Was man im Beruf <em>lernt</em> hat nichts mit Informatik zu tun, sondern eher was mit Handwerk. Sicherlich, ich verfügt schon über wichtige Grundlagen wie analytisches Denken, das Verständnis für komplexe Systeme und abstrakte Konzepte aber für die eigentlichen Lerninhalte konnte ich <a href="http://studium.coderbyheart.de/zwischenfazit-nach-zwei-jahren">ab dem dritten Semester eigentlich nichts mehr durch Vorwissen beisteuern</a>.</p>
+<blockquote><p>Ich hoffe auch, dass mir einige Inhalte aufgrund meiner Ausbildung und meiner Berufserfahrung anerkannt werden, zumindest das 5. Praxissemester sollte auf jeden Fall entfallen können, so dass ich fleißig nebenher arbeiten kann.</p></blockquote>
+<p>Nein. Es werden nur noch Studenleistungen anerkannt. </p>
+<blockquote><p>Die Motivation für das Studium ist natürlich nicht das Studieren um des Stipendiums willen, sondern um meine fachliche Qualifikation zu &#8220;verbriefen&#8221;. […]</p></blockquote>
+<p>Das sehe ich heute immer noch so.</p>
+<blockquote><p>Den zweiten wichtigen Grund für ein Studium sehe ich darin, neue Perspektiven eröffnet zu bekommen. Schließlich gehen wir an Herausforderungen im Arbeitsalltag meistens mit altbewährten Lösung herran, für kreative oder radikal neue Ansätze ist eigentlich nie Zeit und / oder Geld da.</p></blockquote>
+<p>Da habe ich ganz klar richtig gelegen. Man bekommt die theoretischen Grundlagen der Informatik vermittelt, das mag auf den ersten Blick Dröge klingen, führt aber zu einer mächtigen Verbreiterung der Fähigkeiten. In der Softwareentwicklung geht es eben nicht darum, alles mit einer Sprache (für mich war das früher PHP) zu erschlagen, sondern für die jeweilige Anforderung die besten Lösung zu finden. Die Fähigkeiten die man dafür braucht, sind also nicht ein großes Wissen über die Syntax einer Sprache und die verfügbaren Libraries, sondern viel mehr die Fähigkeit komplexe System zu entwerfen, (fast) unabhängig von der eigentlichen Implementierung.</p>
+<blockquote><p>Von einem Studium verspreche ich mir deshalb eine andere Sichtweise auf die klassischen IT-Themen und natürlich auch einen Schlag neue Leute kennen zu lernen.</p></blockquote>
+<p>Ganz klar: richtig! Inzwischen interessiere mich ganz andere Themen, als noch vor drei Jahren. Und tolle Leute habe auch kennen gelernt.</p>
+<p>Insgesamt habe ich mir das Studium leichter vorgestellt &ndash; ich kann mit dem Ergebnis aber trotzdem sehr zufrieden sein. Zudem konnte ich das Studium als einziger unter denen, die mit mir angefangen haben, in der Regelstudienzeit von 6 Semestern abschließen. Dazu hat mit Sicherheit auch der Druck durch das Stipendium und die Zielstrebigkeit, mit der ich aufgrund meiner Erfahrung leichter zwischen wichtigen und unwichtigen Aufgaben unterscheiden kann, ihren Teil beigetragen.</p>
+<p>Das <a href="http://studium.coderbyheart.de/mein-fazit-zum-medieninformatik-studium">ausführliche Fazit zu meinem Studium findet sich in meinem Studiums-Blog</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/3180.re-erststudium-mit-29-dank-aufstiegsstipendium.html/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Ich bin jetzt Akademiker</title>
+		<link>https://m.tacker.org/3175.ich-bin-jetzt-akademiker.html</link>
+		<comments>https://m.tacker.org/3175.ich-bin-jetzt-akademiker.html#respond</comments>
+		<pubDate>Fri, 17 Aug 2012 10:15:33 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Studium]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=3175</guid>
+		<description><![CDATA[In diesem Monat habe ich nach drei Jahren Studium meinen Bachelor of Science in Medieninformatik erhalten.]]></description>
+				<content:encoded><![CDATA[<p>In diesem Monat habe ich nach drei Jahren Studium meinen Bachelor of Science in Medieninformatik erhalten. In meinem Studiums-Blog findet sich ein Fazit über das vergangene Studienjahr im speziellen und das Studium im allgemeinen.</p>
+<blockquote><p>Für mich war das Studium ein voller Erfolg, ich sehr viel gelernt und ich habe das Gefühl, dass ich in jetzt <em>Programmieren</em> mit einer völlig anderen Sichtweise betrachte, als vor drei Jahren. Ich würde es wieder machen. Und zwar genau wieder dort, <em>unter den Eichen</em>.</p></blockquote>
+<p>Den ganzen Artikel kannst Du <a href="http://studium.coderbyheart.de/mein-fazit-zum-medieninformatik-studium">hier</a> lesen.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/3175.ich-bin-jetzt-akademiker.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Zwischenfazit des zweiten Studienjahres</title>
+		<link>https://m.tacker.org/2928.zwischenfazit-des-zweiten-studienjahres.html</link>
+		<comments>https://m.tacker.org/2928.zwischenfazit-des-zweiten-studienjahres.html#respond</comments>
+		<pubDate>Wed, 31 Aug 2011 12:15:32 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Studium]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=2928</guid>
+		<description><![CDATA[In meinem Studiumsblog studium.coderbyheart.de habe ich ein ausführliches Zwischenfazit des zweiten Studienjahres geschrieben.]]></description>
+				<content:encoded><![CDATA[<p>In meinem Studiumsblog <a href="http://studium.coderbyheart.de/">studium.coderbyheart.de</a> habe ich ein <a href="http://studium.coderbyheart.de/zwischenfazit-nach-zwei-jahren">ausführliches Zwischenfazit</a> des zweiten Studienjahres geschrieben.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/2928.zwischenfazit-des-zweiten-studienjahres.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ein Jahr Studium ist rum: Zeit für ein Zwischenfazit</title>
+		<link>https://m.tacker.org/2634.ein-jahr-studium-ist-rum-zeit-fur-ein-zwischenfazit.html</link>
+		<comments>https://m.tacker.org/2634.ein-jahr-studium-ist-rum-zeit-fur-ein-zwischenfazit.html#respond</comments>
+		<pubDate>Wed, 22 Sep 2010 09:43:48 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Studium]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=2634</guid>
+		<description><![CDATA[In meinem Studiumsblog studium.coderbyheart.de habe ich ein ausführliches Zwischenfazit des ersten Studienjahres geschrieben.]]></description>
+				<content:encoded><![CDATA[<p>In meinem Studiumsblog <a href="http://studium.coderbyheart.de/">studium.coderbyheart.de</a> habe ich ein <a href="http://studium.coderbyheart.de/zwischenfazit-nach-einem-jahr">ausführliches Zwischenfazit</a> des ersten Studienjahres geschrieben.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/2634.ein-jahr-studium-ist-rum-zeit-fur-ein-zwischenfazit.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Zulassungbescheid</title>
+		<link>https://m.tacker.org/2071.zulassungbescheid.html</link>
+		<comments>https://m.tacker.org/2071.zulassungbescheid.html#respond</comments>
+		<pubDate>Wed, 12 Aug 2009 19:35:35 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Studium]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=2071</guid>
+		<description><![CDATA[Nach einigen Wochen bangen Wartens halte ich ihn seit diesem Wochenend in den Händen, der Zettel, der mir den Studienplatz zusichert. Am 25. August gehts dann zum ersten Kontakt mit der FH Wiesbaden, pardon Hochschule RheinMain, zur Immatrikulation.]]></description>
+				<content:encoded><![CDATA[<p><img src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/fotos/550/Zulassungsbescheid.jpg" /></p>
+<p>Nach einigen Wochen bangen Wartens halte ich ihn seit diesem Wochenend in den Händen, der Zettel, der mir den <a href="https://m.tacker.org/1574.erststudium-mit-29-dank-aufstiegsstipendium.html">Studienplatz</a> zusichert.</p>
+<p>Am 25. August gehts dann zum ersten Kontakt mit der FH Wiesbaden, pardon Hochschule RheinMain, zur Immatrikulation.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/2071.zulassungbescheid.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Erststudium mit 29 dank Aufstiegsstipendium</title>
+		<link>https://m.tacker.org/1574.erststudium-mit-29-dank-aufstiegsstipendium.html</link>
+		<comments>https://m.tacker.org/1574.erststudium-mit-29-dank-aufstiegsstipendium.html#comments</comments>
+		<pubDate>Sun, 23 Nov 2008 20:06:47 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Studium]]></category>
+		<category><![CDATA[Aufstiegsstipendium]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=1574</guid>
+		<description><![CDATA[Ab dem Wintersemester 2009 werde ich dank Aufstiegsstipendium Medieninformatik an der FH Wiesbaden studieren.]]></description>
+				<content:encoded><![CDATA[<p>Ja, richtig gelesen: Ab dem Wintersemester 2009 werde ich Medieninformatik an der FH Wiesbaden studieren. Das ist sicherlich ein gewagter Schritt, schließlich verzichte ich auf einen sicheren Job mit fixem Gehalt.</p>
+<p>Aber es gibt einige gute Gründe, die mich zu dieser Entscheidung bewegt haben.</p>
+<p>Ausschlaggebend war sicherlich, dass ich von der Stiftung Begabtenförderungswerk berufliche Bildung (SBB) des Bundesministeriums für Bildung und Forschung ein Vollzeit-Stipendium bekommen habe. Das sogenannte <a href="http://www.aufstiegsstipendium.info/">Aufstiegsstipendium</a> kann jeder bekommen, der seine Ausbildung mit <a href="https://m.tacker.org/228.ap-gft-und-aiti.html">Auszeichnung</a> abgeschlossen hat, über zwei Jahre Berufserfahrung verfügt und noch kein Studium angeschlossen hat. Hat man das Aufnahmeverfahren bestanden, bekommt man monatlich 650 Euro plus 80 Euro Büchergeld als Vollzeitstudent bzw. jährlich 1.700 Euro als Teilzeitstudent.</p>
+<p>Mit dem Puffer der Förderung für Vollzeitstudenten im Hintergrund lässt sich zumindest leben, ohne dass wir Probleme mit Kredit- und Versicherungsraten bekommen, sollte Tanja gleichzeitig arbeitslos sein. Als Webworker ist es natürlich einfach, nebenbei zu arbeiten — für meine Chefs ist das kein Problem, als studentischer Angestellter spart man Sozialabgaben und steht im Semester zumindest als halbe Stelle zur Verfügung (Arbeitszeit maximal 20 Stunden pro Woche und in der studienfreien Zeit, soviel man will).</p>
+<p>Wenn ich mir den Studienplan so anschaue, sehe ich im Bachelor-Studiengang keine Herausforderung, lediglich Mathe und die Wirtschaftsteile werden sicherlich ein bisschen anstrengend. Ich hoffe auch, dass mir einige Inhalte aufgrund meiner Ausbildung und meiner Berufserfahrung anerkannt werden, zumindest das 5. Praxissemester sollte auf jeden Fall entfallen können, so dass ich fleißig nebenher arbeiten kann.</p>
+<p>Die Motivation für das Studium ist natürlich nicht das Studieren um des Stipendiums willen, sondern um meine fachliche Qualifikation zu &#8220;verbriefen&#8221;. Ich verfüge über ziemlich viel Berufserfahrung für mein Alter und muss mich nicht hinter Kollegen verstecken, die ein abgeschlossenes Informatik-Studium haben.</p>
+<p>Gehen wir aber mal 10 Jahre in die Zukunft sehe ich ein Problem mit meiner Berufsausbildung, da diese nur in Deutschland anerkannt ist. Sicherlich ist das kein Problem bei deutschen Firmen, allerdings werden in Zukunft immer mehr Arbeitgeber mit internationalen Personalstandards auf dem deutschen Markt aktiv werden. Dann werde ich ein Problem im Vergleich zu Kollegen haben, die zwar fachlich das gleich können, wie ich, aber es dank ihres Hochschulabschlusses durch das erste Auswahlverfahren der Personaler schaffen. Mit einer Ausbildung wird man zwar nicht aussortiert, aber doch erstmal auf dem &#8220;zweiten Bewerberstapel&#8221; landen. Sicher, aktuell haben Webworker überhaupt kein Problem, eine Stelle zu finden, aber wer weiß schon, wann der nächste Abschwung in der IT-Branche kommt, und dann möchte ich mir nicht sagen: &#8220;Hätte ich doch &#8230;&#8221;. Und schließlich reden ja auch alle Experten vom lebenslangen Lernen.</p>
+<p>Den zweiten wichtigen Grund für ein Studium sehe ich darin, neue Perspektiven eröffnet zu bekommen. Schließlich gehen wir an Herausforderungen im Arbeitsalltag meistens mit altbewährten Lösung herran, für kreative oder radikal neue Ansätze ist eigentlich nie Zeit und / oder Geld da. Von einem Studium verspreche ich mir deshalb eine andere Sichtweise auf die klassischen IT-Themen und natürlich auch einen Schlag neue Leute kennen zu lernen.</p>
+<p>Bisher hat sich auch niemand negativ zu meinem Vorhaben geäußert. Tanja freut sich mächtig, mein Vater als alter &#8220;Dipl-Ing&#8221; ist natürlich schwer angetan, dass der Sohnemann einen Hochschulabschluss bekommt — ich bin auch happry, gerade wenn auch die Chefs so mitspielen wie meine.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1574.erststudium-mit-29-dank-aufstiegsstipendium.html/feed</wfw:commentRss>
+		<slash:comments>16</slash:comments>
+		</item>
+	</channel>
+</rss>

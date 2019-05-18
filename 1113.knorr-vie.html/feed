@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:georss="http://www.georss.org/georss" 
+	>
+<channel>
+	<title>Comments on: Knorr Vie</title>
+	<atom:link href="https://m.tacker.org/1113.knorr-vie.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org/1113.knorr-vie.html</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Mon, 23 Nov 2015 21:43:02 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: Sebastian</title>
+		<link>https://m.tacker.org/1113.knorr-vie.html/comment-page-1#comment-18030</link>
+		<dc:creator><![CDATA[Sebastian]]></dc:creator>
+		<pubDate>Wed, 23 Apr 2008 14:42:38 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=1113#comment-18030</guid>
+		<description><![CDATA[Das Zeug ist EKELERREGEND. Daher meinen größten Respekt, dass du das überhaupt durchgehalten hast!]]></description>
+		<content:encoded><![CDATA[<p>Das Zeug ist EKELERREGEND. Daher meinen größten Respekt, dass du das überhaupt durchgehalten hast!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

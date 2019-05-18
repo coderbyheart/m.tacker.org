@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:georss="http://www.georss.org/georss" 
+	>
+<channel>
+	<title>Comments on: Winglet: Segway-Konkurrenz von Toyota</title>
+	<atom:link href="https://m.tacker.org/1208.winglet-segway-konkurrenz-von-toyota.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org/1208.winglet-segway-konkurrenz-von-toyota.html</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Mon, 23 Nov 2015 21:43:02 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: Markus Tacker</title>
+		<link>https://m.tacker.org/1208.winglet-segway-konkurrenz-von-toyota.html/comment-page-1#comment-36622</link>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+		<pubDate>Sat, 12 Dec 2009 11:23:01 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=1208#comment-36622</guid>
+		<description><![CDATA[Meines Wissens nach ist der Winglet noch nicht einmal serienreif.]]></description>
+		<content:encoded><![CDATA[<p>Meines Wissens nach ist der Winglet noch nicht einmal serienreif.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Uwe Baumgärtner</title>
+		<link>https://m.tacker.org/1208.winglet-segway-konkurrenz-von-toyota.html/comment-page-1#comment-36621</link>
+		<dc:creator><![CDATA[Uwe Baumgärtner]]></dc:creator>
+		<pubDate>Sat, 12 Dec 2009 10:39:36 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=1208#comment-36621</guid>
+		<description><![CDATA[Wo kann man den Winglet in Deutschland kaufen? Welcher Preis?]]></description>
+		<content:encoded><![CDATA[<p>Wo kann man den Winglet in Deutschland kaufen? Welcher Preis?</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

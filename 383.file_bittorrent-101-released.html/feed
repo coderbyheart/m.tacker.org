@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:georss="http://www.georss.org/georss" 
+	>
+<channel>
+	<title>Comments on: File_Bittorrent 1.0.1 released</title>
+	<atom:link href="https://m.tacker.org/383.file_bittorrent-101-released.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org/383.file_bittorrent-101-released.html</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Mon, 23 Nov 2015 21:43:02 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: SASh</title>
+		<link>https://m.tacker.org/383.file_bittorrent-101-released.html/comment-page-1#comment-1308</link>
+		<dc:creator><![CDATA[SASh]]></dc:creator>
+		<pubDate>Sun, 03 Sep 2006 13:17:49 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/383.file_bittorrent-101-released.html#comment-1308</guid>
+		<description><![CDATA[&quot;Bug #5836 (Support for files &#062; 2GB) is a pain in the ass to test, so no progress there. I appreciate every help here.&quot; 
+Some time ago, I posted a patch to that bug on pear.php.net. Since then I am using the patch on various projects, and I have not yet seen any problems. I&#039;d like to help with the testing, because the bug realy blocks my projects, and I would like to see it fixed as soon as possible.
+
+If there is any way I can assist, please write my email!
+
+Good luck!
+SASh]]></description>
+		<content:encoded><![CDATA[<p>&#8220;Bug #5836 (Support for files &gt; 2GB) is a pain in the ass to test, so no progress there. I appreciate every help here.&#8221;<br />
+Some time ago, I posted a patch to that bug on pear.php.net. Since then I am using the patch on various projects, and I have not yet seen any problems. I&#8217;d like to help with the testing, because the bug realy blocks my projects, and I would like to see it fixed as soon as possible.</p>
+<p>If there is any way I can assist, please write my email!</p>
+<p>Good luck!<br />
+SASh</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

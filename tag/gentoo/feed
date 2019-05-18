@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>Gentoo &#8211; [|] m.tacker.org</title>
+	<atom:link href="https://m.tacker.org/tag/gentoo/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Tue, 12 Jan 2016 11:45:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>iMac G5 (PPC) und Gentoo Linux</title>
+		<link>https://m.tacker.org/1681.imac-g5-ppc-und-gentoo-linux.html</link>
+		<comments>https://m.tacker.org/1681.imac-g5-ppc-und-gentoo-linux.html#respond</comments>
+		<pubDate>Thu, 01 Jan 2009 13:01:58 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Projekte]]></category>
+		<category><![CDATA[Gentoo]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=1681</guid>
+		<description><![CDATA[Gentoo Linux auf dem iMac G5]]></description>
+				<content:encoded><![CDATA[<p>Seit ein paar Tagen läuft unser iMac (erstes Modell der dritten Generation) mit Gentoo Linux.</p>
+<p>Allerdings sind noch einige Kleinigkeiten nicht ganz perfekt:</p>
+<ul>
+<li>Die Front-LED geht nicht, man sieht also nicht, ob der Mac läuft</li>
+<li><a href="http://forum.skype.com/index.php?showtopic=4153">Skype ist nicht für PPC verfügbar</a></li>
+<li><a href="http://labs.mozilla.com/projects/weave/">Mozilla Weave</a> funktioniert nicht unter PPC</li>
+<li><a href="http://get.adobe.com/de/flashplayer/otherversions/">Adobe Flash Player</a> gibt es nicht für PPC, dafür <a href="http://www.gnu.org/software/gnash/">Gnash</a> als Alternative</li>
+</ul>
+<p>Desweiteren  gibt es einige Bugs im schnellen nouveau-Treiber für die Grafikkarte, die beim langsameren nv-Treiber nicht auftreten.</p>
+<ul>
+<li><span style="text-decoration: line-through;"><a href="https://bugs.freedesktop.org/show_bug.cgi?id=19356">DPMS does not turn off LCD backlight on NV34M [GeForce FX Go5200]</a></span></li>
+<li><a href="https://bugs.freedesktop.org/show_bug.cgi?id=19356">Mouse cursors distorted on NV34M [GeForce FX Go5200]</a></li>
+</ul>
+<p>Hier sind die wichtigsten Konfigurations-Dateien:</p>
+<ul>
+<li><a href="http://projects.tacker.org/gentoo-on-imac-g5/config.txt">kernel .config<br />
+</a></li>
+<li><a href="http://projects.tacker.org/gentoo-on-imac-g5/xorg.conf">xorg.conf</a></li>
+<li><a href="http://projects.tacker.org/gentoo-on-imac-g5/make.conf">make.conf</a></li>
+<li><a href="http://projects.tacker.org/gentoo-on-imac-g5/nvclock.txt">nvclock</a></li>
+</ul>
+<p>Sonstige Infos:</p>
+<ul>
+<li><a href="http://projects.tacker.org/gentoo-on-imac-g5/cpuinfo.txt">cpuinfo</a></li>
+<li><a href="http://projects.tacker.org/gentoo-on-imac-g5/meminfo.txt">meminfo</a></li>
+</ul>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1681.imac-g5-ppc-und-gentoo-linux.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Gratulation an KuickShow &#8230;</title>
+		<link>https://m.tacker.org/1559.gratulation-an-kuickshow.html</link>
+		<comments>https://m.tacker.org/1559.gratulation-an-kuickshow.html#respond</comments>
+		<pubDate>Sun, 02 Nov 2008 18:57:35 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[Gentoo]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=1559</guid>
+		<description><![CDATA[&#8230; dafür, dass es meine Schwiegermutter mit &#8220;Kukischo&#8221; ohne Erklärung von mir hinbekommen hat, Fotos zu rotieren. Das nenne ich einen Beweis für Usability. KuickShow &#8212; an Image Viewer for KDE]]></description>
+				<content:encoded><![CDATA[<p>&#8230; dafür, dass es meine Schwiegermutter mit &#8220;Kukischo&#8221; ohne Erklärung von mir hinbekommen hat, Fotos zu rotieren.</p>
+<p><em>Das</em> nenne ich einen Beweis für Usability.</p>
+<p><a href="http://kuickshow.sourceforge.net/">KuickShow</a> &mdash; an Image Viewer for KDE</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/1559.gratulation-an-kuickshow.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Adding easy USE flag documentation to packages.g.o</title>
+		<link>https://m.tacker.org/280.adding-easy-use-flag-documentation-to-packagesgo.html</link>
+		<comments>https://m.tacker.org/280.adding-easy-use-flag-documentation-to-packagesgo.html#respond</comments>
+		<pubDate>Sat, 15 Apr 2006 10:35:00 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Gentoo]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/280.adding-easy-use-flag-documentation-to-packagesgo.html</guid>
+		<description><![CDATA[So, I just wanted to install the unstable amarok with its moodbar feature. In order to find out that visualization is not the USE flag for it but exscalibar I had to google these use flags which were not active on my system before. This made me think about the way Gentoo documents use flags. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>So, I just wanted to install the unstable amarok with its moodbar feature. In order to find out that <code>visualization</code> is not the USE flag for it but <code>exscalibar</code> I had to google these use flags which were not active on my system before.</p>
+<p>This made me think about the way Gentoo documents use flags. The file <code>/usr/portage/profiles/use.desc</code> or <a href="http://www.gentoo.org/dyn/use-index.xml">the online list</a> is by far not complete. Is there an other ressource I am missing besides <a href="http://gentoo-portage.com/">Gentoo-Portage.com</a> which <a href="http://gentoo-portage.com/Search?search=&amp;use=exscalibar">only list which ebuild is useing which USE flag</a>?</p>
+<p>My suggestion would be to add a list of use flags to <a href="http://packages.gentoo.org/ebuilds/?amarok-1.4_beta3-r2">the package detail page</a> with a link to the <a href="http://gentoo-wiki.com/">Gentoo Wiki</a> for every use flag (see example below). So everyone could contribute to the use flag description.</p>
+<p>See a <a href="http://forums.gentoo.org/viewtopic-p-797951.html#797951">similar post about the lack of USE flag documentation</a>.</p>
+<h3>Example</h3>
+<p><a href="http://packages.gentoo.org/ebuilds/?amarok-1.4_beta3-r2">amarok 1.4_beta3-r2</a><br />
+<strong>Use Flags:</strong> <a href="http://gentoo-wiki.com/USE/aac">aac</a> <a href="http://gentoo-wiki.com/USE/arts">arts</a> <a href="http://gentoo-wiki.com/USE/debug">debug</a> <a href="http://gentoo-wiki.com/USE/exscalibar">exscalibar</a> <a href="http://gentoo-wiki.com/USE/flac">flac</a> <a href="http://gentoo-wiki.com/USE/gstreamer">gstreamer</a> <a href="http://gentoo-wiki.com/USE/ifp">ifp</a> <a href="http://gentoo-wiki.com/USE/ipod">ipod</a> <a href="http://gentoo-wiki.com/USE/kde">kde</a> <a href="http://gentoo-wiki.com/USE/musicbrainz">musicbrainz</a> <a href="http://gentoo-wiki.com/USE/mysql">mysql</a> <a href="http://gentoo-wiki.com/USE/noamazon">noamazon</a> <a href="http://gentoo-wiki.com/USE/opengl">opengl</a> <a href="http://gentoo-wiki.com/USE/postgres">postgres</a> <a href="http://gentoo-wiki.com/USE/real">real</a> <a href="http://gentoo-wiki.com/USE/visualization">visualization</a> <a href="http://gentoo-wiki.com/USE/xinerama">xinerama</a> <a href="http://gentoo-wiki.com/USE/xmms">xmms</a></p>
+<p>Original post: <a href="http://forums.gentoo.org/viewtopic-p-3258233.html#3258233">Adding easy USE flag documentation to packages.g.o</a></p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/280.adding-easy-use-flag-documentation-to-packagesgo.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>HOWTO Install TWiki on Gentoo Linux</title>
+		<link>https://m.tacker.org/243.howto-install-twiki-on-gentoo-linux.html</link>
+		<comments>https://m.tacker.org/243.howto-install-twiki-on-gentoo-linux.html#respond</comments>
+		<pubDate>Wed, 05 Apr 2006 09:33:45 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Gentoo]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/243.howto-install-twiki-on-gentoo-linux.html</guid>
+		<description><![CDATA[This guide refers to the 4.0.2-r2 ebuild of TWiki.]]></description>
+				<content:encoded><![CDATA[<p>For a study project of my wife I wanted to install <a href="http://twiki.org/">TWiki</a> and picked the ebuild. Installing wasn&#39;t that fluid, the bin/configure script was displayed as plain text.</p>
+<p>But it&#39;s marked ~x86 so why blame the maintainer?</p>
+<p>These are the steps which were required to get TWiki running for my setup.</p>
+<p>edit bin/.htaccess to contain</p>
+<blockquote>
+<pre>Options +ExecCGI
+SetHandler cgi-script</pre>
+</blockquote>
+<p>This made the configure script display. It complained about</p>
+<blockquote><p><span class="error"><b>Error: </b>&#39;TWiki.pm&#39; could not be loaded. The error was:</span></p>
+<pre>Can&#39;t locate TWiki.pm in @INC
+(@INC contains: [...]</pre>
+<p><span class="error"><b>Error: </b>Check path to <code>twiki/lib</code> and check that LocalSite.cfg is present and readable</span></p></blockquote>
+<p>Right. TWiki.pm was not readable by the webserver.</p>
+<blockquote>
+<pre># la lib/TWiki.pm
+-r--r----- 1 root root 112223 5. Apr 10:35 lib/TWiki.pm</pre>
+</blockquote>
+<p>So I chowned all files to the webserver:</p>
+<blockquote>
+<pre># chown -R root:apache ./</pre>
+</blockquote>
+<p>configure also mentioned that it could not write the logfiles, so I gave the webserver write permissios to the data dir</p>
+<blockquote>
+<pre>find ./data | xargs chmod g+w</pre>
+</blockquote>
+<h3>It&#39;s working</h3>
+<p>That&#39;s it pretty much. TWiki is now running <a href="http://kamilleblumm.de/fh/mewi/bin/view/Main/WebHome">here</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/243.howto-install-twiki-on-gentoo-linux.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>New Router</title>
+		<link>https://m.tacker.org/98.new-router.html</link>
+		<comments>https://m.tacker.org/98.new-router.html#comments</comments>
+		<pubDate>Sun, 19 Mar 2006 18:08:46 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Gentoo]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/98.new-router.html</guid>
+		<description><![CDATA[So, I changed my router hardware from an old pentium 66 with fli4l to an Allnet 1297 which I bought on ebay for 7.99 EUR. Actually I bought two, the second is for backup purposes. The reason: aquiring an IP address via dhcp took ages with the old one. And it saves 83% energy. The [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>So, I changed my router hardware from an old pentium 66 with fli4l to an Allnet 1297 which I bought on ebay for 7.99 EUR. Actually I bought two, the second is for backup purposes. The reason: aquiring an IP address via dhcp took ages with the old one. And it saves 83% energy.<br />
+The change is complete after I finished setting up an own dns server, as the Allnet doesn&#8217;t provide one.</p>
+<p>Finally I just had to change some hardcoded IPs in /etc as I have reorganized my IP layout.</p>
+<blockquote><p>find /etc/ -type f | grep -v config-archive | grep -v example | grep -v gconf | xargs grep -nHi &#8211;color 192.168.0</p></blockquote>
+<p>does the trick.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/98.new-router.html/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Aus dem Leben eines Gentoo Users</title>
+		<link>https://m.tacker.org/81.aus-dem-leben-eines-gentoo-users.html</link>
+		<comments>https://m.tacker.org/81.aus-dem-leben-eines-gentoo-users.html#respond</comments>
+		<pubDate>Wed, 22 Feb 2006 11:24:58 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[Gentoo]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/81.aus-dem-leben-eines-gentoo-users.html</guid>
+		<description><![CDATA[(Treibholz) oh, update für xorg&#8230;. (Treibholz) und openoffice (Treibholz) *heizungrunterdreh* Wie wahr &#8230; Gefunden auf german-bash.org.]]></description>
+				<content:encoded><![CDATA[<blockquote><p>(Treibholz) oh, update für xorg&#8230;.<br />
+(Treibholz) und openoffice<br />
+(Treibholz) *heizungrunterdreh*</p></blockquote>
+<p>Wie wahr &#8230;</p>
+<p>Gefunden auf <a href="http://german-bash.org/2370">german-bash.org</a>.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/81.aus-dem-leben-eines-gentoo-users.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Best performance with mounted Fat32 over NFS</title>
+		<link>https://m.tacker.org/78.best-performance-with-mounted-fat32-over-nfs.html</link>
+		<comments>https://m.tacker.org/78.best-performance-with-mounted-fat32-over-nfs.html#respond</comments>
+		<pubDate>Sun, 05 Feb 2006 08:52:31 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Gentoo]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/78.best-performance-with-mount-fat32-over-nfs.html</guid>
+		<description><![CDATA[On my HTPC there is a 170 GB Fat32 partition which is shared with the local Windows XP installation. I want to mount that partition local and on other Gentoo PCs in my LAN via NFS. As I had issues with Konqueror displaying rapidly changing file transfer rates I tried different sync/async setting. These turned [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>On my HTPC there is a 170 GB Fat32 partition which is shared with the local Windows XP installation. I want to mount that partition local and on other Gentoo PCs in my LAN via NFS. As I had issues with Konqueror displaying rapidly changing file transfer rates I tried different sync/async setting. </p>
+<p>These turned out to be the best:</p>
+<p><strong>Tivo</strong></p>
+<p><code>/etc/fstab</code></p>
+<blockquote><p>/dev/hda5 /mnt/store vfat noatime,utf8,uid=65534,gid=100,dmask=0007,fmask=0117 0 0</p></blockquote>
+<p>Mount the partition as nobody:users, async is implied here.</p>
+<p><code>/etc/exports</code></p>
+<blockquote><p>/mnt/store 192.168.0.0/255.255.255.0(rw,all_squash,anonuid=65534,anongid=100,async,insecure)</p></blockquote>
+<p>Export as nobody:users with <strong>async</strong> flag.</p>
+<p><strong>Caull</strong></p>
+<p><code>/etc/fstab</code></p>
+<blockquote><p>tivo:/mnt/store /mnt/nfs/tivo/store nfs timeo=14,intr,rsize=8192,wsize=8192,tcp,sync 0 0</p></blockquote>
+<p>Mount with <strong>sync</strong> flag enabled.</p>
+<p>This results in stable transfer rates at about 5 MB/s (write) and 10 MB/s (read) via a 100MBit LAN.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/78.best-performance-with-mounted-fat32-over-nfs.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Gentoo&#8217;s policy on important updates</title>
+		<link>https://m.tacker.org/46.gentoos-policy-on-important-updates.html</link>
+		<comments>https://m.tacker.org/46.gentoos-policy-on-important-updates.html#respond</comments>
+		<pubDate>Fri, 28 Oct 2005 11:18:16 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Gentoo]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/46.gentoos-policy-on-important-updates.html</guid>
+		<description><![CDATA[In reply to Stuart Herbert in <a href="http://stu.gnqs.org/diary/gentoo.php/2005/10/28/gentoo_needs_a_more_effective_way_to_get">Gentoo Needs A More Effective Way To Get Its Message Out</a>]]></description>
+				<content:encoded><![CDATA[<p>I agree. emerge should have a message queue. ebuilds do have messages already, but the often get overlooked during a emerge -uDN world cause they&#8217;re only posted once at the end of the build. emerge should save all these notes an messages and state &#8220;You have [n] unread notes. You have [n] unread important warning.&#8221; everytime you run emerge. The same way it does for updated config files.</p>
+<p>I am not a fan of a announce mailing list. It&#8217;s like looking on the new ebuilds list [1]. It&#8217;s hard and boring to filter out the packages applying to your system(s). emerge is the right place to handle this.</p>
+<ul>
+<li>[1] <a href="http://packages.gentoo.org/new/">Most Recently Introduced Packages</a></li>
+</ul>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/46.gentoos-policy-on-important-updates.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Küchen-Mac</title>
+		<link>https://m.tacker.org/44.kuchen-mac.html</link>
+		<comments>https://m.tacker.org/44.kuchen-mac.html#comments</comments>
+		<pubDate>Sat, 22 Oct 2005 13:44:20 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Wohnen]]></category>
+		<category><![CDATA[Gentoo]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/44.kuchen-mac.html</guid>
+		<description><![CDATA[Für Online-Rezepte halt.]]></description>
+				<content:encoded><![CDATA[<p><a href="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/04/DSCF0004.JPG" rel="lightbox[mac]" title="K&uuml;chen-Mac II"><img src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/04/DSCF0004.thumbnail.JPG" id="image293" alt="K&uuml;chen-Mac II" /></a> <a href="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/04/DSCF0002.JPG" rel="lightbox[mac]" title="K&uuml;chen-Mac I"><img src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2006/04/DSCF0002.thumbnail.JPG" id="image292" alt="K&uuml;chen-Mac I" /></a></p>
+<p>Der K&uuml;chen-Mac ist jetzt fertig. Auf dem alten iMac DV SE (G3 mit 500 MHz) l&auml;uft Gentoo Linux. Und er macht sich gut in der K&uuml;che.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/44.kuchen-mac.html/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>PECL DBDO-alpha Installation on Gentoo</title>
+		<link>https://m.tacker.org/34.pecl-dbdo-alpha-installation-on-gentoo.html</link>
+		<comments>https://m.tacker.org/34.pecl-dbdo-alpha-installation-on-gentoo.html#respond</comments>
+		<pubDate>Fri, 24 Jun 2005 09:05:35 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[English]]></category>
+		<category><![CDATA[Gentoo]]></category>
+		<category><![CDATA[PHP]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=34</guid>
+		<description><![CDATA[This is a small guide on how to install DBDO on Gentoo.]]></description>
+				<content:encoded><![CDATA[<p>Update:<br />
+Installing libgda now has less dependencies. So you just do a<br />
+<code>$ emerge gnome-extra/libgda</code><br />
+<code>$ pecl install dbdo-alpha</code><br />
+and you&#8217;re done.</p>
+<p>Outdated:<br />
+Finally there seems now way around emerging libgda with all its dependencies [1].<br />
+<code>$ emerge gnome-extra/libgda</code></p>
+<p>To build libgda from source we need<br />
+<code>$ emerge dev-util/gtk-doc gnome-base/gnome-common</code></p>
+<p>After that get libgda from Gnome CVS [2].<br />
+<code>$ export CVSROOT=:pserver:anonymous@anoncvs.gnome.org:/cvs/gnome<br />
+$ cvs login<br />
+$ [enter]<br />
+$ cvs -z3 co libgda<br />
+$ cd libgda<br />
+$ ./autogen.sh && make && make install<br />
+</code></p>
+<p>Finally we will build DBDO-alpha [3]<br />
+<code>$ pear install DBDO-alpha</code><br />
+Add the extension to /etc/php/*-php5/php.ini.<br />
+Done.</p>
+<ul>
+<li>[1] <a href="http://forums.gentoo.org/viewtopic-t-330768-highlight-.html">Post at Gentoo Forum</a></li>
+<li>[2] <a href="http://cvs.gnome.org/viewcvs/libgda/">cvs.gnome.org</a></li>
+<li>[3] <a href="http://www.akbkhome.com/wiki.php/DBDO/index.html">akbkhome.com</a></li>
+</ul>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/34.pecl-dbdo-alpha-installation-on-gentoo.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>HOWTO Copy a Gentoo Installation</title>
+		<link>https://m.tacker.org/24.howto-copy-a-gentoo-installation.html</link>
+		<comments>https://m.tacker.org/24.howto-copy-a-gentoo-installation.html#respond</comments>
+		<pubDate>Fri, 01 Apr 2005 08:01:40 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[Gentoo]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/24.howto-copy-a-gentoo-installation.html</guid>
+		<description><![CDATA[im Gentoo Wiki]]></description>
+				<content:encoded><![CDATA[<p>Vor kurzem habe ich ein kleines HOWTO [1] im Gentoo-Wiki [2] verfasst, welches erläutert wie man schnell eine Kopie einer Gentoo-Installation anlegen kann.</p>
+<ul>
+<li>[1] <a href="http://gentoo-wiki.com/HOWTO_Copy_a_Gentoo_Server_or_Workstation">HOWTO_Copy_a_Gentoo_Server_or_Workstation</a></li>
+<li>[2] <a href="http://gentoo-wiki.com/">gentoo-wiki.com</a></li>
+</ul>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/24.howto-copy-a-gentoo-installation.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

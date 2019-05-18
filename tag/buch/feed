@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>Buch &#8211; [|] m.tacker.org</title>
+	<atom:link href="https://m.tacker.org/tag/buch/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Tue, 12 Jan 2016 11:45:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>Feuchtgebiete</title>
+		<link>https://m.tacker.org/927.feuchtgebiete.html</link>
+		<comments>https://m.tacker.org/927.feuchtgebiete.html#comments</comments>
+		<pubDate>Tue, 18 Mar 2008 19:09:07 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[Foto]]></category>
+		<category><![CDATA[Buch]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/927.feuchtgebiete.html</guid>
+		<description><![CDATA[Gestern waren wir bei Charlotte Roche im Mousonturm.]]></description>
+				<content:encoded><![CDATA[<p><img src='https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/fotos/550/DSC_0893.NEF.jpg' alt='Feuchtgebiete' class='full' />Gestern waren wir bei <a href="http://www.charlotteroche.de/">Charlotte Roche</a> im <a href="http://www.mousonturm.de/">Mousonturm</a>. Vorgelesen hat sie aus ihrem Buch «<a href="http://www.amazon.de/gp/redirect.html?ie=UTF8&#038;location=http%3A%2F%2Fwww.amazon.de%2FFeuchtgebiete-Charlotte-Roche%2Fdp%2F3832180575&#038;site-redirect=de&#038;tag=mtaor-21&#038;linkCode=ur2&#038;camp=1638&#038;creative=6742">Feuchtgebiete</a><img src="http://www.assoc-amazon.de/e/ir?t=mtaor-21&amp;l=ur2&amp;o=3" width="1" height="1" alt="" style="border:none !important; margin:0px !important;" />» und das in einer extrem charmanten und liebenswerten Art. Sie bringt die Texte so locker und entspannt rüber, dass sie überhaupt nicht so eklig und vulgär klingen, wie man sie beim selbst-lesen empfindet. Von daher ist die <a href="http://www.amazon.de/gp/redirect.html?ie=UTF8&#038;location=http%3A%2F%2Fwww.amazon.de%2FFeuchtgebiete-5-Audio-CDs-Charlotte-Roche%2Fdp%2F3866048726%2F&#038;site-redirect=de&#038;tag=mtaor-21&#038;linkCode=ur2&#038;camp=1638&#038;creative=6742">Audio-CD</a><img src="http://www.assoc-amazon.de/e/ir?t=mtaor-21&amp;l=ur2&amp;o=3" width="1" height="1" alt="" style="border:none !important; margin:0px !important;" /> evtl. keine verkehrte Anschaffung, auch </p>
+<blockquote><p>weil man da beide Hände frei hat, nicht wie mit dem Buch, nur eine</p></blockquote>
+<p>In der anschließenden Fragerunde konnte das Publikum ziemlich lange und viele Fragen stellen. Unter anderem wurde auch die Frage beantwortet, warum es dieses Buch gibt &#8230; Produkte zur Verbesserung der vaginalen Hygiene.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/927.feuchtgebiete.html/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:georss="http://www.georss.org/georss" 
+	>
+<channel>
+	<title>Comments on: Zeitkapsel 2010–40</title>
+	<atom:link href="https://m.tacker.org/2618.zeitkapsel-2010%e2%80%9340.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org/2618.zeitkapsel-2010%e2%80%9340.html</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Mon, 23 Nov 2015 21:43:02 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: Die Zeitkapsel-Blogparade &#124; Andreas W. Ditze</title>
+		<link>https://m.tacker.org/2618.zeitkapsel-2010%e2%80%9340.html/comment-page-1#comment-46503</link>
+		<dc:creator><![CDATA[Die Zeitkapsel-Blogparade &#124; Andreas W. Ditze]]></dc:creator>
+		<pubDate>Sun, 19 Oct 2014 11:13:47 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=2618#comment-46503</guid>
+		<description><![CDATA[[...] Zeitkapsel zum Geburtstag verbuddelt &#8211; unter 160kg Beton [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Zeitkapsel zum Geburtstag verbuddelt &#8211; unter 160kg Beton [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: choise</title>
+		<link>https://m.tacker.org/2618.zeitkapsel-2010%e2%80%9340.html/comment-page-1#comment-37953</link>
+		<dc:creator><![CDATA[choise]]></dc:creator>
+		<pubDate>Tue, 14 Sep 2010 13:40:58 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/?p=2618#comment-37953</guid>
+		<description><![CDATA[wow, tolle idee!]]></description>
+		<content:encoded><![CDATA[<p>wow, tolle idee!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

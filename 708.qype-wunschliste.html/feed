@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:georss="http://www.georss.org/georss" 
+	>
+<channel>
+	<title>Comments on: Qype-Wunschliste</title>
+	<atom:link href="https://m.tacker.org/708.qype-wunschliste.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org/708.qype-wunschliste.html</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Mon, 23 Nov 2015 21:43:02 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>By: telakin</title>
+		<link>https://m.tacker.org/708.qype-wunschliste.html/comment-page-1#comment-11692</link>
+		<dc:creator><![CDATA[telakin]]></dc:creator>
+		<pubDate>Thu, 26 Apr 2007 09:22:41 +0000</pubDate>
+		<guid isPermaLink="false">https://m.tacker.org/708.qype-wunschliste.html#comment-11692</guid>
+		<description><![CDATA[Siehe auch meine 15 Punkte auf http://urlsnip.com/361653 inkl. der Kommentare von Stephan Uhrenbacher. 
+
+:)]]></description>
+		<content:encoded><![CDATA[<p>Siehe auch meine 15 Punkte auf <a href="http://urlsnip.com/361653" rel="nofollow">http://urlsnip.com/361653</a> inkl. der Kommentare von Stephan Uhrenbacher. </p>
+<p><img src="https://m.tacker.org/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

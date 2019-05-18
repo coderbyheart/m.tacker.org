@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>dotHIV &#8211; [|] m.tacker.org</title>
+	<atom:link href="https://m.tacker.org/tag/dothiv/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Tue, 12 Jan 2016 11:45:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>Ich bin wieder Angesteller</title>
+		<link>https://m.tacker.org/3281.ich-bin-wieder-angesteller.html</link>
+		<comments>https://m.tacker.org/3281.ich-bin-wieder-angesteller.html#comments</comments>
+		<pubDate>Sat, 29 Mar 2014 16:58:11 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Allgemeines]]></category>
+		<category><![CDATA[Arbeit]]></category>
+		<category><![CDATA[dotHIV]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=3281</guid>
+		<description><![CDATA[Ab 1. April 2014 übernehme ich die Rolle des CTO bei dotHIV.]]></description>
+				<content:encoded><![CDATA[<p><a href="http://dotHIV.org/"><img class="" alt=".hiv domains – The Red Ribbon of the digital age" src="https://s3.eu-central-1.amazonaws.com/m.tacker.org-blog/uploads/2014/03/Case_dotHIV_02.png" width="100%" /></a></p>
+<p>Sieben Jahre ist es her, seit ich meinen letzten Arbeitsvertrag unterschrieben habe (im Juli 2007 bei <a href="https://m.tacker.org/tag/krawall">Krawall</a>). Nach meinem Studium, <a href="https://m.tacker.org/3180.re-erststudium-mit-29-dank-aufstiegsstipendium.html">das ich 2012 abgeschlossen habe</a>, habe ich 2013 als selbständiger Software-Entwickler gearbeitet. Und es lief richtig gut. Im Vergleich zu meiner Zeit als Angestellter bis 2009 verdiene ich gut das Doppelte, und habe dabei eine Vier-Tage-Woche. Ausreichend Zeit um mich mit Nebenprojekten, wie den <a href="http://wemoof.de/">Webmontag Offenbach</a>, den <a href="http://gründerhub.de/">Gründerhub FrankfurtRheinMain</a>, das <a href="http://barcamp-rheinmain.de/">BarCamp Rhein-Main</a>, <a href="http://usergroups.rheinmainrocks.de/">Usergroups</a> und <a href="http://www.agoodbook.de/">anderen</a>  <a href="http://wakeupscreen.com/">Kleinigkeiten</a> zu beschäftigen. Ich bin gut etabliert in der Szene, in der Branche und kann mir meine Projekte aussuchen: Seit Anfang des Jahres ist die <a href="http://www.esl.eu/de/">ESL</a> mein Auftraggeber gewesen, für ein Innovationsprojekt auf der grünen Wiese – faktisch das für mich beste Projekt, an dem ich bisher mitarbeiten durfte.</p>
+<p>All das gebe ich zum 1. April auf und verlagere meine Arbeitskraft¹ nach <strong>Berlin</strong>. Genau der Ort, gegen den ich mit meinem Engagement für den Gründerhub fast zwei Jahre gearbeitet habe. <em>Doch es ist für einen guten Zweck…</em><br />
+(<small>¹ Mein <em>Arbeitsplatz</em> ist übrigens weiterhin in <a href="http://die-zentrale-ffm.de/">der Zentrale</a>.</small>)</p>
+<p>Ich bin sehr stolz, dass ich ab 1. April 2014 bei <a href="http://dotHIV.org/">dotHIV</a> die Rolle des CTO übernehmen darf.<br />
+<a href="http://vimeo.com/86494290">Dieses Video erklärt, <em>was</em> dotHIV ist</a> und damit ist auch klar, warum mich das Thema so fasziniert: ein nerdiges Thema (DNS) wird für einen richtig guten Zweck (Kampf gegen HIV/AIDS) eingesetzt; was will man als Software-Entwickler mehr? </p>
+<p>Genau. </p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/3281.ich-bin-wieder-angesteller.html/feed</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

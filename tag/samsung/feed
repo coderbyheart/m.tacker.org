@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" >
+
+<channel>
+	<title>samsung &#8211; [|] m.tacker.org</title>
+	<atom:link href="https://m.tacker.org/tag/samsung/feed" rel="self" type="application/rss+xml" />
+	<link>https://m.tacker.org</link>
+	<description>Aus meinem Alltag.</description>
+	<lastBuildDate>Tue, 12 Jan 2016 11:45:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<item>
+		<title>Samsung N510 &#8211; Defektes Scharnier nach 19 Monaten</title>
+		<link>https://m.tacker.org/2858.samsung-n510-defektes-scharnier-nach-19-monaten.html</link>
+		<comments>https://m.tacker.org/2858.samsung-n510-defektes-scharnier-nach-19-monaten.html#respond</comments>
+		<pubDate>Sun, 03 Apr 2011 19:01:52 +0000</pubDate>
+		<dc:creator><![CDATA[Markus Tacker]]></dc:creator>
+				<category><![CDATA[Technik]]></category>
+		<category><![CDATA[n510]]></category>
+		<category><![CDATA[samsung]]></category>
+
+		<guid isPermaLink="false">https://m.tacker.org/?p=2858</guid>
+		<description><![CDATA[Nach 19 Monaten ist mein Samsung N510 defekt: Das linke Scharnier ist anscheinend im Inneren abgebrochen und beim Öffnen bildet sich ein hässlicher Spalt, der auch beim Zuklappen bestehen bleibt. Mal sehen, wie der Support von Samsung reagiert &#8212; das Problem scheint beim N510 häufig auf zu treten. Update 19. April 2011 Nach 4 Tagen [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Nach 19 Monaten ist mein Samsung N510 defekt: Das linke Scharnier ist anscheinend im Inneren abgebrochen und beim Öffnen bildet sich ein hässlicher Spalt, der auch beim Zuklappen bestehen bleibt.</p>
+<p>Mal sehen, wie der Support von Samsung reagiert &mdash; <a href="http://www.google.de/search?q=n510+hinge">das Problem scheint beim N510 häufig auf zu treten</a>.</p>
+<h3 class="textimage">Update 19. April 2011</h3>
+<p>Nach 4 Tagen ist das Netbook wieder da und gründlich repariert. Das Scharnier funktioniert wieder einwandfrei &mdash; sogar die Oberschale wurde ausgetauscht.</p>]]></content:encoded>
+			<wfw:commentRss>https://m.tacker.org/2858.samsung-n510-defektes-scharnier-nach-19-monaten.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
